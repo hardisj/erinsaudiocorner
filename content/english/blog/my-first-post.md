@@ -4,5 +4,4 @@ date: 2020-01-25T15:07:35-06:00
 draft: false
 ---
 
-Hello there.
-I can work excel and matlab like a madman but can't work atom
+Hello friends.  It'll be a bit before this site is up and running.  In the meantime, feel free to follow my status via Facebook at: https://www.facebook.com/groups/607627396679113/?ref=group_header
