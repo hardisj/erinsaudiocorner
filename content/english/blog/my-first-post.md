@@ -4,4 +4,6 @@ date: 2020-01-25T15:07:35-06:00
 draft: false
 ---
 
-Hello friends.  It'll be a bit before this site is up and running.  In the meantime, feel free to follow my status via Facebook at: https://www.facebook.com/groups/607627396679113/?ref=group_header
+It'll be a bit before this site is up and running.
+
+In the meantime, use the Facebook & YouTube links below to follow along.
