@@ -1,7 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://erinsaudiocorner.com/"
-languageCode = "en-us"
-title = "Erin's Audio Corner"
+baseURL = "https://examplesite.com"
+title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -47,19 +46,41 @@ link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "Blog"
-URL = "blog"
+name = "About Us"
+URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "About Me"
-URL = "about"
+name = "Service"
+URL = "services"
 weight = 2
+
+[[menu.main]]
+name = "Portfolio"
+URL = "portfolio"
+weight = 3
+
+[[menu.main]]
+name = "Team"
+URL = "team"
+weight = 4
+
+[[menu.main]]
+name = "Pricing"
+URL = "pricing"
+weight = 5
+
+[[menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 6
 
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 3
+weight = 7
+
+
 
 ############################# Default Parameters ##########################
 [params]
@@ -68,7 +89,7 @@ logo = "images/logo.png"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 author = "Themefisher"
 # Google Analitycs
-google_analitycs_id = "UA-156925516-1" # Your ID
+google_analitycs_id = "" # Your ID
 # post share
 post_share = true
 
@@ -91,8 +112,25 @@ icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "#"
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
 
 ################################ English Language ########################
 [Languages.en]
@@ -101,3 +139,11 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
+
+################################ France Language ########################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+home = "Accueil"
