@@ -63,7 +63,7 @@ weight = 3
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "images/YT_logo.jpg"
 # Meta data
 description = "A little sound for your science"
 author = "Themefisher"
@@ -75,7 +75,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/YT_logo.jpg"
 
 # google map
 [params.map]
