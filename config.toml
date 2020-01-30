@@ -63,7 +63,7 @@ weight = 3
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/EAC_small_transparent_logo.png"  # banner logo (at top/bottom)
+logo = "images/eac_square.png"  # banner logo (at top/bottom)
 # Meta data
 description = "A little sound for your science"
 author = "Themefisher"
