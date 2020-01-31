@@ -47,8 +47,8 @@ link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "Blog"
-URL = "blog"
+name = "Drive Units"
+URL = "Drive Units"
 weight = 1
 
 [[menu.main]]
