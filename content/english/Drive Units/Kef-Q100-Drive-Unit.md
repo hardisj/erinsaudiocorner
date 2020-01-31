@@ -16,15 +16,15 @@ On to the testing…
 
 
 Up first, obligatory pictures:
-```
-![kefq100 pic 1](images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg)
-```
 
-![kefq100 pic 2](images/Reviews/Drivers/Kef/Q100_Driver/IMG_5289.jpg)
 
-![kefq100 pic 3](images/Reviews/Drivers/Kef/Q100_Driver/IMG_5290.jpg)
+![kefq100 pic 1](/static/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg)
 
-![kefq100 pic 4](images/Reviews/Drivers/Kef/Q100_Driver/IMG_5291.jpg)
+![kefq100 pic 2](/static/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5289.jpg)
+
+![kefq100 pic 3](/static/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5290.jpg)
+
+![kefq100 pic 4](/static/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5291.jpg)
 
 
 This driver is quite the little beast.  A very large motor and pretty substantial surround make this one of the largest 5.25″ drivers I’ve personally seen.  Although I didn’t weigh it, it is fairly heavy due to the woofer’s ferrite magnet as opposed to neodymium.  This results in large and heavy.  I can’t exactly measure the voice coil but comparing it to the tweeter assembly, it appears to be a few mm larger in radius so I’d estimate VC diameter at roughly 55mm.  It is best to rear mount this driver given the very tall surround at approximately 12mm, but for the purpose of my test I front mounted it.
