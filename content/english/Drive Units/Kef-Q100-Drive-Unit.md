@@ -16,8 +16,9 @@ On to the testing…
 
 
 Up first, obligatory pictures:
-
+```
 ![kefq100 pic 1](images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg)
+```
 
 ![kefq100 pic 2](images/Reviews/Drivers/Kef/Q100_Driver/IMG_5289.jpg)
 
