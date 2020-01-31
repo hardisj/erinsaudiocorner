@@ -2,7 +2,7 @@
 title: "Kef Q100 Speaker Drive Unit Testing"
 date: 2020-01-25T15:07:35-06:00
 draft: false
-image_webp: images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg
+image_webp: images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.webp
 image: images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg
 description : "Kef Q100"
 ---
