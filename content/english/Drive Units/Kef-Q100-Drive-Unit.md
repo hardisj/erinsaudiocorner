@@ -37,18 +37,6 @@ For those who want to read about the Tangerine waveguide, [click this link (PDF 
 
 First off, given this isn’t sold as an individual driver, I have taken my own measurements.  These are rough measurements taken with my not-so-recently calibrated calipers, but should be good within +/-1mm.
 
-|                                       Dimension                                       |  mm  |
-|:-------------------------------------------------------------------------------------:|:----:|
-|                                     Outer Diameter                                    |  143 |
-|                                   Mounting Diameter                                   |  120 |
-|                                     Mounting Depth                                    |  83  |
-|                               Effective Piston Diameter*                              |  109 |
-|                              Effective Piston Diameter**                              |  60  |
-|                                    Flange Thickness                                   | 0.34 |
-|                                 Mounting Tab Thickness                                | 0.65 |
-| *Half surround to half surround; including space consumed by coincident tweeter.      |      |
-| **Half surround to half surround; NOT including space consumed by coincident tweeter. |      |
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:5px 0px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
