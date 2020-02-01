@@ -37,54 +37,66 @@ For those who want to read about the Tangerine waveguide, [click this link (PDF 
 
 First off, given this isn’t sold as an individual driver, I have taken my own measurements.  These are rough measurements taken with my not-so-recently calibrated calipers, but should be good within +/-1mm.
 
+|                                       Dimension                                       |  mm  |
+|:-------------------------------------------------------------------------------------:|:----:|
+|                                     Outer Diameter                                    |  143 |
+|                                   Mounting Diameter                                   |  120 |
+|                                     Mounting Depth                                    |  83  |
+|                               Effective Piston Diameter*                              |  109 |
+|                              Effective Piston Diameter**                              |  60  |
+|                                    Flange Thickness                                   | 0.34 |
+|                                 Mounting Tab Thickness                                | 0.65 |
+| *Half surround to half surround; including space consumed by coincident tweeter.      |      |
+| **Half surround to half surround; NOT including space consumed by coincident tweeter. |      |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:5px 0px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:5px 0px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-.tg .tg-cf9o{background-color:#f9f9f9;font-weight:bold;font-size:14px;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-x0tg{background-color:#f9f9f9;font-weight:bold;font-size:14px;border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-ofbo{font-weight:bold;font-size:14px;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-s4vg{font-weight:bold;text-decoration:underline;font-size:14px;font-family:Arial, Helvetica, sans-serif !important;;background-color:#9b9b9b;color:#333333;border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-x4sh{font-weight:bold;text-decoration:underline;font-size:14px;background-color:#9b9b9b;color:#333333;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-18ri{font-weight:bold;font-size:14px;font-family:Arial, Helvetica, sans-serif !important;;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-abip{background-color:#f9f9f9;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-s4vg">Dimension</th>
-    <th class="tg-x4sh">mm</th>
+    <th class="tg-c3ow">Dimension</th>
+    <th class="tg-c3ow">mm</th>
   </tr>
   <tr>
-    <td class="tg-ofbo">Outer Diameter</td>
-    <td class="tg-cf9o">143</td>
+    <td class="tg-c3ow">Outer Diameter</td>
+    <td class="tg-abip">143</td>
   </tr>
   <tr>
-    <td class="tg-ofbo">Mounting Diameter</td>
-    <td class="tg-cf9o">120</td>
+    <td class="tg-c3ow">Mounting Diameter</td>
+    <td class="tg-abip">120</td>
   </tr>
   <tr>
-    <td class="tg-ofbo">Mounting Depth</td>
-    <td class="tg-cf9o">83</td>
+    <td class="tg-c3ow">Mounting Depth</td>
+    <td class="tg-abip">83</td>
   </tr>
   <tr>
-    <td class="tg-ofbo">Effective Piston Diameter*</td>
-    <td class="tg-cf9o">109</td>
+    <td class="tg-c3ow">Effective Piston Diameter*</td>
+    <td class="tg-abip">109</td>
   </tr>
   <tr>
-    <td class="tg-ofbo">Effective Piston Diameter**</td>
-    <td class="tg-cf9o">60</td>
+    <td class="tg-c3ow">Effective Piston Diameter**</td>
+    <td class="tg-abip">60</td>
   </tr>
   <tr>
-    <td class="tg-ofbo">Flange Thickness</td>
-    <td class="tg-cf9o">0.34</td>
+    <td class="tg-c3ow">Flange Thickness</td>
+    <td class="tg-abip">0.34</td>
   </tr>
   <tr>
-    <td class="tg-ofbo">Mounting Tab Thickness</td>
-    <td class="tg-x0tg">0.65</td>
+    <td class="tg-c3ow">Mounting Tab Thickness</td>
+    <td class="tg-abip">0.65</td>
   </tr>
   <tr>
-    <td class="tg-18ri" colspan="2">*Half surround to half surround; including space consumed by coincident tweeter.</td>
+    <td class="tg-0pky">*Half surround to half surround; including space consumed by coincident tweeter.</td>
+    <td class="tg-btxf"></td>
   </tr>
   <tr>
-    <td class="tg-18ri" colspan="2">**Half surround to half surround; NOT including space consumed by coincident tweeter.</td>
+    <td class="tg-0pky">**Half surround to half surround; NOT including space consumed by coincident tweeter.</td>
+    <td class="tg-btxf"></td>
   </tr>
 </table>
