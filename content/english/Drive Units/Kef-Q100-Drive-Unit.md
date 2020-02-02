@@ -1,6 +1,6 @@
 ---
 title: "Kef Q100 Speaker Drive Unit Testing"
-date: 2020-01-25T15:07:35-06:00
+date: 2013-01-13
 draft: false
 image_webp: images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.webp
 image: images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg
@@ -497,10 +497,12 @@ Note: The SPL level is not absolute here.  I performed the test at the same volu
 <br></br>
 <br></br>
 
-If you like what you see here and what to help me out,
-there’s a Paypal Contribute button at the bottom of each page.  Every little bit does help.
-<br></br>
-Thanks!
+If you like what you see here and want to help me keep it going or help me buy my wife some flowers so she doesn't beat me for spending all my time in the garage,
+there’s a Paypal Contribute button at the bottom of each page.  Thanks!
+
+![john_candy_ha](https://66.media.tumblr.com/42cea48d4c1e08498d509c685ab77a54/tumblr_o99hfoHe0C1qfr6udo1_500.gif)
+
+
 
 <br></br>
 <center>
