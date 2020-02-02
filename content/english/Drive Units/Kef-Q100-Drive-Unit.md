@@ -8,13 +8,11 @@ description : "Kef Q100"
 Tags: ["Kef", "Q100", "Tangerine", "waveguide"]
 ---
 
-## <center> **Kef Q100 Speaker Drive Unit Testing** </center>
-<br></br>
 
 As with the [Kef HTS3001SE I tested](), I ordered a set of the Kef Q100 Bookshelf speakers in order to remove and review the raw Q100 driver itself.  I really wanted to see how this coaxial design performed.  Zaph had already tested this one but I wanted to do Klippel LSI testing on it to see how the suspension performed.  He actually mentioned this in his writeup and I thought it would be cool to provide the results.  Of course, since I had it on the test baffle I did some other standard measurements as well.  The one I was interested in, but didn’t perform on the HTS3001SE driver was tweeter frequency response performance with movement of the woofer.  I don’t necessarily have an easy way to test this so I did something a bit different: I used a 9v battery to statically ‘fix’ the woofer either in the coil out or coil in position and measured the response.  I then compared this to the woofer at rest performance of the tweeter and did a direct comparison.  This is discussed further below.
 
 Let's get on to the testing, but first ... the obligatory pictures ...
-
+<center>
 
 ![kefq100 pic 1](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg)
 
@@ -23,6 +21,7 @@ Let's get on to the testing, but first ... the obligatory pictures ...
 ![kefq100 pic 3](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5290.jpg)
 
 ![kefq100 pic 4](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5291.jpg)
+</center>
 
 <br></br>
 This driver is quite the little beast. A very large motor and pretty substantial surround make this one of the largest 5.25″ drivers I’ve personally seen.  Although I didn’t weigh it, it is fairly heavy due to the woofer’s ferrite magnet as opposed to neodymium.  This results in large and heavy.  I can’t exactly measure the voice coil but comparing it to the tweeter assembly, it appears to be a few mm larger in radius so I’d estimate VC diameter at roughly 55mm.  It is best to rear mount this driver given the very tall surround at approximately 12mm, but for the purpose of my test I front mounted it.
@@ -104,6 +103,7 @@ Note:  When determining the full suite of T/S parameters, the effective diameter
 
 <br></br>
 <center>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aabcfe;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:5px 0px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#669;background-color:#e8edff;}
@@ -278,42 +278,42 @@ Note:  When determining the full suite of T/S parameters, the effective diameter
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#aabcfe;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#669;background-color:#e8edff;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#039;background-color:#b9c9fe;}
-.tg .tg-f8tx{color:#000000;text-align:center;vertical-align:top}
-.tg .tg-u8rp{font-weight:bold;color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-x028{font-weight:bold;background-color:#000000;color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-u8rp" colspan="4">Woofer Large Signal Analysis with Klippel’s LSI Module</th>
+    <th class="tg-x028" colspan="4">Woofer Large Signal Analysis with Klippel’s LSI Module</th>
   </tr>
   <tr>
-    <td class="tg-f8tx">Displacement Limits</td>
-    <td class="tg-f8tx"></td>
-    <td class="tg-f8tx"></td>
-    <td class="tg-f8tx">thresholds can be changed in Processing property page</td>
+    <td class="tg-wp8o">Displacement Limits</td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o"></td>
+    <td class="tg-wp8o">thresholds can be changed in Processing property page</td>
   </tr>
   <tr>
-    <td class="tg-f8tx">X Bl @ Bl min=82%</td>
-    <td class="tg-f8tx">&gt;4.2</td>
-    <td class="tg-f8tx">mm</td>
-    <td class="tg-f8tx">Displacement limit due to force factor variation</td>
+    <td class="tg-wp8o">X Bl @ Bl min=82%</td>
+    <td class="tg-wp8o">&gt;4.2</td>
+    <td class="tg-wp8o">mm</td>
+    <td class="tg-wp8o">Displacement limit due to force factor variation</td>
   </tr>
   <tr>
-    <td class="tg-f8tx">X C @ C min=75%</td>
-    <td class="tg-f8tx">1.9</td>
-    <td class="tg-f8tx">mm</td>
-    <td class="tg-f8tx">Displacement limit due to compliance variation</td>
+    <td class="tg-wp8o">X C @ C min=75%</td>
+    <td class="tg-wp8o">1.9</td>
+    <td class="tg-wp8o">mm</td>
+    <td class="tg-wp8o">Displacement limit due to compliance variation</td>
   </tr>
   <tr>
-    <td class="tg-f8tx">X L @ Z max=10 %</td>
-    <td class="tg-f8tx">2.8</td>
-    <td class="tg-f8tx">mm</td>
-    <td class="tg-f8tx">Displacement limit due to inductance variation</td>
+    <td class="tg-wp8o">X L @ Z max=10 %</td>
+    <td class="tg-wp8o">2.8</td>
+    <td class="tg-wp8o">mm</td>
+    <td class="tg-wp8o">Displacement limit due to inductance variation</td>
   </tr>
   <tr>
-    <td class="tg-f8tx">X d @ d2=10%</td>
-    <td class="tg-f8tx">17.1</td>
-    <td class="tg-f8tx">mm</td>
-    <td class="tg-f8tx">Displacement limit due to IM distortion (Doppler)</td>
+    <td class="tg-wp8o">X d @ d2=10%</td>
+    <td class="tg-wp8o">17.1</td>
+    <td class="tg-wp8o">mm</td>
+    <td class="tg-wp8o">Displacement limit due to IM distortion (Doppler)</td>
   </tr>
 </table>
 
@@ -334,17 +334,13 @@ Note:  When determining the full suite of T/S parameters, the effective diameter
 ##### **Woofer Frequency Response** #####
 </center>
 Measured at 2.83v/1m.  Stitched with a nearfield measurement at approximately 500hz.
-<br></br>
 
 <center>
 
 ![kefq100 FR03060WOOFER](/images/Reviews/Drivers/Kef/Q100_Driver/Kef-Q100-Drive-Unit-Woofer-0-30-60.png)
 
 <br></br>
-
 ##### **Woofer Harmonic Distortion** #####
-
-<br></br>
 
 ![kefq100 FRHDWOOFER](/images/Reviews/Drivers/Kef/Q100_Driver/kef-q100-woofer-FR-HD-96dB.png)
 
@@ -445,16 +441,16 @@ Measured at 2.83v/1m.  Stitched with a nearfield measurement at approximately 50
 
 <br></br>
 #####  **Tweeter Frequency Response**
-<br></br>
+
 ![kefq100 FRTWEETER](/images/Reviews/Drivers/Kef/Q100_Driver/Kef-Q100-Drive-Unit-Tweeter-Only-0-30-60.png)
 <br></br>
 #####  **Tweeter Harmonic Distortion**
 ![kefq100 FRHDTWEETER](/images/Reviews/Drivers/Kef/Q100_Driver/Kef-Q100-Tweeter-FR-HD-96dB.png)
 <br></br>
 <br></br>
+
 #####  **Tweeter Response vs Woofer Position**
 </center>
-<br></br>
 I thought it would be interesting to see how the position of the woofer cone impacts the frequency response of the tweeter.  This matters when you’re listening to music and isn’t captured by a standard sine sweep.  To measure this performance I simply connected a 9v battery to the woofer’s terminals in positive polarity, then negative polarity which resulted in an approximate +/-3mm shift in cone direction.  I ran a sine sweep over the tweeter while the woofer was a) at rest, b) fixed out, and c) fixed in.  The pictures below show illustrate this.
 <br></br>
 Woofer at rest:
