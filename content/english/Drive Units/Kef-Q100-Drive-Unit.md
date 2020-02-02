@@ -14,6 +14,7 @@ Let's get on to the testing, but first ... the obligatory pictures ...
 
 <img src="/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg">
 
+
 ![kefq100 pic 2](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5289.jpg)
 
 ![kefq100 pic 3](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5290.jpg)

@@ -8,14 +8,18 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 img {
-  display: block;
+  width: 100%;
+  height: auto;
   margin-left: auto;
   margin-right: auto;
 }
 </style>
+</head>
+
 
 html {
   background-color: #353b43;
@@ -25,7 +29,7 @@ html {
 body {
   background-color: #353b43;
   font-family: "Anaheim", sans-serif;
-  color: #FFFFFF;
+  color: white;
   -webkit-font-smoothing: antialiased;
 }
 
