@@ -42,7 +42,8 @@ h6 {
   font-weight: 600;
   font-family: "Quattrocento Sans", sans-serif;
   /*color: #afbac4;*/
-  text-decoration: underline; 
+  text-decoration: underline;
+  text-align: center;
   color: white;
 }
 
@@ -2333,7 +2334,7 @@ div.post-single-content table {
 }
 
 div.post-single-content td{font-family:Arial, sans-serif;font-size:14px;padding:5px 0px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#669;background-color:#e8edff;}
- 
+
 div.post-single-content table thead th{
     font-family:Arial, sans-serif;
     font-size:14px;
