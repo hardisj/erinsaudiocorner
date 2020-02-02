@@ -7,6 +7,15 @@ image: images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg
 description : "Kef Q100"
 Tags: ["Kef", "Q100", "Tangerine", "waveguide"]
 ---
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+img {
+  width: 100%;
+  height: auto;
+}
+</style>
+</head>
 <style>
 body { color: white; }
 h1 { text-decoration: underline; color: white; }
@@ -15,6 +24,7 @@ h3 { text-decoration: underline; color: white; }
 h4 { text-decoration: underline; color: white; }
 h5 { text-decoration: underline; color: white; }
 </style>
+
 
 As with the [Kef HTS3001SE I tested](), I ordered a set of the Kef Q100 Bookshelf speakers in order to remove and review the raw Q100 driver itself.  I really wanted to see how this coaxial design performed.  Zaph had already tested this one but I wanted to do Klippel LSI testing on it to see how the suspension performed.  He actually mentioned this in his writeup and I thought it would be cool to provide the results.  Of course, since I had it on the test baffle I did some other standard measurements as well.  The one I was interested in, but didn’t perform on the HTS3001SE driver was tweeter frequency response performance with movement of the woofer.  I don’t necessarily have an easy way to test this so I did something a bit different: I used a 9v battery to statically ‘fix’ the woofer either in the coil out or coil in position and measured the response.  I then compared this to the woofer at rest performance of the tweeter and did a direct comparison.  This is discussed further below.
 
