@@ -73,6 +73,8 @@ author = "Themefisher"
 google_analitycs_id = "UA-156925516-1" # Your ID
 # post share
 post_share = true
+# themecss
+## customCSS = [ "custom.css" ]
 
 # preloader
 [params.preloader]

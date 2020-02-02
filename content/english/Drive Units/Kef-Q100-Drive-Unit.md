@@ -11,7 +11,8 @@ As with the [Kef HTS3001SE I tested](), I ordered a set of the Kef Q100 Bookshel
 
 Let's get on to the testing, but first ... the obligatory pictures ...
 
-![kefq100 pic 1](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg)
+
+<img src="/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg">
 
 ![kefq100 pic 2](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5289.jpg)
 
@@ -268,6 +269,7 @@ Note:  When determining the full suite of T/S parameters, the effective diameter
   </tr>
   </tbody>
 </table>
+</center>
 
 <br></br>
 
@@ -314,6 +316,7 @@ Note:  When determining the full suite of T/S parameters, the effective diameter
   </tr>
   </tbody>
 </table>
+</center>
 
 <br></br>
 ![kefq100 bl](/images/Reviews/Drivers/Kef/Q100_Driver/q100-bl.png)
@@ -332,7 +335,6 @@ Note:  When determining the full suite of T/S parameters, the effective diameter
 ##### Woofer Frequency Response
 Measured at 2.83v/1m.  Stitched with a nearfield measurement at approximately 500hz.
 
-
 ![kefq100 FR03060WOOFER](/images/Reviews/Drivers/Kef/Q100_Driver/Kef-Q100-Drive-Unit-Woofer-0-30-60.png)
 
 <br></br>
@@ -344,6 +346,7 @@ Measured at 2.83v/1m.  Stitched with a nearfield measurement at approximately 50
 #### Part II: Tweeter Testing
 ##### Small Signal Parameters
 
+<center>
 <br></br>
 <table>
   <tr>
@@ -425,6 +428,7 @@ Measured at 2.83v/1m.  Stitched with a nearfield measurement at approximately 50
     <td>total Q-factor considering Re and Rms only</td>
   </tr>
 </table>
+</center>
 
 <br></br>
 ##### Tweeter Frequency Response
@@ -447,7 +451,6 @@ Woofer fixed out:
 ![kefq100 woofout](/images/Reviews/Drivers/Kef/Q100_Driver/Q100-Woofer-Out.jpg)
 
 
-
 Woofer fixed in:
 <br></br>
 ![kefq100 woofin](/images/Reviews/Drivers/Kef/Q100_Driver/Q100-Woofer-In.jpg)
@@ -458,7 +461,6 @@ Note: The SPL level is not absolute here.  I performed the test at the same volu
 ![kefq100 disptweeter](/images/Reviews/Drivers/Kef/Q100_Driver/Kef-Q100-Drive-Unit-Woofer-Displacement-on-Tweeter-Response-Example.png)
 
 ### End
-
 
 If you like what you see here and want to help me keep it going or help me buy my wife some flowers so she doesn't beat me for spending all my time in the garage,
 there’s a Paypal Contribute button at the bottom of each page.  Thanks!
