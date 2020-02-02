@@ -11,6 +11,8 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+[markup.goldmark.renderer]
+unsafe= true
 
 ############################# Plugins ##########################
 # css plugins
@@ -63,7 +65,7 @@ weight = 3
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/eac_square.png"  # banner logo (at top/bottom)
+logo = "images/eac_square_sm.png"  # banner logo (at top/bottom)
 # Meta data
 description = "A little sound for your science"
 author = "Themefisher"
@@ -93,6 +95,7 @@ link = "https://www.facebook.com/groups/607627396679113/?ref=group_header"
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/user/hardisj/featured"
+
 
 ################################ English Language ########################
 [Languages.en]
