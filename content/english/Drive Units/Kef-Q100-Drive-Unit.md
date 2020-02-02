@@ -11,13 +11,13 @@ As with the [Kef HTS3001SE I tested](), I ordered a set of the Kef Q100 Bookshel
 
 Let's get on to the testing, but first ... the obligatory pictures ...
 
-![kefq100 pic 1](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg)
+![kefq100](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg)
 
-![kefq100 pic 2](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5289.jpg)
+![kefq100](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5289.jpg)
 
-![kefq100 pic 3](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5290.jpg)
+![kefq100](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5290.jpg)
 
-![kefq100 pic 4](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5291.jpg)
+![kefq100](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5291.jpg)
 
 This driver is quite the little beast. A very large motor and pretty substantial surround make this one of the largest 5.25″ drivers I’ve personally seen.  Although I didn’t weigh it, it is fairly heavy due to the woofer’s ferrite magnet as opposed to neodymium.  This results in large and heavy.  I can’t exactly measure the voice coil but comparing it to the tweeter assembly, it appears to be a few mm larger in radius so I’d estimate VC diameter at roughly 55mm.  It is best to rear mount this driver given the very tall surround at approximately 12mm, but for the purpose of my test I front mounted it.
 
@@ -25,11 +25,13 @@ If you look at the ‘Tangerine’ waveguide/lens/whatever you want to call it, 
 
 For those who want to read about the Tangerine waveguide, [click this link (PDF format)](http://forum.vegalab.ru/attachment.php?attachmentid=86280&d=1274426702).  There’s also discussion on the radial ribbing of the other Uni-Q cones, which this driver doesn’t employ.
 
+
 | header 1| header 2 | header 3 | header 4 |
 |-------|------|-------|------|
 | 131   | nffg |       | adg5 |
 | dfd   | 456  |       |      |
 | poop      | head     |  blah     | boo  |
+
 
 <br></br>
 #### Raw Driver Physical Measurements
@@ -453,6 +455,7 @@ Woofer at rest:
 ![kefq100 woofrest](/images/Reviews/Drivers/Kef/Q100_Driver/Q100-Woofer-At-Rest.jpg)
 
 Woofer fixed out:
+
 ![kefq100 woofout](/images/Reviews/Drivers/Kef/Q100_Driver/Q100-Woofer-Out.jpg)
 
 

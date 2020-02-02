@@ -8,19 +8,6 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-img {
-  width: 100%;
-  height: auto;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-</head>
-
-
 html {
   background-color: #353b43;
   color: #737f8a;
@@ -48,6 +35,8 @@ h6 {
 }
 
 div.post-single-content p img {
+  width: 100%;
+  max-width: 730px;
   display: block;
   margin-left: auto;
   margin-right: auto;
