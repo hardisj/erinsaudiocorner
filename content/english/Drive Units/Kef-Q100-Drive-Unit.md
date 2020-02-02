@@ -11,9 +11,7 @@ As with the [Kef HTS3001SE I tested](), I ordered a set of the Kef Q100 Bookshel
 
 Let's get on to the testing, but first ... the obligatory pictures ...
 
-
-<img src="/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg">
-
+![kefq100 pic 1](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5288.jpg)
 
 ![kefq100 pic 2](/images/Reviews/Drivers/Kef/Q100_Driver/IMG_5289.jpg)
 
