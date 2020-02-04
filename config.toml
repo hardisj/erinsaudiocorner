@@ -54,15 +54,19 @@ URL = "Drive Units"
 weight = 1
 
 [[menu.main]]
+name = "Loudspeakers"
+URL = "loudspeakers"
+weight = 2
+
+[[menu.main]]
 name = "About Me"
 URL = "about"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 3
-
+weight = 4
 ############################# Default Parameters ##########################
 [params]
 logo = "images/eac_square_sm.png"  # banner logo (at top/bottom)
@@ -91,7 +95,7 @@ map_marker = "images/marker.png"
 
 ############################# social icons ##########################
 [[params.social]]
-logo = "images/facebook_icon.png" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.facebook.com/groups/607627396679113/?ref=group_header"
 
 [[params.social]]

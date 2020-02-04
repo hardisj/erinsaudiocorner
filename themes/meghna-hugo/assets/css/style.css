@@ -78,7 +78,7 @@ figure {
 }
 
 a {
-  color: #fff;
+  color: #f71af9;  /*hyperlink, link color */
   transition: all .3s ease-in 0s;
 }
 
@@ -1006,7 +1006,7 @@ a:hover {
 }
 
 .service-2 .service-item:hover i {
-  background: #fff;
+  background: #1c2bf9;
   color: #57cbcc;
 }
 
@@ -2084,8 +2084,8 @@ figcaption {
 /* Solid icons get a fill */
 .resp-sharing-button__icon--solid,
 .resp-sharing-button__icon--solidcircle {
-  stroke: #fff;
-  fill: none
+  fill: #fff;
+  stroke: none
 }
 
 .resp-sharing-button--twitter {

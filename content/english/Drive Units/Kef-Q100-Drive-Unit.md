@@ -325,8 +325,6 @@ Note:  When determining the full suite of T/S parameters, the effective diameter
 <br></br>
 ![kefq100 bl-sym](/images/Reviews/Drivers/Kef/Q100_Driver/q100-bl-symmetry.png)
 <br></br>
-![kefq100 bl](/images/Reviews/Drivers/Kef/Q100_Driver/q100-bl.png)
-<br></br>
 ![kefq100 kms-sym](/images/Reviews/Drivers/Kef/Q100_Driver/q100-kms-symmetry.png)
 <br></br>
 ![kefq100 indx](/images/Reviews/Drivers/Kef/Q100_Driver/q100-le.png)
@@ -443,7 +441,7 @@ Measured at 2.83v/1m.  Stitched with a nearfield measurement at approximately 50
 <br></br>
 
 ##### Tweeter Response vs Woofer Position
-I thought it would be interesting to see how the position of the woofer cone impacts the frequency response of the tweeter.  This matters when you’re listening to music and isn’t captured by a standard sine sweep.  To measure this performance I simply connected a 9v battery to the woofer’s terminals in positive polarity, then negative polarity which resulted in an approximate +/-3mm shift in cone direction.  I ran a sine sweep over the tweeter while the woofer was a) at rest, b) fixed out, and c) fixed in.  The pictures below show illustrate this.
+I thought it would be interesting to see how the position of the woofer cone impacts the frequency response of the tweeter.  This matters when you’re listening to music and isn’t captured by a standard sine sweep.  To measure this performance I simply connected a 9v battery to the woofer’s terminals in positive polarity, then negative polarity which resulted in an approximate +/-3mm shift in cone direction.  I ran a sine sweep over the tweeter while the woofer was a) at rest, b) fixed out, and c) fixed in.  The pictures below illustrate these different configurations.
 <br></br>
 Woofer at rest:
 
@@ -465,8 +463,9 @@ Note: The SPL level is not absolute here.  I performed the test at the same volu
 
 ### End
 
-If you like what you see here and want to help me keep it going or help me buy my wife some flowers so she doesn't beat me for spending all my time in the garage,
-there’s a Paypal Contribute button at the bottom of each page.  Thanks!
+If you like what you see here and want to help me keep it going, there’s a Paypal Contribute button at the bottom of each page.  Just provide what you can.  Every little bit is truly appreciated.
+
+<br>Thanks!</b>
 
 ![john_candy_ha](https://66.media.tumblr.com/42cea48d4c1e08498d509c685ab77a54/tumblr_o99hfoHe0C1qfr6udo1_500.gif)
 
