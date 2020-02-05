@@ -24,7 +24,7 @@ Let's get on to the testing, but first ... the obligatory pictures ...
 ![kefLS50](/images/Reviews/Drivers/Kef/LS50_Driver/IMG_8505.jpg)
 
 
-Recaling from memory, this driver physically is roughly the same size as the Q100 drive unit I tested previously in all aspects.
+Recalling from memory, this driver physically is roughly the same size as the Q100 drive unit I tested previously in all aspects.
 
 <br></br>
 #### Test Results
