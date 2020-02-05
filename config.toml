@@ -67,6 +67,7 @@ weight = 3
 name = "Contact"
 URL = "contact"
 weight = 4
+
 ############################# Default Parameters ##########################
 [params]
 logo = "images/eac_square_sm.png"  # banner logo (at top/bottom)
