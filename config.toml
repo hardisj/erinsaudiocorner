@@ -50,7 +50,7 @@ link = "plugins/google-map/map.js"
 ############################# Navigation ##################################
 [[menu.main]]
 name = "Drive Units"
-URL = "Drive Units"
+URL = "driveunits"
 weight = 1
 
 [[menu.main]]
@@ -60,7 +60,7 @@ weight = 2
 
 [[menu.main]]
 name = "Electronics"
-URL = "Electronics"
+URL = "electronics"
 weight = 3
 
 [[menu.main]]
