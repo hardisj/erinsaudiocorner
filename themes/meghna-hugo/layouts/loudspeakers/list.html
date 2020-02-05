@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{"<!-- Start Blog Section -->" | safeHTML}}
+<section id="blog" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {{"<!-- section title -->" | safeHTML}}
+        <div class="title text-center wow fadeInDown">
+          <h2>Loudspeakers</h2>
+          <div class="border-meghna"></div>
+        </div>
+      </div>
+      {{"<!-- /section title -->" | safeHTML}}
+      {{ $paginator := .Paginate .Data.Pages }}
+      {{ range $paginator.Pages }}
+      <div class="">
+        <div class="">
+          <strong><a style="font-size: 1.3em" href="{{ .Permalink }}">{{ .Title }}</a></strong>
+          <p>{{ .Summary }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{"<!-- /blog -->" | safeHTML}}
+
+{{ end }}
