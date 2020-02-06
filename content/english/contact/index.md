@@ -1,8 +1,7 @@
 ---
-image: "https://media.giphy.com/media/izVmsl3y7DE4M/giphy.gif"
+title: "Contact Me"
 ---
 <center>
-
 
 [Click here to email me](mailto:hardisj@gmail.com?subject=ErinsAudioCorner_Question)
 
