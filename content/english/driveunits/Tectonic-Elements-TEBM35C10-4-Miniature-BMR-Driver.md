@@ -33,7 +33,6 @@ Now, when I wrote this review this driver was not yet available so I contacted t
 Tectonic TEBM35C10-4 BMR 2&quot; Full-Range Speaker 4 Ohm</a><img src="https://www.ftjcfx.com/image-7732025-13715689" width="1" height="1" border="0"/>
 
 Size wise, these are small.  Here’s a few quick dimensions:
-
 * Outer Diameter = 52mm (54mm counting the mounting tabs)
 * Mounting Depth = 23mm (surface mounted), 25.1 (flush mounted)
 

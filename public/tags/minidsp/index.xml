@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>miniDSP on Erin&#39;s Audio Corner</title>
+    <link>https://erinsaudiocorner.com/tags/minidsp/</link>
+    <description>Recent content in miniDSP on Erin&#39;s Audio Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erinsaudiocorner.com/tags/minidsp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MiniDSP C-DSP 8x12 with Dirac Live Review</title>
+      <link>https://erinsaudiocorner.com/electronics/minidsp_cdsp_8x12_with_diraclive/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/electronics/minidsp_cdsp_8x12_with_diraclive/</guid>
+      <description>Foreword: While this review is intended to provide insight in to the use and subjective opinion of the end result of the MiniDSP with Dirac Live, it is not intended to be a full tutorial on how to tune with Dirac Live.</description>
+    </item>
+    
+  </channel>
+</rss>

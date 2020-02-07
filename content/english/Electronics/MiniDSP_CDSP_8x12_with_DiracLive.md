@@ -140,7 +140,11 @@ The end result with DL for me is: The imaging and focus is excellent. Especially
 
 Based on my experience with this combo thus far, I believe for a newcomer this combination of the MiniDSP + Dirac Live is a definite recommendation. Heck, forget newcomers… I have years of experience and the combination provided me with a tune that comes close to my own in less than 15 minutes. Even though it's not quite perfect, I am legitimately impressed with the results of DL in my car. It doesn't completely outdo my own manual tune with hours and hours of time spent but it gives it a run for it's money, no doubt. I'd have no problem recommending this but with the caveat that if you feed Dirac Live something it can't fix like an hole in the response or a poorly designed enclosure then you may not be as pleased. All of the components work to create the whole; if you have issues with the system before DSP then you can expect to have those after DSP. However, if you have taken the time to build and install the components in an optimal manner (as optimal as it can be in car audio) and take the time to pre-configure the speaker driver's responses and interaction before DL I am confident you will be very, very happy with what Dirac Live can do. And while I can't say with 100% certainty the MiniDSP + DL combo will be the end-all solution for everyone, I can say that I think it's certainly worth giving it a shot.
 
+<br>
 
+### Edit: 02/06/2020
+I am continually asked about this review: “should I get this or the Helix (enter DSP model here)?”
+I expected I would. But I purposely left out a comparison in my review simply because you’re comparing apples and oranges to a large degree. On its own the miniDSP CDSP 8x12 has less features than the Helix models. The miniDSP also costs less. However, as I state in the review, my focus is on the combination of the CDSP+Dirac Live. In that regard, you’re essentially comparing two different products: a manual tuning product (Helix, etc) vs a mostly-automated tuning product (Dirac). If your question is “which one should I buy”, then I’ll answer you with a question: “How good a tuner are you?” If you fancy your own prowess in tuning then manually controlling everything may be better for you. If you don’t, I think the miniDSP is a great product and absolutely worth consideration.
 
 <br></br>
 
