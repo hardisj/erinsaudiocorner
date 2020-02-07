@@ -98,9 +98,9 @@ This driver has an incredible bandwidth for it’s size.  This driver literally 
 
 Naturally people will compare this to the AuraSound 2″ driver (aka: the “whisper”).  While the whisper has approximately 4dB higher sensitivity on average, this driver has a lower Fs, low THD, and an excellent polar response.  I don’t believe the whisper can cover the same bandwidth as well as this particular Tectonic Elements driver can.
 
-Price wise, we will have to wait and see.  Since this driver hasn’t been released yet there’s no definite way to know what the retail price will be.  However, based on their other products sold in the US by Parts-Express, I’d expect pricing to be somewhere in the $15-20 range.  If that holds true,
+At their current retail price of about $9/each, they're worth trying out if are even remotely interested. My biggest hangup with them is the very low sensitivity but if that's not an issue for your specific needs, it's hard to not recommend them when used with a reasonable high-pass filter.  They'd also make some neat "project" speakers (something like a personal bluetooth boombox or some other DIY-type project).
 
-This seems like a nice candidate for an array to gain some extra SPL.
+This also seems like a nice candidate for an array to gain some extra SPL.
 
 <br>
 
