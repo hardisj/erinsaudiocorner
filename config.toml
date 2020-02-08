@@ -82,7 +82,7 @@ weight = 6
 [params]
 logo = "images/eac_square_sm.png"  # banner logo (at top/bottom)
 # Meta data
-description = "A little sound for your science"
+description = "The Sound of Science"
 author = "Themefisher"
 # Google Analitycs
 google_analitycs_id = "UA-156925516-1" # Your ID
