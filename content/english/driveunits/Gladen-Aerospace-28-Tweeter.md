@@ -74,7 +74,7 @@ Bottom line: very impressive.  I honestly have no idea how much these cost but t
 
 ## Additional Information
 
-As mentioned in the opening paragraph, I also tested the 20mm version of this tweeter here as well.  Here is a comparison picture.
+I also tested the 20mm version of this tweeter [here](https://www.erinsaudiocorner.com/driveunits/gladen-aerospace-20-tweeter/) as well.  Here is a comparison picture.
 
 ![HD96](/images/Reviews/Drivers/Gladen/Aerospace_28mm/IMG_2257.jpg)
 
