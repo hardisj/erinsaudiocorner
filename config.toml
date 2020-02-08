@@ -4,7 +4,7 @@ languageCode = "en-us"
 title = "Erin's Audio Corner"
 theme = "meghna-hugo"
 # post pagination
-paginate = "6"
+paginate = "1000"
 # post excerpt
 summaryLength = "15"
 # disqus short name
