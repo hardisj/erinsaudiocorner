@@ -78,6 +78,8 @@ Bottom line:  Really nice polar response.  Good use down to 2khz with a steep cr
 
 Or if you just like what you see here and want to help me keep it going, there’s a Paypal Contribute button at the bottom of each page.  Just provide what you can.  Every little bit is truly appreciated.
 
+You can also join my Facebook and YouTube pages via the links at the bottom of the page if you'd like to follow along with updates.
+
 <br>Thanks!</b>
 
 ![](https://media1.tenor.com/images/59709f6499ad33a0fbf7817cd37a3f2d/tenor.gif?itemid=16076895)

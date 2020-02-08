@@ -101,6 +101,9 @@ Bottom Line:  These are some really nice results from a very small driver, which
 
 If you like what you see here and want to help me keep it going, there’s a Paypal Contribute button at the bottom of each page.  Just provide what you can.  Every little bit is truly appreciated.
 
+You can also join my Facebook and YouTube pages via the links at the bottom of the page if you'd like to follow along with updates.
+
+
 <br>Thanks!</b>
 
 ![stitchfrog](https://media1.tenor.com/images/7157151ec5f062830f6e5a3f3db9ee0a/tenor.gif?itemid=14273802)

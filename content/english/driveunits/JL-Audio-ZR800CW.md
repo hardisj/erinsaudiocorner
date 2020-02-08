@@ -86,6 +86,8 @@ Bottom line: As a dedicated midbass - in a 3-way type system or a 2-way using a 
 
 If you like what you see here and want to help me keep it going, there’s a Paypal Contribute button at the bottom of each page.  Just provide what you can.  Every little bit is truly appreciated.
 
+You can also join my Facebook and YouTube pages via the links at the bottom of the page if you'd like to follow along with updates.
+
 <br>Thanks!</b>
 
 ![](https://media.giphy.com/media/Y418mApQbIKGc/giphy.gif)

@@ -96,6 +96,9 @@ At 102dB output, distortion reaches 3% THD below ~120hz.  Distortion dips below 
 
 Or if you just like what you see here and want to help me keep it going, there’s a Paypal Contribute button at the bottom of each page.  Just provide what you can.  Every little bit is truly appreciated.
 
+You can also join my Facebook and YouTube pages via the links at the bottom of the page if you'd like to follow along with updates.
+
+
 <br>Thanks!</b>
 
 ![](https://media0.giphy.com/media/v8xmVfox6XOq4/source.gif)

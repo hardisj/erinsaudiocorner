@@ -303,12 +303,15 @@ When used properly, this kind of feature can do a lot to improve the clarity of 
 
 All in all, a very solid product with focus on not only quality but, most importantly, providing the user with the ability to tailor the sound to what works best for them.  Given this, I have no problem recommending this to someone looking for an all-in-one subwoofer solution for their home.
 
+
 <br>
 <br>
 
 ## End
 
 If you like what you see here and want to help me keep it going, there’s a Paypal Contribute button at the bottom of each page.  Just provide what you can.  Every little bit is truly appreciated.
+
+You can also join my Facebook and YouTube pages via the links at the bottom of the page if you'd like to follow along with updates.
 
 <br>Thanks!</br>
 

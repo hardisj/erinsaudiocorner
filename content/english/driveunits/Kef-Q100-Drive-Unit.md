@@ -465,6 +465,8 @@ Note: The SPL level is not absolute here.  I performed the test at the same volu
 
 If you like what you see here and want to help me keep it going, there’s a Paypal Contribute button at the bottom of each page.  Just provide what you can.  Every little bit is truly appreciated.
 
+You can also join my Facebook and YouTube pages via the links at the bottom of the page if you'd like to follow along with updates.
+
 <br>Thanks!</b>
 
 ![john_candy_ha](https://66.media.tumblr.com/42cea48d4c1e08498d509c685ab77a54/tumblr_o99hfoHe0C1qfr6udo1_500.gif)
