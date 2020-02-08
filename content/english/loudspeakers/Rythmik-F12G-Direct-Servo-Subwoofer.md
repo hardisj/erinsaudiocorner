@@ -1,6 +1,6 @@
 ---
 title: "Rythmik Audio F12G Direct Servo Subwoofer In-Depth Review"
-date: 2015-02-27
+date: 2015-04-27
 draft: false
 image: /images/Reviews/Loudspeakers/Rythmik_F12_Servo/1_IMG_6353.JPG
 description : "Rythmik Audio F12G Direct Servo Subwoofer In-Depth Review"
