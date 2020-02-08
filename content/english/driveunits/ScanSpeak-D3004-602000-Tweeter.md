@@ -53,7 +53,7 @@ The Fs is measured at approximately 737hz.  To get an idea of what this means on
 
 Measured sensitivity is right around 86.5dB.  On-axis, there’s about a 5dB dip centered around 14khz.  At 30 degrees off-axis, the response is down approximately 4.5dB at 10khz.  At 60 degrees off-axis, the response is down approximately 9.5dB at 10khz.  The trough in response from 1.5khz to 5khz is made to appear worse thanks to the high Qts on the low end and the rising response above 3.5khz.  There’s a 7dB swing from 2khz to 8khz thanks to the upward rising response on-axis.
 
-Bottom line: Okay response linearity with great distortion values.  Great polar response with very low distortion above 1.3khz.  This would make a good option for a tweeter in a 2-way system where there is a need to cross low to mate with a larger woofer.  The response linearity may cause you some headaches here but with DSP and the sensitivity of this tweeter, you have some ‘headroom’ to scaled down the rising response to help smooth it out, if needed.
+Bottom line: Fair linearity in response on and off-axis.  The high-Q peak on the very low end would not really impact most people's use because it's far below a typical 2500hz crossover point I'd expect people to stay above.  Some EQ could smooth out the response but that's not always ideal.  The shining star here is the very low distortion above 1.3khz.  This would make a good option for a tweeter in a 2-way system where there is a need to cross low to mate with a larger woofer.  The response linearity may cause you some headaches here but with DSP and the sensitivity of this tweeter, you have some ‘headroom’ to scaled down the rising response to help smooth it out, if needed.
 
 ## Comparison Against the Gladen 28mm
 
