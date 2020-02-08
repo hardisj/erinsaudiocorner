@@ -16,7 +16,7 @@ Tags: ["Rythmik", "Subwoofer", "F12G", "Servo", "Klippel"]
 
 Rather than discuss only the performance of the enclosed subwoofer, I want to present some more, detailed information that not even some manufacturers are able to obtain. I will be using my own Klippel Distortion Analyzer and software modules to extract raw subwoofer driver data so we can assess the raw driver performance. This is telling because, simply put, if you start with garbage you will never achieve anything better than garbage. It's always nice to know what is at the base of a system and this can help determine potential pitfalls in design and use.
 
-I will still assess the performance of the powered subwoofer system, providing objective data as so many of our good reviewers here do along with some real world use of the subwoofer's features.
+I will still assess the performance of the powered subwoofer system, providing objective data along with some real world use of the subwoofer's features.
 
 Now, let's get started!
 
