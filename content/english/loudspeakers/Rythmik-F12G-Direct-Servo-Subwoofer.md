@@ -106,6 +106,7 @@ The following are the Thiele-Small parameters I measured using the [Klippel LPM]
 ![](/images/Reviews/Loudspeakers/Rythmik_F12_Servo/1_Magnitude_of_electric_impedance_Z_f_.png)
 
 <br>
+
 As you can see above, the Fs is low at 20.8 Hz. Qts and Vas ultimately net you a Qtc (in-box Qt) of 0.70 in an enclosure size of 1 cubic foot (not accounting for displacements of driver and bracing). That's pretty respectable on its own. Decreasing enclosure size allows a bit more output in the 80hz region, however, that results in a loss of lower end output. This is where the amplifier's damping adjustment options will help; you can smooth out the impedance bump caused by an undersized enclosure (often noted as box resonance) and extend the low end. This information is covered in further detail in the subsequent posts.
 
 <br>
@@ -114,7 +115,7 @@ As you can see above, the Fs is low at 20.8 Hz. Qts and Vas ultimately net you a
 
 #### Large Signal Analysis:
 
-The following is an inside peek in to the inner workings of a speaker driver. The Klippel LSI parameter is used to provide Linear One-Way Xmax: maximal excursion within some distortion threshold. In the case of subwoofers, the distortion threshold is 20% total harmonic distortion (THD) which is becoming the standard for acceptable subwoofer distortion thresholds¹. The data below provide engineers the ability to better understand how their product is performing in order to make adjustments to the design and improve performance and/or maximize the cost to performance ratio. It is worth mentioning that no driver is perfect and while some curves may look great, I've found the real engineers are making compromises where it makes sense.
+The following is an inside peek in to the inner workings of a speaker driver. The [Klippel LSI](https://www.klippel.de/products/rd-system/modules/lsi-large-signal-identification-da2.html) module is used to provide Linear One-Way Xmax: maximal excursion within some distortion threshold. In the case of subwoofers, the distortion threshold is 20% total harmonic distortion (THD) which is becoming the standard for acceptable subwoofer distortion thresholds¹. The data below provide engineers the ability to better understand how their product is performing in order to make adjustments to the design and improve performance and/or maximize the cost to performance ratio. It is worth mentioning that no driver is perfect and while some curves may look great, I've found the real engineers are making compromises where it makes sense.
 
 Linear excursion is typically comprised of three main aspects: 1) motor force over excursion (Bl(x)), 2) suspension over excursion (Km(x)), and 3) inductance over excursion (Le(x)). These parameters play in to the previously mentioned 20% THD threshold. The least of which is used to determine the driver's linear performance for specification purposes.
 
@@ -153,6 +154,8 @@ Footnotes:
 <br>
 
 #### Frequency Response and associated Harmonic Distortion:
+
+All Frequency Response, Harmonic Distortion and Cummulative Decary Spectrum (CSD, aka: "waterfall") plots generated using [Klippel's TRF module](https://www.klippel.de/products/rd-system/modules/trf-transfer-function-measurement.html).
 
 The following is a measurement of the SW-12-04 driver in the nearfield with SPL normalized to the 1 meter position. I measured the driver with an input of 2.83v and then with 20v input to illustrate how the distortion changes with higher output.
 
