@@ -61,6 +61,7 @@ This subwoofer does come in a piano black finish for only $111 more.*
 ![](/images/Reviews/Loudspeakers/Rythmik_F12_Servo/1_IMG_6373.JPG)
 
 <br>
+<br>
 
 ## SW-12-04 Subwoofer Raw Driver Test Results:
 
@@ -108,6 +109,8 @@ The following are the Thiele-Small parameters I measured using the [Klippel LPM]
 As you can see above, the Fs is low at 20.8 Hz. Qts and Vas ultimately net you a Qtc (in-box Qt) of 0.70 in an enclosure size of 1 cubic foot (not accounting for displacements of driver and bracing). That's pretty respectable on its own. Decreasing enclosure size allows a bit more output in the 80hz region, however, that results in a loss of lower end output. This is where the amplifier's damping adjustment options will help; you can smooth out the impedance bump caused by an undersized enclosure (often noted as box resonance) and extend the low end. This information is covered in further detail in the subsequent posts.
 
 <br>
+<br>
+
 
 #### Large Signal Analysis:
 
@@ -167,6 +170,8 @@ One thing that is a nice added touch is the felt material on the underside of th
 
 Overall, the Harmonic Distortion components at 2.83v/1m are really low. The red PHD line is a representation of perceived harmonic distortion. You'll note this is very, very low. With 20v input, putting the mean SPL from 20 to 300hz at about 98dB, THD climbs to about 3% THD at 60hz. However, this is mostly comprised of 2nd order distortion while 3rd order distortion is below 1.5%. Whether or not this is an audible factor seems to be of hot debate. The key here is the relationship between 2nd and 3rd order and that they're well separated, indicating no serious flaws in the driver.
 
+<br>
+<br>
 <br>
 
 ## F12G Subwoofer Testing
@@ -245,6 +250,7 @@ I lost my calibration sheet for my accelerometer so the level at which the accel
 ![](/images/Reviews/Loudspeakers/Rythmik_F12_Servo/1_Accelerometer_on_side_CSD_2.png)
 
 <br>
+<br>
 
 ## In-Room Use
 
@@ -281,6 +287,7 @@ The ringing was decreased by roughly 50ms which helped to clear up the bloat occ
 When used properly, this kind of feature can do a lot to improve the clarity of your sound system.
 
 <br>
+<br>
 
 ## Wrap-Up/Final thoughts
 
@@ -296,6 +303,7 @@ When used properly, this kind of feature can do a lot to improve the clarity of 
 
 All in all, a very solid product with focus on not only quality but, most importantly, providing the user with the ability to tailor the sound to what works best for them.  Given this, I have no problem recommending this to someone looking for an all-in-one subwoofer solution for their home.
 
+<br>
 <br>
 
 ## End
