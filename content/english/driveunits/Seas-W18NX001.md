@@ -6,6 +6,7 @@ image: images/Reviews/Drivers/Seas/W18nx-001/w18nx-001.jpg
 description : "Seas W18NX-001"
 Tags: ["Seas", "W18NX", "Nextel","midwoofer"]
 ---
+
 Up for test is a [Seas W18NX-001](https://www.madisoundspeakerstore.com/seas-woofers-6-7/seas-excel-w18nx-001-e0042-nextel-cone-7-woofer/).  This is another driver that will be party of Jerry Niebur’s Midwoofer Subjective Shootout next month.
 
 As always, please see my Test Setup and Methods page regarding test criterion.
