@@ -1,113 +1,95 @@
 ---
-title: "Audiofrog GB25 2.5 inch Midrange"
-date: 2015-06-24
+title: "ScanSpeak Illuminator 12MU/4731T-00"
+date: 2012-10-22
 draft: false
-image: images/Reviews/Drivers/Audiofrog/GB25/IMG_2217.jpg
-description : "Audiofrog GB25"
-Tags: ["Audiofrog", "Andy", "Wehmeyer", "GB25", "midrange", "car audio"]
+image: https://www.madisoundspeakerstore.com/images/products/preview/12mu_4731t.jpg
+description : "Scan Speak Illuminator 12MU/4731T-00"
+Tags: ["ScanSpeak", "Illuminator", "12mu"]
 ---
+Up for test is the [Scanspeak Illuminator 12MU/4731T-00 4.5" Midrange - 4 ohm](https://www.madisoundspeakerstore.com/approx-4-midrange/scanspeak-illuminator-12mu/4731t-00-4.5-midrange-4-ohm/).
 
-Up for test is AudioFrog’s GB25 2.5 inch Midrange.  Pictures don’t do justice to the smallness of these drivers but here they are anyway…
+Note: For a while I didn't have the means to measure frequency response accurately.  Rather than do it halfway I decided it best to not attempt it.  So this is one of the reviews I completed at that time and thus there is no FR/HD data.
 
-<br></br>
-![GB25](/images/Reviews/Drivers/Audiofrog/GB25/IMG_3095.jpg)
-<br></br>
-![GB25](/images/Reviews/Drivers/Audiofrog/GB25/IMG_3096.jpg)
-<br></br>
-![GB25](/images/Reviews/Drivers/Audiofrog/GB25/IMG_3097.jpg)
+Below is the data obtained from Klippel (LSI only) testing of the Scan Speak Illuminator 12mu in 4 ohm version.  This 4.5″ midrange driver has the goods to deliver hefty bass for a nearfield, compact system or excellent midrange as part of a farfield speaker due to it’s excellent linear stroke (at 5.1mm one-way).  The use of shorting rings here help to lower IMD driven distortion (higher frequency distortion caused by pushing the driver to higher excursion levels).  To date, this is the best midrange driver I have tested and lives up to the Scan Speak name.
 
 
-<br></br>
+For Frequency Response measurements, please visit [ZaphAudio.com](http://www.zaphaudio.com/blog.html) and scroll down to Sept 22, 2011.
 
-## Small Signal Parameters
+<br>
 
-<br></br>
+## Thiele-Small Parameters
 
-Results as measured via Dayton’s DATs measurement tool.
-
-* f(s)= 162.80 Hz
-* R(e)= 2.36 Ohms
-* Z(max)= 18.39 Ohms
-* Q(ms)= 6.010
-* Q(es)= 0.885
-* Q(ts)= 0.771
-* V(as)= 0.225 liters (0.008 cubic feet)
-* L(e)= 0.34 mH
-* n(0)= 0.10 %
-* SPL= 82.29 1W/1m
-* M(ms)= 3.63 grams
-* C(ms)= 0.26 mm/N
-* BL= 3.15
-
-![GB25_impedance](/images/Reviews/Drivers/Audiofrog/GB25/gb25-impedance.png)
-
- <br></br>
+| Re   | 3.2947   | ohms        |
+|------|----------|-------------|
+| Fs   | 74.3     | Hz          |
+| Qes  | 0.3906   |             |
+| Qms  | 6.2385   |             |
+| Qts  | 0.3676   |             |
+| Zmax | 55.9197  | ohms        |
+| Le   | 0.1052   | mH (@ 1khz) |
+| Vas  | 3.9555   | L           |
+| Sd   | 5857.538 | mm^2        |
+| BL   | 4.7691   | N/A         |
+| Cms  | 811.5327 | um/N        |
+| Kms  | 123.2362 | N/m         |
+| Mms  | 5.7625   | g           |
+| Sens | 87.8233  | dB @ 1w/1m  |
 
 
-## Frequency Response
-<br></br>
-Frequency Response and the following Harmonic Distortion measurements were taken using Dayton’s OmniMic measurement system.  For this test, the driver was surface mounted (not flush mounted) on the baffle.  The backside of the driver cutout was chamfered to allow for the driver to ‘breathe’ better, as is often recommended for such small drivers.
+<br>
 
-The frequency response measurements below are on-axis (0 degrees) and off-axis (15, 30, 60 degrees), measured at 2.83v/1m.
-* Black = 0 degrees
-* Red = 15 degrees
-* Blue = 30 degrees
-* Green = 60 degrees
- <br></br>
+## Large Signal Analysis (LSI)
 
-![GB25_FR03060](/images/Reviews/Drivers/Audiofrog/GB25/GB25-0-60-2.png)
+| Displacement Limits   |         |        | thresholds can be changed in Processing property page |
+|-----------------------|---------|--------|-------------------------------------------------------|
+| X Bl @ Bl min=82%     | 6.1     | mm     | Displacement limit due to force factor variation      |
+| X C @ C min=75%       | 5.1     | mm     | Displacement limit due to compliance variation        |
+| X L @ Z max=10 %      | >6.4    | mm     | Displacement limit due to inductance variation        |
+| X d @ d2=10%          | 15.7    | mm     | Displacement limit due to IM distortion (Doppler)     |
+| Asymmetry (IEC 62458) |         |        |                                                       |
+| Ak                    | 10.55   | %      | Stiffness asymmetry Ak(Xpeak)                         |
+| Xsym                  | -0.52   | mm     | Symmetry point of Bl(x) at maximal excursion          |
+| Power Series          |         |        |                                                       |
+| Bl0 = Bl (X=0)        | 4.7976  | N/A    | constant part in force factor                         |
+| L0 = Le (X=0)         | 0.15811 | mH     | constant part in inductance                           |
+| C0 = Cms (X=0)        | 1.3196  | mm/N   | constant part in compliance                           |
+| K1                    | 0.00364 | N/mm^2 | 1st order coefficient in stiffness expansion          |
+| Xpse                  | 8.6     | mm     | =-Xpse < X < Xpse, range where power series is fitted |
 
-<br></br>
+<br>
 
+![](/images/Reviews/Drivers/Scanspeak/12mu/SS12mu-Force-factor-Bl-X.png)
 
+![](/images/Reviews/Drivers/Scanspeak/12mu/ss-12mu-Bl-Symmetry-Range.png)
 
+![](/images/Reviews/Drivers/Scanspeak/12mu/SS-12MU-Mechanical-compliance-Cms-X.png)
 
+![](/images/Reviews/Drivers/Scanspeak/12mu/ss-12mu-Stiffness-of-suspension-Kms-X.png)
 
+![](/images/Reviews/Drivers/Scanspeak/12mu/ss-12mu-Kms-Symmetry-Range.png)
 
+![](/images/Reviews/Drivers/Scanspeak/12mu/ss-12mu-Electrical-inductance-LX-I00.png)
 
-
-
-## Harmonic Distortion
-<br></br>
-The following HD graphs are done in the nearfield, emulating 90dB at 1 meter as well as 96dB and 102dB at 1 meter, respectively.
-
-<br></br>
-![GB25_HD90](/images/Reviews/Drivers/Audiofrog/GB25/gb25-hd90.png)
-
-<br></br>
-![GB25_HD96](/images/Reviews/Drivers/Audiofrog/GB25/gb25-hd96.png)
-
-<br></br>
-![GB25_HD102](/images/Reviews/Drivers/Audiofrog/GB25/gb25-hd102.png)
-
-<br></br>
+<br>
 
 ## Thoughts
-<br></br>
-The impedance sweep results indicate an Fs of 162hz with a Qts of 0.771.  Vas is 0.008 cubic feet.  Pairing the Vas/Qts specs up, it’s seen that this driver has the capability te mounted free-air or in a very small enclosure.  Of course, a high-pass filter makes these points less important, but it is worth noting that if using a sealed enclosure it can be very, very small.
 
-Frequency Response results indicate a very nice on/off-axis response symmetry.  On-axis, the results are very linear up until about 5kHz where beaming (where on/off axis response diverges) begins to increase.  That said, the typical modal issues above the beaming point are kept to a minimum with only a 5dB rise centered around ~8khz.  Compare this to other various drivers and you’ll find often in the case of a poorly damped cone, they will exhibit breakup issues resulting in peaks increasing above 10dB.  Additionally, this driver does a good job at minimizing this breakup off-axis as well.
-
-The 102dB level Harmonic Distortion plot shows 1% THD is reached at ~300hz, whereas at lower levels (90dB) this 1% THD mark is reached at approximately 200hz.  Above these respective values/output levels the THD is typically below 0.50%.  Using a crossover at the recommended 200hz/12dB, the low frequency THD will be mitigated and rendered moot.  One area I like most about these results is regarding the cone breakup, which as noted above is kept incredibly minimal and spread out through a wider band rather than a single large peak.  Typically with a sharp breakup mode you see a correlating increase in 2nd order distortion.  With this particular driver the 5dB breakup mode at ~8khz results in no significant increase in distortion and even at 102dB, the THD at 8khz is nearly 0.30%.
-
-For those looking to use this as a dedicated midrange in an active three-way system, I’d say this driver can easily be crossed in the 250-300hz region for high-output when a crossover and 2nd order or greater slope is used (or, if more moderate output is the norm for you, 200hz would be conceivable but I personally err on the side that likes to limit excursion).  Given my tendencies to want to listen at 95dB+ levels (fullrange) from the seated position, I’d personally expect to run this driver from 300hz – 6/7khz to minimize excursion on the low end while permitting better lining up a tweeter to the top end. Given the off-axis performance compared to the on-axis performance I could see running this higher than this but the crossover in the ‘ideal’ world may prove to be a bit trickier as you get further away from the beaming point and beyond the breakup point.
-
-Bottom Line:  These are some really nice results from a very small driver, which is the important factor to me, personally.  Simply put, these drivers provide a lot of usable bandwidth for a very small footprint.
-
-<br></br>
+Well, as we've come to expect from Scanspeak, this is a very high performing driver.  A 4.5" midrange with Klippel verified >5mm linear excursion.  Other site's FR data show a nice linear response from 200Hz - 3kHz with only a small cone breakup on-axis spread from 5-6kHz.  With this and a sensitivity of about 90dB @ 2.83v/1m spec, this is a very high performing midrange.
 
 
-### End
+<br>
+
+## End
 
 If you like what you see here and want to help me keep it going, there’s a Paypal Contribute button at the bottom of each page.  Just provide what you can.  Every little bit is truly appreciated.
 
 You can also join my Facebook and YouTube pages via the links at the bottom of the page if you'd like to follow along with updates.
 
-
 <br>Thanks!</b>
 
-![stitchfrog](https://media1.tenor.com/images/7157151ec5f062830f6e5a3f3db9ee0a/tenor.gif?itemid=14273802)
+By the way, Ford vs Ferrari was a *fantastic* movie.
 
+![](https://thumbs.gfycat.com/BareThickEstuarinecrocodile-max-1mb.gif)
 
 
 <br></br>
