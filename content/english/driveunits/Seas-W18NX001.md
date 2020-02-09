@@ -1,6 +1,6 @@
 ---
 title: "Seas W18NX-001"
-date: 2013-08-19
+date: 2012-08-19
 draft: false
 image: images/Reviews/Drivers/Seas/W18nx-001/w18nx-001.jpg
 description : "Seas W18NX-001"
