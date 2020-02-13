@@ -127,7 +127,7 @@ The motor force, below, is given over excursion (driver voice coil in through co
 
 Lastly, we consider the effect of inductance on the driver's performance. Below are the results of both the inductance due to excursion (Le(x)) and inductance over current (Le(i)).. As the driver moves, the coil does, too. When current flows through the voice coil, there is a resistance to that flow of current known as inductance. As a driver moves forward and backward, the current in the coil changes. As the coil is closer to the magnet the magnetic field is higher than when the coil is 'out' and away from the magnet. So, you can imagine as the coil moves inward toward the magnet the inductance (or resistance to current) increases and as the coil moves out the inductance decreases. This results in a non-linear inductance performance. This is not desired. So, many manufacturers will put a shorting ring on the motor assembly (placement varies from design to design) in an attempt to cancel the magnetic flux as the coil enters the motor area where inductance is typically high. You can find good info and probably a much better explanation than I've given via Google if you wish.
 
-Below is the result of the inductance as the driver moves through it's excursion and vs current.
+Below is the result of the inductance as the driver moves through its excursion and vs current.
 
 ![Lex](/images/Reviews/Loudspeakers/Rythmik_F12_Servo/1_f12_Electrical_inductance_L_X__I_0_.png)
 
@@ -166,7 +166,7 @@ The following is a measurement of the SW-12-04 driver in the nearfield with SPL 
 
 #### Raw Subwoofer Drive Unit Conclusion:
 
-On its own, this driver performs really well. The low Fs of 20.8Hz, reasonable enclosure size requirements, good linearity, and low distortion with nearly 18mm one-way linear excursion all are attributes that make this a great value at it's current MSRP of $179. I honestly would have no issue at all recommending it. Getting down to brass tacks, what this means is with the F12G Subwoofer, you know you have a great starting point with the SW-12-04 driver.
+On its own, this driver performs really well. The low Fs of 20.8Hz, reasonable enclosure size requirements, good linearity, and low distortion with nearly 18mm one-way linear excursion all are attributes that make this a great value at its current MSRP of $179. I honestly would have no issue at all recommending it. Getting down to brass tacks, what this means is with the F12G Subwoofer, you know you have a great starting point with the SW-12-04 driver.
 
 One thing that is a nice added touch is the felt material on the underside of the cone (shown in the pictures above). This is to minimize any audible tinsel lead slap on the cone. And I can say without a doubt, as I was testing this woofer to very high excursion levels (likely higher than anyone would actually achieve in real use), I never once heard any mechanical noise from the woofer driver.
 
