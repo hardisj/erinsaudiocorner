@@ -121,6 +121,8 @@ A few problematic distortion spikes but given their narrow band I can't say how 
 IMD (intermodulated distortion) should be helped with the use of the inductance limiting shorting ring as evidenced by the symmetrical Le(x) plots.
 Frequenccy response is wrought with a lot of little things that concern me (e.g., multiple ups and downs from 100-1kHz, sharp dip at ~1600hz and the subsequent THD spike there, and the strong differences in on/off-axis response above 10khz (which kind of defeats the purpose of using a fullrange)).
 
+Of course, one could simply use this as a dedicated midrange in a 3-way - maybe 300hz to 4khz - and for the price it might be worth that.  But the low sensitivity still is a limiting factor.
+
 Fundamentally, I'm not a proponent of fullrange or wideband drivers.  I just prefer to use a 3-way than deal with the shortcomings of most fullranges; shortcomings being: low sensitivity, breakup issues outside of beaming that can't be EQ'd or otherwise corrected via DSP.
 But if you have a need for one or want to experiment, this might be worth playing with since it's pretty cheap, though, consider my comments above.
 
