@@ -10,7 +10,7 @@ Tags: ["Fountek", "FR89EX", "Fullrange"]
 
 Another popular choice for fullrange use, the [Fountek FR89EX (PE Affiliate Link here)](https://www.anrdoezrs.net/click-7732025-13715689?url=http%3A%2F%2Fwww.parts-express.com%2Ffountek-fr89ex-3-neodymium-full-range-speaker-driver--296-721&cjsku=296-721) is tested and results provided below.
 
-This is the smaller brother of the FR88EX which I tested [here]().
+This is the smaller brother of the FR88EX which I tested [here](https://www.erinsaudiocorner.com/driveunits/fountek_fr88ex/).
 
 
 
