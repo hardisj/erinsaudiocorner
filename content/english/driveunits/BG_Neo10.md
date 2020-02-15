@@ -130,7 +130,8 @@ I've also been told these are quite fragile and [BG's spec goes as far to warn u
 
 With all of that said in regards to unit-to-unit consistency, I've based the below on the best sample of the 4 which could be overgenerous but I chose to err on the side of caution given the unconfirmed history of each unit before they were sent to me for testing:
 
-The FR rises +10dB from 1khz to 3khz and winds up at +18dB from 1khz to about 8khz. Off-axis response on the horizontal axis looks pretty good with some issues above 5khz. CSD shows ringing around 5-6khz which shows up in every FR measurement as well.
+The FR rises +10dB from 1khz to 3khz and winds up at +18dB from 1khz to about 8khz.  The manufacturer spec also shows the same behavior which backs up my measurements.
+Off-axis response on the horizontal axis looks pretty good with some issues above 5khz. CSD shows ringing around 5-6khz which shows up in every FR measurement as well.
 Vertical off-axis response is non-uniform above 2kHz.  This driver's vertical length is almost 9 inches which would put the beaming frequency starting at around 800hz; this is seemingly backed up by the data where the divergence between on/off-axis response begins around 900Hz.
 
 In regards to the distortion measurements: At about 200hz the delta between the fundamental and THD lines is about 30dB which is equal to about 3% THD.  On the upper end distortion is shown increasing above 2kHz (1% THD) to roughly 2-3% THD from 5-10kHz.
