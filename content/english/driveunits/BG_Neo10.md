@@ -1,5 +1,5 @@
----
 title: "Bohlender Graebener Neo10 Planar Transducer"
+---
 date: 2013-01-18
 draft: false
 image: images/Reviews/Drivers/Bohlender_Graebener/Neo10/IMG_5354.jpg
@@ -138,7 +138,7 @@ In regards to the distortion measurements: At about 200hz the delta between the 
 
 Crossed from 300-2khz seems to be where I'd be expecting to land - if I were using them in my own setup - given the upward swing in response and the poor vertical dispersion off-axis (thanks to the long dimension).
 
-Edit:  Some concern has been brought up as of late regarding if the design is still the same as it was when I tested these in 2013.  I can't speak to that.  I can only reference the mfg's spec which shows similar FR behavior.  Aside from that, the results can still be useful for a number of reasons.  As with any data I post, it's provided as a guide to understand what it's performance is and how it may be best put to use in your intended application.
+Edit:  Some concern has been brought up as of late regarding if the design is still the same as it was when I tested these in 2013.  I can't speak to that.  I can only reference the mfg's spec which shows similar FR behavior.  Aside from that, the results can still be useful for a number of reasons.  As with any data I post, it's provided as a guide to understand its performance and how it may be best put to use in your intended application.
 
 <br>
 <br>
