@@ -1,5 +1,5 @@
-title: "Bohlender Graebener Neo10 Planar Transducer"
 ---
+title: "Bohlender Graebener Neo10 Planar Transducer"
 date: 2013-01-18
 draft: false
 image: images/Reviews/Drivers/Bohlender_Graebener/Neo10/IMG_5354.jpg
