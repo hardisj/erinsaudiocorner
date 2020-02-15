@@ -137,7 +137,7 @@ In regards to the distortion measurements: At about 200hz the delta between the 
 
 Crossed from 300-2khz seems to be where I'd be expecting to land - if I were using them in my own setup - given the upward swing in response and the poor vertical dispersion off-axis.
 
-To be completely honest, this is simply such a strange frequency response that I'm not sure what the intention here really is.  The spec says "Effective frequency range (depending on application)" as "150 Hz-6 kHz".  Or maybe there's a legit use for them that I'm just not aware of like line arrays (as the marketing indicates).  Either way, I can't recommend them for 'standard' speaker applications based on what I'm seeing here.  Especially when you factor in baffle step with the decreasing output with lowering frequency.  It's just ... weird.
+To be completely honest, this is simply such a strange frequency response that I'm not sure what the intention here really is.  The spec says "Effective frequency range (depending on application)" as "150 Hz-6 kHz".  I don't see it.  Or maybe there's a legit use for them that I'm just not aware of like line arrays (as the marketing indicates).  Either way, I can't recommend them for 'standard' speaker applications based on what I'm seeing here.  Especially when you factor in baffle step with the decreasing output with lowering frequency.  It's just ... weird.
 
 
 <br>
