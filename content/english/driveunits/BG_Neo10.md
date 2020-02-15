@@ -136,10 +136,9 @@ Vertical off-axis response is non-uniform above 2kHz.  This driver's vertical le
 
 In regards to the distortion measurements: At about 200hz the delta between the fundamental and THD lines is about 30dB which is equal to about 3% THD.  On the upper end distortion is shown increasing above 2kHz (1% THD) to roughly 2-3% THD from 5-10kHz.
 
-Crossed from 300-2khz seems to be where I'd be expecting to land - if I were using them in my own setup - given the upward swing in response and the poor vertical dispersion off-axis.
+Crossed from 300-2khz seems to be where I'd be expecting to land - if I were using them in my own setup - given the upward swing in response and the poor vertical dispersion off-axis (thanks to the long dimension).
 
-To be completely honest, this is simply such a strange frequency response that I'm not sure what the intention here really is.  The spec says "Effective frequency range (depending on application)" as "150 Hz-6 kHz".  I don't see it.  Or maybe there's a legit use for them that I'm just not aware of like line arrays (as the marketing indicates).  Either way, I can't recommend them for 'standard' speaker applications based on what I'm seeing here.  Especially when you factor in baffle step with the decreasing output with lowering frequency.  It's just ... weird.
-
+Edit:  Some concern has been brought up as of late regarding if the design is still the same as it was when I tested these in 2013.  I can't speak to that.  I can only reference the mfg's spec which shows similar FR behavior.  Aside from that, the results can still be useful for a number of reasons.  As with any data I post, it's provided as a guide to understand what it's performance is and how it may be best put to use in your intended application.
 
 <br>
 <br>
