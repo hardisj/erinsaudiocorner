@@ -6,6 +6,24 @@ image: images/Reviews/Drivers/Bohlender_Graebener/Neo10/IMG_5354.jpg
 description : "Bohlender Graebener Neo10 Planar Transducer"
 Tags: ["Bohlender", "Graebener", "Neo10", "Planar"]
 ---
+> *Update 02/2020:
+>
+> The results of this driver's measured performance and unit-to-unit consistency have caught me a lot of grief as of late.  Namely from people questioning my test methods and blaming me for my suggestion based on what the data shows.
+>
+> In regards to my suggestions for usability from 300-2khz, I reference back to the mfg spec that shows a similar FR swing.  I've found others who have used this use a similar range as well.
+>
+> As for the unit-to-unit consistency the way I see it is: either the units were 1) somehow mistreated before they were sent to me or 2) they really did vary this much.
+I've been tempted to remove this review entirely from my site due to concerns that it is #1 above.
+On the other hand, I would feel obliged to leave them up if it's #2 above.
+>
+> So, I've decided to compromise.  I've made this update to my review and noted the concern over consistency.  But I'm still leaving the data up.
+>
+> Erring on the side of caution would mean you ignore the unit-to-unit consistency and instead focus on the single test sample I reviewed.
+> In which case, my suggestions regarding performance in the Wrap-Up at the end of this review still stand.*
+>
+> Thanks,
+> Erin
+
 A fellow on the Parts-Express forum (tech-talk) sent me four of the [Bohlender Graebener Neo10 Planar Transducers](https://www.parts-express.com/bohlender-graebener-neo10-planar-transducer--264-7501) drivers to test and check for consistency.  I normally don’t see the need but figured it’d be interesting so I obliged.
 
 I tested each driver’s impedance, frequency response and relative harmonic distortion. I added each driver’s respective result to the same graph for comparison purpose.  I then chose one of the drivers to do further testing on.  So what we have is the typical suite of data plus unit-to-unit comparison data.  I hope you enjoy!
@@ -138,7 +156,6 @@ In regards to the distortion measurements: At about 200hz the delta between the 
 
 Crossed from 300-2khz seems to be where I'd be expecting to land - if I were using them in my own setup - given the upward swing in response and the poor vertical dispersion off-axis (thanks to the long dimension).
 
-Edit:  Some concern has been brought up as of late regarding if the design is still the same as it was when I tested these in 2013.  I can't speak to that.  I can only reference the mfg's spec which shows similar FR behavior.  Aside from that, the results can still be useful for a number of reasons.  As with any data I post, it's provided as a guide to understand its performance and how it may be best put to use in your intended application.
 
 <br>
 <br>
