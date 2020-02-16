@@ -89,16 +89,14 @@ Frequency response indicates average sensitivity in the 85dB @ 2.83v/1m ballpark
 
 Harmonic Distortion:
 *Note: The bump in HD around 400hz is due to a loose part on the test baffle and should be ignored (verified through multiple tests and accelerometer placement).*
-
 The THD at 96dB overall is quite low.  It breaks down as follows: 3% THD is met at approximately 100hz.  At 200hz the THD measured is approximately 1.25%.  At 300hz the THD is approximately 0.60% and above 500hz the THD is below 0.50% and as low as 0.30% in some places.  *Very* good distortion measurements
 
 Given the upper frequency crossover is determined by the beaming point, with a 4″ driver you can expect to cross this driver on the high end at about 3khz (give or take depending on the slope).  The low end crossover is typically driven by the amount of distortion you get.  I’d say, if you pay attention to the trend the appropriate crossover for this driver would be in the 200-250hz ballpark which would provide you plenty of output at low distortion.  I used this in my own car for about a year from about 300hz to 5khz mated to an itty-bitty [Dayton ND16FA-6 tweeter](https://www.parts-express.com/dayton-audio-nd16fa-6-5-8-soft-dome-neodymium-tweeter--275-025) and was really happy with the level of output overall and how 'stealth' it made my car audio install.
 Also this provides the ability to cross this lower than I typically recommend for drivers of this size (like the [ScanSpeak 10f Fullrange](https://www.erinsaudiocorner.com/driveunits/scanspeak_discovery_10f8414g10_fullrange/) which one of my go-to suggestions). The mid 80’s sensitivity is likely due to the tradeoff of low frequency extension.  In other words, if the sensitivity were higher, distortion would be higher, lower in frequency meaning you may have to cross at 300hz rather than 200hz to achieve the same level of THD.
 
-Overall: Again, for this very small size of this driver it has a very wide usable bandwidth *easily* covering 300-4khz and possibly wider depending on specific needs and output levels.
-To date it's been one of the most impressive drivers I've tested.  Thumbs up to AudioFrog on this driver.
+Cliffs: Very low distortion. Nice usable range from 200/300hz to 3khz (low end depending on output; 200hz shouldn't be an issue for most, though but 300hz is easily doable for really high output-minded folks).  
 
-Speaking of the 10f comparison, the below pictures show the difference in size between the newer, smaller neo magnet version of the 10f:
+... Speaking of the 10f comparison, the below pictures show the difference in size between the newer, smaller neo magnet version of the 10f:
 <br></br>
 ![GB40](/images/Reviews/Drivers/Audiofrog/GB40/IMG_2218.jpg)
 <br></br>
