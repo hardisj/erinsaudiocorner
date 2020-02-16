@@ -12,7 +12,7 @@ Tags: ["Bohlender", "Graebener", "Neo10", "Planar"]
 >
 > In regards to my suggestions for usability from 300-2khz, I reference back to the mfg spec that shows a similar FR swing.  I've found others who have used this use a similar range as well.
 >
-> As for the unit-to-unit consistency the way I see it is: either the units were 1) somehow mistreated before they were sent to me or 2) they really did vary this much.
+> As for the unit-to-unit consistency the way I see it is: either the units 1) were somehow mistreated before they were sent to me or 2) really do vary this much.
 I've been tempted to remove this review entirely from my site due to concerns that it is #1 above.
 On the other hand, I would feel obliged to leave them up if it's #2 above.
 >
