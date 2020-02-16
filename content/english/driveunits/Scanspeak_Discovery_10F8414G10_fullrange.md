@@ -93,7 +93,8 @@ This is about 3dB lower than the "midrange" 4 ohm version.
 Like the 4-ohm midrange version, the response of this fullrange version also trends upward on-axis.  Though, less abruptly.
 THD is one area where this particular drive unit differs from the 10f/4424g00.  Comparing the THD of the two, you’ll see the distortion of the 10f/4424g00 unit increases above 1% to approximately 1.5% THD above about 1500hz where 2nd order distortion with that unit rose nearly 20dB.  The unit under test here keeps it’s low 2nd order distortion and is approximately 1% lower above 1500hz in comparison.
 
-Overall, I really like this driver.  As fullrange drivers go, I think this is probably one of, if not the, best I've seen.  I'd rank this as a very high value in terms of performance for the price.  
+Overall, I really like this driver.  As fullrange drivers go, I think this is probably one of, if not the, best I've seen.  I'd rank this as a very high value in terms of performance for the price.
+But if needing to use this as a midrange, though, I'd still recommend the actual 4-ohm midrange version of this driver if for no other reason than to gain back the sensitivity this one loses thanks to its fullrange purpose.
 
 <br>
 <br>
