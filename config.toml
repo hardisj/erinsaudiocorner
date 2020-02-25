@@ -79,9 +79,15 @@ URL = "contact"
 weight = 6
 
 [[menu.main]]
+name = "Time Delay"
+URL = "timedelaycalc"
+weight = 6
+
+
+[[menu.main]]
 name = "Contribute"
 URL = "contribute"
-weight = 7
+weight = 8
 
 ############################# Default Parameters ##########################
 [params]

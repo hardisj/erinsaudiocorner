@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+  <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+  <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+  body {
+    padding: 10px 5px;
+  }
+  input {
+    width: 50px;
+  }
+  </style>
+  <script>
+  var degF = 0;
+  var Humidity = 0;
+  var sos = 13700;
+  var furthest = 0;
+  var threeWay = true;
+  var usingXO = false;
+  var usingPioneer = false;
+  var lt = 0;
+  var rt = 0;
+  var lmr = 0;
+  var rmr = 0;
+  var lmb = 0;
+  var rmb = 0;
+  var sub = 0;
+  var lmrXO = 0;
+  var lmbXOLP = 0;
+  var lmbXOHP = 0;
+  var rmrXO = 0;
+  var rmbXOLP = 0;
+  var rmbXOHP = 0;
+  var subXO = 0;
+
+  // Main calculation function. executes when you click the 'calculate' button
+  function calc() {
+    grabInputs();
+
+    //checkForTwoWay( lmb, rmb );
+    checkForCrossovers( lmrXO, rmrXO );
+
+    // Calculate SoS_t_h
+    var T_celsius = (degF-32)*5/9;
+    var sos_wo_H = 331.45*(Math.sqrt(1+(T_celsius/273.16)));
+    var mol_weight = (29-11*(Humidity/100));
+    var spef_heat = (7+(Humidity/100))/(5+(Humidity/100));
+    var sos_increase = ((455.13*(Math.sqrt(spef_heat/mol_weight)))-100)/100;
+    var sos_ms = sos_wo_H + sos_increase;
+    var sos = sos_ms*39.96;
+
+
+    furthest = Math.max( lt, rt, lmr, rmr, lmb, rmb, sub );
+
+    var ltDelay = calcDelay( lt );
+    var rtDelay = calcDelay( rt )
+    var lmrDelay = calcDelay(lmr);
+    var rmrDelay = calcDelay(rmr);
+    var lmbDelay = null;
+    var rmbDelay = null;
+    var subDelay = calcDelay(sub);
+
+    if( threeWay ) {
+      var lmbWavelength = findCenterFrequencyWavelength(lmrXO,lmbXOLP);
+      var rmbWavelength = findCenterFrequencyWavelength(rmrXO,rmbXOLP);
+      lmbDelay = calcDelayWithXO( lmb, lmbWavelength, lmrDelay );
+      rmbDelay = calcDelayWithXO( rmb, rmbWavelength, rmrDelay );
+
+      var mbDelayAvg = (lmbDelay+rmbDelay) / 2;
+      var mbWavelengthAvg = (findCenterFrequencyWavelength(lmbXOHP, subXO) + findCenterFrequencyWavelength(rmbXOHP, subXO)) / 2;
+      if( usingXO ) {
+        subDelay = round(subDelay + mbDelayAvg + mbWavelengthAvg);
+      }
+    }
+    else {
+      lmbDelay = "n/a";
+      rmbDelay = "n/a";
+
+      var mrDelayAvg = (lmrDelay+rmrDelay) / 2;
+      var mbWavelengthAvg = (findCenterFrequencyWavelength(lmrXO, subXO) + findCenterFrequencyWavelength(rmrXO, subXO)) / 2;
+      if( usingXO ) {
+        subDelay = round(subDelay + mrDelayAvg + mbWavelengthAvg);
+      }
+    }
+
+    if( usingPioneer ) {
+      setTimeDelayValues( convertToPioneer(ltDelay), convertToPioneer(rtDelay), convertToPioneer(lmrDelay), convertToPioneer(rmrDelay), convertToPioneer(lmbDelay), convertToPioneer(rmbDelay), convertToPioneer(subDelay) );
+    }
+    else {
+      setTimeDelayValues( ltDelay, rtDelay, lmrDelay, rmrDelay, lmbDelay, rmbDelay, subDelay );
+    }
+  }
+
+  function grabInputs() {
+    lt = $('#lt').val();
+    rt = $('#rt').val();
+    lmr = $('#lmr').val();
+    rmr = $('#rmr').val();
+    lmb = $('#lmb').val();
+    rmb = $('#rmb').val();
+    sub = $('#sub').val();
+    lmrXO = $('#lmrXO').val();
+    lmbXOLP = $('#lmbXOLP').val();
+    lmbXOHP = $('#lmbXOHP').val();
+    rmrXO = $('#rmrXO').val();
+    rmbXOLP = $('#rmbXOLP').val();
+    rmbXOHP = $('#rmbXOHP').val();
+    subXO = $('#subXO').val();
+  }
+
+  function setTimeDelayValues( ltDelay, rtDelay, lmrDelay, rmrDelay, lmbDelay, rmbDelay, subDelay ) {
+    setValue( '#lt_ms', ltDelay );
+    setValue( '#rt_ms', rtDelay );
+    setValue( '#lmr_ms', lmrDelay );
+    setValue( '#rmr_ms', rmrDelay );
+    setValue('#lmb_ms', lmbDelay );
+    setValue('#rmb_ms', rmbDelay );
+    setValue('#sub_ms', subDelay);
+    setValue('#sub_half_ms', subDelay/2);
+    setValue('#sub_qtr_ms', subDelay/4);
+  }
+
+  // Helper functions
+  function calcDelay( distance ) {
+    return round(((furthest - distance) / sos) * 1000);
+  }
+
+  function calcDelayWithXO( distance, wavelength, next_speaker ) {
+    var base = calcDelay( distance );
+    //console.log( "base delay: " + base );
+    if( usingXO ) {
+      //console.log( base + " + " + wavelength + " + " + next_speaker );
+      base = base + wavelength + next_speaker;
+      //console.log( "calc: " + base );
+    }
+    return round(base);
+  }
+
+  function setValue( id, value ) {
+    $( id ).html( value );
+  }
+
+  function calcRatio() {
+    var pld = Math.abs( $('#rmr').val() - $('#lmr').val() );
+    var ratio = $('#inches').val() / pld;
+    return ratio;
+  }
+
+  function findCenterFrequencyWavelength( upper, lower ) {
+    //console.log( upper + " " + lower );
+    var centerFreq = (parseInt(upper)+parseInt(lower)) / 2;
+    var wavelength = 1 / centerFreq * 1000;
+    return wavelength;
+  }
+
+  /*
+  function checkForTwoWay( lmb, rmb ) {
+  if( lmb == '' || lmb == 0 ) {
+  threeWay = false;
+}
+if( rmb == '' || rmb == 0 ) {
+threeWay = false;
+}
+}
+*/
+
+function convertToPioneer( value ) {
+  if( value != "n/a" ) {
+    return round(155.39 - (value * (sos/1000)));
+  }
+}
+
+function checkForCrossovers( lmrXO, rmrXO ) {
+  if( lmrXO == '' || lmrXO === undefined ) {
+    usingXO = false;
+  }
+  else {
+    usingXO = true;
+  }
+}
+
+
+function moveCloser() {
+  var levelDifference = 6 * calcRatio();
+  $('#leftTimeDelayChange').html( "-" + round(calcTimeDelayValue()/2) );
+  $('#rightTimeDelayChange').html( "+" + round(calcTimeDelayValue()/2) );
+  $('#leftLevelDifference').html( "+" + round(levelDifference/2) );
+  $('#rightLevelDifference').html( "-" + round(levelDifference/2) );
+}
+
+function moveFurther() {
+  var levelDifference = 6 * calcRatio();
+  $('#leftTimeDelayChange').html( "+" + round(calcTimeDelayValue()/2) );
+  $('#rightTimeDelayChange').html( "-" + round(calcTimeDelayValue()/2) );
+  $('#leftLevelDifference').html( "-" + round(levelDifference/2) );
+  $('#rightLevelDifference').html( "+" + round(levelDifference/2) );
+}
+
+// Used by the moveCloser and moveFurther functions
+function calcTimeDelayValue() {
+  return $('#inches').val() * (0.03/0.09);
+}
+
+// javascript doesn't have a rounding function to a given precision, so this helps
+function round( num ) {
+  return +(Math.round( num + "e+" + 2) + "e-" + 2);
+}
+
+// self explanatory...
+function clearValues() {
+  $('input').each( function(index) {
+    $(this).attr('value', '');
+  });
+  $('.calcValue').each( function(index) {
+    $(this).html('');
+  });
+
+}
+</script>
+</head>
+<body>
+
+  <div class="container">
+    <div class="row">
+      <div class="panel panel-default">
+        <div class="panel-heading"><h3 class="panel-title">Temperature and Humidity</h3></div>
+        <div class="panel-body">
+          <p>Enter the Temperature and Humidity.  If you do not know then use google or just go with the default 70&deg;Fahrenheit and 50% Humidity listed.</p>
+          <p>
+            Temperature <input type="text" id="degF" class="form-group"value="70" /> &deg;Fahrenheit
+          </p>
+          <p>
+            Humidity <input type="text" id="Humidity" value="50" /> %
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="container">
+    <div class="row">
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">Speaker Measurements</h3>
+        </div>
+        <div class="panel-body">
+          <p>
+            Please input measured distances from each speaker to the listening position in inches (to one decimal point), below.
+            The more precise the measurement the more accurate the results will be. If you enter values for the crossovers, then that method will be used for the TA calcs. Leave them blank
+            and the more 'traditional' method will be used.
+          </p>
+
+          <div class="row">
+            <div class="col-xs-4">
+              Will this be a 2-way or 3-way?<br />
+              <div class="btn-group" data-toggle="buttons">
+                <label class="btn btn-default active">
+                  <input type="radio" name="way" id="3way" value="3" checked />3-Way
+                </label>
+                <label class="btn btn-default">
+                  <input type="radio" name="way" id="2way" value="2" />2-Way
+                </label>
+              </div>
+            </div>
+            <div class="col-xs-4">
+              Is this a Pioneer setup?<br />
+              <div class="btn-group" data-toggle="buttons">
+                <label class="btn btn-default active">
+                  <input type="radio" name="way" id="pioneerNo" value="3" checked />No
+                </label>
+                <label class="btn btn-default">
+                  <input type="radio" name="way" id="pioneerYes" value="2" />Yes
+                </label>
+              </div>
+            </div>
+          </div>
+          <form class="form-horizontal" onsubmit="return false;" style="margin: 5px 5px">
+            <div class="row">
+              <ul class="nav nav-tabs speakers">
+                <li><a href="#measurementSettings" data-toggle="tab">Measurements</a></li>
+                <li><a href="#crossoverSettings" data-toggle="tab">Crossovers</a></li>
+              </ul>
+              <div class="tab-content">
+                <div class="tab-pane active" id="measurementSettings">
+                  <div class="container" style="padding: 10px 5px">
+                    <div class="row">
+                      <div class="col-xs-6" >
+                        <div class="form-group">
+                          <label class="col-sm-2 control-label">LT:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="lt" class="form-control" value="54.5" />
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="col-sm-2 control-label">LMR:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="lmr" class="form-control" value="52" />
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="col-sm-2 control-label">LMB:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="lmb" class="form-control" value="48" />
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6">
+                        <div class="form-group">
+                          <label class="col-sm-1 control-label">RT:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="rt" class="form-control" value="68" />
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="col-sm-1 control-label">RMR:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="rmr" class="form-control" value="67" />
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="col-sm-1 control-label">RMB:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="rmb" class="form-control" value="54" />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-xs-3">&nbsp;</div>
+                      <div class="col-xs-4">
+                        <div class="form-group">
+                          <label class="col-sm-4 control-label">SUB:</label>
+                          <div class="col-sm-4">
+                            <input type="text" id="sub" class="form-control" value="43" />
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-4">&nbsp;</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="tab-pane active" id="crossoverSettings">
+                  <div class="container" style="padding: 10px 5px">
+                    <div class="row">
+                      <div class="col-xs-12" ><p>Enter the appropriate high pass (HP) and low pass (LP) crossover frequency for each item</p><p>NOTE: this is experimental, and may not work for you. Try it and see :)</p></div>
+                    </div>
+                    <div class="row">
+                      <div class="col-xs-6" >
+                        <div class="form-group">
+                          <label class="col-sm-2 control-label">LMR HP:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="lmrXO" class="form-control" value="" />
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="col-sm-2 control-label">LMB LP:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="lmbXOLP" class="form-control" value="" />
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="col-sm-2 control-label">LMB HP:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="lmbXOHP" class="form-control" value="" />
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-6">
+                        <div class="form-group">
+                          <label class="col-sm-1 control-label">RMR HP:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="rmrXO" class="form-control" value="" />
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="col-sm-1 control-label">RMB LP:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="rmbXOLP" class="form-control" value="" />
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label class="col-sm-1 control-label">RMB HP:</label>
+                          <div class="col-sm-2">
+                            <input type="text" id="rmbXOHP" class="form-control" value="" />
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-xs-3">&nbsp;</div>
+                      <div class="col-xs-4">
+                        <div class="form-group">
+                          <label class="col-sm-4 control-label">SUB:</label>
+                          <div class="col-sm-4">
+                            <input type="text" id="subXO" class="form-control" value="" />
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-4">&nbsp;</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <button class="btn btn-primary" onclick="calc();">Calculate</button>
+                &nbsp;&nbsp;
+                <button class="btn btn-default" onclick="clearValues();">Clear all values</button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container" style="padding-top:5px;">
+    <div class="row">
+      <div class="panel panel-default">
+        <div class="panel-heading"><h3 class="panel-title">T/A Settings <span id="taLabel">In Milliseconds(ms)</span></h3></div>
+        <div class="panel-body">
+          <p>Enter these values in your DSP</p>
+          <div class="table-responsive">
+            <table class="table table-condensed table-striped">
+              <tr>
+                <td width="100">LT</td><td id="lt_ms" class="calcValue" width="100"></td>
+                <td>&nbsp;</td>
+                <td width="100">RT</td><td id="rt_ms" class="calcValue" width="100"></td>
+              </tr>
+              <tr>
+                <td>LMR</td><td id="lmr_ms" class="calcValue"></td>
+                <td>&nbsp;</td>
+                <td>RMR</td><td id="rmr_ms" class="calcValue"></td>
+              </tr>
+              <tr>
+                <td>LMB</td><td id="lmb_ms" class="calcValue"></td>
+                <td>&nbsp;</td>
+                <td>RMB</td><td id="rmb_ms" class="calcValue"></td>
+              </tr>
+              <tr>
+                <td>SUB:</td>
+                <td colspan="2">
+                  <span id="sub_ms" class="calcValue"></span>
+                  <br />1/2 cycle: <span id="sub_half_ms" class="calcValue"></span>
+                  <br />1/4 cycle: <span id="sub_qtr_ms" class="calcValue"></span>
+                </td>
+                <td></td><td></td>
+              </tr>
+            </table>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="panel panel-default">
+      <div class="panel-heading"><h3 class="panel-title">Moving The Stage</h3></div>
+      <div class="panel-body">
+        <p>This is to be done only after you feel your focus is correct, but you simply want to shift the stage.</p>
+        <p>
+          For example, you've tuned the EQ and set levels and delay.  However, if you still feel the stage is skewed so that the center is toward the right some distance.  You enter the distance you wish to shift the stage and the calculations below will give you approximate numbers so that your time alignment isn't off from your levels, otherwise causing you to lose the focus.
+        </p>
+        <p>
+          Move stage <input type="text" id="inches" value="1" /> inches
+        </p>
+        <p>
+          <button class="btn btn-primary btn-sm" onclick="moveCloser();">to driver side</button> or <button class="btn btn-primary btn-sm" onclick="moveFurther();">to passenger side</button>
+        </p>
+        <p>
+          Adjust the following:
+          <ul>
+            <li>Left time delay <span id="leftTimeDelayChange" class="calcValue"></span>ms</li>
+            <li>Right time delay <span id="rightTimeDelayChange" class="calcValue"></span>ms</li>
+            <li>Left level by <span id="leftLevelDifference" class="calcValue"></span>db</li>
+            <li>Right level by <span id="rightLevelDifference" class="calcValue"></span>db</li>
+          </ul>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="container">
+    <p class="text-muted">Copyright &copy; 2013-2020 <a href="https://ErinsAudioCorner.com" target="_blank">ErinsAudioCorner.com</a> in association with Tracerite.com</p>
+  </div>
+</div>
+<script>
+$('.speakers a:first').tab('show');
+$('#3way').change( function() {
+  if( $('#3way').prop('checked') ) {
+    threeWay = true;
+    $('#lmb').removeAttr('disabled');
+    $('#rmb').removeAttr('disabled');
+    $('#lmbXOLP').removeAttr('disabled');
+    $('#rmbXOLP').removeAttr('disabled');
+    $('#lmbXOHP').removeAttr('disabled');
+    $('#rmbXOHP').removeAttr('disabled');
+  }
+});
+$('#2way').change( function() {
+  if( $('#2way').prop('checked') ) {
+    threeWay = false;
+    $('#lmb').attr('disabled', true);
+    $('#lmb').val('');
+    $('#rmb').attr('disabled', true);
+    $('#rmb').val('');
+    $('#lmbXOLP').attr('disabled', true);
+    $('#lmbXOLP').val('');
+    $('#rmbXOLP').attr('disabled', true);
+    $('#rmbXOLP').val('');
+    $('#lmbXOHP').attr('disabled', true);
+    $('#lmbXOHP').val('');
+    $('#rmbXOHP').attr('disabled', true);
+    $('#rmbXOHP').val('');
+  }
+});
+$('#pioneerNo').change( function() {
+  if( $('#pioneerNo').prop('checked') ) {
+    usingPioneer = false;
+    $('#taLabel').html("In Milliseconds(ms)");
+  }
+});
+$('#pioneerYes').change( function() {
+  if( $('#pioneerYes').prop('checked') ) {
+    usingPioneer = true;
+    $('#taLabel').html("In Inches For Pioneer");
+  }
+});
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156925516-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-7835166-1');
+</script>
+</body>
+</html>
