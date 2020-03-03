@@ -231,265 +231,281 @@ function clearValues() {
 </head>
 <body>
 
-          <center>
+
   <div class="container">
     <div class="row">
       <div class="panel panel-default">
+        <center>
         <div class="panel-heading"><h3 class="panel-title">Donate to the cause</h3></div>
-
-    <br>
-  <p>If you appreciate this site and want to help fund future endeavours, there's a Paypal Contribute button below which will allow you donate whatever you can.  Every little bit is truly appreciated.</p>
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-  <input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="UAELM2NVHJ6H6" />
-  <input type="image" src="https://i.imgur.com/TEPTuFZ.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-  <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-  </form>
-
-
-
-  </center>
+        <div class="panel-body">
+            <p>If you find this page useful and want to help me keep it going, please consider contributing via the Paypal button below.</p>
+            <p>It takes a few seconds and goes a long way toward me keeping the lights on around here.</p>
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+              <input type="hidden" name="cmd" value="_s-xclick" />
+              <input type="hidden" name="hosted_button_id" value="UAELM2NVHJ6H6" />
+              <input type="image" src="https://i.imgur.com/TEPTuFZ.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+              <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+            </form>
+        </div>
+      </center>
+      </div>
+  </div>
 </div>
-</div>
+
+
+<br>
+<div class="container">
+  <div class="row">
+    <div class="panel panel-default">
+      <div class="panel-heading"><h3 class="panel-title">Time Alignment 101</h3></div>
+      <div class="panel-body">
+        <p>For instructions on how to use this calculator, please watch the below video.</p>
+        <p>If you do not quite understand the concept of Time Alignment make sure to start the video at the beginning for a concise explanation.</p>
+        <center>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Ys7oylGGcgk?start=298" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </center>
+      </div>
+    </div>
+  </div>
 </div>
 </div>
 
 <br>
-  <div class="container">
-    <div class="row">
-      <div class="panel panel-default">
-        <div class="panel-heading"><h3 class="panel-title">Temperature and Humidity</h3></div>
-        <div class="panel-body">
-          <p>Enter the Temperature and Humidity.  If you do not know then use google to get your local weather or just go with the default 70&deg;Fahrenheit and 50% Humidity listed.  </p>
-          <p>
-            Temperature <input type="text" id="degF" class="form-group"value="70" /> &deg;Fahrenheit
-          </p>
-          <p>
-            Humidity <input type="text" id="Humidity" value="50" /> %
-          </p>
-        </div>
+<div class="container">
+  <div class="row">
+    <div class="panel panel-default">
+      <div class="panel-heading"><h3 class="panel-title">Temperature and Humidity</h3></div>
+      <div class="panel-body">
+        <p>Enter the Temperature and Humidity.  If you do not know then use google to get your local weather or just go with the default 70&deg;Fahrenheit and 50% Humidity listed.  </p>
+        <p>
+          Temperature <input type="text" id="degF" class="form-group"value="70" /> &deg;Fahrenheit
+        </p>
+        <p>
+          Humidity <input type="text" id="Humidity" value="50" /> %
+        </p>
       </div>
     </div>
   </div>
+</div>
 
 
-  <div class="container">
-    <div class="row">
-      <div class="panel panel-default">
-        <div class="panel-heading">
-          <h3 class="panel-title">Speaker Measurements</h3>
+<div class="container">
+  <div class="row">
+    <div class="panel panel-default">
+      <div class="panel-heading">
+        <h3 class="panel-title">Speaker Measurements</h3>
+      </div>
+      <div class="panel-body">
+        <p>
+          Please input measured distances from each speaker to the listening position in inches (to one decimal point), below.
+          The more precise the measurement the more accurate the results will be. If you enter values for the crossovers, then that method will be used for the TA calcs. Leave them blank
+          and the more 'traditional' method will be used.
+        </p>
+
+        <div class="row">
+          <div class="col-xs-4">
+            Will this be a 2-way or 3-way?<br />
+            <div class="btn-group" data-toggle="buttons">
+              <label class="btn btn-default active">
+                <input type="radio" name="way" id="3way" value="3" checked />3-Way
+              </label>
+              <label class="btn btn-default">
+                <input type="radio" name="way" id="2way" value="2" />2-Way
+              </label>
+            </div>
+          </div>
+          <div class="col-xs-4">
+            Is this a Pioneer setup?<br />
+            <div class="btn-group" data-toggle="buttons">
+              <label class="btn btn-default active">
+                <input type="radio" name="way" id="pioneerNo" value="3" checked />No
+              </label>
+              <label class="btn btn-default">
+                <input type="radio" name="way" id="pioneerYes" value="2" />Yes
+              </label>
+            </div>
+          </div>
         </div>
-        <div class="panel-body">
-          <p>
-            Please input measured distances from each speaker to the listening position in inches (to one decimal point), below.
-            The more precise the measurement the more accurate the results will be. If you enter values for the crossovers, then that method will be used for the TA calcs. Leave them blank
-            and the more 'traditional' method will be used.
-          </p>
-
+        <form class="form-horizontal" onsubmit="return false;" style="margin: 5px 5px">
           <div class="row">
-            <div class="col-xs-4">
-              Will this be a 2-way or 3-way?<br />
-              <div class="btn-group" data-toggle="buttons">
-                <label class="btn btn-default active">
-                  <input type="radio" name="way" id="3way" value="3" checked />3-Way
-                </label>
-                <label class="btn btn-default">
-                  <input type="radio" name="way" id="2way" value="2" />2-Way
-                </label>
-              </div>
-            </div>
-            <div class="col-xs-4">
-              Is this a Pioneer setup?<br />
-              <div class="btn-group" data-toggle="buttons">
-                <label class="btn btn-default active">
-                  <input type="radio" name="way" id="pioneerNo" value="3" checked />No
-                </label>
-                <label class="btn btn-default">
-                  <input type="radio" name="way" id="pioneerYes" value="2" />Yes
-                </label>
-              </div>
-            </div>
-          </div>
-          <form class="form-horizontal" onsubmit="return false;" style="margin: 5px 5px">
-            <div class="row">
-              <ul class="nav nav-tabs speakers">
-                <li><a href="#measurementSettings" data-toggle="tab">Measurements</a></li>
-                <li><a href="#crossoverSettings" data-toggle="tab">Crossovers</a></li>
-              </ul>
-              <div class="tab-content">
-                <div class="tab-pane active" id="measurementSettings">
-                  <div class="container" style="padding: 10px 5px">
-                    <div class="row">
-                      <div class="col-xs-6" >
-                        <div class="form-group">
-                          <label class="col-sm-2 control-label">LT:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="lt" class="form-control" value="54.5" /> inches
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-2 control-label">LMR:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="lmr" class="form-control" value="52" />
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-2 control-label">LMB:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="lmb" class="form-control" value="48" />
-                          </div>
+            <ul class="nav nav-tabs speakers">
+              <li><a href="#measurementSettings" data-toggle="tab">Measurements</a></li>
+              <li><a href="#crossoverSettings" data-toggle="tab">Crossovers</a></li>
+            </ul>
+            <div class="tab-content">
+              <div class="tab-pane active" id="measurementSettings">
+                <div class="container" style="padding: 10px 5px">
+                  <div class="row">
+                    <div class="col-xs-6" >
+                      <div class="form-group">
+                        <label class="col-sm-2 control-label">LT:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="lt" class="form-control" value="54.5" /> inches
                         </div>
                       </div>
-                      <div class="col-xs-6">
-                        <div class="form-group">
-                          <label class="col-sm-1 control-label">RT:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="rt" class="form-control" value="68" />
-                          </div>
+                      <div class="form-group">
+                        <label class="col-sm-2 control-label">LMR:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="lmr" class="form-control" value="52" />
                         </div>
-                        <div class="form-group">
-                          <label class="col-sm-1 control-label">RMR:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="rmr" class="form-control" value="67" />
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-1 control-label">RMB:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="rmb" class="form-control" value="54" />
-                          </div>
+                      </div>
+                      <div class="form-group">
+                        <label class="col-sm-2 control-label">LMB:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="lmb" class="form-control" value="48" />
                         </div>
                       </div>
                     </div>
-                    <div class="row">
-                      <div class="col-xs-3">&nbsp;</div>
-                      <div class="col-xs-4">
-                        <div class="form-group">
-                          <label class="col-sm-4 control-label">SUB LP:</label>
-                          <div class="col-sm-4">
-                            <input type="text" id="sub" class="form-control" value="43" />
-                          </div>
+                    <div class="col-xs-6">
+                      <div class="form-group">
+                        <label class="col-sm-1 control-label">RT:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="rt" class="form-control" value="68" />
                         </div>
                       </div>
-                      <div class="col-xs-4">&nbsp;</div>
+                      <div class="form-group">
+                        <label class="col-sm-1 control-label">RMR:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="rmr" class="form-control" value="67" />
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label class="col-sm-1 control-label">RMB:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="rmb" class="form-control" value="54" />
+                        </div>
+                      </div>
                     </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-3">&nbsp;</div>
+                    <div class="col-xs-4">
+                      <div class="form-group">
+                        <label class="col-sm-4 control-label">SUB LP:</label>
+                        <div class="col-sm-4">
+                          <input type="text" id="sub" class="form-control" value="43" />
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xs-4">&nbsp;</div>
                   </div>
                 </div>
-                <div class="tab-pane active" id="crossoverSettings">
-                  <div class="container" style="padding: 10px 5px">
-                    <div class="row">
-                      <div class="col-xs-12" ><p>Enter the appropriate high pass (HP) and low pass (LP) crossover frequency for each item</p><p>NOTE: this is experimental, and may not work for you. Try it and see :)</p></div>
-                    </div>
-                    <div class="row">
-                      <div class="col-xs-6" >
-                        <div class="form-group">
-                          <label class="col-sm-2 control-label">LMR HP:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="lmrXO" class="form-control" value="" />
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-2 control-label">LMB LP:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="lmbXOLP" class="form-control" value="" />
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-2 control-label">LMB HP:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="lmbXOHP" class="form-control" value="" />
-                          </div>
+              </div>
+              <div class="tab-pane active" id="crossoverSettings">
+                <div class="container" style="padding: 10px 5px">
+                  <div class="row">
+                    <div class="col-xs-12" ><p>Enter the appropriate high pass (HP) and low pass (LP) crossover frequency for each item</p><p>NOTE: this is experimental, and may not work for you. Try it and see :)</p></div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-6" >
+                      <div class="form-group">
+                        <label class="col-sm-2 control-label">LMR HP:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="lmrXO" class="form-control" value="" />
                         </div>
                       </div>
-                      <div class="col-xs-6">
-                        <div class="form-group">
-                          <label class="col-sm-1 control-label">RMR HP:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="rmrXO" class="form-control" value="" />
-                          </div>
+                      <div class="form-group">
+                        <label class="col-sm-2 control-label">LMB LP:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="lmbXOLP" class="form-control" value="" />
                         </div>
-                        <div class="form-group">
-                          <label class="col-sm-1 control-label">RMB LP:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="rmbXOLP" class="form-control" value="" />
-                          </div>
-                        </div>
-                        <div class="form-group">
-                          <label class="col-sm-1 control-label">RMB HP:</label>
-                          <div class="col-sm-2">
-                            <input type="text" id="rmbXOHP" class="form-control" value="" />
-                          </div>
+                      </div>
+                      <div class="form-group">
+                        <label class="col-sm-2 control-label">LMB HP:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="lmbXOHP" class="form-control" value="" />
                         </div>
                       </div>
                     </div>
-                    <div class="row">
-                      <div class="col-xs-3">&nbsp;</div>
-                      <div class="col-xs-4">
-                        <div class="form-group">
-                          <label class="col-sm-4 control-label">SUB:</label>
-                          <div class="col-sm-4">
-                            <input type="text" id="subXO" class="form-control" value="" />
-                          </div>
+                    <div class="col-xs-6">
+                      <div class="form-group">
+                        <label class="col-sm-1 control-label">RMR HP:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="rmrXO" class="form-control" value="" />
                         </div>
                       </div>
-                      <div class="col-xs-4">&nbsp;</div>
+                      <div class="form-group">
+                        <label class="col-sm-1 control-label">RMB LP:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="rmbXOLP" class="form-control" value="" />
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label class="col-sm-1 control-label">RMB HP:</label>
+                        <div class="col-sm-2">
+                          <input type="text" id="rmbXOHP" class="form-control" value="" />
+                        </div>
+                      </div>
                     </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-3">&nbsp;</div>
+                    <div class="col-xs-4">
+                      <div class="form-group">
+                        <label class="col-sm-4 control-label">SUB:</label>
+                        <div class="col-sm-4">
+                          <input type="text" id="subXO" class="form-control" value="" />
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xs-4">&nbsp;</div>
                   </div>
                 </div>
               </div>
             </div>
-            <div class="row">
-              <div class="col-xs-12">
-                <button class="btn btn-primary" onclick="calc();">Calculate</button>
-                &nbsp;&nbsp;
-                <button class="btn btn-default" onclick="clearValues();">Clear all values</button>
-              </div>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="container" style="padding-top:5px;">
-    <div class="row">
-      <div class="panel panel-default">
-        <div class="panel-heading"><h3 class="panel-title">T/A Settings <span id="taLabel">In Milliseconds(ms)</span></h3></div>
-        <div class="panel-body">
-          <p>Enter these values in your DSP</p>
-          <div class="table-responsive">
-            <table class="table table-condensed table-striped">
-              <tr>
-                <td width="100">LT</td><td id="lt_ms" class="calcValue" width="100"></td>
-                <td>&nbsp;</td>
-                <td width="100">RT</td><td id="rt_ms" class="calcValue" width="100"></td>
-              </tr>
-              <tr>
-                <td>LMR</td><td id="lmr_ms" class="calcValue"></td>
-                <td>&nbsp;</td>
-                <td>RMR</td><td id="rmr_ms" class="calcValue"></td>
-              </tr>
-              <tr>
-                <td>LMB</td><td id="lmb_ms" class="calcValue"></td>
-                <td>&nbsp;</td>
-                <td>RMB</td><td id="rmb_ms" class="calcValue"></td>
-              </tr>
-              <tr>
-                <td>SUB:</td>
-                <td colspan="2">
-                  <span id="sub_ms" class="calcValue"></span>
-                  <br />1/2 cycle: <span id="sub_half_ms" class="calcValue"></span>
-                  <br />1/4 cycle: <span id="sub_qtr_ms" class="calcValue"></span>
-                </td>
-                <td></td><td></td>
-              </tr>
-            </table>
           </div>
-        </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <button class="btn btn-primary" onclick="calc();">Calculate</button>
+              &nbsp;&nbsp;
+              <button class="btn btn-default" onclick="clearValues();">Clear all values</button>
+            </div>
+          </div>
+        </form>
       </div>
-
     </div>
   </div>
+</div>
+
+<div class="container" style="padding-top:5px;">
+  <div class="row">
+    <div class="panel panel-default">
+      <div class="panel-heading"><h3 class="panel-title">T/A Settings <span id="taLabel">In Milliseconds(ms)</span></h3></div>
+      <div class="panel-body">
+        <p>Enter these values in your DSP</p>
+        <div class="table-responsive">
+          <table class="table table-condensed table-striped">
+            <tr>
+              <td width="100">LT</td><td id="lt_ms" class="calcValue" width="100"></td>
+              <td>&nbsp;</td>
+              <td width="100">RT</td><td id="rt_ms" class="calcValue" width="100"></td>
+            </tr>
+            <tr>
+              <td>LMR</td><td id="lmr_ms" class="calcValue"></td>
+              <td>&nbsp;</td>
+              <td>RMR</td><td id="rmr_ms" class="calcValue"></td>
+            </tr>
+            <tr>
+              <td>LMB</td><td id="lmb_ms" class="calcValue"></td>
+              <td>&nbsp;</td>
+              <td>RMB</td><td id="rmb_ms" class="calcValue"></td>
+            </tr>
+            <tr>
+              <td>SUB:</td>
+              <td colspan="2">
+                <span id="sub_ms" class="calcValue"></span>
+                <br />1/2 cycle: <span id="sub_half_ms" class="calcValue"></span>
+                <br />1/4 cycle: <span id="sub_qtr_ms" class="calcValue"></span>
+              </td>
+              <td></td><td></td>
+            </tr>
+          </table>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
 </div>
 </div>
 
@@ -581,3 +597,9 @@ gtag('config', 'UA-7835166-1');
 </script>
 </body>
 </html>
+
+<center>
+
+  For instructions on how to use the above calculator, please watch the below video.  If you do not quite understand the concept of Time Alignment make sure to start the video at the beginning and I'll give you a rundown of the subject.
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ys7oylGGcgk?start=297" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
