@@ -2,9 +2,9 @@
 title: "Audiofrog GB15 1.5 inch Dome Tweeter"
 date: 2015-06-24
 draft: false
-image: images/Reviews/Drivers/Audiofrog/GB15/IMG_2217.jpg
+image: images/Reviews/Drivers/Audiofrog/GB15/IMG_2215.jpg
 description : "Audiofrog GB15"
-Tags: ["Audiofrog", "Andy", "Wehmeyer", "GB15", "midrange", "car audio"]
+Tags: ["Audiofrog", "Andy", "Wehmeyer", "GB15", "tweeter", "car audio"]
 ---
 
 Up for test is [AudioFrog’s GB15 1.5 inch dome tweeter](https://www.audiofrog.com/gb15-1-12-38-mm-audiophile-grade-automotive-tweeter/).
@@ -13,10 +13,6 @@ It’s worth noting this review is based on mostly objective data.  These driver
 
 <br></br>
 ![GB15](/images/Reviews/Drivers/Audiofrog/GB15/IMG_2215.jpg)
-<br></br>
-![GB15](/images/Reviews/Drivers/Audiofrog/GB15/IMG_2209.jpg)
-<br></br>
-![GB15](/images/Reviews/Drivers/Audiofrog/GB15/IMG_2210.jpg)
 <br></br>
 ![GB15](/images/Reviews/Drivers/Audiofrog/GB15/IMG_2213.jpg)
 <br></br>
