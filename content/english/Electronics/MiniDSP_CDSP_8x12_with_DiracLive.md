@@ -8,15 +8,16 @@ Tags: ["miniDSP", "Dirac", "DiracLive", "CDSP"]
 ---
 
 ## Foreword:
-Up for review is the MiniDSP C-DSP 8x12 with Dirac Live.  This can be purchased directly from [miniDSP.com](https://www.minidsp.com/products/car-audio-dsp/cdsp-8x12-dl) or through [Parts-Express](https://www.tkqlhce.com/click-7732025-13715689?url=http://www.parts-express.com/minidsp-c-dsp-8x12-dl-8-in-12-out-automotive-dsp-with-dirac-live--230-346&cjsku=230-346&fbclid=IwAR0hphu4xRpY3EoopvF6hzYfnggg_YXD0ssACft5aaYRQdlqJG0gII7TPBM).  
+Up for review is the MiniDSP C-DSP 8x12 with Dirac Live.  This can be purchased directly from [miniDSP.com](https://www.minidsp.com/products/car-audio-dsp/cdsp-8x12-dl) or through [Parts-Express](https://www.tkqlhce.com/click-7732025-13715689?url=http://www.parts-express.com/minidsp-c-dsp-8x12-dl-8-in-12-out-automotive-dsp-with-dirac-live--230-346&cjsku=230-346&fbclid=IwAR0hphu4xRpY3EoopvF6hzYfnggg_YXD0ssACft5aaYRQdlqJG0gII7TPBM).
 
-While this review is intended to provide insight in to the use and subjective opinion of the end result of the MiniDSP with Dirac Live, it is not intended to be a full tutorial on how to tune with Dirac Live. I have linked various documents for that purpose. My discussion in that regard will only be intended as supplemental. And, obviously, as with anything relating to audio in a room, your results may differ from mine. Thanks for reading and feel free to ask any questions. I'll do my best to answer them when I can.
+While this review is intended to provide insight in to the use and subjective opinion of the end result of the MiniDSP with Dirac Live, it is not intended to be a full tutorial on how to tune with Dirac Live. I have linked various documents for that purpose. My discussion in that regard will only be intended as supplemental. And, obviously, as with anything relating to audio in a room, your results may differ from mine.
 
 
 
 
 <br></br>
 ## Intro:
+DSPs in car audio are a necessity. This product's inclusion of Dirac Live takes what was normally a tough and arduous task wrought full of confusion for newcomers and transforms it in to a relatively easy to use package with incredible results.
 
 For some number of years now, MiniDSP has been producing some very affordable, yet powerful products for home and car audio enthusiasts alike. I tested an original MiniDSP 2x4 way back in 2010. Though, at the time it was not quite ready for full scale implementation for the car audio market, it was an exciting glimpse in to what the future may hold. Fast-forward to now, August 2019, and I am holding the future almost literally in my hands with the MiniDSP C-DSP 8x12 with Dirac Live.
 
