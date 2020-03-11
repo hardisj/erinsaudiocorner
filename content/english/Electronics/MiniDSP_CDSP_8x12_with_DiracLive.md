@@ -8,6 +8,7 @@ Tags: ["miniDSP", "Dirac", "DiracLive", "CDSP"]
 ---
 
 ## Foreword:
+Up for review is the MiniDSP C-DSP 8x12 with Dirac Live.  This can be purchased directly from [miniDSP.com](https://www.minidsp.com/products/car-audio-dsp/cdsp-8x12-dl) or through [Parts-Express](https://www.tkqlhce.com/click-7732025-13715689?url=http://www.parts-express.com/minidsp-c-dsp-8x12-dl-8-in-12-out-automotive-dsp-with-dirac-live--230-346&cjsku=230-346&fbclid=IwAR0hphu4xRpY3EoopvF6hzYfnggg_YXD0ssACft5aaYRQdlqJG0gII7TPBM).  
 
 While this review is intended to provide insight in to the use and subjective opinion of the end result of the MiniDSP with Dirac Live, it is not intended to be a full tutorial on how to tune with Dirac Live. I have linked various documents for that purpose. My discussion in that regard will only be intended as supplemental. And, obviously, as with anything relating to audio in a room, your results may differ from mine. Thanks for reading and feel free to ask any questions. I'll do my best to answer them when I can.
 
@@ -22,7 +23,7 @@ For some number of years now, MiniDSP has been producing some very affordable, y
 On its own the C-DSP 8x12 is an excellent product and the $499 MSRP makes it even more enticing. There are the staples of what we in car audio (and home audio) have come to adore such as time delay, level adjustments and parametric EQ. With the 6 analog inputs and 12 analog outputs, it’s more than capable of taking a 2-channel input signal and splitting that up to 3-way active (tweeter/midrange/midbass) + subwoofer and still have enough channels to incorporate differential rear fill for those who want to do that. Then there’s the inclusion of a remote for preset selection and subwoofer volume control. As capable as the MiniDSP C-DSP 8x12 is on its own, what really steps things up to the next level is the addition of Dirac Live (add-on cost of $400 for the license and UMIK-1 measurement microphone). The C-DSP 8x12 with Dirac Live takes the MiniDSP 8x12 v2 and adds the following features:
 miniDSP is proud to introduce the new flagship C-DSP 8x12 DL in-car digital audio processor. Dirac Live® room correction, a 400 MHz SHARC floatingpoint processor and 32-bit AKM converters with –107 dB THD+N specification deliver pristine high-resolution audio in any cabin environment. Comprehensive I/O includes six differential low-level analog inputs for low noise pickup, high-level inputs for connection to head units with power amplification, and stereo SPDIF and TOSLINK digital inputs. On the output side, 12 RCA outputs combined with a full eight channels of Dirac Live processing make the C-DSP 8x12 DL adaptable for active crossover systems as well as multichannel/surround installations with subwoofer integration.
 The above information comes from the product page here:
-https://www.minidsp.com/products/car-audio-dsp/cdsp-8x12-dl
+
 
 
 This review will focus on the combination of the MiniDSP + Dirac Live.
