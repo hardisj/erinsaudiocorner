@@ -17,7 +17,7 @@ body {
   /*background-color: #353b43; */
   background-color: white; /* main background color*/
 
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Arial", serif;
   color: black;
   -webkit-font-smoothing: antialiased;
 }
@@ -29,7 +29,7 @@ h4,
 h5,
 h6 {
   font-weight: 600;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Arial", serif;
   /*color: #afbac4;*/
   /*text-decoration: underline;*/
   text-align: center;
@@ -46,7 +46,7 @@ div.post-single-content p img {
 }
 
 p {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Arial", serif;
 }
 
 [scroll-behavior=smooth] {
@@ -355,7 +355,7 @@ a:hover {
 .header-bradcrumb .active {
   color: #cfcfcf;
   font-weight: 200;
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Arial", serif;
 }
 
 .header-bradcrumb a:hover {
