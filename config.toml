@@ -73,10 +73,10 @@ name = "About Me"
 URL = "about"
 weight = 5
 
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 6
+#[[menu.main]]
+#name = "Contact"
+#URL = "contact"
+#weight = 6
 
 [[menu.main]]
 name = "Time Delay"
@@ -87,14 +87,14 @@ weight = 6
 [[menu.main]]
 name = "Contribute"
 URL = "contribute"
-weight = 8
+weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/eac_square_sm.png"  # banner logo (at top/bottom)
+logo = "images/EAC_speaker_small.jpg"  # banner logo (at top/bottom)
 # Meta data
 description = "The Sound of Science"
-author = "Themefisher"
+author = "E"
 # Google Analitycs
 google_analitycs_id = "UA-156925516-1" # Your ID
 # post share
@@ -105,7 +105,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/banner.jpg" # pre-loader logo
+preloader = "images/EAC_retro.jpg" # pre-loader logo
 
 # google map
 [params.map]
