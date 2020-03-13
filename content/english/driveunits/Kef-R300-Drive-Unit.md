@@ -6,7 +6,7 @@ image: images/Reviews/Drivers/Kef/R300_Driver/IMG_5482.jpg
 description : "Kef R300"
 Tags: ["Kef", "R300", "Tangerine", "waveguide", "R300"]
 ---
-By now you’ve probably seen my testing of the [Kef Q100]("https://www.erinsaudiocorner.com/driveunits/kef-q100-drive-unit/") drive unit.  I had read the next step in the Kef Uni-Q line are the drivers in the “R” series.  So, a fella let me borrow the 5 inch midrange drive unit from the R300 speaker to test.  The R300 comes with a separate woofer but I was not sent this.  The only way to obtain these drivers individually is to purchase the speakers they come with (such as the R300 or R500 speaker) and remove them.  Which brings up something worth noting.  I am testing these raw drivers as more or less for knowledge purposes.  These kind of tests tell us exactly what the basis for a speaker is (drive units + enclosure + circuit design).  If Kef is starting with a great drive unit then one can logically assume they have likewise extended efforts to use them as a speaker in a manner which reflects their ‘raw’ performance.  In other words, if the drive unit design is great, odds are so is the complete speaker it’s used in.  Now, let’s get on with it!
+By now you’ve probably seen my testing of the [Kef Q100](https://www.erinsaudiocorner.com/driveunits/kef-q100-drive-unit/) drive unit.  I had read the next step in the Kef Uni-Q line are the drivers in the “R” series.  So, a fella let me borrow the 5 inch midrange drive unit from the R300 speaker to test.  The R300 comes with a separate woofer but I was not sent this.  The only way to obtain these drivers individually is to purchase the speakers they come with (such as the R300 or R500 speaker) and remove them.  Which brings up something worth noting: I am testing these raw drivers as more or less for knowledge purposes.  These kind of tests tell us exactly what the basis for a speaker is (drive units + enclosure + circuit design).  If Kef is starting with a great drive unit then one can logically assume they have likewise extended efforts to use them as a speaker component in a manner which reflects their ‘raw’ performance.  In other words, if the drive unit design is great, odds are so is the complete speaker it’s used in.  Now, let’s get on with it!
 
 ![kefR300](/images/Reviews/Drivers/Kef/R300_Driver/IMG_5482.jpg)
 
@@ -15,7 +15,7 @@ By now you’ve probably seen my testing of the [Kef Q100]("https://www.erinsaud
 ![kefR300](/images/Reviews/Drivers/Kef/R300_Driver/IMG_5493.jpg)
 
 
-Like the Q100, this driver has a very large motor structure and basket.  For a midrange, this is a HUGE drive unit, relative to other mids I’ve used.  You’ll also notice the motor and frame are a bolt together design.  The spider is below the cone on a tier sitting above where conventional speakers’ spiders are.  The surround of this driver has a curved shape to it, I assume to help it act more like a waveguide as with the cone’s shape.  The voice coil diameter is roughly 45-47mm (I had to spitball this so please take it as only an estimate).  OD is approximately 130mm.  Surface area (minus the tweeter assembly/waveguide) is about 98.01cm².  Actual effective surface area, noting the moving portion of the driver’s cone is 25cm²; the tweeter housing/waveguide is roughly 49mm in diameter.
+Like the Q100, this driver has a very large motor structure and basket.  For a midrange, this is a HUGE drive unit, relative to other mids I’ve used.  You’ll also notice the motor and frame are a bolt-together design.  The spider is below the cone on a tier sitting above where conventional speakers’ spiders are.  The surround of this driver has a curved shape to it, I assume to help it act more like a waveguide as with the cone’s shape.  The voice coil diameter is roughly 45-47mm (I had to spitball this so please take it as only an estimate).  OD is approximately 130mm.  Surface area (minus the tweeter assembly/waveguide) is about 98.01cm².  Actual effective surface area, noting the moving portion of the driver’s cone is 25cm²; the tweeter housing/waveguide is roughly 49mm in diameter.
 
 <br>
 
@@ -54,7 +54,7 @@ To make things a bit easier to manage, I’ve broken down the test results in to
 
 ##### Tweeter Frequency Response
 0, 30, and 60 degrees.  2.83v/1m; Nearfield & Farfield merged at 1800hz.
-<br>**Note:** Due to the rather tall surround and the fact I don’t have the trim ring used to flush mount the driver in a baffle, this driver was not flush mounted.  This will effect the high frequency response to some degree.
+<br>**Note:** When testing a driver like this, where the waveguide effect is of high importance, it is necessary to make sure all transitions from tweeter to cone to baffle are as smooth as possible.  In the case of this driver, a trim ring is attached to the flange to smooth the transition between it and the baffle.  I did not have this trim ring nor was the drive unit flush mounted on my test baffle.  This mounting effects the high frequency linearity; likely causing the on-axis dip at ~8kHz.
 
 
 <br>
@@ -112,7 +112,7 @@ Note:  When determining the full suite of T/S parameters, the effective diameter
 
 <br>
 
-It may be pretty obvious that I wasn’t able to resolve all the values here. The limiting suspension resolves first at 1.5mm linear xmax, and to resolve Bl and L(x) would mean pushing on the driver harder than I am comfortable with. Suffice it to say, a high pass filter will help lessen the suspension related distortion, but *most importantly* this driver isn’t intended to cover bass frequencies, nor should it as ideally the 'midrange as a waveguide' should restrict movement as to not cause aberrations in the frequency response.  If memory serves, it’s crossed above 500hz in the R-series towers where it is accompanied by a midwoofer.  So, the excursion related data below is really only for the sake of it.
+It may be pretty obvious that I wasn’t able to resolve all the values below. The limiting suspension resolves first at 1.5mm linear xmax, and to resolve Bl and L(x) would mean pushing on the driver harder than I am comfortable with. Suffice it to say, a high pass filter will help lessen the suspension related distortion, but *most importantly* this driver isn’t intended to cover bass frequencies, nor should it as ideally the 'midrange as a waveguide' should restrict movement as to not cause aberrations in the frequency response.  If memory serves, it’s crossed above 500hz in the R-series towers where it is accompanied by a midwoofer.  So, the excursion related data below is really only for the sake of it.
 
 | Displacement Limits |      |    | thresholds can be changed in Processing property page |
 |---------------------|------|----|-------------------------------------------------------|
@@ -163,22 +163,22 @@ Harmonic Distortion below given at 90dB/1m and 96dB/1m equivalents.
 
 #### Miscellaneous Testing
 
-I took some time to do a bit of additional testing with this driver just for fun using REW software and my calibrated mic.
+I took some time to do a bit of additional testing with this driver just for fun using [Room EQ Wizard (REW) software](https://www.roomeqwizard.com/) and my calibrated mic.
 
-I used an active crossover with a 3khz/LR2 crossover point between the mid and tweeter.  I then measured the driver at 0, 30, 45, 60, and 90 degrees to see how the response of the driver with this crossover applied measures in all angles.  The results are overlaid below in 1/12 resolution.
+I used an active crossover with a 3khz/LR2 targeted crossover point between the mid and tweeter.  I then measured the driver at 0, 30, 45, 60, and 90 degrees to see how the response of the driver with this crossover applied measures in all angles.  The results are overlaid below in 1/12 resolution.
 
-NOTE:  SPL is not indicative of any particular test method.  I just applied power to the driver and tested in various axes.  In other words, this is NOT indicative of 1w/1m or 2.83v/1m test standards.  The following is for the sake of seeing the driver’s performance in all axes with a 3khz/LR2 crossover.
+NOTE:  SPL was not measured with the standard 2.83v/1m criteria in the following graphics.
 <br></br>
 ![kefR300 FRHDWOOFER96](/images/Reviews/Drivers/Kef/R300_Driver/drive-unit-sound-power.png)
 
 <br></br>
 
-Now, averaged them together for a single plot average of all the above points:
+Now, average them together for a single plot average of all the above points:
 <br></br>
 ![kefR300 FRHDWOOFER96](/images/Reviews/Drivers/Kef/R300_Driver/drive-unit-average.png)
 
 <br></br>
-Another bit of testing I did was to see how the peak between 5-6khz could be tamed.  So, I applied some DSP correction and did a comparison.  The result below is a measurement of the raw woofer response vs the EQ’d response taken on axis (0 degrees).
+Another bit of testing I did was to see how the midrange out-of-band peak between 5-6khz could be tamed.  So, I applied some DSP correction and did a comparison.  The result below is a measurement of the raw woofer response vs the EQ’d response taken on axis (0 degrees).
 
 This isn’t to say it’s needed.  It’s just something I did because I had some time and thought I’d share.
 <br></br>
@@ -188,11 +188,11 @@ This isn’t to say it’s needed.  It’s just something I did because I had so
 
 ##### Impulse Response Note
 
-Being this is called a coincident driver and the benefit of these are they are supposed to emanate sound from the sound point, I measured the tweeter and midrange drive units separately and evaluated the arrival of the impulse response.  The two impulse response lined up to a ‘T’.  Unfortunately, I didn’t save this measurement because I simply forgot to before I had to shut down the computer so am unable to post the results
+Being this is called a coincident driver and the benefit of these are they are supposed to emanate sound from the point in space *and* time, I measured the tweeter and midrange drive units separately and evaluated the arrival of the impulse response.  The two impulse response lined up to a ‘T’.  Unfortunately, I didn’t save this measurement because I simply forgot to before I had to shut down the computer so am unable to post the results
 
 <br></br>
 ### Parting Thoughts
-The benefit of having a coincident design is excellent.  I’ve toyed with a few here and there, though, I felt the companies’ never quite got it right.  So, when I first started testing the Kef drive units I didn’t expect much, to be honest.  However, the previous Kef Uni-Q units I’ve tested (HTS3001SE & Q100) have proven to be very well designed.  My results for the R300 drive unit show the same standard of performance.  I took the time to listen to these along with the Q100 speakers I have and must say that I am now sold on Kef’s coincident driver engineering.  I was extremely impressed by these (two) drive units’ performance in my listening tests.  People tend to get caught up in subjective ‘analysis’ whereas I fall in to a very objective analyzer category.  I tend to ignore subjective reviews in whole and often advise others to use them lightly, unless there is objective data to correlate.  This is why it’s rare I comment on the sound of a speaker/driver.  But, I can unequivocally say, after about 3 weeks of listening to these R-series mids and the Q100 speakers – against my coveted DIY speakers and countless other drive units – these truly are the best drive units I’ve laid ears on.  And, for the price, the Q100 speaker is what I would consider an excellent value for the critical listener on a real-world budget.  In fact, I intended to sell my Q100’s after testing the drive units but I have since decided to use the Q100’s as portable reference system.
+The benefit of having a coincident design is excellent.  I’ve toyed with a few here and there, though, I felt the companies’ never quite got it right.  So, when I first started testing the Kef drive units I didn’t expect much, to be honest.  However, the previous Kef Uni-Q units I’ve tested (HTS3001SE & Q100) have proven to be very well designed (within their target price contraints).  My results for the R300 drive unit show the same standard of performance.  I took the time to listen to these along with the Q100 speakers I have and must say that I am now sold on Kef’s coincident driver engineering.  I was extremely impressed by these (two) drive units’ performance in my listening tests.  People tend to get caught up in subjective ‘analysis’ whereas I fall in to a very objective analyzer category.  I tend to ignore subjective reviews in whole and often advise others to use them lightly, unless there is objective data to correlate.  This is why it’s rare I comment on the sound of a speaker/driver.  But, I can unequivocally say, after about 3 weeks of listening to these R-series mids and the Q100 speakers – against my coveted DIY speakers and countless other drive units – these truly are the best drive units I’ve laid ears on in regards to the "space" they provide to recordings when called for.  And, for the price, the Q100 speaker is what I would consider an excellent value for the critical listener on a low budget.  
 
 
 <br></br>
