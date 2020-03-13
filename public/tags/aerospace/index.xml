@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aerospace on Erin&#39;s Audio Corner</title>
+    <link>https://erinsaudiocorner.com/tags/aerospace/</link>
+    <description>Recent content in Aerospace on Erin&#39;s Audio Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erinsaudiocorner.com/tags/aerospace/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gladen Aerospace 20 Tweeter Review</title>
+      <link>https://erinsaudiocorner.com/driveunits/gladen-aerospace-20-tweeter/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/gladen-aerospace-20-tweeter/</guid>
+      <description>Up for test is the Gladen Aerospace 20mm tweeter. Product specs can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Gladen Aerospace 28 Tweeter Review</title>
+      <link>https://erinsaudiocorner.com/driveunits/gladen-aerospace-28-tweeter/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/gladen-aerospace-28-tweeter/</guid>
+      <description>Up for test is the Gladen Aerospace 28mm tweeter. Product specs can be found here.</description>
+    </item>
+    
+  </channel>
+</rss>

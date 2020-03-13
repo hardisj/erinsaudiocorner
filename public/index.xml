@@ -6,20 +6,10 @@
     <description>Recent content on Erin&#39;s Audio Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2020 15:07:35 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://erinsaudiocorner.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Men At Work</title>
-      <link>https://erinsaudiocorner.com/driveunits/under_construction/</link>
-      <pubDate>Sat, 25 Jan 2020 15:07:35 -0600</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/driveunits/under_construction/</guid>
-      <description>I am still working on the site.
-In the meantime, look around and use the Facebook &amp;amp; YouTube links below to follow along.</description>
-    </item>
     
     <item>
       <title>MiniDSP C-DSP 8x12 with Dirac Live Review</title>
@@ -27,7 +17,7 @@ In the meantime, look around and use the Facebook &amp;amp; YouTube links below 
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://erinsaudiocorner.com/electronics/minidsp_cdsp_8x12_with_diraclive/</guid>
-      <description>Foreword: While this review is intended to provide insight in to the use and subjective opinion of the end result of the MiniDSP with Dirac Live, it is not intended to be a full tutorial on how to tune with Dirac Live.</description>
+      <description>Foreword: Up for review is the MiniDSP C-DSP 8x12 with Dirac Live. This can be purchased directly from miniDSP.</description>
     </item>
     
     <item>
@@ -38,6 +28,16 @@ In the meantime, look around and use the Facebook &amp;amp; YouTube links below 
       <guid>https://erinsaudiocorner.com/driveunits/tectonic-elements-tebm35c10-4-miniature-bmr-driver/</guid>
       <description>A few years back&amp;hellip;
 I was browsing the Parts-Express website and came upon some products from Tectonic Elements that I thought were interesting: the BMR series speakers.</description>
+    </item>
+    
+    <item>
+      <title>Audiofrog GB15 1.5 inch Dome Tweeter</title>
+      <link>https://erinsaudiocorner.com/driveunits/audiofrog_gb15/</link>
+      <pubDate>Wed, 24 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/audiofrog_gb15/</guid>
+      <description>Up for test is AudioFrog’s GB15 1.5 inch dome tweeter.
+It’s worth noting this review is based on mostly objective data.</description>
     </item>
     
     <item>
@@ -69,6 +69,70 @@ Information from the manufacturer can be found here: http://store.</description>
     </item>
     
     <item>
+      <title>Gladen Aerospace 20 Tweeter Review</title>
+      <link>https://erinsaudiocorner.com/driveunits/gladen-aerospace-20-tweeter/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/gladen-aerospace-20-tweeter/</guid>
+      <description>Up for test is the Gladen Aerospace 20mm tweeter. Product specs can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Gladen Aerospace 28 Tweeter Review</title>
+      <link>https://erinsaudiocorner.com/driveunits/gladen-aerospace-28-tweeter/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/gladen-aerospace-28-tweeter/</guid>
+      <description>Up for test is the Gladen Aerospace 28mm tweeter. Product specs can be found here.</description>
+    </item>
+    
+    <item>
+      <title>JL Audio ZR800-CW 8″ Midbass Review</title>
+      <link>https://erinsaudiocorner.com/driveunits/jl-audio-zr800cw/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/jl-audio-zr800cw/</guid>
+      <description>Note: While this driver is no longer made, however, to this day I still think it&amp;rsquo;s one of the best pure midbass drivers ever produced.</description>
+    </item>
+    
+    <item>
+      <title>Scan-Speak Illuminator D3004/602000 Tweeter</title>
+      <link>https://erinsaudiocorner.com/driveunits/scanspeak-d3004-602000-tweeter/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/scanspeak-d3004-602000-tweeter/</guid>
+      <description>Up for test is the Scan-Speak Illuminator D3004/6020-00 1″ Textile Dome Tweeter 4 ohm.
+Small Signal Parameters and Impedance Results as measured via Dayton’s DATs measurement tool.</description>
+    </item>
+    
+    <item>
+      <title>Audiofrog GB40 4 inch Midrange</title>
+      <link>https://erinsaudiocorner.com/driveunits/audiofrog_gb40/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/audiofrog_gb40/</guid>
+      <description>Up for test is AudioFrog’s GB40 4″ Midrange. These drivers – as well as the others from the AudioFrog GB series speakers – include a LOT of installation hardware to make installs quicker and easier.</description>
+    </item>
+    
+    <item>
+      <title>Scanspeak 10F/8414G10 Discovery 4 inch Fullrange</title>
+      <link>https://erinsaudiocorner.com/driveunits/scanspeak_discovery_10f8414g10_fullrange/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/scanspeak_discovery_10f8414g10_fullrange/</guid>
+      <description>Up for test is Scan’s newer edition to their 10F lineage: The 10F/8414G10. This features a smaller neo magnet than it’s predecessors (like the 10F 4-ohm midrange tested here), making it an easier fit for tighter install applications.</description>
+    </item>
+    
+    <item>
+      <title>SB Acoustics Satori MW13P-4 5 inch Mid</title>
+      <link>https://erinsaudiocorner.com/driveunits/sb_acoustics_satori_mw13p-4/</link>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/sb_acoustics_satori_mw13p-4/</guid>
+      <description>Up for test is SB Acoustics’ Satori MW13P-4 5″ Midwoofer/midrange. At the time of this updated-posting (02/16/2020) this driver can be purchased from Madisound for about $131/each.</description>
+    </item>
+    
+    <item>
       <title>Kef LS50 Speaker Drive Unit Testing</title>
       <link>https://erinsaudiocorner.com/driveunits/kef-ls50-drive-unit/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
@@ -78,12 +142,125 @@ Information from the manufacturer can be found here: http://store.</description>
     </item>
     
     <item>
+      <title>Rythmik Audio F12G Direct Servo Subwoofer In-Depth Review</title>
+      <link>https://erinsaudiocorner.com/loudspeakers/rythmik-f12g-direct-servo-subwoofer/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/loudspeakers/rythmik-f12g-direct-servo-subwoofer/</guid>
+      <description>Foreword: Rather than discuss only the performance of the enclosed subwoofer, I want to present some more, detailed information that not even some manufacturers are able to obtain.</description>
+    </item>
+    
+    <item>
+      <title>Bohlender Graebener Neo10 Planar Transducer</title>
+      <link>https://erinsaudiocorner.com/driveunits/bg_neo10/</link>
+      <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/bg_neo10/</guid>
+      <description>*Update 02/2020:
+The results of this driver&amp;rsquo;s measured performance and unit-to-unit consistency have caught me a lot of grief as of late.</description>
+    </item>
+    
+    <item>
+      <title>Scanspeak 10F/4424G00 Discovery 4 inch Midrange (4 ohm version)</title>
+      <link>https://erinsaudiocorner.com/driveunits/scanspeak_discovery_10f4424g00_midrange/</link>
+      <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/scanspeak_discovery_10f4424g00_midrange/</guid>
+      <description>Up for test is the Scanspeak Discovery 10F/4424G 4 inch, 4 ohm midrange. This driver features a neo magnet to keep its weight down.</description>
+    </item>
+    
+    <item>
       <title>Kef Q100 Speaker Drive Unit Testing</title>
       <link>https://erinsaudiocorner.com/driveunits/kef-q100-drive-unit/</link>
       <pubDate>Sun, 13 Jan 2013 00:00:00 +0000</pubDate>
       
       <guid>https://erinsaudiocorner.com/driveunits/kef-q100-drive-unit/</guid>
       <description>As with the Kef HTS3001SE I tested, I ordered a set of the Kef Q100 Bookshelf speakers in order to remove and review the raw Q100 driver itself.</description>
+    </item>
+    
+    <item>
+      <title>Fountek FR88EX Fullrange</title>
+      <link>https://erinsaudiocorner.com/driveunits/fountek_fr88ex/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/fountek_fr88ex/</guid>
+      <description>Another popular choice for fullrange use, the Fountek FR88EX (PE Affiliate Link here) is tested and results provided below.</description>
+    </item>
+    
+    <item>
+      <title>Fountek FR89EX Fullrange</title>
+      <link>https://erinsaudiocorner.com/driveunits/fountek_fr89ex/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/fountek_fr89ex/</guid>
+      <description>Another popular choice for fullrange use, the Fountek FR89EX (PE Affiliate Link here) is tested and results provided below.</description>
+    </item>
+    
+    <item>
+      <title>Seas H1397-04 (27TAFNC/D) 1 inch Aluminum Dome Tweeter</title>
+      <link>https://erinsaudiocorner.com/driveunits/seas_27afncd_tweeter/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/seas_27afncd_tweeter/</guid>
+      <description>Up for test is the SEAS Prestige H1397 1&amp;rdquo; Aluminum Dome Tweeter.
+A commonly used tweeter in the car audio world and home audio world due to its compact size (outer diameter is only 53mm; approximately 2 inches) and relatively low cost.</description>
+    </item>
+    
+    <item>
+      <title>Aurasound NS3-193-8A1 3 inch Fullrange</title>
+      <link>https://erinsaudiocorner.com/driveunits/aurasound-ns3-193-8a1/</link>
+      <pubDate>Sun, 30 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/aurasound-ns3-193-8a1/</guid>
+      <description>I’ve seen the Aurasound NS3 drivers discussed frequently as a great little driver to use in small spaces, with all sorts of potential uses.</description>
+    </item>
+    
+    <item>
+      <title>JL Audio C5-400cm 4-inch Midrange Review</title>
+      <link>https://erinsaudiocorner.com/driveunits/jl-audio_c5-400cm/</link>
+      <pubDate>Sun, 30 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/jl-audio_c5-400cm/</guid>
+      <description>Up for test is a JL Audio C5-400cm midrange. I was interested in this driver as it seems to be of reasonable cost given the small form factor and mounting options in addition to the fact that it uses a Kurt Müller cone design, which is a well regarded cone manufacturer.</description>
+    </item>
+    
+    <item>
+      <title>ScanSpeak Illuminator 12MU/4731T-00</title>
+      <link>https://erinsaudiocorner.com/driveunits/scanspeak-illuminator-12mu_4731t-00/</link>
+      <pubDate>Mon, 22 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/scanspeak-illuminator-12mu_4731t-00/</guid>
+      <description>Up for test is the Scanspeak Illuminator 12MU/4731T-00 4.5&amp;rdquo; Midrange - 4 ohm.
+Note: For a while I didn&amp;rsquo;t have the means to measure frequency response accurately.</description>
+    </item>
+    
+    <item>
+      <title>Seas W18NX-001</title>
+      <link>https://erinsaudiocorner.com/driveunits/seas-w18nx001/</link>
+      <pubDate>Sun, 19 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/seas-w18nx001/</guid>
+      <description>Up for test is a Seas W18NX-001. This is another driver that will be party of Jerry Niebur’s Midwoofer Subjective Shootout next month.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erinsaudiocorner.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/about/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erinsaudiocorner.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/contact/</guid>
+      <description>Click here to email me
+Click here to join my Facebook Group
+</description>
     </item>
     
     <item>
@@ -97,31 +274,20 @@ Information from the manufacturer can be found here: http://store.</description>
     
     <item>
       <title></title>
-      <link>https://erinsaudiocorner.com/loudspeakers/</link>
+      <link>https://erinsaudiocorner.com/testmethods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://erinsaudiocorner.com/loudspeakers/</guid>
+      <guid>https://erinsaudiocorner.com/testmethods/</guid>
+      <description>Test Methods: I took a hiatus from testing for a couple years and therefore my test setup has changed.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://erinsaudiocorner.com/timedelaycalc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/timedelaycalc/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://erinsaudiocorner.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/about/</guid>
-      <description>Check one, two&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>Contact Me</title>
-      <link>https://erinsaudiocorner.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/contact/</guid>
-      <description>Click here to email me
-Click here to join my Facebook Group
-</description>
     </item>
     
   </channel>

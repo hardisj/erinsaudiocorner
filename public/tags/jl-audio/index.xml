@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JL Audio on Erin&#39;s Audio Corner</title>
+    <link>https://erinsaudiocorner.com/tags/jl-audio/</link>
+    <description>Recent content in JL Audio on Erin&#39;s Audio Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erinsaudiocorner.com/tags/jl-audio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JL Audio ZR800-CW 8″ Midbass Review</title>
+      <link>https://erinsaudiocorner.com/driveunits/jl-audio-zr800cw/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/jl-audio-zr800cw/</guid>
+      <description>Note: While this driver is no longer made, however, to this day I still think it&amp;rsquo;s one of the best pure midbass drivers ever produced.</description>
+    </item>
+    
+    <item>
+      <title>JL Audio C5-400cm 4-inch Midrange Review</title>
+      <link>https://erinsaudiocorner.com/driveunits/jl-audio_c5-400cm/</link>
+      <pubDate>Sun, 30 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/jl-audio_c5-400cm/</guid>
+      <description>Up for test is a JL Audio C5-400cm midrange. I was interested in this driver as it seems to be of reasonable cost given the small form factor and mounting options in addition to the fact that it uses a Kurt Müller cone design, which is a well regarded cone manufacturer.</description>
+    </item>
+    
+  </channel>
+</rss>

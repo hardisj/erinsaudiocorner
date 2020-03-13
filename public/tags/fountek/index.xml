@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fountek on Erin&#39;s Audio Corner</title>
+    <link>https://erinsaudiocorner.com/tags/fountek/</link>
+    <description>Recent content in Fountek on Erin&#39;s Audio Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jan 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erinsaudiocorner.com/tags/fountek/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fountek FR88EX Fullrange</title>
+      <link>https://erinsaudiocorner.com/driveunits/fountek_fr88ex/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/fountek_fr88ex/</guid>
+      <description>Another popular choice for fullrange use, the Fountek FR88EX (PE Affiliate Link here) is tested and results provided below.</description>
+    </item>
+    
+    <item>
+      <title>Fountek FR89EX Fullrange</title>
+      <link>https://erinsaudiocorner.com/driveunits/fountek_fr89ex/</link>
+      <pubDate>Wed, 02 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/fountek_fr89ex/</guid>
+      <description>Another popular choice for fullrange use, the Fountek FR89EX (PE Affiliate Link here) is tested and results provided below.</description>
+    </item>
+    
+  </channel>
+</rss>

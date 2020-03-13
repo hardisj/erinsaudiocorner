@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ScanSpeak on Erin&#39;s Audio Corner</title>
+    <title>Scanspeak on Erin&#39;s Audio Corner</title>
     <link>https://erinsaudiocorner.com/tags/scanspeak/</link>
-    <description>Recent content in ScanSpeak on Erin&#39;s Audio Corner</description>
+    <description>Recent content in Scanspeak on Erin&#39;s Audio Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Mar 2015 00:00:00 +0000</lastBuildDate>
@@ -18,6 +18,53 @@
       
       <guid>https://erinsaudiocorner.com/driveunits/scanspeak-revelator-12m-4631-g00_4.5_midrange/</guid>
       <description>Up for test is the venerable Scan-Speak Revelator 12M/4631G-00 4.5″ Midrange. Some refer to this as one of (if not the) best pure midrange available.</description>
+    </item>
+    
+    <item>
+      <title>Scan-Speak Illuminator D3004/602000 Tweeter</title>
+      <link>https://erinsaudiocorner.com/driveunits/scanspeak-d3004-602000-tweeter/</link>
+      <pubDate>Fri, 27 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/scanspeak-d3004-602000-tweeter/</guid>
+      <description>Up for test is the Scan-Speak Illuminator D3004/6020-00 1″ Textile Dome Tweeter 4 ohm.
+Small Signal Parameters and Impedance Results as measured via Dayton’s DATs measurement tool.</description>
+    </item>
+    
+    <item>
+      <title>Scanspeak 10F/8414G10 Discovery 4 inch Fullrange</title>
+      <link>https://erinsaudiocorner.com/driveunits/scanspeak_discovery_10f8414g10_fullrange/</link>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/scanspeak_discovery_10f8414g10_fullrange/</guid>
+      <description>Up for test is Scan’s newer edition to their 10F lineage: The 10F/8414G10. This features a smaller neo magnet than it’s predecessors (like the 10F 4-ohm midrange tested here), making it an easier fit for tighter install applications.</description>
+    </item>
+    
+    <item>
+      <title>SB Acoustics Satori MW13P-4 5 inch Mid</title>
+      <link>https://erinsaudiocorner.com/driveunits/sb_acoustics_satori_mw13p-4/</link>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/sb_acoustics_satori_mw13p-4/</guid>
+      <description>Up for test is SB Acoustics’ Satori MW13P-4 5″ Midwoofer/midrange. At the time of this updated-posting (02/16/2020) this driver can be purchased from Madisound for about $131/each.</description>
+    </item>
+    
+    <item>
+      <title>Scanspeak 10F/4424G00 Discovery 4 inch Midrange (4 ohm version)</title>
+      <link>https://erinsaudiocorner.com/driveunits/scanspeak_discovery_10f4424g00_midrange/</link>
+      <pubDate>Fri, 18 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/scanspeak_discovery_10f4424g00_midrange/</guid>
+      <description>Up for test is the Scanspeak Discovery 10F/4424G 4 inch, 4 ohm midrange. This driver features a neo magnet to keep its weight down.</description>
+    </item>
+    
+    <item>
+      <title>ScanSpeak Illuminator 12MU/4731T-00</title>
+      <link>https://erinsaudiocorner.com/driveunits/scanspeak-illuminator-12mu_4731t-00/</link>
+      <pubDate>Mon, 22 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/scanspeak-illuminator-12mu_4731t-00/</guid>
+      <description>Up for test is the Scanspeak Illuminator 12MU/4731T-00 4.5&amp;rdquo; Midrange - 4 ohm.
+Note: For a while I didn&amp;rsquo;t have the means to measure frequency response accurately.</description>
     </item>
     
   </channel>

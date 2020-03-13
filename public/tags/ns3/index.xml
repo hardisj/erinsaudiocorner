@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NS3 on Erin&#39;s Audio Corner</title>
+    <link>https://erinsaudiocorner.com/tags/ns3/</link>
+    <description>Recent content in NS3 on Erin&#39;s Audio Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Dec 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erinsaudiocorner.com/tags/ns3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aurasound NS3-193-8A1 3 inch Fullrange</title>
+      <link>https://erinsaudiocorner.com/driveunits/aurasound-ns3-193-8a1/</link>
+      <pubDate>Sun, 30 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/aurasound-ns3-193-8a1/</guid>
+      <description>I’ve seen the Aurasound NS3 drivers discussed frequently as a great little driver to use in small spaces, with all sorts of potential uses.</description>
+    </item>
+    
+  </channel>
+</rss>

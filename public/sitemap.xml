@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://erinsaudiocorner.com/driveunits/</loc>
-    <lastmod>2020-01-25T15:07:35-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://erinsaudiocorner.com/</loc>
-    <lastmod>2020-01-25T15:07:35-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://erinsaudiocorner.com/driveunits/under_construction/</loc>
-    <lastmod>2020-01-25T15:07:35-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://erinsaudiocorner.com/tags/cdsp/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url>
@@ -38,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://erinsaudiocorner.com/</loc>
+    <lastmod>2019-08-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://erinsaudiocorner.com/tags/minidsp/</loc>
     <lastmod>2019-08-14T00:00:00+00:00</lastmod>
   </url>
@@ -54,6 +44,11 @@
   
   <url>
     <loc>https://erinsaudiocorner.com/tags/bmr/</loc>
+    <lastmod>2016-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/</loc>
     <lastmod>2016-06-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,6 +83,11 @@
   </url>
   
   <url>
+    <loc>https://erinsaudiocorner.com/driveunits/audiofrog_gb15/</loc>
+    <lastmod>2015-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://erinsaudiocorner.com/driveunits/audiofrog_gb25/</loc>
     <lastmod>2015-06-24T00:00:00+00:00</lastmod>
   </url>
@@ -98,12 +98,22 @@
   </url>
   
   <url>
+    <loc>https://erinsaudiocorner.com/tags/gb15/</loc>
+    <lastmod>2015-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://erinsaudiocorner.com/tags/gb25/</loc>
     <lastmod>2015-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://erinsaudiocorner.com/tags/midrange/</loc>
+    <lastmod>2015-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/tweeter/</loc>
     <lastmod>2015-06-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,6 +158,111 @@
   </url>
   
   <url>
+    <loc>https://erinsaudiocorner.com/tags/20/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/28/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/aerospace/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/d3004/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/gladen/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/gladen-aerospace-20-tweeter/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/gladen-aerospace-28-tweeter/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/illuminator/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/jl-audio/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/jl-audio-zr800cw/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/midbass/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/scan/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/scanspeak-d3004-602000-tweeter/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/zr800/</loc>
+    <lastmod>2015-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/10f/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/10f/8414g10/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/audiofrog_gb40/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/fullrange/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/gb40/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/scanspeak_discovery_10f8414g10_fullrange/</loc>
+    <lastmod>2015-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/sb_acoustics_satori_mw13p-4/</loc>
+    <lastmod>2015-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://erinsaudiocorner.com/tags/kef/</loc>
     <lastmod>2014-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -173,6 +288,71 @@
   </url>
   
   <url>
+    <loc>https://erinsaudiocorner.com/tags/f12g/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/klippel/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/loudspeakers/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/rythmik/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/loudspeakers/rythmik-f12g-direct-servo-subwoofer/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/servo/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/subwoofer/</loc>
+    <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/bohlender/</loc>
+    <lastmod>2013-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/bg_neo10/</loc>
+    <lastmod>2013-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/graebener/</loc>
+    <lastmod>2013-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/neo10/</loc>
+    <lastmod>2013-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/planar/</loc>
+    <lastmod>2013-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/scanspeak_discovery_10f4424g00_midrange/</loc>
+    <lastmod>2013-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://erinsaudiocorner.com/driveunits/kef-q100-drive-unit/</loc>
     <lastmod>2013-01-13T00:00:00+00:00</lastmod>
   </url>
@@ -183,12 +363,103 @@
   </url>
   
   <url>
-    <loc>https://erinsaudiocorner.com/contribute/</loc>
+    <loc>https://erinsaudiocorner.com/tags/fountek/</loc>
+    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://erinsaudiocorner.com/loudspeakers/</loc>
-    <priority>0</priority>
+    <loc>https://erinsaudiocorner.com/driveunits/fountek_fr88ex/</loc>
+    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/fountek_fr89ex/</loc>
+    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/fr88ex/</loc>
+    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/fr89ex/</loc>
+    <lastmod>2013-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/27tafnc/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/seas/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/seas_27afncd_tweeter/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/aura/</loc>
+    <lastmod>2012-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/aurasound/</loc>
+    <lastmod>2012-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/aurasound-ns3-193-8a1/</loc>
+    <lastmod>2012-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/c5-400cm/</loc>
+    <lastmod>2012-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/jl-audio_c5-400cm/</loc>
+    <lastmod>2012-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/ns3/</loc>
+    <lastmod>2012-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/12mu/</loc>
+    <lastmod>2012-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/scanspeak-illuminator-12mu_4731t-00/</loc>
+    <lastmod>2012-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/midwoofer/</loc>
+    <lastmod>2012-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/nextel/</loc>
+    <lastmod>2012-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/driveunits/seas-w18nx001/</loc>
+    <lastmod>2012-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/tags/w18nx/</loc>
+    <lastmod>2012-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -196,11 +467,24 @@
   </url>
   
   <url>
-    <loc>https://erinsaudiocorner.com/categories/</loc>
+    <loc>https://erinsaudiocorner.com/contact/</loc>
   </url>
   
   <url>
-    <loc>https://erinsaudiocorner.com/contact/</loc>
+    <loc>https://erinsaudiocorner.com/contribute/</loc>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/testmethods/</loc>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/timedelaycalc/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://erinsaudiocorner.com/categories/</loc>
   </url>
   
 </urlset>
