@@ -91,7 +91,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/speaker_trans_small.png"  # banner logo (at top/bottom)
+logo = "images/logos/speaker_trans_small.png"  # banner logo (at top/bottom)
 # Meta data
 description = "The Sound of Science"
 author = "E"
@@ -105,7 +105,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/retro_trans.png" # pre-loader logo
+preloader = "images/logos/speaker_trans_tshirt.png" # pre-loader logo
 
 # google map
 [params.map]
