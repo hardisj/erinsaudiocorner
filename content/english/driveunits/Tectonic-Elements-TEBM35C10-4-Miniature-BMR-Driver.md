@@ -2,7 +2,7 @@
 title: "Tectonic Elements TEBM35C10-4 Miniature BMR® Driver Review"
 date: 2016-06-30
 draft: false
-image: http://www.parts-express.com/data/default/images/catalog/500/297-216_HR_0.jpg
+image: ![TEBM35C10](/images/Reviews/Drivers/Tectonics/TEBM35C10-4/297-216_HR_0.jpg)
 description : "Tectonic Elements TEBM35C10-4 Miniature BMR® Driver"
 Tags: ["Tectonic", "Tectonic Elements", "TEBM35C10", "BMR®"]
 ---
