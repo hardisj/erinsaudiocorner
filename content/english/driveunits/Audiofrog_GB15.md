@@ -79,7 +79,8 @@ The following HD graphs are done in the nearfield, emulating 90dB at 1 meter as 
 <br></br>
 </details>
 
-## Thoughts
+<details>
+  <summary>Thoughts</summary>
 
 In terms of build quality, these are very nice.  The body is made from some thick metal.  There is a slew of install related optioned hardware provided (such as mounting tabs, screw ring to clamp the tweeter, removable grille that you can custom paint, etc, etc).  Just extremely high build quality here.
 
@@ -100,11 +101,10 @@ Note:  After I tested and posted the results, the manufacturer replied with the 
 >
 > -- Andy Wehmeyer
 
+</details>
 
-<br>
-
-
-### End
+<details>
+  <summary>End</summary>
 
 If you like what you see here and want to help me keep it going, there’s a Paypal Contribute button at the bottom of each page.  Just provide what you can.  Every little bit is truly appreciated.
 
@@ -114,7 +114,7 @@ You can also join my Facebook and YouTube pages via the links at the bottom of t
 <br>Thanks!
 
 ![stitchfrog](https://ichef.bbci.co.uk/news/410/cpsprodpb/10B91/production/_105879486_getty_spielberg.jpg)
-
+</details>
 
 
 <br>
