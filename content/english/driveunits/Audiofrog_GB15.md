@@ -6,7 +6,8 @@ image: images/Reviews/Drivers/Audiofrog/GB15/IMG_2215.jpg
 description : "Audiofrog GB15"
 Tags: ["Audiofrog", "Andy", "Wehmeyer", "GB15", "tweeter", "car audio"]
 ---
-
+<details>
+<summary>Intro</summary
 Up for test is [AudioFrog’s GB15 1.5 inch dome tweeter](https://www.audiofrog.com/gb15-1-12-38-mm-audiophile-grade-automotive-tweeter/).
 
 It’s worth noting this review is based on mostly objective data.  These drivers – as well as the others from the AudioFrog GB series speakers – include a LOT of installation hardware to make installs quicker and easier.  I simply don’t have the time right now to really delve in to the facets of this, but I will include some of the hardware in the following pictures.
@@ -20,10 +21,11 @@ It’s worth noting this review is based on mostly objective data.  These driver
 <br></br>
 ![GB15](/images/Reviews/Drivers/Audiofrog/GB15/IMG_2205.jpg)
 
+</details>
 
-<br></br>
-
-## Small Signal Parameters
+<details>
+<summary>Small Signal Parameters
+</summary>
 
 Results as measured via Dayton’s DATs measurement tool.
 
@@ -37,9 +39,10 @@ Results as measured via Dayton’s DATs measurement tool.
 ![GB15_impedance](/images/Reviews/Drivers/Audiofrog/GB15/AF-GB15-Impedance.png)
 
  <br></br>
+</details>
 
-
-## Frequency Response
+<details>
+<summary>Frequency Response</summary>
 Frequency Response and the following Harmonic Distortion measurements were taken using Dayton’s OmniMic measurement system.  For this test, the driver was surface mounted (not flush mounted) on the baffle.  The backside of the driver cutout was chamfered to allow for the driver to ‘breathe’ better, as is often recommended for such small drivers.
 
 The frequency response measurements below are on-axis (0 degrees) and off-axis (15, 30, 60 degrees), measured at 2.83v/1m.
@@ -57,13 +60,13 @@ Now, normalized to show the relation of the off-axis response to the on-axis res
 ![GB15_FR03060](/images/Reviews/Drivers/Audiofrog/GB15/GB15-FR-0-15-30-60-normalized.png)
 
 <br>
+</details>
 
 
 
-
-
-## Harmonic Distortion
+<details><summary>Harmonic Distortion</summary>
 The following HD graphs are done in the nearfield, emulating 90dB at 1 meter as well as 96dB and 102dB at 1 meter, respectively.
+
 <br></br>
 ![GB15_HD90](/images/Reviews/Drivers/Audiofrog/GB15/GB15-HD-90dB.png)
 
@@ -74,6 +77,7 @@ The following HD graphs are done in the nearfield, emulating 90dB at 1 meter as 
 ![GB15_HD102](/images/Reviews/Drivers/Audiofrog/GB15/GB15-HD-102dB.png)
 
 <br></br>
+</details>
 
 ## Thoughts
 
