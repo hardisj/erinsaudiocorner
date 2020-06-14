@@ -76,7 +76,7 @@ Frequency response data (horizontal, vertical, "Spinorama", polar, spectrograms,
 
 <br>
 
-I believe most who reads speaker reviews are used to seeing a standard Frequency Response (FR) graphic.  Below are both the horizontal and vertical response over a limited window (90° horizontal, ±40° vertical).  I have provided a "normalized" set of data as well.  The normalization simply means that I took the difference of the on-axis response and compared the other axes' measurements to the on-axis response which gives the viewer a good idea of the speaker performance, relative to the on-axis response, as you move off-axis.
+I believe most who read speaker reviews are used to seeing a standard Frequency Response (FR) graphic like you see below.  Below are both the horizontal and vertical response over a limited window (90° horizontal, ±40° vertical).  I have provided a "normalized" set of data as well.  The normalization simply means that I took the difference of the on-axis response and compared the other axes' measurements to the on-axis response which gives the viewer a good idea of the speaker performance, relative to the on-axis response, as you move off-axis.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400 Horizontal FR.png" alt="fr horz" width="120%"/>
 
