@@ -28,9 +28,7 @@ I received the pair after a fellow reviewer had his crack and made his YouTube v
 
 The speakers do come with a black grille for both the mid/woofer and tweeter.  However, I prefer the look of these speakers without the grilles.  And, as you'll see later, the performance is better without the grilles.
 
-<video align="center" width="600" autoplay loop muted playsinline src="/images/Reviews/Loudspeakers/Buchardt_S400/speaker_photos/360video.mp4"></video>
-
-![](/images/Reviews/Loudspeakers/Buchardt_S400/speaker360spin.mp4)
+<video width="600" autoplay loop muted playsinline src="/images/Reviews/Loudspeakers/Buchardt_S400/speaker_photos/360video.mp4"></video>
 
 ![photo1](/images/Reviews/Loudspeakers/Buchardt_S400/speaker_photos/DSC06107.JPG)
 
