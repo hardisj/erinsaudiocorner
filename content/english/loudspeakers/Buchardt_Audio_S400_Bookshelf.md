@@ -93,7 +93,7 @@ Everyone is used to seeing a standard Frequency Response (FR) graphic.  Below ar
 
 <br clear="all" />
 
-I know someone will ask about the apparent resonance around 500hz.  I didn't seem to notice this in my subjective evaluations.  Toole's book covers threshold of audibility with various peaks but I'll reference this article for now:
+I know someone will ask about the apparent resonance around 500hz.  I didn't find this objectionable in my subjective evaluations.  Toole's book covers threshold of audibility with various peaks but I'll reference this article for now:
 https://audioxpress.com/article/testing-loudspeakers-which-measurements-matter-part-1
 
 Particularly, this section:
@@ -102,18 +102,18 @@ Particularly, this section:
 
 <br clear="all" />
 
-I pulled up my DSP software and put in these settings: Fo=500hz, Gain = + 2.5dB and Q = 15 to match the measured Q.  Meaning, the Q of this peak is ~ 15.  This is very narrow Q.  So, while it looks offensive, it wasn't to me and I believe the above backs up my notion that it wouldn't be to others.  Obviously your mileage may vary.  There are no wiggles in the impedance measurement.  Notably, as you will see in the 360-degree horizontal radiation graphics below, this on-axis peak loses output as you move to the backside of the speaker.  My best guess is this is some sort of influence of the passive radiator experiencing breakup, where on the backside of the speaker the PR has already begun rolling off but on the frontside the pressue of the mid/woofer combined with the breakup results in a narrow Q boost.
+I pulled up my DSP software and put in these settings: Fo=500hz, Gain = + 2.5dB and Q = 15 to match the measured Q.  Meaning, the Q of this peak is ~ 15.  This is very narrow Q.  So, while it looks offensive, it wasn't to me and I believe the above backs up my notion that it wouldn't be to others.  Obviously your mileage may vary.  There are no wiggles in the impedance measurement.  Notably, as you will see in the 360-degree horizontal radiation graphics below, this on-axis peak loses output as you move to the backside of the speaker.  My best guess is this is an influence of the passive radiator experiencing breakup, where on the backside of the speaker the passive radiator has already begun rolling off but on the frontside the pressue level of the mid/woofer combined with the breakup results in a narrow Q boost.
 
 <br clear="all" />
 
 Moving on...
 
-As I said above, the provided frequency response graphs were given with a limited set of data.  I measured the response of the speaker's vertical and horizontal axis in 10-degree steps over 360-degrees.  But providing all of those data points in a single FR-type graphic below is a bit overwhelming and confusing for the viewer.  A normalized spectrogram is the better way to view this data.  This takes a 360-degree set of data and collapses it down to a recangular representation of the various angles' SPL.   I have provided two sets of data: one set for horizontal and one for vertical.  Each set consists of 3 graphics:
+As I said above, the provided frequency response graphs were given with a limited set of data.  I measured the response of the speaker's vertical and horizontal axis in 10-degree steps over 360-degrees.  Nearly 70 measurements in total are represented in my data.  As you can imagine, providing all of those data points in a single FR-type graphic below is a bit overwhelming and confusing for the viewer.  A normalized spectrogram is the better way to view this data.  This takes a 360-degree set of data and collapses it down to a recangular representation of the various angles' SPL.   I have provided two sets of data: one set for horizontal and one for vertical.  Each set consists of 3 graphics:
 1) full response (20hz - 20khz with the angles from 0° to ±180°)
 2) full, "normalized" response (20hz - 20khz with the angles from 0° to ±180°) relative to the 0-degree axis
 3) the normalized, "zoomed" response (200hz - 20khz with the angles from 0° to ±90°) relative to the 0-degree axis
 
-The last two items are given relative to the on-axis response because this makes it easier to see just how well controlled the speaker's directivity is.  Ideally you have a smooth transition between crossovers with no major SPL jumps; this graphic makes directivity changes easier to spot.  The third is provided because the speaker is pretty much omnidirectional below 200hz and there's no reason to need to see how it behaves off-axis relative to the on-axis response, so I just give you a more zoomed-in view.  :)
+The last two items are given relative to the on-axis response because this makes it easier to see just how well controlled the speaker's directivity is.  Ideally you have a smooth transition between crossovers with no major SPL jumps; this graphic makes directivity changes easier to spot.  The third is provided because the speaker is pretty much omnidirectional below 200hz and there's no real need to see how it behaves off-axis relative to the on-axis response, so I just give you a more zoomed-in view.  :)
 
 
 <br clear="all" />
@@ -145,9 +145,11 @@ The last two items are given relative to the on-axis response because this makes
 
 <br>
 
-The above spectrograms are kind of the "standard" way of providing directivity graphics.  Most magazines/reviewers provide the response this way.  Some prefer to not normalize the data.  Some do.  Either way, it's a good way to get an idea of the directivity characteristics of a speaker or driver.  That said, a speaker plays in all angles.  Horizontally, vertically and every way in between.  Without thousands of data points and interpolation between them there is no way to visually represent the speaker's soundfield at every point in space. Though, horizontal and vertical axes measurements are enough to provide a sense of speaker performance.  But, if you have vertical and horizontal data you can make a compromise and get the standard spectrograms above.  Still, these "collpased" representations of the soundfield are not very intuitively viewed.  At least not to me.  So, I came up with a different way to view the speaker's horizontal and vertical soundfield by providing it across a 360° range.  What you see below is just that.  I have provided both an absolute SPL version as well as a normalized version of both horizontal and vertical soundfields.
+The above spectrograms are kind of the "standard" way of providing directivity graphics.  Most magazines/reviewers provide the response this way.  Some prefer *not* to normalize the data.  Some prefer to normalize the data.  Either way, it's a useful visual to get an idea of the directivity characteristics of a speaker or driver.
 
-Note the legend provided in the top left of each image; this helps you understand which way the speaker would be oriented relative to my provided circular soundfield.
+That said, a speaker plays in all angles.  Horizontally, vertically and every way in between.  Without thousands of data points and interpolation between them there is no way to visually represent the speaker's soundfield at every point in space. Though, horizontal and vertical axes measurements are enough to provide a good sense of speaker performance.  However, these "collpased" representations of the soundfield are not very intuitively viewed.  At least not to me.  So, I came up with a different way to view the speaker's horizontal and vertical soundfield by providing it across a 360° range.  What you see below is just that.  I have provided both an absolute SPL version as well as a normalized version of both the horizontal and vertical soundfields.
+
+Note the legend provided in the top left of each image; this helps you understand which way the speaker would be oriented relative to my provided polar soundfield.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_360_Horizontal_Polar.png" alt="360 horz polar" width="120%"/>
 
@@ -186,16 +188,16 @@ Furthermore, you can find discussion in Dr. Floyd Toole's book "Sound Reproducti
 <br clear="all" />
 
 
-You may ask just how useful the above prediction is.  Well, I'd be remiss for not delving in to that a little bit here.  Please see my "Analysis" section below for discussion on this.  :)
+You may ask just how useful the above prediction is.  Well, I'd be remiss for not delving in to that a little bit here.  Please see my Analysis section below for discussion on this.  :)
 
 <br><br>
 ### Total Harmonic Distortion (THD) and Compression:
 
 Distortion and Compression measurements were completed in the nearfield (approximately 0.3 meters).  However, SPL provided is relative to 1 meter distance.
 
-Harmonic Distortion and Compression are provided at varying levels to get an idea of what happens as the voltage in to the speaker is increased and overall output volume increases.  The "mean spl" values associated with each voltage provided in the legend is based on a calculation of expected volume *assuming linear volume* at the 300-3kHz region.  Meaning, if a speaker is ideal and you tell your stereo to increase by 6dB by turning the volume knob +6dB, the output will increase by 6dB.  In the real-world, however, speaker is a mechanical device and there are compression effects that can limit the output volume and, therefore, you could possibly only get an actual increase in volume of 5dB.  A good speaker will have little compression (< 1dB), where poorer speakers may suffer greater compression (> 2dB).  *Generally speaking, higher sensitivity speakers (like pro-audio speakers with 100dBSPL @ 2.83v/1m spec) suffer relatively no compression while lower sensitivity speakers (low 80's dBSPL @ 2.83v/1m) suffer more compression.  When a crossover is used the compression near the speaker's Fs is attenuated and overall the compression effects are mitigated.*
+Harmonic Distortion and Compression are provided at varying levels to get an idea of what happens as the voltage in to the speaker is increased and overall output volume increases.  The "mean spl" values associated with each voltage provided in the legend is based on a calculation of expected volume *assuming linear volume* at the 300-3kHz region.  Meaning, if a speaker is ideal and you tell your stereo to increase by 6dB by turning the volume knob +6dB, the output will increase by 6dB.  In the real-world, however, a speaker is a mechanical device and there are compression effects that can limit the output volume and, therefore, you could possibly only get an actual increase in volume of 5dB.  A good speaker will have little compression (< 1dB), where poorer speakers may suffer greater compression (> 2dB).  *Generally speaking*, higher sensitivity speakers (like pro-audio speakers with 100dBSPL @ 2.83v/1m spec) suffer relatively no compression while lower sensitivity speakers (low 80's dBSPL @ 2.83v/1m) suffer more compression.  When a crossover is used the compression near the speaker's Fs is attenuated and overall the compression effects are mitigated.
 
-With that in mind, what you see below is first the Harmonic Distortion at varying output levels.  At 2.83vRMS the mean SPL is about 86dB at 1 meter (over 300-3khz).  Distortion at this output is mostly under 0.50% above 200hz and hits the 3% mark at about 80hz.  As you'd expect, the distortion increases as volume increases.  Namely, near the speaker's rolloff point.  If you are in your room and about 3 meters from the speaker and want to listen to these speakers at about 90dB at the listening position then you want to look at the 93dB (6.02vRMS) measurement (since you have a +6dB gain from typical in-room gain and +3dB for doubling of speakers but have to add 12dB for the distance increasing from 1 meter to 3 meters (90+12-6-3 = 93dB)): that tells you the measured low-frequency distortion at about 80hz is near 6% THD.  Will you hear that?  Pure distortion is more subjective and depends not just on the listener but also no the program material.  However, in this case, the distortion increase is due to the mechanical limits of the speaker.  And it was audible.  I verified this myself and will discuss it in my analysis section.  But, remember, this speaker test is done without a crossover of any sort.  Once you add a crossover the distortion would naturally decrease.
+With that in mind, what you see below is first the Total Harmonic Distortion at varying output levels.  At 2.83vRMS the mean SPL is about 86dB at 1 meter (over 300-3khz).  Distortion at this output is mostly under 0.50% above 200hz and hits the 3% mark at about 80hz.  As you'd expect, the distortion increases as volume increases.  Namely, near the speaker's rolloff point.  If you are in your room and about 3 meters from the speaker and want to listen to these speakers at about 90dB at the listening position then you will need to look at the 93dB (6.02vRMS) measurement.  Why?  The measurements I provide are, again, referenced to 1 meter distance from the speaker and of a single speaker. To get to 3 meters you double the distance twice (6dB*2.  That gets you to 90+12dB for one speaker.  But you'd listen to a pair of speakers in a room which results in +3dB (for doubling of speakers).  Also, typical rooms have a +6dB gain.  So, the math for a pair of speakers in a room at 90dB and 3 meters away breaks down as: 90+12-6-3 = 93dB for the single speaker at 1 meter.  Using the 93dB measurement tells you the measured low-frequency distortion at about 80hz is near 6% THD.  Will you hear that?  Pure distortion is more subjective and depends not just on the listener but also no the program material.  However, in this case, the distortion increase is due to the mechanical limits of the speaker.  And it was audible.  I verified this myself and will discuss it in my analysis section.  But, remember, this speaker test is done without a crossover of any sort.  Once you add a crossover the distortion would naturally decrease.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_harmonicDistortion_linear.png" alt="360 vert spect norm" width="120%"/>
 
@@ -206,7 +208,7 @@ With that in mind, what you see below is first the Harmonic Distortion at varyin
 <br clear="all" />
 
 
-The compression effects seen in the image below are a visual way of seeing just what happens as the volume is increased.  This one is pretty straight-forward.  Take the legend's SPL value and add or subtract the data from the graphic.  This tells you if you're losing or gaining output (yes, you can gain output from compression; as un-intutive as that seems).  Let's look at a specific example.  Take the 90dB at 3 meters target listening volume provided above.  Again, you need 93dB's (6.02vRMS) data.  At that volume, the highest amount of compression measured is about 1/10dB.  Nothing, really.  At worst, this speaker experienced about 1dB of output loss at about 60hz with 14vRMS.  The mean SPL of this speaker at 2.83vRMS was 86.5dB.  14vRMS relates to 100dB mean SPL.  So, a gain of about 13.5dB.  This means at 60hz  you actually lose 1dB and therefore wind up with only a 12dB gain over the 2.83vRMS measurement provided at the top of this review.  And at a listening distance of 3 meters that would be about 103dB (or 102dB with this 1dB loss in compression at 60hz).  This is a small bookshelf speaker. I'd say this output level is certainly reasonable.
+The compression effects shown in the image below are a visual way of seeing just what happens as the volume is increased.  This one is pretty straight-forward.  Take the legend's SPL value and add or subtract the data from the graphic.  This tells you if you're losing or gaining output (yes, you can gain output from compression; as un-intutive as that seems).  Mostly, the compression results in a loss due to temperature increase in the voice coil of the drive unit.  Let's look at a specific example.  Take the 90dB at 3 meters target listening volume provided above.  Again, you need 93dB's (6.02vRMS) data.  At that volume, the highest amount of compression measured is about 1/10dB.  Nothing, really.  At worst, this speaker experienced about 1dB of output loss at about 60hz with 14vRMS.  The mean SPL of this speaker at 2.83vRMS was 86.5dB.  14vRMS relates to 100dB mean SPL.  So, a gain of about 13.5dB.  This means at 60hz  you actually lose 1dB and therefore wind up with only a 12dB gain over the 2.83vRMS measurement provided at the top of this review.  And at a listening distance of 3 meters that would be about 103dB (or 102dB with this 1dB loss in compression at 60hz).  This is a small bookshelf speaker. I'd say this output level is certainly reasonable.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_Compression_Normalized.png" alt="360 vert spect norm" width="120%"/>
 
@@ -218,14 +220,14 @@ The compression effects seen in the image below are a visual way of seeing just 
 
 These are just some extra sets of measurements I completed.  Some, I didn't process through my Matlab scripts so they're kind of raw.  But I know some would like to see them so here you go.
 
-Grille on vs Grille off
+Grille on vs Grille off.  Moral of this story?  Leave the grille off.  At 90° off-axis it looks worse.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400 Grille On vs Grille Off (1).png" alt="grille on/off" width="120%"/>
 
 <br clear="all" />
 
 
-Step-Response. Automating this one takes a bit more thought (grab the first return to 0 which in this case is the bass but others would be the tweeter/mid transition swing so would have to add some smarts there... no time right now). So, for now I'm just gonna screencapture Klippel's interface. One not zoomed and one zoomed.
+Step-Response. Automating this one takes a bit more thought (grab the first return to 0 which in this case is the bass but others would be the tweeter/mid transition swing so would have to add some smarts there... no time right now). So, for now I'm just gonna screen capture Klippel's interface. One not zoomed and one zoomed.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400 Step Response.png" alt="step response" width="120%"/>
 
@@ -257,7 +259,7 @@ The normalized horizontal 360-degree radiation pattern provided above shows that
 
 <br clear="all" />
 
-The above is a set of measured in-room response curves vs the predicted in-room response curve overlaid on a target curve equaling -1dB/octave from 200hz to 20khz.  What stands out to me is how alike the response of the MLP measurement (single seat) vs the ENTIRE front row measurement is above 1kHz. The two vary by only about 2.5dB from 1-2kHz, less than ~1dB from 2-4kHz and above 5kHz they are practically the same. That's very impressive!  I'd definitely say Buchart's above quote is verified.  Kudos to them!
+The above is a set of measured in-room response curves from my home theater vs the predicted in-room response curve overlaid on a target curve equaling -1dB/octave from 200hz to 20khz.  What stands out to me is how alike the response of the MLP measurement (single seat) vs the ENTIRE front row measurement is above 1kHz. The two vary by only about 2.5dB from 1-2kHz, less than ~1dB from 2-4kHz and above 5kHz they are practically the same. That's very impressive!  I'd definitely say Buchart's above quote is verified.  Kudos to them!
 
 
 
