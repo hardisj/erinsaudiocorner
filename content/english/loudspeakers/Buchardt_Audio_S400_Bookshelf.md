@@ -75,7 +75,7 @@ Frequency response data (horizontal, vertical, "Spinorama", polar, spectrograms,
 
 <br>
 
-Everyone is used to seeing a standard Frequency Response (FR) graphic.  Below are both the horizontal and vertical response over a limited window.  I have provided a "normalized" set of data as well.  The normalization simply means that I took the difference of the on-axis response and compared the other axes' mesaurements to the on-axis response.  This gives the viewer a good idea of the speaker performance as you move off-axis, relative to the on-axis response.
+Everyone is used to seeing a standard Frequency Response (FR) graphic.  Below are both the horizontal and vertical response over a limited window.  I have provided a "normalized" set of data as well.  The normalization simply means that I took the difference of the on-axis response and compared the other axes' mesaurements to the on-axis response which gives the viewer a good idea of the speaker performance, relative to the on-axis response, as you move off-axis.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400 Horizontal FR.png" alt="fr horz" width="120%"/>
 
@@ -102,7 +102,7 @@ Particularly, this section:
 
 <br clear="all" />
 
-I pulled up my DSP software with Fo=500hz, Gain = + 2.5dB and it took a Q = 15 to match the measured Q.  So, while it looks offensive, it wasn't to me and I believe the above backs up my notion that it wouldn't be to others.  Obviously your mileage may vary.
+I pulled up my DSP software and put in these settings: Fo=500hz, Gain = + 2.5dB and Q = 15 to match the measured Q.  Meaning, the Q of this peak is ~ 15.  This is very narrow Q.  So, while it looks offensive, it wasn't to me and I believe the above backs up my notion that it wouldn't be to others.  Obviously your mileage may vary.  There are no wiggles in the impedance measurement.  Notably, as you will see in the 360-degree horizontal radiation graphics below, this on-axis peak loses output as you move to the backside of the speaker.  My best guess is this is some sort of influence of the passive radiator experiencing breakup, where on the backside of the speaker the PR has already begun rolling off but on the frontside the pressue of the mid/woofer combined with the breakup results in a narrow Q boost.
 
 <br clear="all" />
 
@@ -149,19 +149,19 @@ The above spectrograms are kind of the "standard" way of providing directivity g
 
 Note the legend provided in the top left of each image; this helps you understand which way the speaker would be oriented relative to my provided circular soundfield.
 
-<img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_360_Horizontal_Spectrogram.png" alt="360 horz spect" width="120%"/>
+<img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_360_Horizontal_Polar.png" alt="360 horz polar" width="120%"/>
 
 <br clear="all" />
 
-<img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_360_Horizontal_Spectrogram_Normalized.png" alt="360 horz spect norm" width="120%"/>
+<img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_360_Horizontal_Polar_Normalized.png" alt="360 horz polar norm" width="120%"/>
 
 <br clear="all" />
 
-<img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_360_Vertical_Spectrogram.png" alt="360 vert spect" width="120%"/>
+<img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_360_Vertical_Polar.png" alt="360 vert polar" width="120%"/>
 
 <br clear="all" />
 
-<img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_360_Vertical_Spectrogram_Normalized.png" alt="360 vert spect norm" width="120%"/>
+<img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_360_Vertical_Polar_Normalized.png" alt="360 vert polar norm" width="120%"/>
 
 <br clear="all" />
 
