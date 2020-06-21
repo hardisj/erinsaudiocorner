@@ -180,7 +180,7 @@ The following set of data is populated via the 360-degree, 10° stepped, "spins"
 In short, the CEA-2034 graphic below takes all the response measurements (horizontal and vertical) and applies weighting and averaging to sub-sets and can help provide an (accurate) prediction of the response in a typical room.  If there is a single set of data to use in your purchase decision, this is probably it.
 
 <details>
-  <summary>Alternatively, click this arrow, if you want my quick take on what these curves without going to another site.</summary>
+  <summary>Alternatively, click this arrow, if you want my quick take on what these curves mean without going to another site.</summary>
 
   * **On-Axis** is simply the on-axis response.  This is the 0-degree response curve.
   * **Listening Window** is an average of the 0° to ±30° horizontal and 0° to ±10° vertical response curves and is used to understand what listeners typically hear in a home at the sweet spot, or Main Listening Position (MLP).  The reason for this extended window of sound is simply because your room makeup might differ from another's.  This curve is an attempt to quantify a speaker's performance over a smaller window that is often the norm for listening angle differences in various homes.  It is important for this curve to very closely mimic the on-axis response.  Deviations of the Listening Window curve relative to the on-axis response curve indicates a compromise in the speaker; often caused by directivity changes (as a speaker transitions from one drive-unit to another a la midwoofer to tweeter, or as a tweeter's response becomes highly directional).
