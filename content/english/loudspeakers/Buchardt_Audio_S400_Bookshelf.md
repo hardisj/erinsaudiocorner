@@ -79,7 +79,14 @@ Frequency response data (horizontal, vertical, "Spinorama", polar, spectrograms,
 
 <br>
 
-I believe most who read speaker reviews are used to seeing a standard Frequency Response (FR) graphic like you see below.  Below are both the horizontal and vertical response over a limited window (90° horizontal, ±40° vertical).  I have provided a "normalized" set of data as well.  The normalization simply means that I took the difference of the on-axis response and compared the other axes' measurements to the on-axis response which gives the viewer a good idea of the speaker performance, relative to the on-axis response, as you move off-axis.
+The measurement below provides the frequency response at the reference measurement axis - also known as the 0-degree axis or "on axis" plane - in this measurement condition was situated between the woofer and waveguide, per the manufacturer recommendation.  Ideally, the response is linear/flat and shows no resonance via peaks or dips.  The mean spl, approximately 84.7dB, is calculated over the frequency range of 300Hz to 3,000Hz.  The blue shaded area represents the ±3dB response window from this mean spl value.  As you can see, the Buchardt S400 has a ±3dB response from 53Hz - ~16kHz, with the latter being a function of the on-axis dip via cancelation of the dome tweeter to the waveguide mouth which is not apparent off-axis. The speaker's F3 point (the point at which the response has fallen 3dB relative to the mean spl) is 53Hz and the F10 (the point at which the response has fallen by 10dB relative to the mean spl) is 38Hz.  While typical rooms provide a low-frequency boost, if you plan to listen to music with lower frequency content, this information indicates you would need a subwoofer to fill in the lower octaves (or, you can use EQ to boost the low end but lowering the maximum SPL).
+
+<img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400 FR_Linearity.png" alt="fr horz" width="120%"/>
+
+<br clear="all" />
+
+
+Below are both the horizontal and vertical response over a limited window (90° horizontal, ±40° vertical).  I have provided a "normalized" set of data as well.  The normalization simply means that I took the difference of the on-axis response and compared the other axes' measurements to the on-axis response which gives the viewer a good idea of the speaker performance, relative to the on-axis response, as you move off-axis.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400 Horizontal FR.png" alt="fr horz" width="120%"/>
 
@@ -175,7 +182,9 @@ Note the legend provided in the top left of each image; this helps you understan
 <br><br>
 ### CEA-2034 (aka: Spinorama):
 
-The following set of data is populated via the 360-degree, 10° stepped, "spins" from vertical and horizontal planes. Thus, this is sometimes referred to as "Spinorama" data.  Audioholics has a great writeup on what these data mean ([link here](https://www.audioholics.com/loudspeaker-design/understanding-loudspeaker-measurements)) and there is no sense in me trying to re-invent the wheel so I will reference you to them for further discussion.  However, I will explain these curves lightly and provide my own spin on what they mean (pun totally intended).  Sausalito Audio also has a good writeup on these curves [here](https://www.sausalitoaudio.com/wp-content/uploads/2018/07/Interpreting-Spinorama-Charts.pdf).  Furthermore, you can find discussion in Dr. Floyd Toole's book "Sound Reproduction".  [Here's my Amazon affiliate link](https://amzn.to/37tZN0A) if you want to purchase it and help me earn about 2% of the price.
+The following set of data is populated via the 360-degree, 10° stepped, "spins" from vertical and horizontal planes. Thus, this is sometimes referred to as "Spinorama" data.  Audioholics has a great writeup on what these data mean ([link here](https://www.audioholics.com/loudspeaker-design/understanding-loudspeaker-measurements)) and there is no sense in me trying to re-invent the wheel so I will reference you to them for further discussion.  However, I will explain these curves lightly and provide my own spin on what they mean (pun totally intended).  Sausalito Audio also has a good writeup on these curves [here](https://www.sausalitoaudio.com/wp-content/uploads/2018/07/Interpreting-Spinorama-Charts.pdf).  Furthermore, you can find discussion in Dr. Floyd Toole's book "Sound Reproduction".  [Here's my Amazon affiliate link](https://amzn.to/37tZN0A) if you want to purchase it and help me earn about 2% of the price.  And, finally, [here](https://www.youtube.com/watch?v=zrpUDuUtxPM) is a great video of Dr. Toole discussing the use of measurements to quantify in-room performance.
+
+
 
 In short, the CEA-2034 graphic below takes all the response measurements (horizontal and vertical) and applies weighting and averaging to sub-sets and can help provide an (accurate) prediction of the response in a typical room.  If there is a single set of data to use in your purchase decision, this is probably it.
 
