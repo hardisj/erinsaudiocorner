@@ -42,7 +42,7 @@ Now that you understand my motives, let's get started with the review.</details>
 
 I ordered this pair from Amazon.  I purchased the black baffle with the woodgrain-finish tweeter "waveguide" version because that was the cheapest version at the time (for some reason the white version is 2x more expensive but is the same mechanically).  I say "waveguide" because, while the tweeter assembly does have a smoothed, parabolic face, there's not much wave-guiding going on here.  The guide is really shallow and the tweeter dome sticks out nearly as high as the baffle face.  This waveguide isn't very effective.  And I feel like calling it a waveguide is misleading.  But that same token applies to countless tweeters in the retail and DIY market.
 
-The speakers do come with a black grille for both the mid/woofer and tweeter which both magnetically snap in place.  However, I prefer the look of these speakers without the grilles.  And, as you'll see later, the performance is better without the grilles.
+The speakers do come with a gray, tweed grille magnetically snaps in to place.  I actually prefer the grilles on.  But, as you'll see later, the performance is better without the grilles.
 
 <video width="500" autoplay loop muted playsinline src="/images/Reviews/Loudspeakers/Jamo_S807/speaker_photos/JamoS807_Spin_Video.mp4"></video>
 
