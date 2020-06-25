@@ -294,7 +294,7 @@ Cabinet Resonance Test. I used an accelerometer.  I attached the accelerometer t
 
 Picture of how the accelerometer was affixed to the side, middle.
 
-<img align="left" src="/images/Reviews/Loudspeakers/Jamo_S807/DSC06135.JPG" alt="grille on/off" width="120%"/>
+<img align="left" src="/images/Reviews/Loudspeakers/Jamo_S807/speaker_photos/DSC06135.JPG" alt="grille on/off" width="120%"/>
 
 <br clear="all" />
 
