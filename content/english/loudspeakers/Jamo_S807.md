@@ -316,6 +316,8 @@ There are a few noteworthy things here:
 * Notice how quickly each woofer rolls off on the upper end.  As if the crossover point used is lower than typical (maybe a shallower slope but lower crossover point?).  This makes the transition from mid to tweeter bad.
 * The tweeter shows a resonance around 6kHz.
 * The port has a few areas of concern: peak at 200Hz, 400Hz, 600Hz and 850Hz.  When you look at the overlaid farfield response (black) you can see the clear influence of port noise on the speaker's response.
+* The 5-inch woofers' breakup modes cause resonance around 1.5kHz to 3kHz and also apparently from 4-5kHz.
+
 
 <img align="left" src="/images/Reviews/Loudspeakers/Jamo_S807/Jamo S807 Nearfield.png" alt="nf" width="120%"/>
 
@@ -343,7 +345,8 @@ Frequency Response:
 * Jamo's site states this speaker has a sensitivy of 90dB @ 2.83v/1m.  I measured an average of 84.2dB @ 2.83v/1m.  They must be using the 7kHz+ region to get their numbers.
 * Jamo claims a ±3dB window of 42Hz - 26kHz.  I measured a ±3dB response from 53Hz - 5kHz but only if you ignore the dip in response between 350-600Hz.
 * Unacceptably high compression below 100Hz.
-* Numerous resonances; most caused by the port.
+* Numerous resonances; most caused by the port.  These show up at ~200Hz and 400Hz.
+* The 5-inch woofers' breakup modes cause resonance around 1.5kHz to 3kHz and also apparently from 4-5kHz.
 * Multiple directivity shifts caused by poor crossover and resonances.
 * Large tweeter results in a narrow directivity above 13kHz.
 
