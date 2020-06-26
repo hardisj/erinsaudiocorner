@@ -480,7 +480,7 @@ Let's look again at the measured in-room response I provided above.  Notice how 
 * "Cabinet feels well damped on high output".  I tested this with the accelerometer at both 2.83vRMS and 7vRMS (not pictured above) and didn't find any noticeable results as I increased the input voltage to the speaker.  In fact, the accelerometer data indicated less issues at higher voltage and that's when I began to suspect a noise floor issue and decided to switch to the Sonograph view.
 
 
-I also turned the speakers to be about 30° off-axis to see if I could get rid of the harsh treble.  That didn't help much at all and when you view the data you can that the off-axis response has a low directivity around 4kHz (meaning, the sound is more omnidirectional at this frequency). I believe this explains the "biting" noise I was hearing as well.
+I also turned the speakers to be about 30° off-axis to see if I could get rid of the harsh treble.  That didn't help much at all and when you view the data you can see the off-axis response has low directivity around 4kHz (meaning, the sound is more omnidirectional at this frequency) which indicates the bright 4kHz region would be noticeable through a wider region of angles. I believe this explains the "biting" noise I was hearing as well.
 
 I did not choose to pursue any further analysis with this speaker.  It's a bad performer.  Not worthy of Dirac, in my humble opinion.
 
