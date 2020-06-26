@@ -276,26 +276,41 @@ The compression effects shown in the image below are a visual way of seeing just
 <br clear="all" />
 
 
-<br><br>
+<br><br><br>
+
 ### Extra Measurements:
 
 These are just some extra sets of measurements I completed.  Some, I didn't process through my MATLAB scripts so they're kind of raw.  But I know some would like to see them so here you go.
+<br><br>
 
-On-Axis Response comparison between Speaker A and Speaker B.  This result shows a very good consistency between units other than the response below 30Hz.  I'm impressed!
+
+**On-Axis Response comparison between Speaker A and Speaker B.**
+
+This result shows a very good consistency between units other than the response below 30Hz.  I'm impressed!
 
 <img align="left" src="/images/Reviews/Loudspeakers/Jamo_S807/Jamo S807 Speaker_FR_Compare.png" alt="grille on/off" width="120%"/>
 
 <br clear="all" />
 
 <br>
+<br>
+<br>
 
-Grille on vs Grille off at 0° and 45°.  The grille on case results in an increase in comb filtering (higher amplitude peaks/dips).  Leave the grille off.
+**Grille on vs Grille off at 0° and 45°.**
+
+The grille on case results in an increase in comb filtering (higher amplitude peaks/dips).  Leave the grille off.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Jamo_S807/Jamo S807 Grille On vs Grille Off.png" alt="grille on/off" width="120%"/>
 
 <br clear="all" />
 
-Cabinet Resonance Test. I used an accelerometer.  I attached the accelerometer to the side (top, middle, bottom), back and front of the cabinet and fed a 2.83vRMS signal through the speaker.
+<br>
+<br>
+<br>
+
+**Accelerometer Cabinet Resonance Test.**
+
+I used an accelerometer.  I attached the accelerometer to the side (top, middle, bottom), back and front of the cabinet and fed a 2.83vRMS signal through the speaker.
 
 Picture of how the accelerometer was affixed to the side, middle.
 
@@ -315,7 +330,13 @@ Since the accelerometer is not calibrated for voltage in the above graphic, I ch
 
 <br clear="all" />
 
-Nearfield measurements.  Mic placed about 0.50 inches from each drive unit and port.  While I tried to make these as accurate in SPL as I could, I cannot guarantee the relative levels are absolutely correct so I caution you to use this data as a guide but not representative of actual levels (measuring in the nearfield makes this hard as a couple millimeters' difference between measurements can alter the SPL level).  Got it?  Good.
+<br>
+<br>
+<br>
+
+**Nearfield measurements.**
+
+Mic placed about 0.50 inches from each drive unit and port.  While I tried to make these as accurate in SPL as I could, I cannot guarantee the relative levels are absolutely correct so I caution you to use this data as a guide but not representative of actual levels (measuring in the nearfield makes this hard as a couple millimeters' difference between measurements can alter the SPL level).  Got it?  Good.
 
 There are a few noteworthy things here:
 * Notice how quickly each woofer rolls off on the upper end.  As if the crossover point used is lower than typical (maybe a shallower slope but lower crossover point?).  This makes the transition from mid to tweeter bad.
@@ -328,8 +349,14 @@ There are a few noteworthy things here:
 
 <br clear="all" />
 
+<br>
+<br>
+<br>
 
-Step-Response. Automating this one takes a bit more thought (grab the first return to 0 which in this case is the bass but others would be the tweeter/mid transition swing so would have to add some smarts there... no time right now). So, for now I'm just going to screen capture Klippel's interface. One not zoomed and one zoomed.
+
+**Step-Response.**
+
+One not zoomed and one zoomed.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Jamo_S807/Jamo S807 Step Response.png" alt="step response" width="120%"/>
 
@@ -341,7 +368,8 @@ Step-Response. Automating this one takes a bit more thought (grab the first retu
 
 
 
-<br><br>
+<br><br><br>
+
 ## Objective Evaluation:
 
 Much of what I am about to say I have already touched on under the data.  But to recap:
@@ -368,7 +396,8 @@ Much of what I am about to say I have already touched on under the data.  But to
 * Unacceptable levels of compression at high output below 100Hz.
 * These are both audible effects when listening full-range as I did.
 
-<br><br>
+<br><br><br>
+
 ## Subjective Evaluation:
 
 Before I dive in to using hyperlatives (hyperbole + superlatives) let me first give you the layout of my room...
@@ -385,12 +414,12 @@ Before I dive in to using hyperlatives (hyperbole + superlatives) let me first g
 
 <br clear="all" />
 
-Note the distance from speakers to Main Listening Position (MLP) is approximately 11 feet.
+<br>
+If the false wall part is odd to you, here's some background.  I don't like seeing speakers when watching a movie.  So, I built a false wall and used an acoustically transparent screen with speakers behind it.  The wall is only 2x4's; no panels of wood or anything.  Just a skeleton of a wall to give me something to attach the screen and acoustic treatment to.  There is 2-inch wedge foam affixed to the 2x4 studs and between the false wall and back of the room are the front speakers (L/C/R & 18-inch subwoofers).
 
-Okay, so, the short story of my room is: I don't like seeing speakers when watching a movie.  So, I built a false wall and used an acoustically transparent screen with speakers behind it.  The wall is only 2x4's; no panels of wood or anything.  Just a skeleton of a wall to give me something to attach the screen and acoustic treatment to.  There is 2-inch wedge foam affixed to the 2x4 studs and between the false wall and back of the room are the front speakers (L/C/R & 18-inch subwoofers).
+<br><br>
 
-
-Now that we have that out of the way, this is a list of my demo music:
+**My demo music:**
 
 |               Title               |          Artist          |                          Album                          |
 |:---------------------------------:|:------------------------:|:-------------------------------------------------------:|
@@ -415,9 +444,10 @@ Now that we have that out of the way, this is a list of my demo music:
 
 <br>
 
-Note: I don't generally audition speakers with the typical "audiophile" music.  I have thousands of high-quality albums ranging from pop to metal to jazz and all around.  I don't typically listen to "audiophile" music because I just don't enjoy it.  That is why it is not in my evaluation list above.  We all have our own preferences.  It is far more important that your evaluation music be something you are familiar with than it is important to be esoteric for the sake of being esoteric.  Such is the case in my evaluations.  Besides, the subjective evaluation is purely to help tie to the objective data and make sense of what I am hearing to help you all get an understanding of how relevant the data is.  As you will see below, my music selection did a great job at providing enough range for me to identify the issues that readily appear in the data.
+Note: I don't generally audition speakers with the typical "audiophile" music.  I have thousands of high-quality albums ranging from pop to metal to jazz and all around.  I don't typically listen to "audiophile" music because I just don't enjoy it.  It is far more important that your evaluation music be something you are familiar with than it is to be esoteric for the sake of being esoteric.  You also want to listen to music you enjoy because auditioning a stereo system shouldn't feel like a chore.  Such is the case in my evaluations.  Besides, the subjective evaluation is purely to help tie to the objective data and make sense of what I am hearing to help you all get an understanding of how relevant the data is.  As you will see below, my music selection did a great job at providing enough range for me to identify the issues that readily appear in the data.
+<br><br>
 
-Subjective Analysis Setup:
+**Subjective Analysis Setup:**
 * The speaker was aimed on-axis with the tweeter at ear level.
 * I used [Room EQ Wizard (REW)](https://www.roomeqwizard.com/) and my calibrated [MiniDSP UMIK-1](https://www.amazon.com/miniDSP-UMIK-1-Measurement-Calibrated-Microphone/dp/B00N4Q25R8) to get the volume on my AVR relative to what the actual measured SPL was in the MLP (~11 feet from the speakers).  I varied it between 85-90dB, occasionally going up to the mid 90's to see what the output capability was.  In a poll I found most listen to music in this range.  Realistically, 90dB is loud for long-term listening volume and I find most overestimate their listening volume until an SPL microphone is used to determine the actual level.
 * All speakers are provided a relatively high level of Pseudo Pink-Noise for a day or two - with breaks in between - in order to calm any "break-in" concerns.
@@ -442,9 +472,10 @@ Let's look again at the measured in-room response I provided above.  Notice how 
 <img align="left" src="/images/Reviews/Loudspeakers/Jamo_S807/Jamo S807_Measured_vs_Predicted.png" alt="measured vs predicted" width="120%"/>
 
 <br clear="all" />
+<br>
+<br>
 
-
-Here's the rundown of my subjective notes (in quotes) and where it fits with objective:
+**Here's the rundown of my subjective notes (in quotes) and where it fits with objective:**
 * Overall, I found the max SPL I could drive the speakers to was around 95-98dB at my listening position, depending on the music.  That's loud.  But once I got past this point the compression was *very* audible and all the dynamics went away.  This was most evident on the opening bass notes of Lauryn Hill's song.  It was very evident that I had reached the "brick wall" output here, even though the woofers weren't mechanically falling apart like I would have expected.
 * I kept noting things about the treble... "biting mid-highs", "highs are hot! (3-5dB?)".  Well, sure enough, when you look at the objective measurements and what I measured in the room vs the Predicted In-Room Response it is easy to see why I made those notes.  The high frequency response is as much as 5dB higher than the Target Response curve.  The high frequencies are also as much as 6dB higher than the midrange response.  This is a significant difference and will absolutely be audible even to untrained ears.
 * This note got me: "Lauryn Hill -> gritty talking voice (350-500?)".  Looking at the data there is a clear resonance around 400Hz.  I am sure this is what I was hearing.

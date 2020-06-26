@@ -260,15 +260,21 @@ The compression effects shown in the image below are a visual way of seeing just
 ### Extra Measurements:
 
 These are just some extra sets of measurements I completed.  Some, I didn't process through my MATLAB scripts so they're kind of raw.  But I know some would like to see them so here you go.
+<br><br>
 
-Grille on vs Grille off.  Moral of this story?  Leave the grille off.  At 90° off-axis it looks worse (not pictured).
+**Grille on vs Grille off.**
+
+Moral of this story?  Leave the grille off.  At 90° off-axis it looks worse (not pictured).
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400 Grille On vs Grille Off (1).png" alt="grille on/off" width="120%"/>
 
 <br clear="all" />
 
+<br><br>
 
-Step-Response. Automating this one takes a bit more thought (grab the first return to 0 which in this case is the bass but others would be the tweeter/mid transition swing so would have to add some smarts there... no time right now). So, for now I'm just going to screen capture Klippel's interface. One not zoomed and one zoomed.
+**Step-Response.**
+
+One not zoomed and one zoomed.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400 Step Response.png" alt="step response" width="120%"/>
 
@@ -278,7 +284,11 @@ Step-Response. Automating this one takes a bit more thought (grab the first retu
 
 <br clear="all" />
 
-Nearfield measurements.  Note: These are not relative at all.  I just placed the mic near to the respective driver/enclosure and swept the signal.  The tweeter SPL is not absolute, nor is mid/woofer or passive radiator.  So, these are not to be used directly against each other.  Don't use this to try to determine crossover frequency.  Just more of a "humph" bit of information.  Got it?  Good.  I do want to mention the increased output in the passive radiator (blue) between 400-700Hz.  I believe we are seeing these effects in the 500-600Hz range; the 500Hz resonance I discussed earlier.
+<br><br>
+
+**Nearfield measurements.**
+
+Note: These are not relative at all.  I just placed the mic near to the respective driver/enclosure and swept the signal.  The tweeter SPL is not absolute, nor is mid/woofer or passive radiator.  So, these are not to be used directly against each other.  Don't use this to try to determine crossover frequency.  Just more of a "humph" bit of information.  Got it?  Good.  I do want to mention the increased output in the passive radiator (blue) between 400-700Hz.  I believe we are seeing these effects in the 500-600Hz range; the 500Hz resonance I discussed earlier.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/nf_drivers.png" alt="nf" width="120%"/>
 
@@ -343,10 +353,10 @@ Before I dive in to using hyperlatives (hyperbole + superlatives) let me first g
 
 Note the distance from speakers to Main Listening Position (MLP) is approximately 11 feet.
 
-Okay, so, the short story of my room is: I don't like seeing speakers when watching a movie.  So, I built a false wall and used an acoustically transparent screen with speakers behind it.  The wall is only 2x4's; no panels of wood or anything.  Just a skeleton of a wall to give me something to attach the screen and acoustic treatment to.  There is 2-inch wedge foam affixed to the 2x4 studs and between the false wall and back of the room are the front speakers (L/C/R & 18-inch subwoofers).
+If the false wall part is odd to you, here's some background.  I don't like seeing speakers when watching a movie.  So, I built a false wall and used an acoustically transparent screen with speakers behind it.  The wall is only 2x4's; no panels of wood or anything.  Just a skeleton of a wall to give me something to attach the screen and acoustic treatment to.  There is 2-inch wedge foam affixed to the 2x4 studs and between the false wall and back of the room are the front speakers (L/C/R & 18-inch subwoofers).
 
 
-Now that we have that out of the way, this is a list of my demo music:
+**My demo music:**
 
 |               Title               |          Artist          |                          Album                          |
 |:---------------------------------:|:------------------------:|:-------------------------------------------------------:|
@@ -371,9 +381,11 @@ Now that we have that out of the way, this is a list of my demo music:
 
 <br>
 
-Note: I don't generally audition speakers with the typical "audiophile" music.  I have thousands of high-quality albums ranging from pop to metal to jazz and all around.  I don't typically listen to "audiophile" music because I just don't enjoy it.  That is why it is not in my evaluation list above.  We all have our own preferences.  It is far more important that your evaluation music be something you are familiar with than it is important to be esoteric for the sake of being esoteric.  Such is the case in my evaluations.  Besides, the subjective evaluation is purely to help tie to the objective data and make sense of what I am hearing to help you all get an understanding of how relevant the data is.  As you will see below, my music selection did a great job at providing enough range for me to identify the issues that readily appear in the data.
 
-Subjective Analysis Setup:
+Note: I don't generally audition speakers with the typical "audiophile" music.  I have thousands of high-quality albums ranging from pop to metal to jazz and all around.  I don't typically listen to "audiophile" music because I just don't enjoy it.  It is far more important that your evaluation music be something you are familiar with than it is to be esoteric for the sake of being esoteric.  You also want to listen to music you enjoy because auditioning a stereo system shouldn't feel like a chore.  Such is the case in my evaluations.  Besides, the subjective evaluation is purely to help tie to the objective data and make sense of what I am hearing to help you all get an understanding of how relevant the data is.  As you will see below, my music selection did a great job at providing enough range for me to identify the issues that readily appear in the data.
+<br><br>
+
+**Subjective Analysis Setup:**
 * The speaker was aimed on-axis with the tweeter at ear level.
 * I used [Room EQ Wizard (REW)](https://www.roomeqwizard.com/) and my calibrated [MiniDSP UMIK-1](https://www.amazon.com/miniDSP-UMIK-1-Measurement-Calibrated-Microphone/dp/B00N4Q25R8) to get the volume on my AVR relative to what the actual measured SPL was in the MLP (~11 feet from the speakers).  I varied it between 85-90dB, occasionally going up to the mid 90's to see what the output capability was.  In a poll I found most listen to music in this range.  Realistically, 90dB is loud for long-term listening volume and I find most overestimate their listening volume until an SPL microphone is used to determine the actual level.
 * All speakers are provided a relatively high level of Pseudo Pink-Noise for a day or two - with breaks in between - in order to calm any "break-in" concerns.
@@ -394,8 +406,10 @@ Let's look again at the measured in-room response I provided above:
 <img align="left" src="/images/Reviews/Loudspeakers/Buchardt_S400/Buchardt S400_Measured_vs_Predicted.png" alt="measured vs predicted" width="120%"/>
 
 <br clear="all" />
+<br>
+<br>
 
-Here's the rundown of my subjective and where it fits with objective, too:
+**Here's the rundown of my subjective notes (in quotes) and where it fits with objective:**
 * Naturally, the lack of a high-pass filter (HPF) limited the maximum SPL I could achieve and I noticed audibly unloading of the woofer/passive radiator at volumes in the low 90dB range; more so with the Lauryn Hill and Bruno Mars tracks because they are a bit more stressing on the low end.  When I implemented a HPF = 80Hz/24dB the issue was diminished, and I could eek out a couple more dB in output.  But, overall, my maximum in-seat SPL was about 95dB @ 11 feet even with the 80Hz/24dB crossover.  Per the "6dB/doubling of distance" rule, if you are seated at about 5.5 feet that would increase to 101dB.
 * I liked that the John Mellencamp track was wide right as expected but did so without also coming forward of the soundstage which is a positive (some speakers throw the image at an angle forward rather than forward and to the side).
 * Female fundamental vocals were nice around 250Hz.

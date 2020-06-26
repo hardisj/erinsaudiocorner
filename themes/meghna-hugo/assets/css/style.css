@@ -30,10 +30,10 @@ h5,
 h6 {
   font-weight: 600;
   font-family: "Arial", serif;
-  /*color: #afbac4;*/
+  color: #B8860B;
   /*text-decoration: underline;*/
   text-align: center;
-  color: black;
+  /*color: black;*/
 }
 
 div.post-single-content p img {
