@@ -1,26 +1,22 @@
 ---
-title: "Jamo Audio S807 Floorstanding Speaker Review"
+title: "Jamo S807 Floorstanding Speaker Review"
 date: 2020-06-22
 draft: false
 image: /images/Reviews/Loudspeakers/Jamo_S807/speaker_photos/DSC06156.JPG
-description : "Jamo Audio S807 Floorstanding Speaker Review"
+description : "Jamo S807 Floorstanding Speaker Review"
 Tags: ["Jamo", "S807", "Floorstander", "Klippel"]
 ---
 
 
 ## Intro
 
-First off, I'll just save you a lot of trouble if you're a casual reader or someone wanting to know if they should buy these speakers for budget friendly hi-fi stereo use:  Do not buy these speakers.  I'm seeing reviewers give these 4/5 stars.  I don't agree.  Which by default implores you to trust me.  I know, that's incredibly hypocritical but I can back my reasons up with data.  I will do just that in this review.
+First off, I'll just save you a lot of trouble if you're a casual reader or someone wanting to know if they should buy these speakers for budget friendly hi-fi stereo use:  Do not buy these speakers.  They're not good.
 
-... (ascending my pedestal for a rant) ...
+The reason I chose this speaker for review is simple: I was hoping to find nice performance on a relatively small sized tower speaker that is typically < $300 for the pair (and occasionally < $200/pair).  One that just really punches above its class subjectively and objectively.  You know... a diamond in the rough.  Knowing Jamo is owned by Klipsch, I was a bit torn on what to expect.  Looking around, Jamo is historically known as a high-quality brand.  But that is not so true in present day.  Klipsch has the reputation of producing "bright" speakers but I was hopeful that since this wasn't the typical horn/waveguide Klipsch speakers use that it might not have those Klipsch traits few are fond of.  Then I could feel confident in telling folks to buy it and I might make $10 this month to help cover my dinner one night if their purchase is made through my Amazon affiliate link.  Unfortunately, this speaker is a poor performer and I cannot recommend it.
 
-There are a *lot* of ... ummm... budget friendly ... speakers available on Amazon.  Too many to count.  And there are a lot of audiophile-types with YouTube videos praising these speakers.  Many of the more popular YouTube reviewers go the Amazon speaker routes because they can link them via their Amazon Affiliate account, talk them up, and make a decent bit of money off them when people make the purchase through their links.  If you look around, you'll see that there aren't many reviewers telling you what is bad.  There seems to be an overabundance of videos telling you what to buy, though.  Is this because they don't review anything bad?  Or is this because they are only trying to make a buck off your purchases, regardless if the speaker is actually any good?  Makes you wonder, doesn't it?
+I'm seeing reviewers give these 4/5 stars.  I don't understand how.  I guess they just want to sell speakers through their affiliate links or the like.  I can't imagine any other reason why someone would recommend these for hi-fi purposes.  What I heard from the get-go was bad and what I saw in the data was even worse.  I know it is hypocritical to tell you to ignore others' positive (subjective) reviews and trust my negative review but I can back my reasons up with data and will do so in this review.
 
-I'm not saying linking speakers through an affiliate account is bad.  Certainly not when the speaker is a good performer or even as a way for a reviewer to make some money for his time and effort.  Myself included.  It just concerns me that there is so little accountability with reviewers in these influential positions.  They don't show data so they can just say "oh, well it sounds good to me" and skate on by with their profits from (knowingly) making a terrible recommendation.  One more reason I am more trusting of reviewers who provide data to accompany their reviews.
-
-... (descending my pedestal) ...
-
-The reason I chose this speaker for review is simple: I was hoping to find nice performance on a relatively small sized tower speaker that is typically < $300 for the pair (and occasionally < $200/pair).  One that just really punches above its class subjectively and objectively.  Knowing Jamo is owned by Klipsch, I was a bit torn on what to expect.  Klipsch has the reputation of being "bright" speakers but I was hopeful that since this wasn't the typical horn/waveguide Klipsch speakers use that it might not have those Klipsch traits few are fond of.  Then I could feel confident in telling folks to buy it and I might make $10 this month to help cover my dinner one night if their purchase is made through my Amazon affiliate link.  Unfortunately, this speaker is a poor performer.  At any rate, if you want to go through Amazon [here is my affiliate link for the Jamo S807 speaker](https://amzn.to/3ey10q6).  You can glance at the product page, the reviews and maybe purchase something else instead if you want to help me out.  But to make it clear:  Do not waste your money on this speaker for hi-fi stereo purposes.  Maybe for just some movie speakers in your living room but I can't really recommend that even at their low price point.  Not unless you like punchy-only bass and extremely bright treble.  What I heard from the get-go was bad and what I saw in the data was even worse.  I don't expect my subjective impressions to sway you from others' more positive reviews, but the data tells the exact story I heard... and honestly, I was surprised I was able to correlate subjectively so well with the objective data.
+At any rate, if you want to go through Amazon [here is my affiliate link for the Jamo S807 speaker](https://amzn.to/3ey10q6).  You can glance at the product page, the reviews and maybe purchase something else instead if you want to help me out.  But to make it clear:  Do not waste your money on this speaker for hi-fi stereo purposes.  Maybe for just some movie speakers in your living room but I can't really recommend that even at their low price point.  Not unless you like punchy-only bass and extremely bright treble.
 
 
 <br>
@@ -42,7 +38,7 @@ Now that you understand my motives, let's get started with the review.</details>
 
 I ordered this pair from Amazon.  I purchased the black baffle with the woodgrain-finish tweeter "waveguide" version because that was the cheapest version at the time (for some reason the white version is 2x more expensive but is the same mechanically).  I say "waveguide" because, while the tweeter assembly does have a smoothed, parabolic face, there's not much wave-guiding going on here.  The guide is really shallow and the tweeter dome sticks out nearly as high as the baffle face.  This waveguide isn't very effective.  And I feel like calling it a waveguide is misleading.  But that same token applies to countless tweeters in the retail and DIY market.
 
-The speakers do come with a gray, tweed grille magnetically snaps into place.  I prefer the grilles on.  But, as you'll see later, the performance is better without the grilles.
+The speakers do come with a gray, tweed grille which magnetically snaps into place.  Aesthetically, I prefer the speaker with grilles on.  But, as you'll see later, the performance is better without the grilles.
 
 <video width="500" autoplay loop muted playsinline src="/images/Reviews/Loudspeakers/Jamo_S807/speaker_photos/JamoS807_Spin_Video.mp4"></video>
 
@@ -143,7 +139,12 @@ As I said above, the provided frequency response graphs were given with a limite
 2) Full, "normalized" response (20Hz - 20kHz with the angles from 0° to ±180°) with SPL values relative to the 0-degree axis
 3) Normalized, "zoomed" response (200Hz - 20kHz with the angles from 0° to ±90°) with SPL values relative to the 0-degree axis
 
-The last two items are given relative to the on-axis response because this makes it easier to see just how well controlled the speaker's directivity is.  Ideally you have a smooth transition between crossovers with no major SPL jumps; this graphic makes directivity changes easier to spot.  The third is provided because the speaker is pretty much omnidirectional below 200Hz and there's no real need to see how it behaves off-axis relative to the on-axis response, so I just give you a more zoomed-in view.
+As I said above, the provided frequency response graphs were given with a limited set of data.  I measured the response of the speaker's vertical and horizontal axis in 10-degree steps over 360-degrees.  Nearly 70 measurements in total are represented in my data.  As you can imagine, providing all those data points in a single FR-type graphic below is a bit overwhelming and confusing for the viewer.  A spectrogram is an alternate way to view this full set of data.  This takes a 360-degree set of data and "collapses" it down to a rectangular representation of the various angles' SPL.  I have provided two sets of data: one set for horizontal and one for vertical.  Each set consists of 3 graphics:
+1) Full response (20Hz - 20kHz with the angles from 0° to ±180°) with absolute SPL values
+2) Full, "normalized" response (20Hz - 20kHz with the angles from 0° to ±180°) with SPL values relative to the 0-degree axis
+3) Normalized, "zoomed" response (200Hz - 20kHz with the angles from 0° to ±90°) with SPL values relative to the 0-degree axis
+
+Normalized plots make it easy to compare how the speaker’s off-axis response behaves relative to the on-axis response curve.
 
 
 <br clear="all" />
@@ -175,9 +176,9 @@ The last two items are given relative to the on-axis response because this makes
 
 <br>
 
-The above spectrograms are kind of the "standard" way of providing directivity graphics.  Most magazines/reviewers provide the response this way.  Some prefer *not* to normalize the data.  Some prefer to normalize the data.  Either way, it's a useful visual to get an idea of the directivity characteristics of a speaker or driver.
+The above spectrograms are the "standard" way of providing directivity graphics by most reviewers.  Some prefer *not* to normalize the data.  Some prefer to normalize the data.  Either way, it's a useful visual to get an idea of the directivity characteristics of a speaker or driver.
 
-That said, a speaker plays in all angles.  Horizontally, vertically and every way in between.  Without thousands of data points and interpolation between them there is no way to visually represent the speaker's sound field at every point in space. Though, horizontal and vertical axes measurements are enough to provide a good sense of speaker performance.  However, these "collapsed" representations of the sound field are not very intuitively viewed.  At least not to me.  So, I came up with a different way to view the speaker's horizontal and vertical sound field by providing it across a 360° range in a globe plot.  What you see below is just that.  I have provided both an absolute SPL version as well as a normalized version of both the horizontal and vertical sound fields.
+However, these "collapsed" representations of the sound field are not very intuitively viewed.  At least not to me.  So, I came up with a different way to view the speaker's horizontal and vertical sound field by providing it across a 360° range in a globe plot below.  I have provided both an absolute SPL version as well as a normalized version of both the horizontal and vertical sound fields.
 
 Note the legend provided in the top left of each image; this helps you understand which way the speaker would be oriented relative to my provided polar sound field.
 
@@ -201,7 +202,7 @@ Note the legend provided in the top left of each image; this helps you understan
 <br><br>
 ### CEA-2034 (aka: Spinorama):
 
-The following set of data is populated via the 360-degree, 10° stepped, "spins" from vertical and horizontal planes. Thus, this is sometimes referred to as "Spinorama" data.  Audioholics has a great writeup on what these data mean ([link here](https://www.audioholics.com/loudspeaker-design/understanding-loudspeaker-measurements)) and there is no sense in me trying to re-invent the wheel so I will reference you to them for further discussion.  However, I will explain these curves lightly and provide my own spin on what they mean (pun totally intended).  Sausalito Audio also has a good writeup on these curves [here](https://www.sausalitoaudio.com/wp-content/uploads/2018/07/Interpreting-Spinorama-Charts.pdf).  Furthermore, you can find discussion in Dr. Floyd Toole's book "Sound Reproduction".  [Here's my Amazon affiliate link](https://amzn.to/37tZN0A) if you want to purchase it and help me earn about 2% of the price.  And, finally, [here](https://www.youtube.com/watch?v=zrpUDuUtxPM) is a great video of Dr. Toole discussing the use of measurements to quantify in-room performance.
+The following set of data is populated via 360-degree, 10° stepped, "spins" from vertical and horizontal planes resulting in 70 unique measurements. Thus, this is sometimes referred to as "Spinorama" data.  Audioholics has a great writeup on what these data mean ([link here](https://www.audioholics.com/loudspeaker-design/understanding-loudspeaker-measurements)) and there is no sense in me trying to re-invent the wheel so I will reference you to them for further discussion.  However, I will explain these curves lightly and provide my own spin on what they mean (pun totally intended).  Sausalito Audio also has a good write-up on these curves [here](https://www.sausalitoaudio.com/wp-content/uploads/2018/07/Interpreting-Spinorama-Charts.pdf).  Furthermore, you can find discussion in Dr. Floyd Toole's book "Sound Reproduction".  [Here's my Amazon affiliate link](https://amzn.to/37tZN0A) if you want to purchase it and help me earn about 2% of the price.  And, finally, [here](https://www.youtube.com/watch?v=zrpUDuUtxPM) is a great video of Dr. Toole discussing the use of measurements to quantify in-room performance.
 
 In short, the CEA-2034 graphic below takes all the response measurements (horizontal and vertical) and applies weighting and averaging to sub-sets and can help provide an (accurate) prediction of the response in a typical room.  If there is a single set of data to use in your purchase decision, this is probably it.
 
@@ -246,13 +247,17 @@ You may ask just how useful the above prediction is.  Well, I'd be remiss for no
 <br><br>
 ### Total Harmonic Distortion (THD) and Compression:
 
-Distortion and Compression measurements were completed in the nearfield (approximately 0.3 meters).  However, SPL provided is relative to 1-meter distance.
+Distortion and Compression measurements were completed in the nearfield (approximately 0.3 meters).  However, SPL provided is relative to 1 meter distance.
 
-Harmonic Distortion and Compression are provided at varying levels to get an idea of what happens as the voltage into the speaker is increased and overall output volume increases.  The "mean SPL" values associated with each voltage provided in the legend is based on a calculation of expected volume *assuming linear volume* at the 300-3kHz region.  Meaning, if a speaker is ideal and you tell your stereo to increase by 6dB by turning the volume knob +6dB, the output will increase by 6dB.  In the real-world, however, a speaker is a mechanical device and there are compression effects that can limit the output volume and, therefore, you could possibly only get an actual increase in volume of 5dB.  A good speaker will have little compression (< 1dB), where poorer speakers may suffer greater compression (> 2dB).  *Generally speaking*, higher sensitivity speakers (like pro-audio speakers with 100dBSPL @ 2.83v/1m spec) suffer relatively no compression while lower sensitivity speakers (low 80's dBSPL @ 2.83v/1m) suffer more compression.  When a crossover is used the compression near the speaker's Fs is attenuated and overall the compression effects are mitigated.
+<details><summary> Harmonic Distortion and Compression: What does this data mean? (click me for info)</summary>
 
-With that in mind, what you see below is first the Total Harmonic Distortion at varying output levels.  At 2.83vRMS the mean SPL is about 85dB at 1 meter (over 300-3kHz).  Distortion at this output is under 0.50% above 200Hz and hits the 3% mark at about 40Hz.  As you'd expect, the distortion increases as volume increases.  Namely, near the speaker's roll off point.  Those numbers are pretty good on their own.
+Harmonic Distortion and Compression are provided at varying levels to get an idea of what happens as the voltage into the speaker is increased and overall output volume increases.  The "mean spl" values associated with each voltage provided in the legend is based on a calculation of expected volume *assuming linear volume* at the 300-3kHz region.  Meaning, if a speaker is ideal and you tell your stereo to increase by 6dB by turning the volume knob +6dB, the output will increase by 6dB.  In the real-world, however, a speaker is a mechanical device and there are compression effects that can limit the output volume and, therefore, you could possibly only get an actual increase in volume of 5dB.  A good speaker will have little compression (< 1dB), where poorer speakers may suffer greater compression (> 2dB).  *Generally speaking*, higher sensitivity speakers (like pro-audio speakers with 100dBSPL @ 2.83v/1m spec) suffer relatively no compression while lower sensitivity speakers (low 80's dBSPL @ 2.83v/1m) suffer more compression.  When a crossover is used the compression near the speaker's Fs is attenuated and overall the compression effects are mitigated.  With that in mind, what you see below is first the Total Harmonic Distortion at varying output levels.  </details>
 
-However, based on a poll I conducted, *most* people's in-room listening distance is between 3 to 4 meters from their speakers at a volume of about 85dB to 90dB.  Few people realize just how loud 90dB is.  I've often found people tend to overestimate their listening levels by a fair bit.  But, for the sake of determining how these speakers perform at the higher end of music listening, let's assume the following: 1) you are in your room and about 4 meters (~ 13 feet) from the speakers and 2) you listen to these speakers at about 90dB at the listening position.  In this scenario, you will need to look at the 93dB (7.62vRMS) measurements for THD and Compression.  Why?  The measurements I provide are, again, referenced to 1-meter distance from the speaker and of a *single* speaker. To get to 4 meters you double the distance twice (1 meter to 2 meters, 2 meters to 4 meters.  Each time you double the distance you increase or decrease the SPL level by ±6dB (+6dB if you move toward the speaker; -6dB if you move away).  This math gets you to 90dB target + 12dB for *one* speaker at 4 meters.  But you'd listen to a *pair of speakers* in a room which results in +3dB (for doubling of speakers). Now you're at 90+12+3dB. Also, typical rooms have a +6dB gain.  So, in order to get from 90dB at 4 meters in-room for a pair of speakers to the SPL at 1-meter for a single speaker in anechoic conditions to match my measurements: the math breaks down as: 90+12-3-6dB = 93dB for the single speaker at 1 meter.  Using the 93dB measurement tells you the measured low-frequency distortion at about 80Hz is near 3% THD and 6% at 40Hz.  Will you hear that?  Pure distortion is more subjective and depends not just on the listener but also no the program material.  What is of more concern to me is the THD rise above 5kHz where it increases above 2% THD.
+At 2.83vRMS the mean SPL is about 85dB at 1 meter (over 300-3kHz).  Distortion at this output is under 0.50% above 200Hz and hits the 3% mark at about 40Hz.  As you'd expect, the distortion increases as volume increases.  Namely, near the speaker's roll off point.  Those numbers are pretty good on their own.
+
+However, based on a poll I conducted, *most* people's in-room listening distance is between 3 to 4 meters from their speakers at a volume of about 85dB to 90dB.  Few people realize just how loud 90dB is.  I've often found people tend to overestimate their listening levels by a fair bit.  But, for the sake of determining how these speakers perform at the higher end of music listening, let's assume the following: 1) you are in your room and about 4 meters (~ 13 feet) from the speakers and 2) you listen to these speakers at about 90dB at the listening position.  The pair of speakers causes a 3dB increase, the room typically adds 6dB, but the change in distance from 1 meter to 4 meters results in a 12dB drop.  This equals a total of +3dB from single speaker anechoic 1 meter response to in-room speaker pair at 4 meters.  Therefore, in this scenario, you will need to look at the 93dB (7.62vRMS) measurements for THD and Compression.
+
+Using the 93dB measurement tells you the measured low-frequency distortion at about 80Hz is near 3% THD and 6% at 40Hz.  Will you hear that?  Pure distortion is more subjective and depends not just on the listener but also no the program material.  What is of more concern to me is the THD rise above 5kHz where it increases above 2% THD.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Jamo_S807/Jamo S807_harmonicDistortion_linear.png" alt="360 vert spect norm" width="120%"/>
 
@@ -340,15 +345,28 @@ Step-Response. Automating this one takes a bit more thought (grab the first retu
 ## Objective Evaluation:
 
 Much of what I am about to say I have already touched on under the data.  But to recap:
-Frequency Response:
-* Terrible linearity.  This is the first speaker I have tested with such a wild variation in frequency response.  The response curve looks like a smiley face: lows and highs but no midrange.  This will probably grab people's attention and to those who don't know what a high-fidelity speaker should sound like it may sound awesome: it grabs your attention with the bass bump around 80Hz and with the overly-exaggerated high frequency response.  But after a couple minutes you begin to realize just how bad it is.
-* Jamo's site states this speaker has a sensitivity of 90dB @ 2.83v/1m.  I measured an average of 84.2dB @ 2.83v/1m.  They must be using the 7kHz+ region to get their numbers.
+
+**Impedance**:
+* Minimum load of about 7.1 Ohms.  Easily driven by most AVRs.
+* Wiggles around 400Hz indicate resonance which also shows up in frequency response.
+
+<br>
+
+**Frequency Response/Spectrograms/Globes/Spinorama:**
+* Terrible linearity.  This is the first speaker I have tested with such a wild variation in frequency response.  The response curve looks like a smiley face: lows and highs but no midrange.  This will probably grab people's attention and to those who don't know what a high fidelity speaker should sound like it may sound awesome: it grabs your attention with the bass bump around 80Hz and with the overly-exaggerated high frequency response.  But after a couple minutes you begin to realize just how bad it is.
+* Jamo's site states this speaker has a sensitivy of 90dB @ 2.83v/1m.  I measured an average of 84.2dB @ 2.83v/1m.  They must be using the 7kHz+ region to get their numbers.
 * Jamo claims a ±3dB window of 42Hz - 26kHz.  I measured a ±3dB response from 53Hz - 5kHz but only if you ignore the dip in response between 350-600Hz.
-* Unacceptably high compression below 100Hz.
 * Numerous resonances; most caused by the port.  These show up at ~200Hz and 400Hz.
-* The 5-inch woofers' breakup modes cause resonance around 1.5kHz to 3kHz and apparently from 4-5kHz.
+* The 5-inch woofers' breakup modes cause resonance around 1.5kHz to 3kHz and also apparently from 4-5kHz.
 * Multiple directivity shifts caused by poor crossover and resonances.
 * Large tweeter results in a narrow directivity above 13kHz.
+
+<br>
+
+**Distortion/Compression:**
+* High distortion at 40Hz but understandable given woofer size.
+* Unacceptable levels of compression at high output below 100Hz.
+* These are both audible effects when listening full-range as I did.
 
 <br><br>
 ## Subjective Evaluation:
