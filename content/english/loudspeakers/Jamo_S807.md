@@ -139,13 +139,7 @@ As I said above, the provided frequency response graphs were given with a limite
 2) Full, "normalized" response (20Hz - 20kHz with the angles from 0° to ±180°) with SPL values relative to the 0-degree axis
 3) Normalized, "zoomed" response (200Hz - 20kHz with the angles from 0° to ±90°) with SPL values relative to the 0-degree axis
 
-As I said above, the provided frequency response graphs were given with a limited set of data.  I measured the response of the speaker's vertical and horizontal axis in 10-degree steps over 360-degrees.  Nearly 70 measurements in total are represented in my data.  As you can imagine, providing all those data points in a single FR-type graphic below is a bit overwhelming and confusing for the viewer.  A spectrogram is an alternate way to view this full set of data.  This takes a 360-degree set of data and "collapses" it down to a rectangular representation of the various angles' SPL.  I have provided two sets of data: one set for horizontal and one for vertical.  Each set consists of 3 graphics:
-1) Full response (20Hz - 20kHz with the angles from 0° to ±180°) with absolute SPL values
-2) Full, "normalized" response (20Hz - 20kHz with the angles from 0° to ±180°) with SPL values relative to the 0-degree axis
-3) Normalized, "zoomed" response (200Hz - 20kHz with the angles from 0° to ±90°) with SPL values relative to the 0-degree axis
-
-Normalized plots make it easy to compare how the speaker’s off-axis response behaves relative to the on-axis response curve.
-
+Normalized plots make it easier to compare how the speaker’s off-axis response behaves relative to the on-axis response curve.
 
 <br clear="all" />
 
@@ -176,11 +170,12 @@ Normalized plots make it easy to compare how the speaker’s off-axis response b
 
 <br>
 
-The above spectrograms are the "standard" way of providing directivity graphics by most reviewers.  Some prefer *not* to normalize the data.  Some prefer to normalize the data.  Either way, it's a useful visual to get an idea of the directivity characteristics of a speaker or driver.
+The above spectrograms are the standard way of providing directivity graphics by most reviewers.  Some prefer *not* to normalize the data.  Some prefer to normalize the data.  Either way, it's a useful visual to get an idea of the directivity characteristics of a speaker or driver.
 
 However, these "collapsed" representations of the sound field are not very intuitively viewed.  At least not to me.  So, I came up with a different way to view the speaker's horizontal and vertical sound field by providing it across a 360° range in a globe plot below.  I have provided both an absolute SPL version as well as a normalized version of both the horizontal and vertical sound fields.
 
-Note the legend provided in the top left of each image; this helps you understand which way the speaker would be oriented relative to my provided polar sound field.
+Note the legend provided in the top left of each image which helps you understand speaker oreientation provided in my global plots below.
+
 
 <img align="left" src="/images/Reviews/Loudspeakers/Jamo_S807/Jamo S807_360_Horizontal_Polar.png" alt="360 horz polar" width="120%"/>
 
@@ -253,7 +248,7 @@ Distortion and Compression measurements were completed in the nearfield (approxi
 
 Harmonic Distortion and Compression are provided at varying levels to get an idea of what happens as the voltage into the speaker is increased and overall output volume increases.  The "mean spl" values associated with each voltage provided in the legend is based on a calculation of expected volume *assuming linear volume* at the 300-3kHz region.  Meaning, if a speaker is ideal and you tell your stereo to increase by 6dB by turning the volume knob +6dB, the output will increase by 6dB.  In the real-world, however, a speaker is a mechanical device and there are compression effects that can limit the output volume and, therefore, you could possibly only get an actual increase in volume of 5dB.  A good speaker will have little compression (< 1dB), where poorer speakers may suffer greater compression (> 2dB).  *Generally speaking*, higher sensitivity speakers (like pro-audio speakers with 100dBSPL @ 2.83v/1m spec) suffer relatively no compression while lower sensitivity speakers (low 80's dBSPL @ 2.83v/1m) suffer more compression.  When a crossover is used the compression near the speaker's Fs is attenuated and overall the compression effects are mitigated.  With that in mind, what you see below is first the Total Harmonic Distortion at varying output levels.  </details>
 
-At 2.83vRMS the mean SPL is about 85dB at 1 meter (over 300-3kHz).  Distortion at this output is under 0.50% above 200Hz and hits the 3% mark at about 40Hz.  As you'd expect, the distortion increases as volume increases.  Namely, near the speaker's roll off point.  Those numbers are pretty good on their own.
+What you see below is first the Total Harmonic Distortion at varying output levels.  At 2.83vRMS the mean SPL is about 85dB at 1 meter (over 300-3kHz).  Distortion at this output is under 0.50% above 200Hz and hits the 3% mark at about 40Hz.  As you'd expect, the distortion increases as volume increases.  Namely, near the speaker's roll off point.  Those numbers are pretty good on their own.
 
 However, based on a poll I conducted, *most* people's in-room listening distance is between 3 to 4 meters from their speakers at a volume of about 85dB to 90dB.  Few people realize just how loud 90dB is.  I've often found people tend to overestimate their listening levels by a fair bit.  But, for the sake of determining how these speakers perform at the higher end of music listening, let's assume the following: 1) you are in your room and about 4 meters (~ 13 feet) from the speakers and 2) you listen to these speakers at about 90dB at the listening position.  The pair of speakers causes a 3dB increase, the room typically adds 6dB, but the change in distance from 1 meter to 4 meters results in a 12dB drop.  This equals a total of +3dB from single speaker anechoic 1 meter response to in-room speaker pair at 4 meters.  Therefore, in this scenario, you will need to look at the 93dB (7.62vRMS) measurements for THD and Compression.
 
@@ -489,6 +484,8 @@ I also turned the speakers to be about 30° off-axis to see if I could get rid o
 
 I did not choose to pursue any further analysis with this speaker.  It's a bad performer.  Not worthy of Dirac, in my humble opinion.
 
+<br>
+<br>
 
 ## Bottom Line
 
@@ -498,6 +495,8 @@ I am fully aware that one argument for these speakers is that they have 2 woofer
 
 The treble is greater than 5dB higher than the midrange output.  Unfortunately, thanks to the directivity mismatches and resonances, a simple tonal balance either via EQ or the "treble" knob on your receiver will not solve the issues found in the high frequency range.  Remember, you are listening to the culmination of sounds in a room: not just a single axis response.  When you look at the other axes' response relative to the on-axis response there are numerous areas where the sound becomes directional both horizontally and vertically.  This creates mismatches in what you hear first (the direct, on-axis sound) and what is reflected (Early Reflections).
 
+<br>
+<br>
 
 ## The End
 
