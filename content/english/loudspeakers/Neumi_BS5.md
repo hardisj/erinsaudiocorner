@@ -581,7 +581,7 @@ Let's look again at the measured in-room response I provided above.  Notice how 
 
 I also turned the speakers to be about 10 to 30° off-axis to see if I could get rid of the harsh treble.  That didn't help much at all and when you view the data you can see the off-axis response has low directivity around 4kHz (meaning, the sound is more omnidirectional at this frequency) which indicates the bright 4kHz region would be noticeable through a wider region of angles. I believe this explains the "biting" noise I was hearing as well.
 
-I did not choose to pursue any further analysis with this speaker.  It's a bad performer.  Not worthy of Dirac, in my humble opinion.
+I didn't have a chance to run Dirac Live so I can't speak to what the sound would be post room correction.
 
 <br>
 <br>
