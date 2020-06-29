@@ -536,7 +536,7 @@ Note: I don't generally audition speakers with the typical "audiophile" music.  
 <br><br>
 
 **Subjective Analysis Setup:**
-* The speaker was aimed on-axis with the tweeter at ear level.
+* The speaker was aimed on-axis with the vertical listening axis between the mid and tweeter per Neumi's manual.
 * I used [Room EQ Wizard (REW)](https://www.roomeqwizard.com/) and my calibrated [MiniDSP UMIK-1](https://www.amazon.com/miniDSP-UMIK-1-Measurement-Calibrated-Microphone/dp/B00N4Q25R8) to get the volume on my AVR relative to what the actual measured SPL was in the MLP (~11 feet from the speakers).  I varied it between 85-90dB, occasionally going up to the mid 90's to see what the output capability was.  In a poll I found most listen to music in this range.  Realistically, 90dB is loud for long-term listening volume and I find most overestimate their listening volume until an SPL microphone is used to determine the actual level.
 * All speakers are provided a relatively high level of Pseudo Pink-Noise for a day or two - with breaks in between - in order to calm any "break-in" concerns.
 * I demoed these speakers *without a crossover* and *without EQ*.
