@@ -345,7 +345,7 @@ These are just some extra sets of measurements I completed.  Some, I didn't proc
 
 **On-Axis Response comparison between Speaker A and Speaker B.**
 
-This result shows a very good consistency between units other than the response below 30Hz.  I'm impressed!
+This result shows the difference between the two speakers I received as a pair.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Neumi_BS5/Neumi BS5 Speaker_FR_Compare.png" alt="grille on/off" width="120%" style="vertical-align:middle;margin:20px 0px"/>
 
