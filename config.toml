@@ -104,7 +104,7 @@ post_share = true
 
 # preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/logos/speaker_trans_tshirt.png" # pre-loader logo
 
 # google map
