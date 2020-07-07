@@ -7,6 +7,15 @@ description : "Jamo S807 Floorstanding Speaker Review"
 Tags: ["Jamo", "S807", "Floorstander", "Klippel"]
 ---
 
+## YouTube Video Review version:
+
+<iframe style="display: block; margin: auto;" width="630" height="472.5"
+src="https://www.youtube.com/embed/R_Yb3GO9XtI"  >
+</iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 ## Intro
 
@@ -39,8 +48,6 @@ Now that you understand my motives, let's get started with the review.</details>
 I ordered this pair from Amazon.  I purchased the black baffle with the woodgrain-finish tweeter "waveguide" version because that was the cheapest version at the time (for some reason the white version is 2x more expensive but is the same mechanically).  I say "waveguide" because, while the tweeter assembly does have a smoothed, parabolic face, there's not much wave-guiding going on here.  The guide is really shallow and the tweeter dome sticks out nearly as high as the baffle face.  This waveguide isn't very effective.  And I feel like calling it a waveguide is misleading.  But that same token applies to countless tweeters in the retail and DIY market.
 
 The speakers do come with a gray, tweed grille which magnetically snaps into place.  Aesthetically, I prefer the speaker with grilles on.  But, as you'll see later, the performance is better without the grilles.
-
-<video width="500" autoplay loop muted playsinline src="/images/Reviews/Loudspeakers/Jamo_S807/speaker_photos/JamoS807_Spin_Video.mp4"></video>
 
 ![photo1](/images/Reviews/Loudspeakers/Jamo_S807/speaker_photos/DSC06150.JPG)
 
