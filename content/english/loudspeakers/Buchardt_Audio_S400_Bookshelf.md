@@ -14,14 +14,19 @@ A few months ago, I came across a forum post that touched on [Buchardt Audio's S
 
 <br>
 
-## Foreword: Subjective vs Objective
-If you have seen my past reviews you know that I am of the mindset that objective data is at least as important as someone's subjective evaluation of a speaker.  If not more.  Why?  Because every room is different.  Every listener is different.  Some know what to listen for.  Others know what they want to hear based on their own preference (i.e., some prefer extended bass, some prefer more midbass punch between 120-150Hz, some prefer a response with a dip around 4kHz, etc., etc.).  What one person wants or expects may be opposite of another.  Additionally, the room will impact the performance and therefore what the listener hears.  This means when you read another's subjective-only review you are left to resolve those variables on your own.  That's not likely to happen.  Unless there is objective data you can use to get an idea of the performance.  With objective data you can begin to understand why the subjective review turned out the way it did.  Notably, objective data keeps reviewers honest.  It's hard for a reviewer to legitimately bash one product but elevate another when the two measure practically the same in every regard.  Not to say two simimarly measuring speakers cannot subjectively sound different.  Though, odds are if they do measure the same then a huge subjective difference is most likely attributed to other issues such as setup conditions, bias, etc.  Objective data is the key to accountability.  Simply put: if the measurements are taken with care and you understand them, you can rely on data to help paint a more accurate description of performance than a few adjectives from your favorite reviewer (myself included).  As you will see, objective measurements can provide a lot of insight in to how the speaker will perform in your room.
+<details>
+<summary>
+Foreword: Subjective Analysis vs Objective Data (click for more)
+</summary></br>
+If you have seen my past reviews, you know that I am of the mindset that objective data is at least as important as someone's subjective evaluation of a speaker.  If not more.  Why?  Because every room is different.  Every listener is different.  Some know what to listen for.  Others know what they want to hear based on their own preference (i.e., some prefer extended bass, some prefer more midbass punch between 120-150Hz, some prefer a response with a dip around 4kHz, etc., etc.).  What one person wants or expects may be opposite of another.  Additionally, the room will impact the performance and therefore what the listener hears.  This means when you read another's subjective-only review you are left to resolve those variables on your own.  That's not likely to happen.  Unless there is objective data you can use to get an idea of the performance.  With objective data you can begin to understand why the subjective review turned out the way it did.  Notably, objective data keeps reviewers honest.  It's hard for a reviewer to legitimately bash one product but elevate another when the two measure practically the same in every regard.  Not to say two similarly measuring speakers cannot subjectively sound different.  Though, odds are if they do measure the same then a huge subjective difference is most likely attributed to other issues such as setup conditions, bias, etc.  Objective data is the key to accountability.  Simply put: if the measurements are taken with care and you understand them, you can rely on data to help paint a more accurate description of performance than a few adjectives from your favorite reviewer (myself included).  As you will see, objective measurements can provide a lot of insight in to how the speaker will perform in your room.
 
-However, when possible, it is always best to demo speakers in your own room.  Not simply because of subjective performance.  But because of other factors such as aesthetics, pride of ownership, etc.  In my experience, all these factors play in to how the listener "connects" with the system.  A good shop or manufacturer understands this and allows buyers to try items out at home before purchasing or they offer a reasonable return policy.  If you question the performance and have the ability to demo the speakers in your own home I suggest you take advantage of the opportunity.
+However, when possible, it is always best to demo speakers in your own room.  Not simply because of subjective performance.  But because of other factors such as aesthetics, pride of ownership, etc.  In my experience, all these factors play in to how the listener "connects" with the system.  A good shop or manufacturer understands this and allows buyers to try items out at home before purchasing or they offer a reasonable return policy.  If you question the performance and can demo the speakers in your own home I suggest you take advantage of the opportunity.
 
 For all the reasons listed above: What I provide here is objective-heavy analysis.  I still provide my own subjective experience but with in-room measurements at my listening position(s) so we can understand why I heard what I heard.  Is it the room, the actual speaker itself, my brain, or a combination?
 
-Now that you understand my motives, let's get started with the review.
+Now that you understand my motives, let's get started with the review.</details>
+</br></br>
+
 
 
 ## Product Specs and Photos
@@ -30,7 +35,6 @@ I received this demo pair after a fellow reviewer had his crack and made his You
 
 The speakers do come with a black grille for both the mid/woofer and tweeter which both magnetically snap in place.  However, I prefer the look of these speakers without the grilles.  And, as you'll see later, the performance is better without the grilles.
 
-<video width="500" autoplay loop muted playsinline src="/images/Reviews/Loudspeakers/Buchardt_S400/speaker_photos/360video.mp4"></video>
 
 ![photo1](/images/Reviews/Loudspeakers/Buchardt_S400/speaker_photos/DSC06107.JPG)
 
