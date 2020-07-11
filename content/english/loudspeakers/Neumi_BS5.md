@@ -16,8 +16,6 @@ src="https://www.youtube.com/embed/NnGbd9hxZe8"  >
 <br>
 <br>
 
-https://youtu.be/
-
 ## Intro
 
 I stumbled on talk of the Neumi BS5 speaker recently in the context of a potential high-value speaker.  Out of curiosity, I went to the product page on Amazon to check them out and liked what I saw.  I then pulled up the Neumi's BS5 manual [here is the link](https://neumitech.com/wp-content/uploads/2020/04/NEUMI-BS5-USER-MANUAL.pdf) where I saw placement recommendations, and some other bits of information which all gave me the impression the manufacturer cares about how the user listens to their product rather than the old "sink or swim" attitude low-cost products leave you with.  Generally, when this information is laid out for the user it also implies the product is worthwhile.  At least, that's the impression I am left with in those cases.
