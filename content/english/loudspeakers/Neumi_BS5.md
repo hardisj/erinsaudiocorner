@@ -6,7 +6,17 @@ image: /images/Reviews/Loudspeakers/Neumi_BS5/speaker_photos/DSC06170_2.JPG
 description : "Neumi BS5 Bookshelf Speaker Review"
 Tags: ["Neumi", "BS5", "Bookshelf", "Klippel"]
 ---
+## YouTube Video Review version:
 
+<iframe style="display: block; margin: auto;" width="630" height="472.5"
+src="https://www.youtube.com/embed/NnGbd9hxZe8"  >
+</iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
+
+https://youtu.be/
 
 ## Intro
 

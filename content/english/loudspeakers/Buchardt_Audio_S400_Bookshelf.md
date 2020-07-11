@@ -6,7 +6,15 @@ image: /images/Reviews/Loudspeakers/Buchardt_S400/speaker_photos/DSC06118 - Copy
 description : "Buchardt Audio S400 Bookshelf Speaker Review"
 Tags: ["Buchardt", "S400", "Bookshelf", "Klippel"]
 ---
+## YouTube Video Review version:
 
+<iframe style="display: block; margin: auto;" width="630" height="472.5"
+src="https://www.youtube.com/embed/SD37No6qgPE"  >
+</iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 ## Intro:
 
