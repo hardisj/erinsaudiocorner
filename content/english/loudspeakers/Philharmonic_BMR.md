@@ -211,7 +211,7 @@ Below is a breakout of the typical room's Early Reflections contributors (floor 
 
 <br>
 
-And below is the Predicted In-Room response compared to a general Target curve equaling -1dB/octave.  The -1dB shelf below 300Hz effects the location of this target curve.  Additionally, this, speaker didn't sound as bright as this overlay may indicate.  Though, I did find it to be about 1dB too high in treble up until 10kHz where I wanted more "air".  The combination of what I heard and this shelf would probably put the target and predicted curves more in line with what I heard.
+And below is the Predicted In-Room response compared to a general Target curve equaling -1dB/octave.  The -1dB shelf below 300Hz effects the location of this target curve.  Additionally, this, speaker didn't sound as bright as this overlay may indicate.  Though, I did find it to be about 1dB too high in treble up until 10kHz where I wanted more "air".  The combination of what I heard and this shelf would probably put the target and predicted curves more in line with what I heard.  Also, the Predicted In-Room response is a function of radiation.  This speaker's tweeter does not radiate like a typical dome tweeter and therefore has a much broader horizontal dispersion pattern, which seemingly causes the Predicted In-Room high frequency response to be more flat.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Philharmonic_BMR/Philharmonic BMR_Predicted_vs_Target.png" alt="predicted vs target" width="120%" style="vertical-align:middle;margin:20px 0px"/>
 
