@@ -345,6 +345,85 @@ The compression effects shown in the image below are a visual way of seeing just
 
 <br><br><br>
 
+### Maximum Long Term SPL:
+
+The below data provides the metrics for how Maximum Long Term SPL is determined.  This measurement follows the IEC 60268-21 Long Term SPL protocol, per Klippel's template, as such:
+- Rated maximum sound pressure according IEC 60268-21 §18.4
+- Using broadband multi-tone stimulus according §8.4
+- Stimulus time = 60 s Excitation time + Preloops according §18.4.1
+
+Each voltage test is 1 minute long (hence, the "Long Term" nomenclature).
+
+The thresholds to determine the maximum SPL are:
+- -20dB Distortion relative to the fundamental
+- -3dB compression relative to the reference (1V) measurement
+
+<br>
+
+When the speaker has reached either or both of the above thresholds, the test is terminated and the SPL of the last test is the maximum SPL.  In the below results I provide the summarized table as well as the data showing how/why this SPL was deemed to be the maximum.
+
+<br>
+
+This measurement is conducted twice:
+* First with a 20Hz to 20kHz multitone signal
+* Second with a limited 80Hz to 20kHz signal
+
+The reason for the two measurements is because it is unfair to expect a small bookshelf speaker to extend low in frequency.  Applying both will provide a good idea of the limitations if you were to want to run a speaker full range vs using one with a *typical* 80Hz HPF.  And you will have a way to compare various speakers' SPL limitations with each other.  However, note: the 80Hz signal is a "brick wall" and does not emulate a typical 80Hz HPF slope of 24dB/octave.  But... it's close enough.
+
+<br>
+
+**Test 1: 20Hz to 20kHz**
+
+Table Results:
+<img align="left" src="/images/Reviews/Loudspeakers/Neumi_BS5/maxspl_table_20.png" alt="maxspl_table_20" width="120%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+Multitone compression testing.  The red line shows the final measurement where either distortion and/or compression failed.  The voltage just before this is used to help determine the maximum SPL.
+
+<img align="left" src="/images/Reviews/Loudspeakers/Neumi_BS5/Neumi BS5_MTON_Compression 20.png" alt="MTON_Compression_20" width="120%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+
+Multitone distortion testing.  The dashed blue line represents the -20dB (1% distortion) threshold for failure.  The dashed red line is for reference and shows the 3% distortion mark (but has no bearing on pass/fail).  The green line shows the final measurement where either distortion and/or compression failed.  The voltage just before this is used to help determine the maximum SPL.
+
+<img align="left" src="/images/Reviews/Loudspeakers/Neumi_BS5/Neumi BS5_MTON_Distortion 20.png" alt="MTON_DISTORTION_20" width="120%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+
+
+**Test 2: 80Hz to 20kHz**
+
+Table Results:
+<img align="left" src="/images/Reviews/Loudspeakers/Neumi_BS5/maxspl_table_80.png" alt="maxspl_table_80" width="120%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+Multitone compression testing.  The red line shows the final measurement where either distortion and/or compression failed.  The voltage just before this is used to help determine the maximum SPL.
+
+<img align="left" src="/images/Reviews/Loudspeakers/Neumi_BS5/Neumi BS5_MTON_Compression 80.png" alt="MTON_Compression_80" width="120%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+
+Multitone distortion testing.  The dashed blue line represents the -20dB (1% distortion) threshold for failure.  The dashed red line is for reference and shows the 3% distortion mark (but has no bearing on pass/fail).  The green line shows the final measurement where either distortion and/or compression failed.  The voltage just before this is used to help determine the maximum SPL.
+
+<img align="left" src="/images/Reviews/Loudspeakers/Neumi_BS5/Neumi BS5_MTON_Distortion 80.png" alt="MTON_DISTORTION_80" width="120%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+
+
+The above data can be summed up by looking at the tables above but is provided here again:
+<br>
+* Max SPL for 20Hz to 20kHz is approximately 82dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+* Max SPL for 20Hz to 20kHz is approximately 93dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+
+<br><br>
+
+
 ### Extra Measurements:
 
 These are just some extra sets of measurements I completed.  Some, I didn't process through my MATLAB scripts so they're kind of raw.  But I know some would like to see them so here you go.
