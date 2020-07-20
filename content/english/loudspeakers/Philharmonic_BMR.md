@@ -293,7 +293,7 @@ Multitone compression testing.  The red line shows the final measurement where e
 <br clear="all" />
 
 
-Multitone distortion testing.  The dashed blue line represents the -20dB (1% distortion) threshold for failure.  The dashed red line is for reference and shows the 3% distortion mark (but has no bearing on pass/fail).  The green line shows the final measurement where either distortion and/or compression failed.  The voltage just before this is used to help determine the maximum SPL.
+Multitone distortion testing. The dashed blue line represents the -20dB (10% distortion) threshold for failure. The dashed red line is for reference and shows the 1% distortion mark (but has no bearing on pass/fail). The green line shows the final measurement where either distortion and/or compression failed. The voltage just before this is used to help determine the maximum SPL.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Philharmonic_BMR/Philharmonic BMR_MTON_Distortion 20.png" alt="MTON_DISTORTION_20" width="120%" style="vertical-align:middle;margin:20px 0px"/>
 
@@ -315,7 +315,7 @@ Multitone compression testing.  The red line shows the final measurement where e
 <br clear="all" />
 
 
-Multitone distortion testing.  The dashed blue line represents the -20dB (1% distortion) threshold for failure.  The dashed red line is for reference and shows the 3% distortion mark (but has no bearing on pass/fail).  The green line shows the final measurement where either distortion and/or compression failed.  The voltage just before this is used to help determine the maximum SPL.
+Multitone distortion testing. The dashed blue line represents the -20dB (10% distortion) threshold for failure. The dashed red line is for reference and shows the 1% distortion mark (but has no bearing on pass/fail). The green line shows the final measurement where either distortion and/or compression failed. The voltage just before this is used to help determine the maximum SPL.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Philharmonic_BMR/Philharmonic BMR_MTON_Distortion 80.png" alt="MTON_DISTORTION_80" width="120%" style="vertical-align:middle;margin:20px 0px"/>
 
