@@ -370,6 +370,9 @@ This measurement is conducted twice:
 
 The reason for the two measurements is because it is unfair to expect a small bookshelf speaker to extend low in frequency.  Applying both will provide a good idea of the limitations if you were to want to run a speaker full range vs using one with a *typical* 80Hz HPF.  And you will have a way to compare various speakers' SPL limitations with each other.  However, note: the 80Hz signal is a "brick wall" and does not emulate a typical 80Hz HPF slope of 24dB/octave.  But... it's close enough.
 
+You can watch a demonstration of this testing via my YouTube channel:
+https://youtu.be/iCjJufvW0IA
+
 <br>
 
 **Test 1: 20Hz to 20kHz**
