@@ -422,7 +422,7 @@ Multitone distortion testing. The dashed blue line represents the -20dB (10% dis
 The above data can be summed up by looking at the tables above but is provided here again:
 <br>
 * Max SPL for 20Hz to 20kHz is approximately 82dB @ 1 meter.  The compression threshold was exceeded above this SPL.
-* Max SPL for 20Hz to 20kHz is approximately 93dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+* Max SPL for 80Hz to 20kHz is approximately 93dB @ 1 meter.  The compression threshold was exceeded above this SPL.
 
 <br><br>
 
