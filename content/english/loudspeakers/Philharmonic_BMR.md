@@ -4,7 +4,7 @@ date: 2020-07-18
 draft: false
 image: /images/Reviews/Loudspeakers/Philharmonic_BMR/speaker_photos/DSC06309_cropped.JPG
 description : "Philharmonic BMR Bookshelf Speaker Review"
-Tags: ["Neumi", "BS5", "Bookshelf", "Klippel"]
+Tags: ["Philharmonic", "BMR", "Bookshelf", "Klippel", "Review", "Speaker"]
 ---
 
 
@@ -425,7 +425,7 @@ Note: I don't generally audition speakers with the typical "audiophile" music.  
 <br><br>
 
 **Subjective Analysis Setup:**
-* The speaker was aimed on-axis with the vertical listening axis between the mid and tweeter per Neumi's manual.
+* The speaker was aimed on-axis with the vertical listening axis on the tweeter axis.
 * I used [Room EQ Wizard (REW)](https://www.roomeqwizard.com/) and my calibrated [MiniDSP UMIK-1](https://www.amazon.com/miniDSP-UMIK-1-Measurement-Calibrated-Microphone/dp/B00N4Q25R8) to get the volume on my AVR relative to what the actual measured SPL was in the MLP (~11 feet from the speakers).  I varied it between 85-90dB, occasionally going up to the mid 90's to see what the output capability was.  In a poll I found most listen to music in this range.
 * All speakers are provided a relatively high level of Pseudo Pink-Noise for a day or two - with breaks in between - in order to calm any "break-in" concerns.
 * I demoed these speakers *without a crossover* and *without EQ*.
