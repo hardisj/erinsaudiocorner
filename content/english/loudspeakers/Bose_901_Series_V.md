@@ -661,7 +661,7 @@ If you haven't heard the Bose 901 speakers, I encourage you to find a pair and g
 <br>
 <br>
 
-## The End
+## Contribute
 
 If you like what you see here and want to help me keep it going, you can donate via the PayPal Contribute button at the bottom of each page.  Since this item was loaned to me for testing I am having to pay round trip shipping which is about $230.  If you can help by chipping in a few bucks I would truly appreciate it.
 
