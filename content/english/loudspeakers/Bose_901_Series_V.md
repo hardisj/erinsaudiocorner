@@ -1,6 +1,6 @@
 ---
 title: "Bose 901 Series V Speaker Review"
-date: 2020-07-18
+date: 2020-07-22
 draft: false
 image: /images/Reviews/Loudspeakers/Bose_901/speaker_photos/DSC06316_resized.png
 description : "Bose 901 Series V Bookshelf Speaker Review"
@@ -597,6 +597,7 @@ Note: I don't generally audition speakers with the typical "audiophile" music.  
 <br><br>
 
 **Subjective Analysis Setup:**
+* I listened to these in my downstairs living room so I could position them close to the front wall (which is about 20 feet wide) to see how much effect the near-wall placement mattered.  While it did change the effect of the soundstage, for the most part, it was the same result I had in my main listening room upstairs.  I always try to listen to speakers in different settings to see if one is more suited for a particular speaker and in this case the difference was more minimal than I expected.  Obviously your mileage may vary.
 * The EQ was always in-line in my listening sessions.  I only measured them without to get an idea of the raw speaker performance.  But I listened to them with the EQ.
 * I listened to these various ways:  with the speakers near the side wall, with the speakers 3 feet from the sidewalls.  With and without Dirac Live.  I will make notes where applicable to define the specific listening conditions.
 * I used [Room EQ Wizard (REW)](https://www.roomeqwizard.com/) and my calibrated [MiniDSP UMIK-1](https://www.amazon.com/miniDSP-UMIK-1-Measurement-Calibrated-Microphone/dp/B00N4Q25R8) to get the volume on my AVR relative to what the actual measured SPL was in the MLP (~11 feet from the speakers).  I varied it between 85-90dB, occasionally going up to the mid 90's to see what the output capability was.  In a poll I found most listen to music in this range.
