@@ -548,6 +548,9 @@ The graphic below shows both the "raw", without EQ step-response (blue) as well 
 
 Before I dive into the subjective feedback let me first give you the layout of my room.  Note that I provide two images of the listening setup.  I initially tried the speakers close to the side walls and then I moved them about 3 feet from the side walls.
 
+Also, it is important for me to make clear I listened to these in my downstairs living room so I could position them close to the front wall (which is about 20 feet wide) to see how much effect the near-wall placement mattered.  While it did change the effect of the soundstage, for the most part, it was the same result - tonally - I had in my main listening room upstairs.  I always try to listen to speakers in different settings to see if one is more suited for a particular speaker and in this case the difference was more minimal than I expected.  Obviously your mileage may vary.
+
+
 <img align="left" src="/images/Reviews/Loudspeakers/HT2.png" alt="room layout" width="120%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
@@ -597,7 +600,6 @@ Note: I don't generally audition speakers with the typical "audiophile" music.  
 <br><br>
 
 **Subjective Analysis Setup:**
-* I listened to these in my downstairs living room so I could position them close to the front wall (which is about 20 feet wide) to see how much effect the near-wall placement mattered.  While it did change the effect of the soundstage, for the most part, it was the same result I had in my main listening room upstairs.  I always try to listen to speakers in different settings to see if one is more suited for a particular speaker and in this case the difference was more minimal than I expected.  Obviously your mileage may vary.
 * The EQ was always in-line in my listening sessions.  I only measured them without to get an idea of the raw speaker performance.  But I listened to them with the EQ.
 * I listened to these various ways:  with the speakers near the side wall, with the speakers 3 feet from the sidewalls.  With and without Dirac Live.  I will make notes where applicable to define the specific listening conditions.
 * I used [Room EQ Wizard (REW)](https://www.roomeqwizard.com/) and my calibrated [MiniDSP UMIK-1](https://www.amazon.com/miniDSP-UMIK-1-Measurement-Calibrated-Microphone/dp/B00N4Q25R8) to get the volume on my AVR relative to what the actual measured SPL was in the MLP (~11 feet from the speakers).  I varied it between 85-90dB, occasionally going up to the mid 90's to see what the output capability was.  In a poll I found most listen to music in this range.
