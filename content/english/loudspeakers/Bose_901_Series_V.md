@@ -550,7 +550,8 @@ Before I dive into the subjective feedback let me first give you the layout of m
 
 Also, it is important for me to make clear I listened to these in various configurations (toed in, toed out, against the walls, away from the walls, etc).  I also listened to them in my downstairs living room so I could position them close to the front wall (which is about 20 feet wide), per the manual I showed above, to see how much effect the near-wall placement mattered.  While it did change the effect of the soundstage, for the most part, it was the same result - tonally - I had in my main listening room upstairs.  I always try to listen to speakers in different settings to see if one is more suited for a particular speaker and in this case the difference was more minimal than I expected.  Obviously your mileage may vary depending on your specific setup.
 
-Here is a picture of the living room setup (pardon the mess; this isn't a permanent listening area) but do not provide a diagram because, again, it's not my primary listening space.  The speakers were a foot off from the wall, 9 feet apart from each other and approximately 14 feet from the listening position.
+Anyway, here's the pic of the living room setup for the demo.  The speakers were a foot off from the wall, 9 feet apart from each other and approximately 14 feet from the listening position.  My wife would kill me if she knew I didn't clean things up before taking and sharing this photo.  But we are all adults here.  We know no one has a perfectly clean living room.  Plus, I don't have a dedicated amp or receiver in my living room so wires are always just flung around while I'm doing my demos and then I clean it up and carry it all upstairs.  
+
 
 <img align="left" src="/images/Reviews/Loudspeakers/Bose_901/speaker_photos/DSC06337_resize.JPG" alt="room layout" width="120%" style="vertical-align:middle;margin:20px 0px"/>
 
