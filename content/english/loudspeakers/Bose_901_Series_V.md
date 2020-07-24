@@ -546,12 +546,19 @@ The graphic below shows both the "raw", without EQ step-response (blue) as well 
 
 ## Subjective Evaluation:
 
-Before I dive into the subjective feedback let me first give you the layout of my room.  Note that I provide two images of the listening setup.  I initially tried the speakers close to the side walls and then I moved them about 3 feet from the side walls.
+Before I dive into the subjective feedback let me first give you the layout of my room.
 
-Also, it is important for me to make clear I listened to these in various configurations (toed in, toed out, against the walls, away from the walls, etc).  I also listened to them in my downstairs living room so I could position them close to the front wall (which is about 20 feet wide), per the manual I showed above, to see how much effect the near-wall placement mattered.  While it did change the effect of the soundstage, for the most part, it was the same result - tonally - I had in my main listening room upstairs.  I am not providing pictures of that setup because my living room wall is a built-in bookcase and I don't want to people zooming in on pictures of my family.  That's weird.
+Also, it is important for me to make clear I listened to these in various configurations (toed in, toed out, against the walls, away from the walls, etc).  I also listened to them in my downstairs living room so I could position them close to the front wall (which is about 20 feet wide), per the manual I showed above, to see how much effect the near-wall placement mattered.  While it did change the effect of the soundstage, for the most part, it was the same result - tonally - I had in my main listening room upstairs.  I always try to listen to speakers in different settings to see if one is more suited for a particular speaker and in this case the difference was more minimal than I expected.  Obviously your mileage may vary depending on your specific setup.
 
-I always try to listen to speakers in different settings to see if one is more suited for a particular speaker and in this case the difference was more minimal than I expected.  Obviously your mileage may vary depending on your specific setup.
+Here is a picture of the living room setup (pardon the mess; this isn't a permanent listening area) but do not provide a diagram because, again, it's not my primary listening space.  The speakers were a foot off from the wall, 9 feet apart from each other and approximately 14 feet from the listening position.
 
+<img align="left" src="/images/Reviews/Loudspeakers/Bose_901/speaker_photos/DSC06337_resize.JPG" alt="room layout" width="120%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+Primary Listening space:
+
+Note that I provide two images of the listening setup.  I initially tried the speakers close to the side walls and then I moved them about 3 feet from the side walls.
 
 <img align="left" src="/images/Reviews/Loudspeakers/HT2.png" alt="room layout" width="120%" style="vertical-align:middle;margin:20px 0px"/>
 
