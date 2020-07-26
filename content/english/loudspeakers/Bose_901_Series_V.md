@@ -8,9 +8,7 @@ Tags: ["Bose", "901", "Review", "Klippel", "Speaker"]
 ---
 ## YouTube Video Review version:
 
-<iframe style="display: block; margin: auto;" width="630" height="472.5"
-src="https://youtu.be/SRmJo3y5JQI"  >
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SRmJo3y5JQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br clear="all" />
 <br>
 <br>

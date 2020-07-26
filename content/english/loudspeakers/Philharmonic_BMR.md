@@ -6,6 +6,15 @@ image: /images/Reviews/Loudspeakers/Philharmonic_BMR/speaker_photos/DSC06309_cro
 description : "Philharmonic BMR Bookshelf Speaker Review"
 Tags: ["Philharmonic", "BMR", "Bookshelf", "Klippel", "Review", "Speaker"]
 ---
+## YouTube Video Review version:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JZjb293HVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
+
+
 
 
 ## Intro
