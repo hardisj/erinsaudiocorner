@@ -363,7 +363,7 @@ Frequency Response data is generated using Klippel's [Transfer Function Mueasure
 <br><br>
 
 
-#### Total Harmonic Distortion (THD) and Compression:
+## Total Harmonic Distortion (THD) and Compression:
 
 Distortion and Compression measurements were completed in the nearfield (approximately 0.3 meters).  However, SPL provided is relative to 1 meter distance.
 
@@ -389,7 +389,7 @@ Harmonic Distortion and Compression are provided at varying levels to get an ide
 <br><br>
 
 
-### Maximum Long Term SPL:
+## Maximum Long Term SPL (Multitone Distortion Testing)
 
 The below data provides the metrics for how Maximum Long Term SPL is determined.  This measurement follows the IEC 60268-21 Long Term SPL protocol, per Klippel's template, as such:
 - Rated maximum sound pressure according IEC 60268-21 §18.4
@@ -470,7 +470,7 @@ The above data can be summed up by looking at the tables above but is provided h
 
 <br><br>
 
-## Bottom Line
+# Bottom Line
 
 **T/S Parameters and Linear Excursion:**
 * The product spec sheet states an xmax of 19mm.  That likely is one-way mechanical.
@@ -502,7 +502,7 @@ This is a midbass driver.  It is not a mid/woofer.  To limit both linear and non
 
 <br><br>
 
-## Contribute
+# Contribute
 
 If you like what you see here and want to help me keep it going, you can donate via the PayPal Contribute button at the bottom of each page.  If you can help by chipping in, I would truly appreciate it.
 
