@@ -6,6 +6,14 @@ image: /images/Reviews/Drivers/Audio_Development/W800NEO/DSC06360 - Copy.png
 description : "Audio Development W800NEO Drive Unit Review"
 Tags: ["Audio Development", "W800NEO", "Review", "Klippel", "Speaker"]
 ---
+## YouTube Video Review version:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KETnoghAf54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
+
 # Information
 
 The Audio Develoopment W800NEO is a shallow mount 8-inch midbass with (I am told) a retail price of $800/pair.
@@ -478,9 +486,10 @@ The above data can be summed up by looking at the tables above but is provided h
 
 **T/S Parameters and Linear Excursion:**
 * The product spec sheet states an xmax of 19mm.  That likely is one-way mechanical.
-* The **linear excursion is limited to about 5mm one-way**.
+* The **linear excursion is limited to about 5mm one-way**.  The limiting factor is still the motor force which would need to be broadened to improve the maximum linear displacement.
+* Centering up the spider could help improve the suspension-derived linear excursion.  After that the shorting ring needs to be re-positioned, especially if this is to be used near Fs, to keep intermodulated distortion down.
 * The maximum *mechanical* excursion is close to about 10mm one-way and in my testing,  I could hear the coil tapping the backplate at times.  My testing doesn't push a speaker harder than this as I do not want to ruin it.
-* Centering up the spider could help improve the linear excursion.  But after that the shorting ring needs to be re-positioned, especially if this is to be used near Fs, to keep intermodulated distortion down.
+
 
 **Frequency Response:**
 * The sensitivity is on the high side, measured at about 89.6dB from 300Hz to 3000Hz.  This helps to offset the rather low linear xmax measured by Klippel's LSI module.
