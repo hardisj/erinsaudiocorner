@@ -480,6 +480,7 @@ The above data can be summed up by looking at the tables above but is provided h
 * The product spec sheet states an xmax of 19mm.  That likely is one-way mechanical.
 * The **linear excursion is limited to about 5mm one-way**.
 * The maximum *mechanical* excursion is close to about 10mm one-way and in my testing,  I could hear the coil tapping the backplate at times.  My testing doesn't push a speaker harder than this as I do not want to ruin it.
+* Centering up the spider could help improve the linear excursion.  But after that the shorting ring needs to be re-positioned, especially if this is to be used near Fs, to keep intermodulated distortion down.
 
 **Frequency Response:**
 * The sensitivity is on the high side, measured at about 89.6dB from 300Hz to 3000Hz.  This helps to offset the rather low linear xmax measured by Klippel's LSI module.
@@ -499,7 +500,7 @@ The above data can be summed up by looking at the tables above but is provided h
 
 <br><br>
 
-This is a midbass driver.  It is not a mid/woofer.  To limit both linear and non-linear distortion use this as a midbass.  It looks to be best used between 60-80Hz on the low end and 500-600Hz on the high end.  And as always, your specific application may call for different needs so this data is simply a guide to help you determine how best this speaker could be used for you.
+This is a midbass driver.  It is not a mid/woofer.  And while it has decent mechanical excursion (~10mm one-way) it runs out of one-way linear excursion pretty quickly (5mm).  To limit both linear and non-linear distortion use this as a midbass.  It looks to be best used between 60-80Hz on the low end and 500-600Hz on the high end.  And as always, your specific application may call for different needs so this data is simply a guide to help you determine how best this speaker could be used for you.
 
 
 
