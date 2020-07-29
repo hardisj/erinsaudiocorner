@@ -8,7 +8,7 @@ Tags: ["Audio Development", "W800NEO", "Review", "Klippel", "Speaker"]
 ---
 # Information
 
-The Audio Develoopment W800NEO is a shallow mount 8-inch midbass with a retail price of $800/pair.
+The Audio Develoopment W800NEO is a shallow mount 8-inch midbass with (I am told) a retail price of $800/pair.
 
 
 ![photo1](/images/Reviews/Drivers/Audio_Development/W800NEO/DSC06360.JPG)
@@ -365,6 +365,8 @@ Frequency Response data is generated using Klippel's [Transfer Function Mueasure
 
 ## Total Harmonic Distortion (THD) and Compression:
 
+Klippel's [3D-DISTORTION MEASUREMENT (DIS) module](https://www.klippel.de/products/rd-system/modules/dis-3d-distortion-measurement.html) is used to calculate the Total Harmonic Distortion and Compression for this drive unit.
+
 Distortion and Compression measurements were completed in the nearfield (approximately 0.3 meters).  However, SPL provided is relative to 1 meter distance.
 
 <details><summary> Harmonic Distortion and Compression: What does this data mean? (click me for info)</summary>
@@ -390,6 +392,8 @@ Harmonic Distortion and Compression are provided at varying levels to get an ide
 
 
 ## Maximum Long Term SPL (Multitone Distortion Testing)
+
+Klippel's [Multi-Tone Measurement (MTON) module](https://www.klippel.de/products/rd-system/modules/mton-multi-tone-measurement.html) is used to calculate the maximum SPL for this drive unit.
 
 The below data provides the metrics for how Maximum Long Term SPL is determined.  This measurement follows the IEC 60268-21 Long Term SPL protocol, per Klippel's template, as such:
 - Rated maximum sound pressure according IEC 60268-21 §18.4
