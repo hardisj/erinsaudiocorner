@@ -6,6 +6,11 @@ image: /images/Reviews/Drivers/SB_Acoustics/Satori_MW13P-4/IMG_2194.jpg
 description : "SB Acoustics Satori MW13P-4 5 inch Mid"
 Tags: ["Scanspeak", "D3004", "Illuminator", "Tweeter", "Scan"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 
 Up for test is [SB Acoustics’ Satori MW13P-4 5″ Midwoofer/midrange](https://www.madisoundspeakerstore.com/approx-5-woofers/satori-mw13p-4-5-egyptian-papyrus-cone-woofer-4-ohm/).  At the time of this updated-posting (02/16/2020) this driver can be purchased from Madisound for about $131/each.  I’ve got a new install that calls for a 5″ midrange and I thought this would be worth a shot.  So, let’s check it out.

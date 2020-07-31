@@ -6,6 +6,11 @@ image: /images/Reviews/Drivers/Aurasound/NS3-193-8A1/IMG_5076.jpg
 description : "Aurasound NS3-193-8A1 3 inch Fullrange"
 Tags: ["Aurasound", "Aura", "NS3"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 I’ve seen the [Aurasound NS3](https://www.madisoundspeakerstore.com/approx-3-fullrange/aurasound-ns3-193-8a1-3-black-cone-wide-range/) drivers discussed frequently as a great little driver to use in small spaces, with all sorts of potential uses..  So, naturally, I had to order a few to see for myself.
 The results are actually quite nice.  Unfortunately, to get the excursion they do have, they give up a good deal of sensitivity as well.

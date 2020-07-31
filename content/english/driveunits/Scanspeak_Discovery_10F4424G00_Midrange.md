@@ -6,6 +6,12 @@ image: https://www.madisoundspeakerstore.com/images/products/10f_4424g.jpg
 description : "Scanspeak 10F/4424G00 Discovery 4 inch Midrange (4 ohm version)"
 Tags: ["Scanspeak", "10f", "midrange"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
+
 Up for test is the [Scanspeak Discovery 10F/4424G 4 inch, 4 ohm midrange](https://www.madisoundspeakerstore.com/approx-4-midrange/scanspeak-discovery-10f/4424g-4-midrange-4-ohm/).  This driver features a neo magnet to keep its weight down.  Accompanied with the extremely small form factor, this is a top choice for many in car audio and home audio alike.  While this is noted as a 4″ midrange, seeing it in person makes it appear to be closer to the 3.5″ driver family relative to other 4 inch drivers.  This is a driver I often recommend for its price vs performance over the years.
 
 ![](/images/Reviews/Drivers/Scanspeak/10F4424G00/IMG_5348.jpg)

@@ -6,6 +6,11 @@ image: images/Reviews/Drivers/Seas/27TAFNCD_tweeter/IMG_5084.jpg
 description : "Seas H1397-04 (27TAFNC/D) 1 inch Aluminum Dome Tweeter"
 Tags: ["Seas", "27TAFNC", "Tweeter"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 Up for test is the [SEAS Prestige H1397 1" Aluminum Dome Tweeter](https://www.madisoundspeakerstore.com/hard-dome-tweeter/seas-prestige-27tafnc/g-h1397-1-aluminum-dome-tweeter/).
 

@@ -7,6 +7,12 @@ image: images/Reviews/Drivers/Kef/LS50_Driver/IMG_8503_small.jpg
 description : "Kef LS50"
 Tags: ["Kef", "LS50", "Tangerine", "waveguide", "LS50"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
+
 Up for test is the raw drive unit from Kef’s flagship LS50 monitor.  This bookshelf speaker set has gotten a whole lot of praise over the years and as of this writing (02/03/2020) is currently priced at $899 on Amazon [(affiliate link here)](https://amzn.to/2SsPByj), if you feel so inclined to purchase them.
 
 About a year ago I ran the gamut on some Kef drivers: the HTS3001SE concetric, [(LS50 5.25″ concentric)]("https://www.erinsaudiocorner.com/drive-units/kef-q100-drive-unit/"), and the R-series concentric.  Knowing the lineage points to the LS50 drive unit as a mix of the Q-series concetric with it’s Z-flex surround and the R-series concetric midrange with it’s ribbed cone for reducing mid-high frequency breakup, I was curious to see the measured performance.  I finally was provided a drive unit to test, so here we go.

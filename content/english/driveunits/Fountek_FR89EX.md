@@ -6,6 +6,11 @@ image: "http://www.parts-express.com/data/default/images/catalog/500/296-721_HR_
 description : "Fountek FR89EX Fullrange"
 Tags: ["Fountek", "FR89EX", "Fullrange"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 
 Another popular choice for fullrange use, the [Fountek FR89EX (PE Affiliate Link here)](https://www.anrdoezrs.net/click-7732025-13715689?url=http%3A%2F%2Fwww.parts-express.com%2Ffountek-fr89ex-3-neodymium-full-range-speaker-driver--296-721&cjsku=296-721) is tested and results provided below.

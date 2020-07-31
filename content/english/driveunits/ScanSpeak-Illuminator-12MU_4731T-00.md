@@ -6,6 +6,12 @@ image: https://www.madisoundspeakerstore.com/images/products/preview/12mu_4731t.
 description : "Scan Speak Illuminator 12MU/4731T-00"
 Tags: ["ScanSpeak", "Illuminator", "12mu"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
+
 Up for test is the [Scanspeak Illuminator 12MU/4731T-00 4.5" Midrange - 4 ohm](https://www.madisoundspeakerstore.com/approx-4-midrange/scanspeak-illuminator-12mu/4731t-00-4.5-midrange-4-ohm/).
 
 Note: For a while I didn't have the means to measure frequency response accurately.  Rather than do it halfway I decided it best to not attempt it.  So this is one of the reviews I completed at that time and thus there is no FR/HD data.

@@ -6,6 +6,11 @@ image: /images/Reviews/Drivers/HAT/L1-Pro/IMG_2474.jpg
 description : "Hyrbrid Audio Technologies L1-Pro-R2 Ring Radiator Driver"
 Tags: ["HAT", "L1 Pro", "Ring Radiator"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 Up for test is the Hybrid Audio L1 Pro R2 Ring Radiator Tweeter.
 

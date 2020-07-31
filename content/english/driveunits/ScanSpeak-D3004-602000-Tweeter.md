@@ -6,6 +6,11 @@ image: /images/Reviews/Drivers/Scanspeak/D3004-602000/IMG_2262.jpg
 description : "Scan-Speak Illuminator D3004/602000 Tweeter"
 Tags: ["Scanspeak", "D3004", "Illuminator", "Tweeter", "Scan"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 Up for test is the [Scan-Speak Illuminator D3004/6020-00 1″ Textile Dome Tweeter 4 ohm](https://www.madisoundspeakerstore.com/scanspeak-soft-dome-tweeters/scanspeak-illuminator-d3004/6020-00-tweeter-textile-dome/).
 

@@ -6,6 +6,11 @@ image: images/Reviews/Drivers/Audiofrog/GB40/IMG_2235.jpg
 description : "Audiofrog GB40"
 Tags: ["Audiofrog", "Andy", "Wehmeyer", "GB40", "midrange", "car audio"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 Up for test is [AudioFrog’s GB40 4″ Midrange](https://www.audiofrog.com/gb40-4-100-mm-audiophile-grade-automotive-loudspeaker/).
 These drivers – as well as the others from the AudioFrog GB series speakers – include a LOT of installation hardware to make installs quicker and easier.  I simply don’t have the time right now to really delve in to the facets of this here.
@@ -94,7 +99,7 @@ The THD at 96dB overall is quite low.  It breaks down as follows: 3% THD is met 
 Given the upper frequency crossover is determined by the beaming point, with a 4″ driver you can expect to cross this driver on the high end at about 3khz (give or take depending on the slope).  The low end crossover is typically driven by the amount of distortion you get.  I’d say, if you pay attention to the trend the appropriate crossover for this driver would be in the 200-250hz ballpark which would provide you plenty of output at low distortion.  I used this in my own car for about a year from about 300hz to 5khz mated to an itty-bitty [Dayton ND16FA-6 tweeter](https://www.parts-express.com/dayton-audio-nd16fa-6-5-8-soft-dome-neodymium-tweeter--275-025) and was really happy with the level of output overall and how 'stealth' it made my car audio install.
 Also this provides the ability to cross this lower than I typically recommend for drivers of this size (like the [ScanSpeak 10f Fullrange](https://www.erinsaudiocorner.com/driveunits/scanspeak_discovery_10f8414g10_fullrange/) which one of my go-to suggestions). The mid 80’s sensitivity is likely due to the tradeoff of low frequency extension.  In other words, if the sensitivity were higher, distortion would be higher, lower in frequency meaning you may have to cross at 300hz rather than 200hz to achieve the same level of THD.
 
-Cliffs: Very low distortion. Nice usable range from 200/300hz to 3khz (low end depending on output; 200hz shouldn't be an issue for most, though but 300hz is easily doable for really high output-minded folks).  
+Cliffs: Very low distortion. Nice usable range from 200/300hz to 3khz (low end depending on output; 200hz shouldn't be an issue for most, though but 300hz is easily doable for really high output-minded folks).
 
 ... Speaking of the 10f comparison, the below pictures show the difference in size between the newer, smaller neo magnet version of the 10f:
 <br></br>

@@ -6,6 +6,11 @@ image: /images/Reviews/Electronics/minidsp_cdsp_8x12DL/minidsp_cdsp8x12.jpg
 description : "MiniDSP C-DSP 8x12 with Dirac Live"
 Tags: ["miniDSP", "Dirac", "DiracLive", "CDSP"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 ## Foreword:
 Up for review is the MiniDSP C-DSP 8x12 with Dirac Live.  This can be purchased directly from [miniDSP.com](https://www.minidsp.com/products/car-audio-dsp/cdsp-8x12-dl) or through [Parts-Express](https://www.tkqlhce.com/click-7732025-13715689?url=http://www.parts-express.com/minidsp-c-dsp-8x12-dl-8-in-12-out-automotive-dsp-with-dirac-live--230-346&cjsku=230-346&fbclid=IwAR0hphu4xRpY3EoopvF6hzYfnggg_YXD0ssACft5aaYRQdlqJG0gII7TPBM).

@@ -6,6 +6,11 @@ image: /images/Reviews/Loudspeakers/Jamo_S807/speaker_photos/DSC06156.JPG
 description : "Jamo S807 Floorstanding Speaker Review"
 Tags: ["Jamo", "S807", "Floorstander", "Klippel"]
 ---
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 ## YouTube Video Review version:
 
