@@ -12,17 +12,10 @@ Tags: ["Honda", "Civic", "OEM", "Review", "Klippel", "Speaker"]
 <br>
 <br>
 
-## YouTube Video Review version:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KETnoghAf54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br clear="all" />
-<br>
-<br>
-<br>
 
 # Information
 
-This speaker came from my very own 2019 Honda Civic LX.  Standard stereo system (no upgrade).  I was curious how this would measure so I measured it.
+This speaker came from my very own 2019 Honda Civic Sport (non-Touring model).  Standard stereo system (no upgrade).  I was curious how this would measure so I measured it.
 
 
 ![photo1](/images/Reviews/Drivers/OEM/2019Civic/DSC06373.JPG)
@@ -115,7 +108,7 @@ Using [Klippel's Distortion Analyzer 2](https://www.klippel.de/products/rd-syste
 
 </br>
 
-**This drive unit's linear excursion is measured at 4.9mm, due to exceeding the Bl distortion limit of 82% for the total harmonic distortion limit of 10%.**
+**This drive unit's linear excursion is measured at 3.1mm, due to exceeding the Bl distortion limit of 82% for the total harmonic distortion limit of 10%.**
 
 The displacement limits XBL, XC, XL and Xd describe the limiting effect for the force factor Bl(x),
 compliance Cms(x), inductance Le(x) and Doppler effect, respectively, according to the threshold
