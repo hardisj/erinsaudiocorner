@@ -492,7 +492,7 @@ The above data can be summed up by looking at the tables above but is provided h
 
 **T/S Parameters and Linear Excursion:**
 * The product spec sheet states a linear xmax of 9mm peak-to-peak; or 4.5mm one-way linear excursion.
-* **My measured linear excursion is limited to about 3.3mm one-way**.  This is based on 10% THD limits.  So, if you try to play this speaker with a lot of power at low frequencies, you'll hit that distortion limmit pretty quickly.  Both the motor force and suspension components reach their maximum linear output around this value which indicates the motor and suspension are actually engineered to operate within their limits to the same degree.  Whereas, other drive units I have tested will typically run out of either motor force or compliance at different points.  So, even though this number is *very* low for midbass duty, this looks to be a well-engineered design in my opinion based on how it operates within the Bl and Kms components' bounds in the same manner.
+* **My measured linear excursion is limited to about 3.3mm one-way**.  This is based on 10% THD limits.  So, if you try to play this speaker with a lot of power at low frequencies, you'll hit that distortion limit pretty quickly.  Both the motor force and suspension components reach their maximum linear output around this value which indicates the motor and suspension are actually engineered to operate within their limits to the same degree.  Whereas, other drive units I have tested will typically run out of either motor force or compliance at different points.  So, even though this number is *very* low for midbass duty, this looks to be a well-engineered design in my opinion based on how it operates within the Bl and Kms components' bounds in the same manner.
 * The suspension offsets the coil approximately 1.4mm forward.  The coil is about 0.55mm inset with respect to the motor but varies from 0.50mm to 0.63mm from rest to maximal excursion, respectively.
 * The maximum *mechanical* excursion is close to about 6mm one-way.
 * From what I can tell, there is no shorting ring used here which will create a problem as the driver plays frequencies close to (and at) Fs.  Drivers without inductance mitigation (such as a shorting ring) will display higher levels of distortion higher in frequency (the midrange, for example) when asked to play near/at Fs.  Another reason to not cross this driver near Fs.
@@ -504,7 +504,6 @@ The above data can be summed up by looking at the tables above but is provided h
 * The sensitivity is decent at about 87dB from 300Hz to 3000Hz.  The response exhibits a resonance around 65Hz.
 * The F3 measured on my 21 x 10 foot baffle (yes, feet) is 47Hz with respect to the mean SPL provided above.
 * The frequency response looks usable for midbass application.  Above 500Hz the response begins to fall due to a resonance in the 900Hz region of impedance.  Above 1kHz it exhibits what I assume is a compliance issue between the cone and surround, based on the resonance shown in the impedance, the dip in response and the correlating distortion profile shown in the Harmonic and Multitone distortion plots.
-*
 * Using [this site's online enclosure volume calculator](http://www.mh-audio.nl/Calculators/CCC.html) yields 1.0 ft³ (~28.71 liters) with a Qtc = 0.707 and an F3 = 59Hz.  EBP = 65.6.  Seems this driver is suited more for an IB-type install rather than a small sealed enclosure.  Below is the graph using those parameters (blue line) vs a true infinite baffle installation (red line).
 
 <br>
@@ -513,7 +512,7 @@ The above data can be summed up by looking at the tables above but is provided h
 * Look back at the multitone measurement results.  You can see that when the driver is asked to play down to 20Hz it caps out at 6V input (~103dB at 1 meter) due to the breakup mode around 7kHz and increasing above 3% distortion below 100Hz.  However, when fed a stimulus between 80Hz - 5kHz the distortion is considerably lower and the maximum output is increased to about 107dB @ 1m but again limited by a breakup, this time around 4.5kHz.
 * Notice the increasing distortion in all the distortion plots around 1kHz, as mentioned previously.
 * Breakup >7kHz results in high distortion.
-* Signifcant compression below 70Hz; losing about 2dB output with an expected 100dB output (12v input).  Putting this in to an equation: 100dB expected - 2dB due to compression = 98dB actual output below 70Hz
+* Significant compression below 70Hz; losing about 2dB output with an expected 100dB output (12v input).  Putting this in to an equation: 100dB expected - 2dB due to compression = 98dB actual output below 70Hz
 
 <br><br>
 
