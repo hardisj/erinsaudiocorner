@@ -495,6 +495,7 @@ The above data can be summed up by looking at the tables above but is provided h
 * **My measured linear excursion is limited to about 3.3mm one-way**.  This is based on 10% THD limits.  So, if you try to play this speaker with a lot of power at low frequencies, you'll hit that distortion limmit pretty quickly.  Both the motor force and suspension components reach their maximum linear output around this value which indicates the motor and suspension are actually engineered to operate within their limits to the same degree.  Whereas, other drive units I have tested will typically run out of either motor force or compliance at different points.  So, even though this number is *very* low for midbass duty, this looks to be a well-engineered design in my opinion based on how it operates within the Bl and Kms components' bounds in the same manner.
 * The suspension offsets the coil approximately 1.4mm forward.  The coil is about 0.55mm inset with respect to the motor but varies from 0.50mm to 0.63mm from rest to maximal excursion, respectively.
 * The maximum *mechanical* excursion is close to about 6mm one-way.
+* For the most part, my results reflect what Dyn provides in their spec sheet other than the 1-2mm difference in excursion (linear and max).  
 
 <br>
 
