@@ -12,13 +12,6 @@ Tags: ["Audio Development", "W800NEO", "Review", "Klippel", "Speaker"]
 <br>
 <br>
 
-## YouTube Video Review version:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KETnoghAf54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br clear="all" />
-<br>
-<br>
-<br>
 
 # Information
 
@@ -535,7 +528,7 @@ And, as always, how you use the speaker and what you need it to do will determin
 
 If you like what you see here and want to help me keep it going, you can donate via the PayPal Contribute button at the bottom of each page.  If you can help by chipping in, I would truly appreciate it.
 
-You can also join my Facebook and YouTube pages via the links at the bottom of the page if you'd like to follow along with updates.
+You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
 
 
 
