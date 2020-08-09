@@ -109,6 +109,28 @@ Using [Klippel's Distortion Analyzer 2](https://www.klippel.de/products/rd-syste
 
 ### Nonlinearities
 
+The displacement limits XBL, XC, XL and Xd describe the limiting effect for the force factor Bl(x), compliance Cms(x), inductance Le(x) and Doppler effect, respectively, according to the threshold values Blmin, Cmin, Zmax and d2 used by the operator.
+
+There are one of two sets of thresholds which can be used to define linear excursion:
+1) The thresholds Blmin= 82 %, Cmin=75 %, Zmax=10 % and d2=10% generate for a two-tone-signal (f1=fs, f2=8.5fs) 10 % total harmonic distortion and 10 %
+intermodulation distortion.
+2) The thresholds Blmin= 70 %, Cmin=50 %, Zmax=17 % create 20 % total harmonic distortion which is becoming the standard for acceptable subwoofer distortion thresholds.
+
+Traditionally, Xmax has been defined as a) the physical overhang of the voice coil, b) 15% times the physical overhang or c) the point where displacement limit(s) is/are exceeded. The latter is where the Klippel LSI module comes in to play. It permits a more "apples to apples" approach of defining the displacement (Xmax) limits based on the XBL, XC, XL and Xd.
+
+These parameters are defined in more detail in the (Klippel) papers:
+* “AN04 – Measurement of Peak Displacement Xmax”
+* “AN05 - Displacement Limits due to Driver Nonlinearities”
+* “AN17 - Credibility of Nonlinear Parameters”
+* “Prediction of Speaker Performance at High Amplitudes”
+* “Assessment of Voice Coil Peak Displacement Xmax”
+* “Assessing Large Signal Performance of Loudspeakers”
+
+Additionally, [this site](https://speakerwizard.co.uk/driver-ts-parameters-xmax/) offers nice illustration and discussion on how Xmax is defined.
+
+Below are the displacement limits' results for this drive unit obtained from Klippel's LSI module:
+
+
 | Displacement Limits   |             |         |                                                                   |
 |-----------------------|-------------|---------|-------------------------------------------------------------------|
 | X Bl @ Bl min=82%     | 4.9         | mm      | Displacement limit due to force factor variation                  |
@@ -123,25 +145,8 @@ Using [Klippel's Distortion Analyzer 2](https://www.klippel.de/products/rd-syste
 
 </br>
 
-**This drive unit's linear excursion is measured at 4.9mm, due to exceeding the Bl distortion limit of 82% for the total harmonic distortion limit of 10%.**
+**Per the above table, this drive unit's linear excursion is limited to 4.9mm due to exceeding the Bl distortion limit of 82% for the total harmonic distortion limit of 10%.**
 
-The displacement limits XBL, XC, XL and Xd describe the limiting effect for the force factor Bl(x),
-compliance Cms(x), inductance Le(x) and Doppler effect, respectively, according to the threshold
-values Blmin, Cmin, Zmax and d2 used. The thresholds Blmin= 82 %, Cmin=75 %, Zmax=10 % and
-d2=10% generate for a two-tone-signal (f1=fs, f2=8.5fs) 10 % total harmonic distortion and 10 %
-intermodulation distortion. The thresholds Blmin= 70 %, Cmin=50 %, Zmax=17 % create 20 % total
-harmonic distortion which is becoming the standard for acceptable subwoofer distortion thresholds.
-Traditionally, Xmax has been defined as the physical overhang of the voice coil, 15% times the
-physical overhang, or the point where BL has dropped 70% from its X=0 value (same as X Bl). The
-additional nonlinear limits allow us to quantify the other factors that limit a loudspeaker’s performance.
-
-These parameters are defined in more detail in the (Klippel) papers:
-* “AN04 – Measurement of Peak Displacement Xmax”
-* “AN05 - Displacement Limits due to Driver Nonlinearities”
-* “AN17 - Credibility of Nonlinear Parameters”
-* “Prediction of Speaker Performance at High Amplitudes”
-* “Assessment of Voice Coil Peak Displacement Xmax”
-* “Assessing Large Signal Performance of Loudspeakers”
 
 </br></br>
 
