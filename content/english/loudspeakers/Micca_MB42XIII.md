@@ -15,7 +15,11 @@ Tags: ["Micca", "MB42X", "Bookshelf", "Klippel", "Review", "Speaker"]
 ## YouTube Review link
 If you want help understanding what this data means, watch the video below.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mleDw3W6BFc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 
 
@@ -357,6 +361,35 @@ The above data can be summed up by looking at the tables above but is provided h
 
 <br><br>
 
+**Thiele-Small and Large Signal Analysis:**
+Using [Klippel's Distortion Analyzer 2](https://www.klippel.de/products/rd-system/analyzer-hardware/da2-klippel-distortion-analyzer.html), [Linear Lumped Parameter Measurement Module](https://www.klippel.de/nc/en/products/rd-system/modules/lpm-linear-parameter-measurement.html?sword_list%5B0%5D=lpm), [Pro Driver Stand](https://www.klippel.de/nc/en/products/rd-system/accessories/overview-accessories/pro-driver-stand.html?sword_list%5B0%5D=stand) and provided [Panasonic ANR12821 Laser](https://panasonicsensors.com/anr12821) along with [Klippel's Training 1 - Linear Lumped Parameter Measurement tutorial](https://www.youtube.com/watch?v=uhJd8-Z8cgc&t=313s), I measured this drive unit's impedance and small-signal parameters.  Below are the results.
+
+The few standouts to me are:
+* High Fs of ~87Hz
+* High Qts of ~0.850
+* Low Sensitivity of ~ 83dB
+
+All of these parameters translate to a speaker that needs to large enclosure (so the Qtc will not be any larger; as the Qts itself is already relatively high), high low cutoff point (due to high Fs) and low sensitivity (even though the on-axis average SPL is ~ 85.5dB, the SPL in the bass region is in the low 80's).
+
+<img align="left" src="/images/Reviews/Loudspeakers/Micca_MB42XIII/LPM.png" alt="step response zoom" width="80%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+<br>
+<br>
+<br>
+
+Using [Klippel's Distortion Analyzer 2](https://www.klippel.de/products/rd-system/analyzer-hardware/da2-klippel-distortion-analyzer.html), [Large Signal Identification Module](https://www.klippel.de/nc/en/products/rd-system/modules/lsi-large-signal-identification-da2.html?sword_list%5B0%5D=lsi), [Pro Driver Stand](https://www.klippel.de/nc/en/products/rd-system/accessories/overview-accessories/pro-driver-stand.html?sword_list%5B0%5D=stand) and provided [Panasonic ANR12821 Laser](https://panasonicsensors.com/anr12821) along with [Klippel's Training 3 - Loudspeaker Nonlinearities tutorial](https://www.youtube.com/watch?v=TJvhZ9pndGA), I measured the linear, nonlinear and thermal parameters of this drive unit.  Below are the nonlinear results.
+
+The linear excursion is capped at 1.4mm one-way due to inductance variation.  It's rare I have a mid/woofer be limited in excursion due to inductance.  And in a speaker like this; one that is most likely to be used from 80Hz all the way out to 20kHz, that is a problem.  This result indicates the mid/woofer will have a very high level of mid-to-upper frequency distortion if the cone is asked to play content near Fs due to high inductance.  And with a bookshelf speaker like this, it should absolutely be crossed above 100Hz to limit any playback near the Fs of 87Hz.
+
+<img align="left" src="/images/Reviews/Loudspeakers/Micca_MB42XIII/LSI.png" alt="step response zoom" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+<br>
+<br>
+<br>
 
 **Nearfield measurements.**
 
