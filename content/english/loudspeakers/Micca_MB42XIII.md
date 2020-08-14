@@ -26,19 +26,9 @@ If you want help understanding what this data means, watch the video below.
 
 ## Intro, Product Specs and Photos
 
-I purchased this speaker to compare against my recently reviewed Neumi BS5 ([link here](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5/)).  This speaker is quite a bit smaller than the Neumi, which I discuss in my video above, but I was optimistic about its performance based on many other past reviewers’ positive impressions.  Unfortunately, my listening session resulted in me turning off the speakers about 7 tracks in to it and I walked away rather disgusted.  When I later tested the speaker and looked at the objective data, I realized why I hated their sound.  The response curve of the Micca MB42X is extremely non-linear; exhibiting as a wholly recessed midrange, a prominent bump between 1-2kHz and poor linearity above 4kHz.  The distortion is high.  The compression is high.  There’s truly nothing positive I can say about this speaker.  I even went so far as to use my Dayton DATs to sweep both speakers to make sure the impedance curves matched because I thought maybe one of them was damaged but that wasn't the case.
+I purchased this speaker to compare against my recently reviewed Neumi BS5 ([link here](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5/)).  This speaker is quite a bit smaller than the Neumi, which I discuss in my video above, but I was optimistic about its performance based on many other past reviewers’ positive impressions.  Unfortunately, my listening session resulted in me turning off the speakers about 7 tracks in to it and I walked away rather disgusted.  When I later tested the speaker and looked at the objective data, I realized why I hated their sound.  The response curve of the Micca MB42X MKIII is extremely non-linear; exhibiting as a wholly recessed midrange, a prominent bump between 1-2kHz and poor linearity above 4kHz.  The distortion is high.  The compression is high.  There’s truly nothing positive I can say about this speaker.  I even went so far as to use my Dayton DATs to sweep both speakers to make sure the impedance curves matched because I thought maybe one of them was damaged but that wasn't the case.
 
-
-
-I did some digging after this and found that there have been a couple other iterations of the MB42x.  Mine is the “Mark III” version with upgraded crossovers (notably, 18dB/octave filter rather than the previous models’ 12dB/octave).  With this in mind, the theories I have come up with in regards to the disparity between my ultimate impression of this speaker and others’ are:
-1) they were listening to different versions and that the previous versions must legitimately be better performers
-2) they were being disingenuous and simply trying to sale speakers
-3) they don't know what to listen for (and shouldn't be telling others what to buy)
-
-
-<br>
-
-It is no surprise this speaker does not get my recommendation. At any rate, if, after you read this review, you still want to purchase a set, you can help my site net about 2% of the cost by buying through my Amazon affiliate link below.
+It is no surprise this speaker does not get my recommendation. At any rate, if, after you read this review, you still want to purchase a set, you can help the site by purchasing through the link below which earns me a small commission.
 
 
 <script type="text/javascript">
