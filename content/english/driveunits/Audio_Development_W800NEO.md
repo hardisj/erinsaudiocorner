@@ -407,6 +407,10 @@ Harmonic Distortion and Compression are provided at varying levels to get an ide
 
 <br clear="all" />
 
+<img align="left" src="/images/Reviews/Drivers/Dyn_Audio/MW172/Dyn Audio MW172_distortionComponents_zoom.png" alt="distortioncomponents" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
 
 <img align="left" src="/images/Reviews/Drivers/Audio_Development/W800NEO/Audio Development W800NEO_Compression_Normalized.png" alt="compression" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
