@@ -23,7 +23,7 @@ Per the manufacturer:
 >Designed to be used in two- or three-way systems, the GB60 can be used in small enclosures or in infinite baffle applications. High power handling, low distortion and 9mm of linear one-way excursion make the GB60 a great foundation of any main speaker system. Mounting depth of under 2-3/4” makes installation in many factory locations possible. Like all the GB Series midrange speakers, the GB60 includes a grille and installation kit that can be customized to blend with or highlight nearly any installation.
 
 
-Retail price is about $900/pair but 'street prices' are lower.
+Retail price is about $900/pair.
 
 
 ![photo1](/images/Reviews/Drivers/Audiofrog/GB60/DSC06512.JPG)

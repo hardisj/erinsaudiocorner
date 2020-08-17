@@ -19,7 +19,7 @@ Per the manual:
 >The Esotec MW 182 is a 24 cm (10 inch) diameter woofer equipped with an extremely large, 100 mm (4 inch) diameter voice coil with a dual centered magnet system driving the MSP cone to ensure the greatest possible power handling. This impressive driver is ideally suited for woofer or subwoofer applications in any high quality car audio system.
 
 
-Retail price is about $600/pair.
+Retail price is about $800/pair.
 
 
 ![photo1](/images/Reviews/Drivers/Dyn_Audio/MW182/DSC06516.JPG)
@@ -506,7 +506,7 @@ The above data can be summed up by looking at the tables above but is provided h
 
 <br><br>
 
-An older 8-inch woofer that Dyn has indicated to me is "nearing the end of its (production) life".  Not a lot of linear throw for a woofer of its size.  Higher levels of distortion than I would like.  This is simply an older design that can and will likely be improved on.  The surface area is the difference-maker here.  
+An older 8-inch woofer that Dyn has indicated to me is "nearing the end of its (production) life".  Not a lot of linear throw for a woofer of its size.  Higher levels of distortion than I would like.  This is simply an older design that can and will likely be improved on.  The surface area is the difference-maker here.
 
 
 
