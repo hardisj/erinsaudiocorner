@@ -136,7 +136,7 @@ Below are the displacement limits' results for this drive unit obtained from Kli
 
 </br>
 
-**Per the above table, this drive unit's linear excursion is limited to 1.7mm due to exceeding the Bl distortion limit of 82% for the total harmonic distortion limit of 10%.**
+**Per the above table, this drive unit's linear excursion is limited to 1.7mm due to exceeding the Bl displacement limit of 82% for the total harmonic distortion limit of 10%.**
 
 </br>
 

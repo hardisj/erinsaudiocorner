@@ -157,7 +157,7 @@ Below are the displacement limits' results for this drive unit obtained from Kli
 
 </br>
 
-**Per the above table, this drive unit's linear excursion is limited to 3.3mm due to exceeding the Bl distortion limit of 82% (as well as 3.4mm limit for compliance variation) for the total harmonic distortion limit of 10%.**
+**Per the above table, this drive unit's linear excursion is limited to 3.3mm due to exceeding the Bl displacement limit of 82% (as well as 3.4mm limit for compliance variation) for the total harmonic distortion limit of 10%.**
 
 </br>
 
@@ -522,7 +522,7 @@ The above data can be summed up by looking at the tables above but is provided h
 <br>
 
 **Frequency Response:**
-* The sensitivity is decent at about 87dB from 300Hz to 3000Hz.  The response exhibits a resonance around 65Hz.
+* The sensitivity is decent at about 87.9dB from 300Hz to 1000Hz.  The response exhibits a resonance around 65Hz.
 * The F3 measured on my 21 x 10 foot baffle (yes, feet) is 47Hz with respect to the mean SPL provided above.
 * The frequency response looks usable for midbass application and maybe as a midwoofer crossed to a large dome tweeter or wideband speaker.  Above 1kHz it exhibits what I assume is a compliance issue between the cone and surround, based on the resonance shown in the impedance, the dip in response and the correlating distortion profile shown in the Harmonic and Multitone distortion plots.
 * Using [this site's online enclosure volume calculator](http://www.mh-audio.nl/Calculators/CCC.html) yields 1.0 ft³ (~28.71 liters) with a Qtc = 0.707 and an F3 = 59Hz.  EBP = 65.6.  Seems this driver is suited more for an IB-type install rather than a small sealed enclosure.  Below is the graph using those parameters (blue line) vs a true infinite baffle installation (red line).
