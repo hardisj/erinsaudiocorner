@@ -496,8 +496,8 @@ The above data can be summed up by looking at the tables above but is provided h
 <br>
 
 **Frequency Response:**
-* The average sensitivity is measured at about 88.6dB from 300Hz to 1000Hz.
-* On-axis response linearity is ±1.5dB within 90-3.5kHz (excluding the ~0.5dB bump around 2.7kHz) with some mild bumps here and there.
+* The average sensitivity is on the higher side of typical, measured at about 88.6dB from 300Hz to 1000Hz.
+* On-axis response linearity is ±1.5dB within 90-3.5kHz (excluding the ~0.50dB bump around 2.7kHz) with some mild bumps here and there.
 * On-axis response linearity is ±3.0dB within 78-4kHz.
 * Breakup is limited to approximately +12dB above the mean SPL at 5-7kHz.  A proper LPF will help mitigate this effect; a steeper order filter will make more of a difference.
 * Off-axis response shows nice linearity until about 4kHz but would be better served crossing below 3kHz to avoid beaming as well as the breakup mode mentioned above.
@@ -513,7 +513,7 @@ The above data can be summed up by looking at the tables above but is provided h
 
 <br><br>
 
-I use this speaker in my own car.  Its compact size combined with high power handling, "made for car audio" design and relatively good linear excursion make it a nice choice if you are trying to eek out the last n-th percentage of performance in your car audio system.  Used with a proper high-pass filter (mine are crossed at 80Hz/48dB L-R slope), they have plenty of low distortion output.
+I use this speaker in my own car.  I am very happy with it.  Its compact size combined with high power handling, "made for car audio" design and good linear excursion make it a nice choice if you are trying to eek out the last n-th percentage of performance in your car audio system.  Used with a proper high-pass filter (mine are crossed at 80Hz/48dB L-R slope), they have plenty of low distortion output.
 
 AudioFrog recommends a bandpass range of 70Hz to 3.5kHz with &ge;12dB/octave slopes.  Based on this data, that's reasonable.  Output desires and implementation in to your own system will yield where to fall within those bounds.
 
