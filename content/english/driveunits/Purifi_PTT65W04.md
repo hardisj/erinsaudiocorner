@@ -480,7 +480,7 @@ Multitone distortion testing. The dashed blue line represents the -20dB (10% dis
 
 The above data can be summed up by looking at the tables above but is provided here again:
 <br>
-* Max SPL for 20Hz to 20kHz is approximately 97dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+* Max SPL for 20Hz to 20kHz is approximately 98dB @ 1 meter.  The compression threshold was exceeded above this SPL.
 * Max SPL for 80Hz to 5kHz is approximately 105dB @ 1 meter.  The compression threshold was exceeded above this SPL.
 
 <br><br>
@@ -495,10 +495,10 @@ The above data can be summed up by looking at the tables above but is provided h
 <br>
 
 **Frequency Response:**
-* The average sensitivity is measured at about 87dB from 300Hz to 1000Hz.
-* On-axis response linearity is ±1.5dB within 100-1kHz with some mild bumps here and there.
-* On-axis response linearity is ±3.0dB within 60-2.5kHz.
-* Breakup is kept to a very respectable +5dB above the mean SPL at 3kHz.
+* The average sensitivity is measured at about 88.1dB from 300Hz to 1000Hz.
+* On-axis response linearity is ±1.5dB within 100-2kHz with some mild bumps here and there.
+* On-axis response linearity is ±3.0dB within 66-2.5kHz.
+* Breakup is kept to a very respectable +4dB above the mean SPL at 3kHz.
 * Off-axis response shows nice linearity until about 4kHz (evidenced by the 60° measurement showing a +4dB resonance at ~3.9kHz).
 
 <br>
@@ -508,9 +508,7 @@ The above data can be summed up by looking at the tables above but is provided h
 * The dominant mode of distortion is 2nd-order.  But, really, it is so low... who cares what order is the contributor.
 * Compression is the best I have measured to date as well.  Another incredible performance with only about 0.4dB of compression at 12vRMS input.
 * Multitone distortion gets above about 1% distortion thresholds between 2-4kHz.  One-percent.  At 101dB @ 1 meter equivalent.  That's low.
-* When supplied an 80Hz to 5kHz signal the multitone distortion is even lower up to 111dB @ 1 meter.
-* Max SPL for 20Hz to 20kHz is approximately 97dB @ 1 meter.  The compression threshold was exceeded above this SPL.
-* Max SPL for 80Hz to 5kHz is approximately 105dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+* When supplied an 80Hz to 5kHz signal the multitone distortion is even lower up to 105dB @ 1 meter.
 
 <br><br>
 

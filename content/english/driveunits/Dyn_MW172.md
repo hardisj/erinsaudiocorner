@@ -494,8 +494,8 @@ Multitone distortion testing. The dashed blue line represents the -20dB (10% dis
 
 The above data can be summed up by looking at the tables above but is provided here again:
 <br>
-* Max SPL for 20Hz to 20kHz is approximately 97dB @ 1 meter.  The compression threshold was exceeded above this SPL.
-* Max SPL for 80Hz to 5kHz is approximately 101dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+* Max SPL for 20Hz to 20kHz is approximately 100dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+* Max SPL for 80Hz to 5kHz is approximately 104dB @ 1 meter.  The compression threshold was exceeded above this SPL.
 
 <br><br>
 
@@ -512,18 +512,18 @@ The above data can be summed up by looking at the tables above but is provided h
 <br>
 
 **Frequency Response:**
-* The sensitivity is decent at about 87.9dB from 300Hz to 1000Hz.  The response exhibits a resonance around 65Hz.
-* The F3 measured on my 21 x 10 foot baffle (yes, feet) is 47Hz with respect to the mean SPL provided above.
+* The sensitivity is quite good at about 80.2dB from 300Hz to 1000Hz.  The response exhibits a resonance around 65Hz.
+* The F3 measured on my 21 x 10 foot baffle (yes, feet) is 53Hz with respect to the mean SPL provided above.
 * The frequency response looks usable for midbass application and maybe as a midwoofer crossed to a large dome tweeter or wideband speaker.  Above 1kHz it exhibits what I assume is a compliance issue between the cone and surround, based on the resonance shown in the impedance, the dip in response and the correlating distortion profile shown in the Harmonic and Multitone distortion plots.
 * Using [this site's online enclosure volume calculator](http://www.mh-audio.nl/Calculators/CCC.html) yields 1.0 ft³ (~28.71 liters) with a Qtc = 0.707 and an F3 = 59Hz.  EBP = 65.6.  Seems this driver is suited more for an IB-type install rather than a small sealed enclosure.  Below is the graph using those parameters (blue line) vs a true infinite baffle installation (red line).
 
 <br>
 
 **Distortion and Compression:**
-* Look back at the multitone measurement results.  You can see that when the driver is asked to play down to 20Hz it caps out at 6V input (~103dB at 1 meter) due to the breakup mode around 7kHz and increasing above 3% distortion below 100Hz.  However, when fed a stimulus between 80Hz - 5kHz the distortion is considerably lower and the maximum output is increased to about 107dB @ 1m but again limited by a breakup, this time around 4.5kHz.
+* Look back at the multitone measurement results.  You can see that when the driver is asked to play down to 20Hz it caps out at 6V input (~100dB at 1 meter) due to the breakup mode around 7kHz and increasing above 3% distortion below 100Hz.  However, when fed a stimulus between 80Hz - 5kHz the distortion is considerably lower and the maximum output is increased to about 104dB @ 1m but again limited by a breakup, this time around 4.5kHz.
 * Notice the increasing distortion in all the distortion plots around 1kHz, as mentioned previously.
 * Breakup >7kHz results in high distortion.
-* Significant compression below 70Hz; losing about 2dB output with an expected 100dB output (12v input).  Putting this in to an equation: 100dB expected - 2dB due to compression = 98dB actual output below 70Hz
+* Significant compression below 70Hz; losing about 2dB output with an expected 103dB output (12v input).  Putting this in to an equation: 103dB expected - 2dB due to compression = 101dB actual output below 70Hz.
 
 <br><br>
 

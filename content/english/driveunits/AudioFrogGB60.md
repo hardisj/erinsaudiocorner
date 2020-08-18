@@ -481,7 +481,7 @@ Multitone distortion testing. The dashed blue line represents the -20dB (10% dis
 The above data can be summed up by looking at the tables above but is provided here again:
 <br>
 * Max SPL for 20Hz to 20kHz is approximately 101dB @ 1 meter.  The compression threshold was exceeded above this SPL.
-* Max SPL for 80Hz to 5kHz is approximately 105dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+* Max SPL for 80Hz to 5kHz is approximately 106dB @ 1 meter.  The compression threshold was exceeded above this SPL.
 
 <br><br>
 
@@ -496,9 +496,9 @@ The above data can be summed up by looking at the tables above but is provided h
 <br>
 
 **Frequency Response:**
-* The average sensitivity is on the higher side of typical, measured at about 88.6dB from 300Hz to 1000Hz.
-* On-axis response linearity is ±1.5dB within 90-3.5kHz (excluding the ~0.50dB bump around 2.7kHz) with some mild bumps here and there.
-* On-axis response linearity is ±3.0dB within 78-4kHz.
+* The average sensitivity is on the higher side of typical, measured at about 88.7dB from 300Hz to 1000Hz.
+* On-axis response linearity is ±1.5dB within 100-3.5kHz (excluding the ~0.50dB bump around 2.7kHz) with some mild bumps here and there.
+* On-axis response linearity is ±3.0dB within 71-4kHz.
 * Breakup is limited to approximately +12dB above the mean SPL at 5-7kHz.  A proper LPF will help mitigate this effect; a steeper order filter will make more of a difference.
 * Off-axis response shows nice linearity until about 4kHz but would be better served crossing below 3kHz to avoid beaming as well as the breakup mode mentioned above.
 
@@ -509,7 +509,7 @@ The above data can be summed up by looking at the tables above but is provided h
 * Distortion within the nominal passband of 80-2kHz is reasonably low.  Above 200Hz the distortion is mostly below 1%.  Below 200Hz the distortion increases to about 5% THD.  A proper HPF will remedy most of this (AudioFrog recommends a bandpass range of 70Hz to 3.5kHz with at least 12dB/octave slopes)
 * Compression is mostly under 0.25dB at 12vRMS input, but at approximately 60Hz and 1.1kHz the compression increases to about 0.75dB.
 * Full bandwidth (20Hz - 20kHz) multitone distortion gets above about 1% distortion thresholds below 200Hz, and above 1kHz at 101dB @ 1 meter equivalent. That’s low.
-* When supplied an 80Hz to 5kHz signal the multitone distortion is well below 1% THD with a max SPL of 105dB.
+* When supplied an 80Hz to 5kHz signal the multitone distortion is well below 1% THD with a max SPL of 106dB.
 
 <br><br>
 
