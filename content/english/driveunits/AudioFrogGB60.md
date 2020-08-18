@@ -3,8 +3,8 @@ title: "AudioFrog GB60 6 Inch Midwoofer Review"
 date: 2020-08-17
 draft: false
 image: /images/Reviews/Drivers/Audiofrog/GB60/DSC06513.JPG
-description : "Purifi Audio PTT6.5W04-01A 6.5 Inch Woofer Review"
-Tags: ["Purifi", "PTT6.5W04-01A", "midbass", "midrange", "Dyn", "woofer", "Review", "Klippel", "Speaker"]
+description : "AudioFrog GB60 6 Inch Midwoofer Review"
+Tags: ["AudioFrog", "GB60", "midbass", "midrange", "Dyn", "woofer", "Review", "Klippel", "Speaker"]
 ---
 <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <br clear="all" />
