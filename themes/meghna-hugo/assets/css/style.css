@@ -18,6 +18,7 @@ body {
   background-color: white; /* main background color*/
 
   font-family: "Arial", serif;
+  font-size:10pt;
   color: black;
   -webkit-font-smoothing: antialiased;
 }
@@ -29,6 +30,8 @@ h4,
 h5,
 h6 {
   font-weight: 600;
+  font-size:20pt;
+
   font-family: "Arial", serif;
   color: #B8860B;
   /*text-decoration: underline;*/
