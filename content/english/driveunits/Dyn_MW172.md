@@ -418,7 +418,7 @@ With that in mind, I used Klippel's DIS module to test this drive unit in two wa
 
 The purpose of me testing with two methods (different "bass tones") is to see the difference between what happens when the driver plays with high(er) excursion vs when a typical HPF is used.  All similarly sized and similarly purposed speakers are tested in the same manner.  For better or worse.  This means a 6-inch midwoofer is tested the same way an 8-inch midwoofer is.  Ultimately, this is for my sanity, because having numerous measurement methods for all sizes of speakers would muddy the waters quickly and wouldn't give us an idea of when performance is great (say, a 6-inch midwoofer that has much less distortion than an 8-inch) or vice-versa.
 
-The above is tested at 3 voltages each.  One voltage is always 2.83v.  The other two voltages are increased to provide an output of ~90dB and ~96dB.  As is the case with the multiple HD tests, the multiple IMD levels provides an idea of what the speaker's IMD profiles look like as the output of the speaker is increased.
+The above is tested at 3 voltages each.  The first voltage is always 2.83v.  The other two voltages are increased to provide higher output (usually targeting at least 96dB for one).  As is the case with the multiple HD tests, the multiple IMD levels provides an idea of what the speaker's IMD profiles look like as the output of the speaker is increased.
 
 **Test 1: Bass Tone at Fs, Voice Tones from 200-6000Hz**
 
