@@ -380,41 +380,53 @@ Frequency Response data is generated using Klippel's [Transfer Function Mueasure
 <br><br>
 
 
-## Total Harmonic Distortion (THD) and Compression:
+## Harmonic Distortion:
 
-Klippel's [3D-DISTORTION MEASUREMENT (DIS) module](https://www.klippel.de/products/rd-system/modules/dis-3d-distortion-measurement.html) is used to calculate the Total Harmonic Distortion and Compression for this drive unit.
+Measurements were completed in the nearfield (approximately 0.30 meters with room correction applied via Klippel's ISC module) using Klippel's TRF module.  Multiple output levels were tested to provide the trend of distortion component profiles and to provide a comparison against other drive units I have tested.  The SPL provided is relative to 1 meter distance, averaged in the noted bandpass region.
 
-Distortion and Compression measurements were completed in the nearfield (approximately 0.3 meters).  However, SPL provided is relative to 1 meter distance.
-
-<details><summary> Harmonic Distortion and Compression: What does this data mean? (click me for info)</summary>
-
-Harmonic Distortion and Compression are provided at varying levels to get an idea of what happens as the voltage into the speaker is increased and overall output volume increases.  The "mean spl" values associated with each voltage provided in the legend is based on a calculation of expected volume *assuming linear volume* at the 300-3kHz region.  Meaning, if a speaker is ideal and you tell your stereo to increase by 6dB by turning the volume knob +6dB, the output will increase by 6dB.  In the real-world, however, a speaker is a mechanical device and there are compression effects that can limit the output volume and, therefore, you could possibly only get an actual increase in volume of 5dB.  A good speaker will have little compression (< 1dB), where poorer speakers may suffer greater compression (> 2dB).  *Generally speaking*, higher sensitivity speakers (like pro-audio speakers with 100dBSPL @ 2.83v/1m spec) suffer relatively no compression while lower sensitivity speakers (low 80's dBSPL @ 2.83v/1m) suffer more compression.  When a crossover is used the compression near the speaker's Fs is attenuated and overall the compression effects are mitigated.  With that in mind, what you see below is first the Total Harmonic Distortion at varying output levels.  </details>
-
-
-<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_harmonicDistortion_linear.png" alt="THD" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_HD.gif" alt="THD" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
-
-<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_harmonicDistortion_linear_zoom.png" alt="THDzoom" width="110%" style="vertical-align:middle;margin:20px 0px"/>
-
-<br clear="all" />
-
-<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_distortionComponents_zoom.png" alt="distortioncomponents" width="110%" style="vertical-align:middle;margin:20px 0px"/>
-
-<br clear="all" />
-
-
-<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_Compression_Normalized.png" alt="compression" width="110%" style="vertical-align:middle;margin:20px 0px"/>
-
-<br clear="all" />
-
 
 <br><br>
 
+## Intermodulated Distortion (IMD):
 
-## Maximum Long Term SPL (Multitone Distortion Testing)
+Klippel's [3D-DISTORTION MEASUREMENT (DIS) module](https://www.klippel.de/products/rd-system/modules/dis-3d-distortion-measurement.html) is used to calculate the Intermodulated Distortion for this drive unit.
+
+Measurements were completed in the nearfield.  Multiple output levels were tested to provide the trend of distortion component profiles and to provide a comparison against other drive units I have tested.  The SPL provided is relative to 1 meter distance, averaged in the noted bandpass region.
+
+Unlike Harmonic Distortion - which is a measure of only harmonics from a single tone - IMD is tested with two tones at the same time: a low frequency "bass tone" near Fs and a higher frequency "voice tone" much greater than Fs.  For example a speaker driver plays 30Hz at the same time it plays 200Hz.  Any distortion artifacts created by the sum and/or difference of the speaker playing both tones at the same time is a result of IMD.  In this example, the speaker is supposed to play *only* 30Hz & 200Hz at the same time.  Thanks to IMD, it plays 200Hz ± 30Hz.  Second order IMD would be 200 ± 30Hz = 170Hz & 230Hz.  Third order IMD would be 200 ± 60Hz = 140Hz & 260Hz.  If these 'side bands' are high enough in output then they are heard as distortion.  If not, they are not.
+
+With that in mind, I used Klippel's DIS module to test this drive unit in two ways:
+1) "Bass tone" fixed at the driver's Fs, with a "voice sweep" where the 200Hz - 6kHz region is played, one tone at a time (over 50 individual tones).
+2) The same as above, but the "bass tone" fixed at 80Hz.
+
+The purpose of me testing with two methods (different "bass tones") is to see the difference between what happens when the driver plays with high(er) excursion vs when a typical HPF is used.  All similarly sized and similarly purposed speakers are tested in the same manner.  For better or worse.  This means a 6-inch midwoofer is tested the same way an 8-inch midwoofer is.  Ultimately, this is for my sanity, because having numerous measurement methods for all sizes of speakers would muddy the waters quickly and wouldn't give us an idea of when performance is great (say, a 6-inch midwoofer that has much less distortion than an 8-inch) or vice-versa.
+
+The above is tested at 3 voltages each.  The first voltage is always 2.83v.  The other two voltages are increased to provide higher output (usually targeting at least 96dB for one).  As is the case with the multiple HD tests, the multiple IMD levels provides an idea of what the speaker's IMD profiles look like as the output of the speaker is increased.
+
+**Test 1: Bass Tone at Fs, Voice Tones from 200-6000Hz**
+
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_IMD_Fs.gif" alt="IMD_Fs" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+<br><br>
+
+**Test 2: Bass Tone at 80Hz, Voice Tones from 200-6000Hz**
+
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_IMD_HPF.gif" alt="IMD_HPF" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+<br><br>
+
+## Maximum Long Term SPL (Multitone Distortion Testing) & Compression
 
 Klippel's [Multi-Tone Measurement (MTON) module](https://www.klippel.de/products/rd-system/modules/mton-multi-tone-measurement.html) is used to calculate the maximum SPL for this drive unit.
+
+Unlike IMD testing, Multitone testing incorporates a complex stimulus, used to emulate actual music.  However, it is a bit more limited in evaluation purposes so I am using it here to characterize the maximum SPL of a drive unit at 1 meter distance as well as provide how much compression it exhibits with an increase in voice coil temperature.
 
 The below data provides the metrics for how Maximum Long Term SPL is determined.  This measurement follows the IEC 60268-21 Long Term SPL protocol, per Klippel's template, as such:
 - Rated maximum sound pressure according IEC 60268-21 §18.4
@@ -424,64 +436,70 @@ The below data provides the metrics for how Maximum Long Term SPL is determined.
 Each voltage test is 1 minute long (hence, the "Long Term" nomenclature).
 
 The thresholds to determine the maximum SPL are:
-- -20dB Distortion relative to the fundamental
-- -3dB compression relative to the reference (1V) measurement
+- -30dB Distortion relative to the fundamental
+- -2dB Compression relative to the reference (1V) measurement
 
 <br>
 
-When the speaker has reached either or both above thresholds, the test is terminated and the SPL of the last test is the maximum SPL.  In the below results I provide the summarized table as well as the data showing how/why this SPL was deemed to be the maximum.
+When the speaker has reached either or both above thresholds, the test is terminated and the SPL of the last test is the maximum SPL.  In the below results, the legend indicates the average SPL within the same passband as is provided for the Frequency Response measurements.  The highest SPL in the legend is the maximum SPL referencd to 1 meter distance.  I provide the data showing which threshold was exceeded.  The graphic(s) with a red line indicate the threshold that failed and capped the maximum SPL.
 
 <br>
 
-This measurement is conducted twice:
-* First with a 20Hz to 20kHz multitone signal
-* Second with a limited bandwidth multitone signal
+This measurement is conducted twice (with a 30-minute break between to let the voice coil cool down):
+1) "Typical" - 80Hz to 1600Hz
+2) "Extended" - 40Hz to 3200Hz
 
-The reason for the two measurements is because it is unfair to expect a small bookshelf speaker to extend low in frequency.  Applying both will provide a good idea of the limitations if you were to want to run a speaker full range vs using one with a *typical* 80Hz HPF.  And you will have a way to compare various speakers' SPL limitations with each other.  However, note: the 80Hz signal is a "brick wall" and does not emulate a typical 80Hz HPF slope of 24dB/octave.  But... it's close enough.
+The purpose of me testing with two methods is to see how a driver performs in a more "typical" passband vs when it plays an "extended" passband.  All similarly sized and similarly purposed speakers are tested in the same manner.  For better or worse.  This means a 6-inch midwoofer is tested the same way an 8-inch midwoofer is.  Ultimately, this is for my sanity, because having numerous measurement methods for all sizes of speakers would muddy the waters quickly and wouldn't give us an idea of when performance is great (say, a 6-inch midwoofer that has much less distortion than an 8-inch) or vice-versa.
+
 
 You can watch a demonstration of this testing via my YouTube channel:
 https://youtu.be/iCjJufvW0IA
 
 <br>
 
-**Test 1: 20Hz to 20kHz**
+**Test 1: Typical**
 
-Multitone compression testing.  The red line shows the final measurement where either distortion and/or compression failed.  The voltage just before this is used to help determine the maximum SPL.
+Multitone compression results.
 
-<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_MTON_Compression 20.png" alt="MTON_Compression_20" width="100%" style="vertical-align:middle;margin:20px 0px"/>
-
-<br clear="all" />
-
-
-Multitone distortion testing. The dashed blue line represents the -20dB (10% distortion) threshold for failure. The dashed red line is for reference and shows the 1% distortion mark (but has no bearing on pass/fail). The green line shows the final measurement where either distortion and/or compression failed. The voltage just before this is used to help determine the maximum SPL.
-
-<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_MTON_Distortion 20.png" alt="MTON_DISTORTION_20" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_MTON_Compression 1.png" alt="MTON_Compression_20" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
-
-
-**Test 2: 80Hz to 5kHz**
-
-Multitone compression testing.  The red line shows the final measurement where either distortion and/or compression failed.  The voltage just before this is used to help determine the maximum SPL.
-
-<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_MTON_Compression 80.png" alt="MTON_Compression_80" width="100%" style="vertical-align:middle;margin:20px 0px"/>
-
-<br clear="all" />
-
-
-Multitone distortion testing. The dashed blue line represents the -20dB (10% distortion) threshold for failure. The dashed red line is for reference and shows the 1% distortion mark (but has no bearing on pass/fail). The green line shows the final measurement where either distortion and/or compression failed. The voltage just before this is used to help determine the maximum SPL.
-
-<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_MTON_Distortion 80.png" alt="MTON_DISTORTION_80" width="100%" style="vertical-align:middle;margin:20px 0px"/>
-
-<br clear="all" />
-
-
-
-The above data can be summed up by looking at the tables above but is provided here again:
 <br>
-* Max SPL for 20Hz to 20kHz is approximately 98dB @ 1 meter.  The compression threshold was exceeded above this SPL.
-* Max SPL for 80Hz to 5kHz is approximately 105dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+
+Multitone distortion results.
+
+
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_MTON_Distortion 1.png" alt="MTON_DISTORTION_20" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+<br><br>
+
+**Test 2: Extended**
+
+Multitone compression results.
+
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_MTON_Compression 2.png" alt="MTON_Compression_80" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+<br>
+
+Multitone distortion results.
+
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT65W04/Purifi PTT6.5W04_MTON_Distortion 2.png" alt="MTON_DISTORTION_80" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+
+<br clear="all" />
+
+<br><br>
+
+The maximum SPL referenced to 1 meter for each test are:
+<br>
+* Max SPL for Test 1 is 100.6dB.  The compression threshold was exceeded above this SPL.
+* Max SPL for Test 2 is 100.6dB.  The compression threshold was exceeded above this SPL.
+
+Does this mean the speaker will not play above this level?  No.  It simply means, within a set of limits, the above values are the maximum the speaker output is.  Above that SPL, the limits are further and further exceeded.
 
 <br><br>
 
@@ -498,17 +516,15 @@ The above data can be summed up by looking at the tables above but is provided h
 * The average sensitivity is measured at about 88.1dB from 300Hz to 1000Hz.
 * On-axis response linearity is ±1.5dB within 100-2kHz with some mild bumps here and there.
 * On-axis response linearity is ±3.0dB within 66-2.5kHz.
-* Breakup is kept to a very respectable +4dB above the mean SPL at 3kHz.
+* Breakup is kept to a very respectable +4dB above the mean SPL at 3kHz.  This is quite good.
 * Off-axis response shows nice linearity until about 4kHz (evidenced by the 60° measurement showing a +4dB resonance at ~3.9kHz).
 
 <br>
 
 **Distortion and Compression:**
-* This is the best speaker I have tested (I don't have the same distortion data for the Scan 18wu I mentioned above).  An incredibly low 2% THD at 80Hz with 12vRMS (making for about 101dB @ 1 meter) and well below 1% THD above 100Hz.
-* The dominant mode of distortion is 2nd-order.  But, really, it is so low... who cares what order is the contributor.
-* Compression is the best I have measured to date as well.  Another incredible performance with only about 0.4dB of compression at 12vRMS input.
-* Multitone distortion gets above about 1% distortion thresholds between 2-4kHz.  One-percent.  At 101dB @ 1 meter equivalent.  That's low.
-* When supplied an 80Hz to 5kHz signal the multitone distortion is even lower up to 105dB @ 1 meter.
+* This is the best speaker I have tested (I don't have the same distortion data for the Scan 18wu I mentioned above).  An incredibly low 1% THD above 70Hz at 100dB output!
+* The dominant mode of distortion is 2nd-order.  But, really, it is so low... who cares what order is the contributor.  3rd-order distortion is 10-20dB lower than 2nd-order.
+* The maximum SPL tests are limited by the -2dB compression threshold; namely by the 500Hz region.  Looking back at the HD and IMD measurements, there appears to be something in this region causing higher 3rd-order distortion HD.  I'm not seeing traces of it in the impedance, though, which is the first place I normally look for problems "in band" (as opposed to out of the typical bandpass region).
 
 <br><br>
 

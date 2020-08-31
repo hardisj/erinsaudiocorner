@@ -14,7 +14,7 @@ Tags: ["Dyn Audio", "MW172", "midbass", "midrange", "Dyn", "woofer", "Review", "
 
 ## YouTube Video Review version:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kIqAXxrxPDs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kIqAXxrxPDs&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br clear="all" />
 <br>
 <br>
@@ -435,7 +435,6 @@ The above is tested at 3 voltages each.  The first voltage is always 2.83v.  The
 <br clear="all" />
 
 <br><br>
-
 
 ## Maximum Long Term SPL (Multitone Distortion Testing) & Compression
 
