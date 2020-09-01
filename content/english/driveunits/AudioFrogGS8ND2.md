@@ -3,7 +3,7 @@ title: "AudioFrog GS8ND2 8-Inch Woofer Review"
 date: 2020-09-01
 draft: false
 image: /images/Reviews/Drivers/Audiofrog/GS8ND2/DSC06521.JPG
-description : "AudioFrog GS8ND2 6 Inch Midwoofer Review"
+description : "AudioFrog GS8ND2 8-Inch Woofer Review"
 Tags: ["AudioFrog", "GS8ND2", "midbass", "subwoofer", "Dyn", "audiofrog", "woofer", "Review", "Klippel", "Speaker"]
 ---
 <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
@@ -17,7 +17,7 @@ Tags: ["AudioFrog", "GS8ND2", "midbass", "subwoofer", "Dyn", "audiofrog", "woofe
 
 # Information
 
-Before I dive in I want to note that this is a dual voice coil (DVC) woofer.  I have tested and provided the T/S parameters with the coils wired in series and also in parallel.  However, based on a poll I created on my Facebook page where I asked if people prefer to run a DVC woofer at a higher or lower load, 57 of 68 replies indicated "higher load".  So, for frequency response I only tested the woofer at the higher series load of 4-ohm nominal.   However, the linear excursion limits are practically the same between the two sets (the Bl, Cms, and Le curves do not change) and, thus, I only provide the results of the series testing.
+Before I dive in I want to note that this is a dual voice coil (DVC) woofer with dual 2 Ohm coil configurable in parallel or in series.  I have tested and provided the T/S parameters with the coils wired in series and also in parallel.  However, based on a poll I created on my Facebook page where I asked if people prefer to run a DVC woofer at a higher or lower load, 57 of 68 replies indicated "higher load".  So, for frequency response I only tested the woofer at the higher series load of 4-ohm nominal.   However, the linear excursion limits are practically the same between the two sets (the Bl, Cms, and Le curves do not change) and, thus, I only provide the results of the series testing.
 
 Per Andy Wehmeyer (owner of AudioFrog):
 > "The GS8ND2 is a subwoofer/woofer. The objective of the design was to make a shallow subwoofer/woofer that will make bass in the correct application--a little box. Most shallow subwoofers require really big boxes and they're often high Q drivers. There are a few that sound good, but not many. So, the GS8ND2 is cool because it can be used in a really small sealed box and also in a really small vented box. It has a long enough voice coil to be a suitable replacement for an OE sub in an infinite baffle. Recognizing that there are some of you who really want an 8" you can put in the door with a crossover frequency of 40 or 50Hz, I decided to put a shorting ring in the speaker to help with the midbass response and to reduce distortion.
@@ -591,7 +591,8 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 **T/S Parameters and Linear Excursion:**
 * My measured linear excursion is limited to about 4.2mm one-way using the 10% distortion limits per the IEC standard.
 * Increasing these limits to permit up to 20% THD results in linear excursion of 7.6mm.
-* Using the "Large + Cold" parameters for modeling in WinISD, I arrived at a sealed enclosure size of 0.45ftⁿ to reach a Qtc of 0.707.  Please refer to the manufactur's recommendation, provided at the beginning of this review, for enclosure type/size.
+* The coil is forward of the gap by approximately 3-4mm with nonlinear profile.  Per Patrick Turnmire's quote above *"If the optimal shift xb(x) varies with the displacement amplitude x then the force factor asymmetry is caused by an asymmetrical geometry of the magnetic field and cannot completely be compensated by coil shifting"*.
+* Using the "Large + Cold" parameters for modeling in WinISD, I arrived at a sealed enclosure size of 0.45ft&sup3; to reach a Qtc of 0.707 with an F3 of 46Hz.  Please refer to the manufactur's recommendation, provided at the beginning of this review, for enclosure type/size.
 
 <br>
 
@@ -599,6 +600,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 * Since this is designed as a woofer and not a midrange/woofer, the average sensitivity is calculated from 40Hz to 300Hz rather than my usual 300Hz - 1kHz.  From 40-300Hz the average sensitivity is 80.1dB at 2.83v/1 meter.
 * On-axis response linearity is not reasonably within ±1.5dB thanks to the resonance at ~80Hz.
 * On-axis response linearity is ±3.0dB from 32Hz to 300Hz.
+* There is a 5dB drop in output from 100Hz to 300Hz.
 * Upper frequency response is limited to 500Hz where a strong resonance occurs.  But, again, this drive unit is not intended to be played above 300Hz per the manufacturer.  This data simply points to agreeance with that and a cautionary tale should someone wonder if they can push the upper end limit above the 300Hz recommendation.
 
 
