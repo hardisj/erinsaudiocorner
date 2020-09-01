@@ -615,16 +615,16 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 
 <br><br>
 
-At $900/pair, there really isn't a lot for me to be excited about with this speaker.  The enclosure size requirements are reasonable for sealed or ported.  The sensitivity is OK.  But for midbass purposes you can absolutely do better.  The linear excursion is quite bad at 2.3mm one-way, limited by inductance which means that this is absolutely not a speaker you want playing near Fs (and most are probably specifically looking for an 8-inch woofer like this to play as midbass near its Fs). For the price, the performance should be much better.
+At $900/pair, there really isn't a lot for me to be excited about with this speaker.  The enclosure size requirements are reasonable for sealed or ported.  The sensitivity is OK.  But for midbass purposes you can absolutely do better.  The linear excursion is quite bad at 2.3mm one-way, limited by inductance which means that this is absolutely not a speaker you want playing near Fs unless you are specifically looking for high distortion... and most reading this review are probably specifically looking for an 8-inch woofer like this to play as midbass near its Fs. For the price, the performance should be much better across the board.
 
-I don't recommend this drive unit.  If you want an 8-inch midbass, then the [Dyn MW182](https://www.erinsaudiocorner.com/driveunits/dyn_mw182/) or [Dyn MW172](https://www.erinsaudiocorner.com/driveunits/dyn_mw172/) I tested here are better options for that task.  
+I don't recommend this drive unit.  If you want an 8-inch midbass, then the [Dyn MW182](https://www.erinsaudiocorner.com/driveunits/dyn_mw182/) or [Dyn MW172](https://www.erinsaudiocorner.com/driveunits/dyn_mw172/) I tested here are better options for that task.
 
 
 <br><br>
 
 # Contribute
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button at the bottom of each page.  The cost to host images on the server exceeded $100 last month and are likely to only continue going up as I post more and more reviews.  Therefore, any amount you can chip in to the cause would go a long way toward me keeping the grease on the cogs.  Thanks.
+If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  The cost to host images on the server exceeded $100 last month and are likely to only continue going up as I post more and more reviews.  Therefore, any amount you can chip in to the cause would go a long way toward me keeping the grease on the cogs.  Thanks.
 
 You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
 

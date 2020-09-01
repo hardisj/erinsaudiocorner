@@ -623,7 +623,7 @@ This speaker was designed for a small enclosure application and to fit some very
 
 # Contribute
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button at the bottom of each page.  The cost to host images on the server exceeded $100 last month and are likely to only continue going up as I post more and more reviews.  Therefore, any amount you can chip in to the cause would go a long way toward me keeping the grease on the cogs.  Thanks.
+If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  The cost to host images on the server exceeded $100 last month and are likely to only continue going up as I post more and more reviews.  Therefore, any amount you can chip in to the cause would go a long way toward me keeping the grease on the cogs.  Thanks.
 
 You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
 
