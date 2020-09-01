@@ -203,7 +203,7 @@ Below are the displacement limits' results for this drive unit obtained from Kli
 
 </br>
 
-**Per the above table, this drive unit's linear excursion is limited to 4.2mm due to exceeding the inductance variation displacement limit of 10% for the distortion limit of 10%.**
+**Per the above table, this drive unit's linear excursion is limited to 2.3mm due to exceeding the inductance variation displacement limit of 10% for the distortion limit of 10%.**
 
 Changing the limits to permit up to 20% THD, typically how subwoofers are tested, yields the following results:
 
