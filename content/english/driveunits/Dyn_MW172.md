@@ -420,6 +420,8 @@ The purpose of me testing with two methods (different "bass tones") is to see th
 
 The above is tested at 3 voltages each.  The first voltage is always 2.83v.  The other two voltages are increased to provide higher output (usually targeting at least 96dB for one).  As is the case with the multiple HD tests, the multiple IMD levels provides an idea of what the speaker's IMD profiles look like as the output of the speaker is increased.
 
+Results are provided in GIF form to help understand how the increased output levels impact the distortion profiles and levels.  Also, I have provided the (calculated) excursion at the provided tests' output level so you can see how much excursion the speaker is under at the bass tone.  Naturally, with a lower frequency there is higher excursion than with a higher frequency bass tone.  This also helps when you are comparing performance against another drive-unit because different speakers have different response profiles; one drive unit may have 2x the excursion from 30Hz to 80Hz while another may have 3x the excursion.  Just something to keep in mind.
+
 **Test 1: Bass Tone at Fs, Voice Tones from 200-6000Hz**
 
 <img align="left" src="/images/Reviews/Drivers/Dyn_Audio/MW172/Dyn Audio MW172_IMD_Fs.gif" alt="IMD_Fs" width="110%" style="vertical-align:middle;margin:20px 0px"/>
