@@ -81,7 +81,7 @@ Using [Klippel's Distortion Analyzer 2](https://www.klippel.de/products/rd-syste
 | Mechanical Parameters |         |      |                                                                                |
 | (using laser)         |         |      |                                                                                |
 | Mms                   | 111.799 | g    | mechanical mass of driver diaphragm assembly including air load and voice coil |
-| Mmd (Sd)              | 108.361 | g    | mechanical mass of voice coil and diaphragm without air load                   |
+| Mmd (Sd)              | 108.202 | g    | mechanical mass of voice coil and diaphragm without air load                   |
 | Rms                   | 3.400   | kg/s | mechanical resistance of  total-driver losses                                  |
 | Cms                   | 0.181   | mm/N | mechanical compliance of driver suspension                                     |
 | Kms                   | 5.54    | N/mm | mechanical stiffness of driver suspension                                      |
@@ -95,11 +95,11 @@ Using [Klippel's Distortion Analyzer 2](https://www.klippel.de/products/rd-syste
 | Qts                   | 0.539   |      | total Q-factor considering Re and Rms only                                     |
 |                       |         |      |                                                                                |
 | Other Parameters      |         |      |                                                                                |
-| Vas                   | 11.2734 | l    | equivalent air volume of suspension                                            |
-| n0                    | 0.083   | %    | reference efficiency (2 pi-radiation using Re)                                 |
-| Lm                    | 81.38   | dB   | characteristic sound pressure level (SPL at 1m for 1W @ Re)                    |
-| Lnom                  | 83.48   | dB   | nominal sensitivity (SPL at 1m for 1W @ Zn)                                    |
-| Sd                    | 210.00  | cm²  | diaphragm area                                                                 |
+| Vas                   | 11.9710 | l    | equivalent air volume of suspension                                            |
+| n0                    | 0.088   | %    | reference efficiency (2 pi-radiation using Re)                                 |
+| Lm                    | 81.64   | dB   | characteristic sound pressure level (SPL at 1m for 1W @ Re)                    |
+| Lnom                  | 83.74   | dB   | nominal sensitivity (SPL at 1m for 1W @ Zn)                                    |
+| Sd                    | 216.40  | cm²  | diaphragm area                                                                 |
 
 </br></br>
 
@@ -426,11 +426,11 @@ For accurate system modelling “Large + Cold” parameters are preferable to �
 | Cms (X=0)             | 0.28    | 0.28    | 0.20    | mm/N | mechanical compliance of driver suspension at the rest position                                              |
 | Kms (X=0)             | 3.59    | 3.59    | 5.12    | N/mm | mechanical stiffness of driver suspension at the rest position                                               |
 | Bl (X=0)              | 12.86   | 12.86   | 12.86   | N/A  | (imported) force factor at the rest position (Bl product)                                                    |
-| Vas                   | 17.3206 | 17.3206 | 12.1449 | l    | equivalent air volume of suspension                                                                          |
-| N0                    | 0.065   | 0.080   | 0.073   | %    | reference efficiency (2Pi-sr radiation using Re)                                                             |
-| Lm                    | 80.3    | 81.2    | 80.8    | dB   | characteristic sound pressure level                                                                          |
+| Vas                   | 18.3924 | 18.3924 | 12.8964 | l    | equivalent air volume of suspension                                                                          |
+| N0                    | 0.069   | 0.085   | 0.077   | %    | reference efficiency (2Pi-sr radiation using Re)                                                             |
+| Lm                    | 80.5    | 81.4    | 81.0    | dB   | characteristic sound pressure level                                                                          |
 |                       |         |         |         |      |                                                                                                              |
-| Sd                    | 210.00  | 210.00  | 210.00  | cm²  | diaphragm area                                                                                               |
+| Sd                    | 216.40  | 216.40  | 216.40  | cm²  | diaphragm area                                                                                               |
 
 <br>
 <br>
