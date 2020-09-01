@@ -587,7 +587,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 * Increasing these limits to permit up to 20% THD results in linear excursion of 4.3mm.
 * There is approximately 3mm coil-forward offset in the gap.
 * The suspension offset is 2mm forward of the gap.
-* Using the "Large + Cold" parameters for modeling in WinISD, I arrived at a sealed enclosure size of 0.43ft&sup3; to reach a Qtc of 0.707 with an F3 of 63Hz.  Modeling for a ported enclosure targeting a tuning frequency of 40Hz, I arrived at an enclosure size of 0.5ft&sup3;.  Below is a comparison of these models.
+* Using the "Large + Cold" parameters for modeling in WinISD, I arrived at a sealed enclosure size of 0.43ft&sup3; to reach a Qtc of 0.707 with an F3 of 63Hz.  Modeling for a ported enclosure targeting a tuning frequency of 40Hz, I arrived at an enclosure size of 0.5ft&sup3;.  Below is a comparison of these models.  Orange = sealed.  Green = ported.
 
 <img align="left" src="/images/Reviews/Drivers/Audio_Development/SW800/enclosures.png" alt="enclosures" width="80%" style="vertical-align:middle;margin:20px 0px"/>
 
