@@ -596,7 +596,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 <br>
 
 **Frequency Response:**
-* Since this is designed as a woofer and not a midrange/woofer, the average sensitivity is calculated from 40Hz to 300Hz rather than my usual 300Hz - 1kHz.  From 40-300Hz the average sensitivity is 85.9dB at 2.83v/1 meter.
+* Since this is designed as a woofer and not a midrange/woofer, the average sensitivity is calculated from 40Hz to 300Hz rather than my usual 300Hz - 1kHz.  From 40-300Hz the average sensitivity is 85.9dB at 2.83v/1 meter at 6.4 Ohms nominal.  Wiring this in parallel to a 1.6 Ohm load would result in about 3dB gain.
 * On-axis response linearity is not reasonably within ±1.5dB thanks to the very high non-linear inductance.
 * On-axis response linearity is ±3.0dB from 43Hz to 300Hz.
 * There is a 5dB drop in output from 100Hz to 300Hz.
@@ -617,7 +617,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 
 At $900/pair, there really isn't a lot for me to be excited about with this speaker.  The enclosure size requirements are reasonable for sealed or ported.  The sensitivity is OK.  But for midbass purposes you can absolutely do better.  The linear excursion is quite bad at 2.3mm one-way, limited by inductance which means that this is absolutely not a speaker you want playing near Fs unless you are specifically looking for high distortion... and most reading this review are probably specifically looking for an 8-inch woofer like this to play as midbass near its Fs. For the price, the performance should be much better across the board.
 
-I don't recommend this drive unit.  If you want an 8-inch midbass, then the [Dyn MW182](https://www.erinsaudiocorner.com/driveunits/dyn_mw182/) or [Dyn MW172](https://www.erinsaudiocorner.com/driveunits/dyn_mw172/) I tested here are better options for that task.
+While this may be OK as a subwoofer, I know most are going to want to know how it performs as a midbass.  So, If you want an 8-inch midbass, then I cannot recommend the AD SW800.  In that case, the [Dyn MW182](https://www.erinsaudiocorner.com/driveunits/dyn_mw182/) or [Dyn MW172](https://www.erinsaudiocorner.com/driveunits/dyn_mw172/) I tested are better options for that task.  If you want an 8-inch subwoofer, I have to imagine there are better options for $900 than this speaker.
 
 
 <br><br>

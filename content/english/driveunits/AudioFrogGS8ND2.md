@@ -597,7 +597,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 <br>
 
 **Frequency Response:**
-* Since this is designed as a woofer and not a midrange/woofer, the average sensitivity is calculated from 40Hz to 300Hz rather than my usual 300Hz - 1kHz.  From 40-300Hz the average sensitivity is 80.1dB at 2.83v/1 meter.
+* Since this is designed as a woofer and not a midrange/woofer, the average sensitivity is calculated from 40Hz to 300Hz rather than my usual 300Hz - 1kHz.  From 40-300Hz the average sensitivity is 80.1dB at 2.83v/1 meter at 4-ohm.  At 2-ohm nominal the sensitivity is raised about 3dB to an average of 83dB at 2.83v/1 meter.
 * On-axis response linearity is not reasonably within ±1.5dB thanks to the resonance at ~80Hz.
 * On-axis response linearity is ±3.0dB from 32Hz to 300Hz.
 * There is a 5dB drop in output from 100Hz to 300Hz.
@@ -616,7 +616,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 
 <br><br>
 
-This speaker was designed for a small enclosure application and to fit some very specific installs such as the afore-quoted Porsche per Andy, as well as certain BMW models which feature under-seat midbass locations.  If you are a customer who has these needs then the GS8ND2 is an option for you.  However, if you are a person simply looking for an 8-inch midbass to fill in between their subwoofer and midrange then I cannot recommend the GS8ND2.  This drive unit's low sensitivity, variable frequency response in even a limited bandpass region of 40-300Hz, low linear excursion and high low-frequency distortion are all enough reason to keep from recommending it to the *general* consumer looking for an 8-inch midbass. The [Dyn MW182](https://www.erinsaudiocorner.com/driveunits/dyn_mw182/) or [Dyn MW172](https://www.erinsaudiocorner.com/driveunits/dyn_mw172/) I tested here are better options for that task.  Their higher sensitivity enables more output in the typical midbass region of 80-300Hz with lower distortion and better linearity in frequency response.
+This speaker was designed for a small enclosure application and to fit some very specific installs such as the afore-quoted Porsche per Andy, as well as certain BMW models which feature under-seat midbass locations.  If you are a customer who has these needs then the GS8ND2 is an option for you.  However, if you are a person simply looking for an 8-inch midbass to fill in between their subwoofer and midrange then I cannot recommend the GS8ND2.  While the linear excursion is par for the course with 8-inch drivers I have tested so far, this drive unit's very low sensitivity, variable frequency response in even a limited bandpass region of 40-300Hz, and high low-frequency distortion (thanks to the low sensitivity) are all enough reason to keep from recommending it to the *general* consumer looking for an 8-inch midbass. The [Dyn MW182](https://www.erinsaudiocorner.com/driveunits/dyn_mw182/) or [Dyn MW172](https://www.erinsaudiocorner.com/driveunits/dyn_mw172/) I tested here are better options for that task.  Their higher sensitivity enables more output in the typical midbass region of 80-300Hz with lower distortion and better linearity in frequency response.
 
 
 <br><br>
