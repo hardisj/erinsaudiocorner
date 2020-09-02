@@ -597,7 +597,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 <br>
 
 **Frequency Response:**
-* Since this is designed as a woofer and not a midrange/woofer, the average sensitivity is calculated from 40Hz to 300Hz rather than my usual 300Hz - 1kHz.  From 40-300Hz the average sensitivity is 80.1dB at 2.83v/1 meter at 4-ohm.  At 2-ohm nominal the sensitivity is raised about 3dB to an average of 83dB at 2.83v/1 meter.
+* Since this is designed as a woofer and not a midrange/woofer, the average sensitivity is calculated from 40Hz to 300Hz rather than my usual 300Hz - 1kHz.  From 40-300Hz the average sensitivity is 80.1dB at 2.83v/1 meter at 4-ohm.  At 1-ohm nominal the sensitivity is raised about 6dB to an average of 86.1dB at 2.83v/1 meter.
 * On-axis response linearity is not reasonably within ±1.5dB thanks to the resonance at ~80Hz.
 * On-axis response linearity is ±3.0dB from 32Hz to 300Hz.
 * There is a 5dB drop in output from 100Hz to 300Hz.
