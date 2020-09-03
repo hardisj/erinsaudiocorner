@@ -13,7 +13,13 @@ Tags: ["AudioFrog", "GS8ND2", "midbass", "subwoofer", "Dyn", "audiofrog", "woofe
 <br>
 
 
+## YouTube Video Review version:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xibTnPzRf0c&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 # Information
 

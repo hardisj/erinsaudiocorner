@@ -12,7 +12,13 @@ Tags: ["Audio Development", "SW800", "midbass", "subwoofer", "Dyn", "audiofrog",
 <br>
 <br>
 
+## YouTube Video Review version:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xibTnPzRf0c&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br clear="all" />
+<br>
+<br>
+<br>
 
 
 # Information
