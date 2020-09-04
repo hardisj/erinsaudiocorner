@@ -14,7 +14,7 @@ Tags: ["Dyn Audio", "MW182", "midbass", "midrange", "Dyn", "woofer", "Review", "
 
 ## YouTube Video Review version:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OwDUd_hTsM4&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OwDUd_hTsM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br clear="all" />
 <br>
 <br>
