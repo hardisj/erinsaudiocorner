@@ -449,6 +449,7 @@ The measurements/prediction below *do not* have EQ applied.
 
 
 **Here's the rundown of my subjective notes (in quotes) and where it fits with objective:**
+
 Before I start, let me talk about Low Frequency Trim:
 As the speakers are (without low frequency adjustment) the sound is very, very neutral in the midbass region. What stood out to me the most in my initial listen is simply that the typical resonances of my room weren't "activated" like they normally are.  Which made for a pleasant listening session without a lot of overbearing ringing.  I found 2000's rock music to be more listenable as well.  For example, I played Andrew W.K.'s "Party Hard" on a whim.  This song has multiple elements/tracks in the mix thrown together and typically sounds very congested/compressed because of the actual limited dynamic range itself... typically at higher volumes it just doesn't sound as "fun" anymore.  But with the Purezza "stock" it was enjoyable at higher output levels.  I attribute this to both the low distortion but also the low frequency trim.  When adding the low shelf EQ of +2.5dB @ 200Hz, bass quality improved to a more 'expected' fuller sound but brought out resonances in the room more easily.
 
@@ -456,7 +457,7 @@ With the above said, the below notes are a mixture of me using the speaker in "s
 
 * Soundstage Depth: Depth to stage (from my seated position to the front of the soundstage) is 5 feet in front of me.  The stage depth itself (front to back of soundstage) is deeeeeep.
 * Soundstage Width: Crazy wide.
-* The Purezzas possess the best soundstage I have heard to date.  A very wide, very deep but also very symmetrical soundstage without one side lagging or the other side coming more forward or being more extended.  Most people don't seem to catch on to assymetry in soundstage but once you do, it's hard to ignore and makes the stereo rendering seem fake (as if the illusion of stereo isn't already, but I digress).  These speakers do not have the problem.
+* The Purezzas possess the best soundstage I have heard to date.  A very wide, very deep but also very symmetrical soundstage without one side lagging or the other side coming more forward or being more extended.  Most people don't seem to catch on to assymetry in soundstage but once you do, it's hard to ignore and makes the stereo rendering seem fake (as if the illusion of stereo isn't already, but I digress).  The Purezzas do not have this problem.
 * Higher Love - guitar playing in first verse sounds like it's 5 feet to the left-front of me.  Very deep soundstage.  Timbre of midrange is so freaking pure.  Shakers/tambourines??? add layer of sound.  Width is to wall 3 feet to the left.
 * 24k Magic - Excellent sound of 'air' even at moderate volumes (don't have to turn it up to hear the details).  98dB.  Even at 101dB the distortion is incredibly low but I can hear the woofers give (PR on back?).  Crazy how loud these get with no hint of distortion.
 * The Cars - Magic - Shaker at R-C just comes out of stage.  High Hat on L-C clear as a bell even though it's somewhat low in the mix.  Bass guitar; can hear the mechanical vibration of the string itself (in addition to the obvious amplified string).
@@ -477,9 +478,9 @@ The soundstage is incredible.  Focus is top notch.  There were no gripes of mine
 
 The distortion is at dangerously low levels.  What does that even mean?... Well, most of the time distortion is an indicator that the volume is too loud.  We hear distortion and we turn it down.  With these speakers, I was often in the 95-100dB level (at 11 feet, no less) without having a clue it was that loud.
 
-I have yet to hear a speaker with this level of neutrality from a set of speakers this size.  The midrange is so distortion-free that it's like listening to your music collection with a new set of ears/memory.  I have to think that this is pushing the envelope for performance in this size class.
+I have yet to hear a speaker of this size with this level of neutrality.  The midrange is so distortion-free that it's like listening to your music collection with a new set of ears/memory.  I have to think that this is pushing the envelope, if not exceeding it, for performance in this size class and cost.
 
-I wholeheartedly recommend these if they are within your budget.
+I wholeheartedly recommend the Selah Audio Purezza speakers if they are within your budget.
 
 <br>
 <br>
