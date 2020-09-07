@@ -111,9 +111,9 @@ The speaker's F3 point (the frequency at which the response has fallen 3dB relat
 You will most likely be drawn the low-frequency trim below ~300Hz, showing about 2.5dB drop from 300Hz to 100Hz.  I asked Rick about this and this was his reply:
 >The amount of baffle step compensation was determined from how I thought most users would place the speaker (in close proximity to the rear wall). I could easily change the BSC if someone places it far out into the room and / or wants it voiced differently. There's always the tradeoff of output capability / sensitivity in the midband and I wanted to keep the sensitivity more reasonable. The tuning is also slightly overdamped which contributes to what you measured as well.
 
-So, Rick can adjust this amount of trim *or* you can use a DSP shelf-filter to boost this back up.  Personally, in my initial listening tests I actually really, really liked the bass.  I will discuss this more in the subjective evaluation below and give some of my thoughts on this.
+So, Rick can adjust this amount of trim *or* you can use a DSP shelf-filter to boost this back up.  Personally, in my initial listening tests I actually really, really liked the bass.  However, I ultimately used a low-shelf filter to boost the lower frequencies.  I will discuss this more in the subjective evaluation below and give some of my thoughts on this.
 
-Another thing that stood out to me was the lack of midrange resonance I measured in Buchardt's S400 speaker and that I believe I have seen in other speakers using a passive radiator in the rear.
+Another thing that stood out to me was the lack of midrange resonance like I measured in [Buchardt's S400 speaker](https://www.erinsaudiocorner.com/loudspeakers/buchardt_audio_s400_bookshelf/) which seemed to be attributed to the passive radiator breakup and that I believe I have seen in other speakers using a passive radiator.  There is no midrange resonance here.
 
 
 <br>
