@@ -29,6 +29,8 @@ This speaker comes to us from the mind of fellow DIY'r and speaker builder, Rick
 * Standard Finishes: Walnut,Cherry,Maple, and Oak (other veneers available for quote upon request)
 * Pricing: $2,895/pair (includes free shipping to the mainland USA)
 
+It is worth mentiong that this speaker can also be purchased [in kit form (without cabinets) from Selah for $1495/pair](http://www.selahaudio.com/purezza-kit).
+
 <br>
 
 
@@ -38,7 +40,7 @@ Rick emailed me some additional information he wanted to note:
 >3) The design axis is the center of the tweeter. A typical stand height is 24"-28".
 
 
-As an aside, I have also tested the Purifi Drive Unit from this speaker.  You can find that full review here: https://www.erinsaudiocorner.com/driveunits/purifi_ptt65w04/.
+As an aside, I have also tested the Purifi Drive Unit from this speaker.  The Purifi 6.5-inch woofer is the best woofer in its class - and frankly besting 8-inch woofers - I have used/tested.  You can find that full review here: https://www.erinsaudiocorner.com/driveunits/purifi_ptt65w04/.
 
 
 <br>
@@ -111,7 +113,7 @@ You will most likely be drawn the low-frequency trim below ~300Hz, showing about
 
 So, Rick can adjust this amount of trim *or* you can use a DSP shelf-filter to boost this back up.  Personally, in my initial listening tests I actually really, really liked the bass.  I will discuss this more in the subjective evaluation below and give some of my thoughts on this.
 
-Another thing that stood out to me was the lack of midrange resonance I measured in Buchardt's S400 speaker and that I believe I have seen in other speakers using a passive radiator in the rear.  
+Another thing that stood out to me was the lack of midrange resonance I measured in Buchardt's S400 speaker and that I believe I have seen in other speakers using a passive radiator in the rear.
 
 
 <br>
@@ -335,7 +337,7 @@ Surpringly, the max SPL test from 20Hz to 20kHz is higher than that of the 80Hz 
 
 **Simulated Response Using Low-Shelf Filter at 200Hz.**
 
-Given the LF trim of this speaker, I decided to see what a simple low-shelf filter would do in order to correct the response and flatten it.  Think of this as a 'tonal contour'.  I applied a signle low-frequency shelf at 200Hz with a gain of 3.5dB and a Q of 0.70 to arrive at the below CEA-2034 response curve set.
+Given the LF trim of this speaker, I decided to see what a simple low-shelf filter would do in order to correct the response and flatten it.  Think of this as a 'tonal contour'.  I applied a single low-frequency shelf at 200Hz with a gain of 3.5dB and a Q of 0.70 to arrive at the below CEA-2034 response curve set.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Selah_Audio_Purezza/Selah Audio Purezza_SPIN_EQ.png" alt="SPIN_EQ" width="120%" style="vertical-align:middle;margin:20px 0px"/>
 
