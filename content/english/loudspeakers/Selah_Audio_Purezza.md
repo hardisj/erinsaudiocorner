@@ -16,7 +16,7 @@ Tags: ["Selah Audio", "Purezza", "Bookshelf", "Klippel", "Review", "Speaker"]
 
 ## Intro
 
-This speaker comes to us from the mind of fellow DIY'r and speaker builder, Rick Craig of Selah Audio.  You can find the manufacturer's information here: http://www.selahaudio.com/purezza but I have provided some snippets below:
+This speaker comes to us from the mind of fellow DIY'r and speaker builder, Rick Craig of Selah Audio.  You can find the manufacturer's information [here](http://www.selahaudio.com/purezza) but I have provided some snippets below:
 * Design: 6.5” 2-way
 * Drivers: Purifi woofer and BZ Labs CQ76B ribbon/planar tweeter.
 * Frequency Response: (+1/-3dB) 40hz-20K
@@ -110,6 +110,9 @@ You will most likely be drawn the low-frequency trim below ~300Hz, showing about
 >The amount of baffle step compensation was determined from how I thought most users would place the speaker (in close proximity to the rear wall). I could easily change the BSC if someone places it far out into the room and / or wants it voiced differently. There's always the tradeoff of output capability / sensitivity in the midband and I wanted to keep the sensitivity more reasonable. The tuning is also slightly overdamped which contributes to what you measured as well.
 
 So, Rick can adjust this amount of trim *or* you can use a DSP shelf-filter to boost this back up.  Personally, in my initial listening tests I actually really, really liked the bass.  I will discuss this more in the subjective evaluation below and give some of my thoughts on this.
+
+Another thing that stood out to me was the lack of midrange resonance I measured in Buchardt's S400 speaker and that I believe I have seen in other speakers using a passive radiator in the rear.  
+
 
 <br>
 
