@@ -472,7 +472,7 @@ With the above said, the below notes are a mixture of me using the speaker in "s
 
 ## Bottom Line
 
-The Selah Audio Purezza is an incredible speaker.  While the low frequency trend native to the speaker may be a problem to some, it can be resolved by Rick easily from what he says.  I simply used an electornic low shelf filter to resolve this and was on my way (and, thus, my comments below are with this adjustment).
+The Selah Audio Purezza is a very accurate and enjoyable speaker.  While the low frequency trend native to the speaker may be a problem to some, it can be resolved by Rick easily from what he says.  I simply used an electronic low-shelf filter to resolve this and was on my way (and, thus, my comments below are with this adjustment).
 
 The soundstage is incredible.  Focus is top notch.  There were no gripes of mine once I made the LF trim correction (before this, the top end sounded a bit hot).
 
