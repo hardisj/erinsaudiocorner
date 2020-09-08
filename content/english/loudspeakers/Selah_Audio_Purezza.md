@@ -465,7 +465,7 @@ With the above said, the below notes are a mixture of me using the speaker in "s
 * Tears For Fears - opening synth; can hear higher frequency portion I hadn't heard before.  Resonance in mix doesn't show up as boomy in reproduction; actually helps give the acoustic space more room.  Hadn't noticed that before.  Heard backup singers @ 2:00 I never noticed before.
 * RATM - Know Your Enemy: Enveloping sound due to wide stage left and right
 * Tell Yer Mama - Great sense of space in the recording; not overly bright like sometimes ~ 0:39 + (background sound fading in and out)
-* Wrapped Around Your Finger - Bass line is incredible.  Can hear the vibrado of it and it actually has a tangible feel as it energizes the room
+* Wrapped Around Your Finger - Bass line is incredible.  Can hear the vibrato of it and it actually has a tangible feel as it energizes the room
 
 <br>
 <br>
