@@ -29,7 +29,7 @@ This speaker comes to us from the mind of fellow DIY'r and speaker builder, Rick
 * Standard Finishes: Walnut,Cherry,Maple, and Oak (other veneers available for quote upon request)
 * Pricing: $2,895/pair (includes free shipping to the mainland USA)
 
-It is worth mentiong that this speaker can also be purchased [in kit form (without cabinets) from Selah for $1495/pair](http://www.selahaudio.com/purezza-kit).
+It is worth mentioning that this speaker can also be purchased [in kit form (without cabinets) from Selah for $1495/pair](http://www.selahaudio.com/purezza-kit).
 
 <br>
 
@@ -40,7 +40,7 @@ Rick emailed me some additional information he wanted to note:
 >3) The design axis is the center of the tweeter. A typical stand height is 24"-28".
 
 
-As an aside, I have also tested the Purifi Drive Unit from this speaker.  The Purifi 6.5-inch woofer is the best woofer in its class - and frankly besting 8-inch woofers - I have used/tested.  You can find that full review here: https://www.erinsaudiocorner.com/driveunits/purifi_ptt65w04/.
+As an aside, I have also tested the Purifi Drive Unit from this speaker.  The Purifi 6.5-inch woofer is an extremely low distortion midwoofer, possibly the best available in its class - even besting 8-inch woofers I have used/tested.  You can find that full review here: https://www.erinsaudiocorner.com/driveunits/purifi_ptt65w04/.
 
 
 <br>
