@@ -487,7 +487,7 @@ I wholeheartedly recommend the Selah Audio Purezza speakers if they are within y
 
 # Contribute
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  The cost to host images on the server exceeded $100 last month and are likely to only continue going up as I post more and more reviews.  Therefore, any amount you can chip in to the cause would go a long way toward me keeping the grease on the cogs.  Thanks.
+If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  Donations help me pay for new items to test, hardware to build test rigs (some speakers require different test stands), miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it's very much appreciated.
 
 You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
 
