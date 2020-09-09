@@ -82,7 +82,7 @@ Impedance measurements are provided both at 0.10 volts RMS and 2.83 volts RMS.  
 
 From the above data we can see the following:
 * The tuning frequency of the enclosure is approximately 35Hz.
-* The minimum impedance dips to about 4.7 Ohms around 1.4kHz with a nominal impedance at 5 Ohms.  A separate amplifier from the typical AVR would be needed to drive this speaker to typical playback volumes.
+* The minimum impedance dips to about 4.7 Ohms around 5.5-7kHz with an overall nominal impedance at 5 about Ohms.  A separate amplifier from the typical AVR would be needed to drive this speaker to typical playback volumes.
 * There are no signs of resonance (typically visible as bumps/wiggles in the impedance that deviate from the curve).
 
 <br><br>
@@ -323,7 +323,7 @@ The above data can be summed up by looking at the tables above but is provided h
 * Max SPL for 20Hz to 20kHz is approximately 103dB @ 1 meter.  The compression threshold was exceeded above this SPL.
 * Max SPL for 80Hz to 20kHz is approximately 102dB @ 1 meter.  The compression threshold was exceeded above this SPL.
 
-Surpringly, the max SPL test from 20Hz to 20kHz is higher than that of the 80Hz to 20kHz test.  However, only 1dB different.  A re-test yielded the same results.
+Surprisingly, the max SPL test from 20Hz to 20kHz is higher than that of the 80Hz to 20kHz test.  However, only 1dB different.  A re-test yielded the same results.
 
 <br><br>
 
@@ -434,7 +434,7 @@ Note: I don't generally audition speakers with the typical "audiophile" music.  
 
 I initially listened to these speakers and made my subjective notes before I started measuring objectively.  I did not want my knowledge of the measurements to influence my subjective opinion.  This is important because I want to try to correlate the objective data with what I hear in my listening space in order to determine the validity of the measurement process.  I try to do a few listening sessions over a couple days so I can give my ears a break and come back "fresh".
 
-Upon measuring and fiding the low frequency trim, I applied the EQ above and did another round of listening.
+Upon measuring and finding the low frequency trim, I applied the EQ above and did another round of listening.
 
 
 Below is the measured in-room response at the main listening position (MLP) in blue, across the front row of seats (red) both compared against the predicted in-room response (black).  You can see the prediction follows pretty reasonably to what is measured in the seated position, aside from the major modal dip at ~125Hz and the dip between 2-3kHz.
