@@ -1,8 +1,7 @@
 ---
 title: "CEA-2010B Subwoofer Comparison"
-date: 2020-09-12
+date: 2010-09-12
 draft: false
-image:
 description : "Subwoofer Comparison"
 Tags: ["Rythmik", "Subwoofer", "F12G", "Servo", "Klippel"]
 ---
