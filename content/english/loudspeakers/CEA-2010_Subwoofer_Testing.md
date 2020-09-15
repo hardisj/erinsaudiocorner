@@ -31,6 +31,13 @@ Measurements are Maximum (Peak) SPL, referenced to 2-meter Ground Plane (2 pi) c
 Specific steps used to conduct TBM measurements are defined by Klippel in this document here:
 https://www.klippel.de/fileadmin/klippel/Bilder/Our_Products/R-D_System/PDF/S44_TBM_Tone_Burst_Measurement.pdf
 
+Below is a video explaining the setup and providing a demonstration of the Klippel software in use.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hyaco1vbgXg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br clear="all" />
+
+
 <br>
 <br>
 <br>
