@@ -1,5 +1,5 @@
 ---
-title: "CEA-2010-A/B Subwoofer Tests"
+title: "CEA-2010 Subwoofer Testing"
 date: 2020-09-15
 draft: false
 image: /images/Reviews/Loudspeakers/Subwoofers/DSC06551.JPG
