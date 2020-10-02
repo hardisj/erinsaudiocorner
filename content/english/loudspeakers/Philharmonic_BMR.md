@@ -296,11 +296,6 @@ https://youtu.be/iCjJufvW0IA
 
 **Test 1: 20Hz to 20kHz**
 
-Table Results:
-<img align="left" src="/images/Reviews/Loudspeakers/Philharmonic_BMR/maxspl_table_20.png" alt="maxspl_table_20" width="120%" style="vertical-align:middle;margin:20px 0px"/>
-
-<br clear="all" />
-
 Multitone compression testing.  The red line shows the final measurement where either distortion and/or compression failed.  The voltage just before this is used to help determine the maximum SPL.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Philharmonic_BMR/Philharmonic BMR_MTON_Compression 20.png" alt="MTON_Compression_20" width="120%" style="vertical-align:middle;margin:20px 0px"/>
@@ -317,11 +312,6 @@ Multitone distortion testing. The dashed blue line represents the -20dB (10% dis
 
 
 **Test 2: 80Hz to 20kHz**
-
-Table Results:
-<img align="left" src="/images/Reviews/Loudspeakers/Philharmonic_BMR/maxspl_table_80.png" alt="maxspl_table_80" width="120%" style="vertical-align:middle;margin:20px 0px"/>
-
-<br clear="all" />
 
 Multitone compression testing.  The red line shows the final measurement where either distortion and/or compression failed.  The voltage just before this is used to help determine the maximum SPL.
 
@@ -340,8 +330,8 @@ Multitone distortion testing. The dashed blue line represents the -20dB (10% dis
 
 The above data can be summed up by looking at the tables above but is provided here again:
 <br>
-* Max SPL for 20Hz to 20kHz is approximately 99dB @ 1 meter.  The compression threshold was exceeded above this SPL.
-* Max SPL for 80Hz to 20kHz is approximately 102dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+* Max SPL for 20Hz to 20kHz is approximately 96dB @ 1 meter.  The compression threshold was exceeded above this SPL.
+* Max SPL for 80Hz to 20kHz is approximately 99dB @ 1 meter.  The compression threshold was exceeded above this SPL.
 
 <br><br>
 
