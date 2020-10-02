@@ -105,7 +105,7 @@ The measurement below provides the frequency response at the reference measureme
 
 <br clear="all" />
 
-The mean spl, approximately 85.5dB, is calculated over the frequency range of 300Hz to 3,000Hz.  The blue shaded area represents the ±3dB response window from this mean spl value.  As you can see in the blue window above, the Buchardt S400 has a ±3dB response from 53Hz - ~16kHz, with the latter being a function of the on-axis dip via cancelation of the dome tweeter to the waveguide mouth which is not apparent off-axis. A tighter window of linearity is provided in gray as ±1.5dB from the mean SPL.
+The mean spl, approximately 84.7dB, is calculated over the frequency range of 300Hz to 3,000Hz.  The blue shaded area represents the ±3dB response window from this mean spl value.  As you can see in the blue window above, the Buchardt S400 has a ±3dB response from 53Hz - ~16kHz, with the latter being a function of the on-axis dip via cancelation of the dome tweeter to the waveguide mouth which is not apparent off-axis. A tighter window of linearity is provided in gray as ±1.5dB from the mean SPL.
 
 The speaker's F3 point (the frequency at which the response has fallen 3dB relative to the mean spl) is 53Hz and the F10 (the frequency at which the response has fallen by 10dB relative to the mean spl) is 38Hz.  While typical rooms provide a low-frequency boost, if you plan to listen to music with lower frequency content, this information indicates you would need a subwoofer to fill in the lower octaves (or, you can use EQ to boost the low end but lowering the maximum SPL).  For further discussion on maximum SPL please read by evaluation sections toward the end of this review.
 
