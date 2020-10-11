@@ -446,7 +446,7 @@ Note: I don't generally audition speakers with the typical "audiophile" music.  
 
 I initially listened to these speakers and made my subjective notes before I started measuring objectively.  I did not want my knowledge of the measurements to influence my subjective opinion.  This is important because I want to try to correlate the objective data with what I hear in my listening space in order to determine the validity of the measurement process.  I try to do a few listening sessions over a couple days so I can give my ears a break and come back "fresh".
 
-Below is the measured in-room response at the main listening position (MLP) of my Home Theater (HT) in red and my Living Room (LR) in blue both compared against the predicted in-room response (purple).  The measurements/prediction below *do not* have EQ applied.
+Below is the measured in-room response at the main listening position (MLP) of my Home Theater (HT) in red and my Living Room (LR) in blue both compared against the predicted in-room response (purple).  These were taken via the moving microphone average, covering the space of about 1 cubic foot in the MLP.  The measurements/prediction below *do not* have EQ applied.  
 
 You can see the prediction follows pretty reasonably to what is measured in the seated position in both rooms, aside from the typical lower frequency modal issues caused by the rooms themselves.  Two completely different listening setups yielded a similar response that both match the predicted in-room response borne from the spinorama data.  This proves that the anechoic data and means to provide a predicted room response result in a very accurate prediction.
 
