@@ -16,7 +16,7 @@ Tags: ["Revel", "PerformaBe", "F226Be", "Floorstanding", "Klippel", "Review", "S
 
 ## Intro
 
-The Revel Performa F226Be is a “compact” floorstanding 3-way loudspeaker from Revel’s PerformaBe lineup featuring (2) 6.5-inch midwoofers, a single 5.25-inch midrange and a 1-inch Beryllium dome tweeter on a waveguide.  This speaker retails for $3500 USD/each ($7k USD/pair).
+The [Revel Performa F226Be](https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html?dwvar_F226BE-_color=Black%20Gloss-GLOBAL-Current&cgid=floorstanding) is a “compact” floorstanding 3-way loudspeaker from Revel’s PerformaBe lineup featuring (2) 6.5-inch midwoofers, a single 5.25-inch midrange and a 1-inch Beryllium dome tweeter on a waveguide.  This speaker retails for $3500 USD/each ($7k USD/pair).
 
 <br>
 
@@ -29,14 +29,14 @@ I have taken the liberty of copy/pasting specifications directly from Revel’s 
 <br>
 <br>
 
-The 1-inch Beryllium dome tweeter features an acoustic lens to help control dispersion while also serving to protect the tweeter from damage (and, this tweeter being made of Beryllium, a needed feature).  The relatively shallow waveguide provides directivity pattern control designed to match the response of the midrange at the crossover to create a smooth "hand off" between drivers both horizontally and vertically.
+The 1-inch Beryllium dome tweeter features an acoustic lens to help control dispersion while also serving to protect the tweeter from damage (this tweeter being made of Beryllium, a needed feature).  The relatively shallow waveguide provides directivity control designed to match the response of the midrange at the crossover to create a smooth "hand off" between drivers both horizontally and vertically.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Revel_F226Be/DSC06634.JPG" alt="tweeter" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 <br clear="all" />
 <br>
 
 
-The 5.25-inch midrange features a different surround than that of the midwoofers.  I find this interesting because many manufacturers make essentially the same drive units in various sizes for different implementations.  While the T/S specs often reflect the intended use (such as a higher or lower Fs), the look of the drive units look identical; just scaled in size.  This midrange drive unit, however, features a distinctly different surround than that of the midwoofers.  My inclination is to believe this is ultimately done to help diffraction effects from the tweeter to the midrange (a smaller surround profile offers less surface area for the tweeter to reflect from).  I could be wrong.
+The 5.25-inch midrange features a different surround than that of the midwoofers.  I find this interesting because many manufacturers make essentially the same drive units in various sizes for different implementations.  While the T/S specs often reflect the intended use (such as a higher or lower Fs), the look of the drive units is often identical; just scaled in size.  This midrange drive unit, however, features a distinctly different surround than that of the midwoofers.  My inclination is to believe this is ultimately done to help diffraction effects from the tweeter to the midrange (a smaller surround profile offers less surface area for the tweeter to reflect from).  I could be wrong.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Revel_F226Be/DSC06632.JPG" alt="midrange" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 <br clear="all" />
@@ -54,6 +54,13 @@ Dual 6.5-inch midwoofers and front-mounted port.
 <img align="left" src="/images/Reviews/Loudspeakers/Revel_F226Be/DSC06631.JPG" alt="impedance" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 <br clear="all" />
 <br>
+
+Rear speaker connections, implementing 5-way binding posts with the option to bi-amp or bi-wire the speakers if so desired.
+
+<img align="left" src="/images/Reviews/Loudspeakers/Revel_F226Be/DSC06636.JPG" alt="speaker_connection" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<br clear="all" />
+<br>
+
 <br>
 <br>
 
@@ -225,7 +232,7 @@ Below is a breakout of the typical room's Early Reflections contributors (floor 
 
 <br>
 
-And below is the Predicted In-Room response compared to a general Target curve equaling -1dB/octave.
+And below is the Predicted In-Room response compared to a general target curve equaling -1dB/octave.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Revel_F226Be/Revel F226Be_Predicted_vs_Target.png" alt="predicted vs target" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
@@ -308,7 +315,7 @@ The above data can be summed up by looking at the tables above but is provided h
 
 Mic placed about 0.50 inches - relative to the baffle - from each drive unit and port.  While I tried to make these as accurate in SPL as I could, I cannot guarantee the relative levels are absolutely correct so I caution you to use this data as a guide but not representative of actual levels (measuring in the nearfield makes this hard as a couple millimeters' difference between measurements can alter the SPL level).
 
-The singular nearfield woofers' results measure lower in level but remember, acoustically, they will sum to be about 3dB higher which would match their combined SPL with that of the midrange.  Therefore, the crossover would match the specified crossover region of about 260Hz.
+The singular nearfield woofers' results measure lower in level but remember, they will sum acoustically to be about 3dB higher which would match their combined SPL with that of the midrange.  Therefore, the crossover would match the specified crossover region of about 260Hz.
 
 The midrange to tweeter crossover is specified at 2.1kHz which is in-line with what the nearfield measurements would otherwise suggest.
 
@@ -408,8 +415,10 @@ Happy Halloween!!!!
 * Components: Oppo BDP-103, AppleTV 4k, and Levinson № 5805 integrated amplifier.
 
 <br><br>
-<br><br>
+I initially listened to these speakers and made my subjective notes before I started measuring objectively.  I did not want my knowledge of the measurements to influence my subjective opinion.  This is important because I want to try to correlate the objective data with what I hear in my listening space in order to determine the validity of the measurement process.  I try to do a few listening sessions over a couple days so I can give my ears a break and come back "fresh".
 
+<br><br>
+<br><br>
 
 **My demo music:**
 
@@ -437,16 +446,14 @@ I auditioned these speakers numerous times over the span of a few weeks.  While 
 
 <br>
 
-Note: I don't generally audition speakers with the typical "audiophile" music.  I have thousands of high-quality albums ranging from pop to metal to jazz and all around.  I don't typically listen to "audiophile" music because I just don't enjoy it.  It is far more important that your evaluation music be something you are familiar with than it is to be esoteric for the sake of being esoteric.  You also want to listen to music you enjoy because auditioning a stereo system shouldn't feel like a chore.  Such is the case in my evaluations.  Besides, the subjective evaluation is purely to help tie to the objective data and make sense of what I am hearing to help you all get an understanding of how relevant the data is.  As you will see below, my music selection did a great job at providing enough range for me to identify the issues that readily appear in the data.
+Note: I don't generally audition speakers with the typical "audiophile" music.  I have a copious amount of high-quality albums ranging from pop to metal to jazz and all around.  I don't typically listen to "audiophile" music because I just don't enjoy it, personally.  It is far more important that your evaluation music be something you are familiar with than it is to be esoteric for the sake of being esoteric.  You also want to listen to music you enjoy because auditioning a stereo system shouldn't feel like a chore.  Besides, my subjective evaluation is purely to help tie to the objective data and make sense of what I am hearing to help you all get an understanding of how relevant the data is.
 <br><br>
 
 
 
 <br>
 
-I initially listened to these speakers and made my subjective notes before I started measuring objectively.  I did not want my knowledge of the measurements to influence my subjective opinion.  This is important because I want to try to correlate the objective data with what I hear in my listening space in order to determine the validity of the measurement process.  I try to do a few listening sessions over a couple days so I can give my ears a break and come back "fresh".
-
-Below is the measured in-room response at the main listening position (MLP) of my Home Theater (HT) in red and my Living Room (LR) in blue both compared against the predicted in-room response (purple).  These were taken via the moving microphone average, covering the space of about 1 cubic foot in the MLP.  The measurements/prediction below *do not* have EQ applied.  
+Below is the measured in-room response at the main listening position (MLP) of my Home Theater (HT) in red and my Living Room (LR) in blue both compared against the predicted in-room response (purple).  These were taken via the moving microphone average, covering the space of about 1 cubic foot in the MLP.  The measurements/prediction below *do not* have EQ applied.
 
 You can see the prediction follows pretty reasonably to what is measured in the seated position in both rooms, aside from the typical lower frequency modal issues caused by the rooms themselves.  Two completely different listening setups yielded a similar response that both match the predicted in-room response borne from the spinorama data.  This proves that the anechoic data and means to provide a predicted room response result in a very accurate prediction.
 
@@ -459,7 +466,7 @@ You can see the prediction follows pretty reasonably to what is measured in the 
 <br>
 
 
-**Here's the rundown of my subjective notes (in quotes) and where it fits with objective:**
+**Here are my key notes and takeaways from my audition:**
 
 * The F226Be is the epitome of "neutral".  There are no areas that stand out in the response spectrum as "bright", "dull", or those other audiophile terms that are often used to describe critiques or negative characteristics of a loudspeaker.  The F226Be is extremely linear in response both on and off-axis per the data and what you hear is exactly that; a very neutral speaker that provides a very good rendition of what is on the media itself.  Neither adding to or taking away from what was intended for the listener to hear in any appreciable manner.
 * The F226Be sounds better in my living room where there is no acoustic absorption than it does in my home theater.  Two possible reasons are: 1) My home theater is "too dead" for these speakers (remember, I have a false wall and sidewalls lined with absorption panels) or 2) The physical distance of the side wall to the speakers being much wider helps.  If I were to own the F226Be I would have to put them in my home theater but I would absolutely try them without my broadband absorption  panels first.  I recommend you take the time to experiment with this in your own listening room to find the balance between absorption vs the sound you are trying to achieve.
