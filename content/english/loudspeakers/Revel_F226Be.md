@@ -36,13 +36,13 @@ The 1-inch Beryllium dome tweeter features an acoustic lens to help control disp
 <br>
 
 
-The 5.25-inch midrange features a different surround than that of the midwoofers.  I find this interesting because many manufacturers make essentially the same drive units in various sizes for different implementations.  While the T/S specs often reflect the intended use (such as a higher or lower Fs), the look of the drive units is often identical; just scaled in size.  This midrange drive unit, however, features a distinctly different surround than that of the midwoofers.  My inclination is to believe this is ultimately done to help diffraction effects from the tweeter to the midrange (a smaller surround profile offers less surface area for the tweeter to reflect from).  I could be wrong.
+The 5.25-inch midrange features a different surround than that of the midwoofers.  I find this interesting because many manufacturers make essentially the same drive units in various sizes for different implementations.  While the T/S specs often reflect the intended use (such as a higher or lower Fs), the look of the drive units is often identical; just scaled in size.  This midrange drive unit, however, features a distinctly different surround than that of the midwoofers.  While I thought this was to reduce diffraction I hadn't considered the obvious reason which HARMAN told me was the basis: *The reason is not for directivity or diffraction.  Rather, a smaller surround radius with a correspondingly larger diameter diaphragm reduces moving mass, plus larger cone area equals higher efficiency, which reduces compression*.  So, senstivity.  Makes sense.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Revel_F226Be/DSC06632.JPG" alt="midrange" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 <br clear="all" />
 <br>
 
-5.25-inch midrange on top.  6.5-inch midwoofer on bottom.  Notice the different surrounds.
+5.25-inch midrange on top.  6.5-inch midwoofer on bottom.  Again, notice the different surrounds.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Revel_F226Be/DSC06653.JPG" alt="midrange_vs_woofer" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 <br clear="all" />
