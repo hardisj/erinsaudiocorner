@@ -4,7 +4,7 @@ date: 2020-11-25
 draft: false
 image: /images/Reviews/Loudspeakers/Klipsch_Heresy_IV/DSC07158.JPG
 description : "Klipsch Heresy IV Floorstanding Speaker Review"
-Tags: ["Klipsch", "Heresy", "Heresy IV", "Klippel", "Review", "Speaker"]
+Tags: ["Klipsch", "Heresy", "Heresy IV", "Klippel", "Review", "Speaker", "loudspeaker"]
 ---
 
 ## Intro
