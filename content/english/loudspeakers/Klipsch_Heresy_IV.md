@@ -1,15 +1,15 @@
 ---
-title: "Klipsch Heresy IV Floorstanding Speaker Review"
+title: "Klipsch Heresy IV Speaker Review"
 date: 2020-11-25
 draft: false
 image: /images/Reviews/Loudspeakers/Klipsch_Heresy_IV/DSC07158.JPG
-description : "Klipsch Heresy IV Floorstanding Speaker Review"
+description : "Klipsch Heresy IV Speaker Review"
 Tags: ["Klipsch", "Heresy", "Heresy IV", "Klippel", "Review", "Speaker", "loudspeaker"]
 ---
 
 ## Intro
 
-The [Klipsch Heresy IV](https://www.klipsch.com/products/heresy-iv-floorstanding-speaker) is a 3-way speaker with a classic look.  The Heresy IV features a 12-inch midwoofer, K-702 midrange compression driver, and K-704 Tractrix horn for high frequencies.  On the back of the speaker is Klipsch's new element to this speaker lineup: the Klipsch Tractrix port.  This speaker can be bi-amped if desired thanks to the links on the two sets of terminals above the rear port.  The Heresy IV comes in a variety of finishes and features a tweed grille to hide the drive units.  The particular model I tested is the Cherry finish.
+The [Klipsch Heresy IV](https://www.klipsch.com/products/heresy-iv-floorstanding-speaker) is a 3-way speaker with a classic look.  The Heresy IV features a 12-inch midwoofer, K-702 midrange compression driver, and K-704 Tractrix horn for high frequencies.  On the back of the speaker is Klipsch's new element to this speaker lineup: the Klipsch Tractrix port.  This speaker can be bi-amped if desired thanks to the links on the two sets of terminals above the rear port.  The Heresy IV comes in a variety of finishes and features a tweed grille to hide the drive units.  The model I tested is in the Cherry finish.
 
 <br>
 
@@ -75,12 +75,12 @@ Speaker terminals:
 <br>
 
 
-Grille with the Klpsch Heresy logo:
+Grille with the Klipsch Heresy logo:
 
 <img align="left" src="/images/Reviews/Loudspeakers/Klipsch_Heresy_IV/DSC07166.JPG" alt="grille close up" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 <br clear="all" />
 <br>
-Aesthetics are always a very personal thing.  Some may not like the look of this speaker, but I do.  I also fancy a lot of other designs that are more flashy.  This speaker is the opposite of flashy, though, yet I still appreciate its retro aesthetic.
+Aesthetics are always a very personal thing.  Some may not like the look of this speaker, but I do.  I also fancy a lot of other designs that are flashier.  This speaker is the opposite of flashy, though, yet I still appreciate its retro aesthetic.
 
 <br>
 <br>
@@ -133,7 +133,7 @@ Frequency response data (horizontal, vertical, "Spinorama", polar, spectrograms,
 
 The measurement below provides the frequency response at the reference measurement axis - also known as the 0-degree axis or "on axis" plane - in this measurement condition was situated at the tweeter.  I did reach out to Klipsch directly - both via email and twitter - to ask what the designed reference axis was but received no reply.  Per my research it seems everyone listens to these speakers on the tweeter axis (typical) so I proceeded with my measurements in that fashion.
 
-The speaker was measured *without* the grille in place.  I did not have the time to measure with the grille removed.
+The speaker was measured *without* the grille in place.  I did not have the time to measure with the grille in place.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Klipsch_Heresy_IV/Klipsch Heresy IV FR_Linearity.png" alt="fr horz" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
@@ -351,7 +351,7 @@ Mic placed about 0.50 inches - relative to the baffle - from each drive unit and
 
 **Cumulative Spectral Decay (CSD).**
 
-I normally don't provide CSD data but in this case, it's a fine example of how the data (when presented correctly) can provide more insight in to cabinet resonances.  You can see in the below graphic a lingering resonance at both ~120Hz and in the 400-600Hz region.
+I normally don't provide CSD data but in this case, it's a fine example of how the data (when presented correctly) can provide more insight into cabinet resonances.  You can see in the below graphic a lingering resonance at both ~120Hz and in the 400-600Hz region.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Klipsch_Heresy_IV/Klipsch Heresy IV CSD.png" alt="CSD" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
@@ -368,7 +368,7 @@ I normally don't provide CSD data but in this case, it's a fine example of how t
 Click here for additional testing.  Currently hidden because it's very in-depth and some may have no interest in this level of analysis.
 </summary></br>
 
-This speaker's 12-inch midwoofer was removed from the enclosure and placed on my Klippel test stand (as shown below).  Klippel's [LPM Module](https://www.klippel.de/products/rd-system/modules/lpm-linear-parameter-measurement.html) was used to provide the midwoofer's T/S parameters provided in the table below.  This is done simply to give us an idea of the woofer's parameters *before* it goes in to the enclosure.  It doesn't change the end result.  It does, however, satisfy some curiosities I know some of you will have.
+This speaker's 12-inch midwoofer was removed from the enclosure and placed on my Klippel test stand (as shown below).  Klippel's [LPM Module](https://www.klippel.de/products/rd-system/modules/lpm-linear-parameter-measurement.html) was used to provide the midwoofer's T/S parameters provided in the table below.  This is done simply to give us an idea of the woofer's parameters *before* it goes into the enclosure.  It doesn't change the result.  It does, however, satisfy some curiosities I know some of you will have.
 
 <img align="left" src="/images/Reviews/Loudspeakers/Klipsch_Heresy_IV/DSC07208.JPG" alt="STAND_TS" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
@@ -465,7 +465,7 @@ Below are the displacement limits' results for this drive unit obtained from Kli
 
 </br>
 
-**Per the above table, this drive unit's linear excursion is limited to 2.0mm due to exceeding the force factor variation displacement limit of 10% for the distortion limit of 10%.**
+**Per the above table, this drive unit's linear excursion is limited to 2.0mm due to exceeding the compliance variation displacement limit of 10% for the distortion limit of 10%.**
 
 We can break the above information down further.  The below text is written by Patrick Turnmire of [Red Rock Acoustics](http://www.redrockacoustics.com/) and used with his permission, substituting data from this drive unit's test results where applicable.
 
@@ -473,7 +473,7 @@ We can break the above information down further.  The below text is written by P
 
 At higher amplitudes, loudspeakers produce substantial distortion in the output signal, generated by
 nonlinear ties inherent in the transducer. The dominant nonlinear distortions are predictable and are
-closely related with the general principle, particular design, material properties and assembling
+closely related with the general principle, design, material properties and assembling
 techniques of the loudspeaker. The Klippel Distortion Analyzer combines nonlinear measurement
 techniques with computer simulation to explain the generation of the nonlinear distortions, to identify
 their physical causes and to give suggestion for constructional improvements. Better insight into the
@@ -654,7 +654,7 @@ surround.
 * The midwoofer to midrange crossover region indicates a directivity mismatch.
 * Though, the midrange to tweeter crossover region looks relatively benign and indicates a fair match in their directivity profiles.
 * The port resonance discussed above shows up clearly in this SPIN data in the 500Hz region and tended to make voices sound boxy.  In combination with the 200-500Hz dip in response this resonance was even more pronounced.
-* The predicted in-room response indicates a peaky 1-2kHz region (which results in a "forward" sound; verified in my listening evaluations).  I'm mentioning this specifically because this particular area was the most bothersome to my ears.
+* The predicted in-room response indicates a peaky 1-2kHz region (which results in a "forward" sound; verified in my listening evaluations).  I'm mentioning this specifically because this area was the most bothersome to my ears.
 
 
 <br><br><br>
@@ -724,7 +724,7 @@ I auditioned these speakers numerous times over the span of a few weeks.  While 
 
 <br>
 
-Note: I don't generally audition speakers with the typical "audiophile" music.  I have a copious amount of high-quality albums ranging from pop to metal to jazz and all around.  I don't typically listen to "audiophile" music because I just don't enjoy it, personally.  It is far more important that your evaluation music be something you are familiar with than it is to be esoteric for the sake of being esoteric.  You also want to listen to music you enjoy because auditioning a stereo system shouldn't feel like a chore.  Besides, my subjective evaluation is purely to help tie to the objective data and make sense of what I am hearing to help you all get an understanding of how relevant the data is.
+Note: I don't generally audition speakers with the typical "audiophile" music.  I have a copious number of high-quality albums ranging from pop to metal to jazz and all around.  I don't typically listen to "audiophile" music because I just don't enjoy it, personally.  It is far more important that your evaluation music be something you are familiar with than it is to be esoteric for the sake of being esoteric.  You also want to listen to music you enjoy because auditioning a stereo system shouldn't feel like a chore.  Besides, my subjective evaluation is purely to help tie to the objective data and make sense of what I am hearing to help you all get an understanding of how relevant the data is.
 <br><br>
 
 
@@ -733,7 +733,7 @@ Note: I don't generally audition speakers with the typical "audiophile" music.  
 
 Below is the measured in-room response at the main listening position (MLP) of my Home Theater (HT) in red and my Living Room (LR) in blue both compared against the predicted in-room response (purple).  These were taken via the moving microphone average, covering the space of about 1 cubic foot in the MLP.  The measurements/prediction below *do not* have EQ applied.
 
-You can see the prediction follows pretty reasonably to what is measured in the seated position in both rooms, notably in the trends.  Two completely different listening setups yielded a similar response that both match the predicted in-room response borne from the spinorama data.  This proves that the anechoic data and means to provide a predicted room response result in an accurate prediction for this speaker.
+You can see the prediction follows reasonably to what is measured in the seated position in both rooms, notably in the trends.  Two completely different listening setups yielded a similar response that both match the predicted in-room response borne from the Spinorama data.  This proves that the anechoic data and means to provide a predicted room response result in an accurate prediction for this speaker.
 
 
 
@@ -753,7 +753,7 @@ You can see the prediction follows pretty reasonably to what is measured in the 
 * Soundstage depth is an odd bird here.  Again, thanks to the unevenness of the response, there are bits about this speaker that have a "forward" presentation (the 1-2kHz region, notably) while others have a more "recessed" presentation (the midrange).  This causes the soundstage depth as well as the "depth to stage" to vary depending on the frequency in a way that I would deem inaccurate.
 * Numerous times I heard a resonance in the cabinet that was quite annoying.  I mentioned this in the objective section above but I wanted to point out that it is quite audible; notably on male voices.
 * While the majority of my demo was with the speaker placed directly on the floor, I tried these lifted off the ground, placed on a stand as well.  I preferred the coupling of the bass to the floor when placed directly to on the floor.  I have read others who preferred them on stands.  To each his own.
-* As for horitozontal toe-in, the majority of my session was with the tweeter aimed directly at me.  However, I did find that (in some cases) I preferred the speaker toed-in about 20°.  But, again thanks to the wild variation in horizontal response there really wasn't a "best".  I'd recommended trying toe-in but no more than 20°.  Once you go beyond that angle the the dip in the 2-4kHz region is more pronounced relative to the 1-2kHz region and results in a considerably more unpleasant sound.  At least to my ears.
+* As for horizontal toe-in, most of my session was with the tweeter aimed directly at me.  However, I did find that (in some cases) I preferred the speaker toed-in about 20°.  But, again thanks to the wild variation in horizontal response there really wasn't a "best".  I'd recommended trying toe-in but no more than 20°.  Once you go beyond that angle the dip in the 2-4kHz region is more pronounced relative to the 1-2kHz region and results in a considerably more unpleasant sound.  At least to my ears.
 
 <br>
 <br>
