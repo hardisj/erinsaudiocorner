@@ -648,6 +648,7 @@ surround.
 * Horizontal dispersion varies by frequency thanks to resonance and directivity mismatches.  Though, the mean horizontal dispersion window is about  ±50° below 10kHz .
 * Vertical dispersion varies by frequency thanks to resonance and directivity mismatches.  Though, the mean horizontal dispersion window is about  ±30° below 10kHz.
 * This unevenness tends to cause the soundstage to behave quite erratically causing some instruments to be placed throughout the soundstage differently from the fundamental to the harmonics, driving imaging inaccuracies as well.
+* Some DSP can be used to smooth out these problem areas (wherever the Directivity is relatively flat is a good candiate for DSP correction).  For example, a portion of the 300-500Hz resonance can be tamed.  But there are many directivity mismatches that would make this task more challenging.  If not for the resonances, however, this task would be much easier.
 
 **Spinorama and Predicted In-Room Response:**
 * No way to sugarcoat this: the SPIN data results in a very uneven response riddled with mismatches in driver-to-driver directivity as well as numerous resonances.  From on-axis to listening window to predicted in-room response.
@@ -655,6 +656,7 @@ surround.
 * Though, the midrange to tweeter crossover region looks relatively benign and indicates a fair match in their directivity profiles.
 * The port resonance discussed above shows up clearly in this SPIN data in the 500Hz region and tended to make voices sound boxy.  In combination with the 200-500Hz dip in response this resonance was even more pronounced.
 * The predicted in-room response indicates a peaky 1-2kHz region (which results in a "forward" sound; verified in my listening evaluations).  I'm mentioning this specifically because this area was the most bothersome to my ears.
+* Some DSP can be used to smooth out these problem areas (wherever the Directivity is relatively flat is a good candiate for DSP correction).
 
 
 <br><br><br>
@@ -689,7 +691,7 @@ No pictures this time.  The house is a mess and if my wife found out I shared ph
 * All speakers are provided a relatively high level of Pseudo Pink-Noise for a day or two - with breaks in between - in order to calm any "break-in" concerns.
 * I demoed these speakers *without a high-pass crossover*. I did not use room correction on these speakers.
 * Components: Oppo BDP-103, AppleTV 4k, Adcom GFA-545 II, Crown XLS 1002, Denon X4000 AVR.
-* Speaker placed on the floor (as Klipsch marketing implies is ideal) as well as on stands.
+* Speaker placed on the floor (as Klipsch marketing implies is ideal) as well as on stands.  Near and far from walls (see notes for more info).
 
 
 <br><br>
@@ -747,7 +749,7 @@ You can see the prediction follows reasonably to what is measured in the seated 
 **Here are my key notes and takeaways from my audition:**
 
 * The Heresy IV has a very uneven tonal balance.  The high frequency tends to be a bit forward (thanks to the 1-2kHz being a bit higher in output level vs the mean).  The bass is punchy but "dull" thanks to the ~100Hz "knee" where the response falls off rapidly below this point and trails off to be -3dB at 300Hz.
-* There was no low bass in my demo sessions.  Even with room gain, I often found a lot lacking below 70/80Hz and I would definitely recommend a subwoofer if you want low frequency content.
+* There was no low bass in my demo sessions.  Even with room gain, I often found a lot lacking below 70/80Hz and I would definitely recommend a subwoofer if you want low frequency content.  In my home theater the speakers were out from the walls.  In my living room the speaker was placed both next to the cabinets (about 1/2 foot) and also demoed at about 2 feet from the cabinets.  The former helped shore up the bass a little bit but still left me underwhelmed and confirmed my notion that a subwoofer would be needed.  Maybe if you corner load them you can get some more low end but there's nothing you can do to change the Fs (or Fb/Fc) of the speaker and it will rolloff above 70Hz so if you're comparing to other speakers in the same placement position, keep this in mind.
 * These speakers get very loud.  I measured about 110dB at my listening position (~12 feet from the speakers) when demoing them.  I couldn't take this output level for too long and had to turn the volume down.
 * Soundstage width was a bit slapdash, if I am being honest.  Some notes tended to go a few feet outside of the physical location of the speaker while other notes did not.  I attribute this "slapdash" aspect to the uneven response (caused by resonances and directivity mismatches between drive units).  If you look back at the objective notes, particularly the horizontal dispersion, you can understand why this is the case.
 * Soundstage depth is an odd bird here.  Again, thanks to the unevenness of the response, there are bits about this speaker that have a "forward" presentation (the 1-2kHz region, notably) while others have a more "recessed" presentation (the midrange).  This causes the soundstage depth as well as the "depth to stage" to vary depending on the frequency in a way that I would deem inaccurate.
@@ -762,11 +764,15 @@ You can see the prediction follows reasonably to what is measured in the seated 
 
 Klipsch has a very strong following in the audiophile community.  Klipsch fans generally know what they are getting and they enjoy it.  What do they know they are getting?  Well, consider this: Klipsch's literal marketing line is (and I quote) *"Pissing off the neighbors since 1946"*.  [Here's the background art supplied on their own site](https://www.klipsch.com/wallpapers).  I know I am not alone in thinking this tagline translates to "loud and bright".  That is what Klipsch has given you in the Heresy IV.  You have a 94dB (2.83v @ 1m) sensitivity speaker with an upward trend in the HF response.  The newly implemented rear port may help the bass response compared to the Heresy III model but you'll find it hard to get much below the 70-80Hz region out of these and you'll need a subwoofer if you want good kick-drum (50/60Hz region) and definitely need a subwoofer if you want LFE content (if you choose to watch movies with these speakers).
 
-With the above said, Klipsch also says this about these speakers:  *"The Heresy IV offers unparalleled sound quality from a relatively small speaker"*.  While this may be true relative to the Heresy III, let me make it clear: the Heresy IV speaker is not the quintessence of hi-fi.  These are not an accurate speaker.  I do not believe others expect that to be the case.  I just want to make that clear up front.  They may very well play your favorite rock n' roll album with the zest you love, but they are not a reference speaker.  Their response is too unbalanced for that task (both subjectively and certainly objectively).  In my opinion, these are party speakers.  They are show-off speakers when your neighbor comes over bragging about his Bose setup.  The Heresy IV is what I would call a Jekyll/Hyde speaker.  Sometimes they make your music fun and sometimes they make it boring.  Heck, sometimes they make it aggravating.  It's a grab bag depending on what track you come across and your mood at the time.
+With the above said, Klipsch also says this about these speakers:  *"The Heresy IV offers unparalleled sound quality from a relatively small speaker"*.  While this may be true relative to the Heresy III, let me make it clear: the Heresy IV speaker is not the quintessence of hi-fi.  These are not an *accurate* speaker.  I do not believe others expect that to be the case.  I just want to make that clear up front.  They may very well play your favorite rock n' roll album with the zest you love, but they are not a reference speaker.  Their response is too unbalanced for that task (both subjectively and certainly objectively).  In my opinion, these are party speakers.  They are show-off speakers when your neighbor comes over bragging about his Bose setup.  The Heresy IV is what I would call a Jekyll/Hyde speaker.  Sometimes they make your music fun and sometimes they make it boring.  Heck, sometimes they make it aggravating.  It's a grab bag depending on what track you come across and your mood at the time.
+
+As an aside, I am not biased against "horns" or compression drivers.  My home theater system is made up of JBL Pro 2447j CD, 2380 horn and 2035HPL midwoofers. They literally came from the old Cinemark in town when they closed down about 8 years ago. They are ran actively off a Rane RPM88 DSP and some Crown amplifiers. So, while I prefer a different radiation pattern for general music listening, I do enjoy "horn speakers" assuming they are designed and implemented well.
 
 Acoustics aside, let's not ignore the "retro" look of these.  They are quite appealing in their own way.  A simple box with a throwback-look that appeals to many generations (myself included).  It's not a work of art.  It's a box.  But, in its own way, it's pretty cool.  And, again, this is something Klipsch is known for and fans come to expect.
 
 Ultimately, aside from looks, this is not the kind of speaker I would personally purchase.  The tonal balance is much too varied for me to enjoy.  But whether I enjoy them or not is of little consequence to your listening tastes.  I've established that these have that "Klipsch sound" and it's evident many prefer it regardless of how inaccurate it is.  Therefore, I can merely only provide you the data and my thoughts on the performance and let you decide what works best for *you*.  If you are interested in the Heresy IV and plan to purchase a pair to try on your own, please consider using my Amazon affiliate link below.  I get a small commission (at no additional cost to you) and it helps me keep doing what I'm doing here.
+
+
 
 <br>
 
