@@ -689,7 +689,7 @@ No pictures this time.  The house is a mess and if my wife found out I shared ph
 * All speakers are provided a relatively high level of Pseudo Pink-Noise for a day or two - with breaks in between - in order to calm any "break-in" concerns.
 * I demoed these speakers *without a high-pass crossover*. I did not use room correction on these speakers.
 * Components: Oppo BDP-103, AppleTV 4k, Adcom GFA-545 II, Crown XLS 1002, Denon X4000 AVR.
-* Speaker placed on the floor (as Klipsch marketing implies is ideal).
+* Speaker placed on the floor (as Klipsch marketing implies is ideal) as well as on stands.
 
 
 <br><br>
