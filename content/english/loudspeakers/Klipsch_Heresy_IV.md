@@ -656,7 +656,6 @@ surround.
 * Though, the midrange to tweeter crossover region looks relatively benign and indicates a fair match in their directivity profiles.
 * The port resonance discussed above shows up clearly in this SPIN data in the 500Hz region and tended to make voices sound boxy.  In combination with the 200-500Hz dip in response this resonance was even more pronounced.
 * The predicted in-room response indicates a peaky 1-2kHz region (which results in a "forward" sound; verified in my listening evaluations).  I'm mentioning this specifically because this area was the most bothersome to my ears.
-* Some DSP can be used to smooth out these problem areas (wherever the Directivity is relatively flat is a good candiate for DSP correction).
 
 
 <br><br><br>
