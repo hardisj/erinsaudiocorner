@@ -655,7 +655,7 @@ surround.
 **Impedance/Amplifier Requirements:**
 * There are a couple areas that show up as resonance in the impedance/frequency response measurements.  ~120Hz and ~400-600Hz both show signs of resonance (the former being very audible in my listening evaluations).
 * The tuning frequency of the enclosure is approximately 35Hz.
-* The minimum impedance dips to about 3.6 Ohms below 5Hz so keep this in mind.  But, realistically, this speaker is closer to a 5 Ohm nominal load.  A standard AVR would not be recommended for powering these speakers. A separate amplifier is recommended to drive this speaker to typical playback volumes.
+* The minimum impedance dips to about 3.6 Ohms below 5Hz so keep this in mind.  But, realistically, this speaker is closer to a 5 Ohm nominal load.  Thanks to their higher sensitivity, a standard AVR should be able to drive these to nominal playback levels but make sure to check the specs of the AVR and use an online calculator to determine if it has enough power to drive the speaker to the level you need at your listening position.
 
 **Distortion/Max SPL:**
 * At 100dB at 1 meter (which is equivalent to 88dB at 4 meters), the low frequency distortion increases but is still respectably low between 1-3% THD from 50Hz to 200Hz.
