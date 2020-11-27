@@ -68,6 +68,24 @@ Midrange close-up:
 <br clear="all" />
 <br>
 
+Inside the cabinet, looking up toward the midrange and tweeter compression drivers.  Note the extensive use of foam padding in the top half.  However, there is no padding or acoustic stuffing in the bottom half (where the woofer is mounted):
+
+<img align="left" src="/images/Reviews/Loudspeakers/Klipsch_Heresy_IV/DSC07223.JPG" alt="Inside Upwards" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<br clear="all" />
+<br>
+
+Inside the cabinet, looking toward the port:
+
+<img align="left" src="/images/Reviews/Loudspeakers/Klipsch_Heresy_IV/DSC07232.JPG" alt="Inside port" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<br clear="all" />
+<br>
+
+Close-up of the crossover:
+
+<img align="left" src="/images/Reviews/Loudspeakers/Klipsch_Heresy_IV/DSC07229_zoom.jpg" alt="crossover" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<br clear="all" />
+<br>
+
 Speaker terminals:
 
 <img align="left" src="/images/Reviews/Loudspeakers/Klipsch_Heresy_IV/DSC07183.JPG" alt="terminal" width="100%" style="vertical-align:middle;margin:20px 0px"/>
