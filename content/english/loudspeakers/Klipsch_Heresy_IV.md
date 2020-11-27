@@ -68,13 +68,13 @@ Midrange close-up:
 <br clear="all" />
 <br>
 
-Inside the cabinet, looking up toward the midrange and tweeter compression drivers.  Note the extensive use of foam padding in the top half.  However, there is no padding or acoustic stuffing in the bottom half (where the woofer is mounted):
+Inside the cabinet, looking up toward the midrange and tweeter compression drivers.  Note the extensive use of foam padding in the top half:
 
 <img align="left" src="/images/Reviews/Loudspeakers/Klipsch_Heresy_IV/DSC07223.JPG" alt="Inside Upwards" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 <br clear="all" />
 <br>
 
-Inside the cabinet, looking toward the port:
+Inside the cabinet, looking toward the port.  Notice there is little acoustic treatment here (some on the backwall and a small portion on the right side-wall):
 
 <img align="left" src="/images/Reviews/Loudspeakers/Klipsch_Heresy_IV/DSC07232.JPG" alt="Inside port" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 <br clear="all" />
