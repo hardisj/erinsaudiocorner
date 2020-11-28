@@ -13,6 +13,12 @@ The [Klipsch Heresy IV](https://www.klipsch.com/products/heresy-iv-floorstanding
 
 <br>
 
+## YouTube Video Review
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pPtTQmVcSY8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+
 <script type="text/javascript">
 amzn_assoc_tracking_id = "medlemusin-20";
 amzn_assoc_ad_mode = "manual";
