@@ -15,8 +15,7 @@ Tags: ["Revel", "PerformaBe", "F226Be", "Floorstanding", "Klippel", "Review", "S
 
 ## YouTube Video Review version:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/r1JjCVVgIdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br clear="all" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r1JjCVVgIdc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 <br>
