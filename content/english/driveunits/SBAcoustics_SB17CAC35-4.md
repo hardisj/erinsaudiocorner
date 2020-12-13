@@ -1,10 +1,10 @@
  ---
-title: "ScanSpeak Illuminator 18WU4741T-00 7 Inch Midwoofer Review"
+title: "ScanSpeak Illuminator 18WU4741T-00 6 Inch Midwoofer Review"
 date: 2020-12-12
 draft: false
 image: /images/Reviews/Drivers/Scanspeak/18WU4741T-00/DSC07292.JPG
-description : "ScanSpeak Illuminator 18WU4741T-00 7 Inch Midwoofer Review"
-Tags: ["ScanSpeak", "Illuminator", "18wu", "midbass", "midrange", "Dyn", "woofer", "Review", "Klippel", "Speaker"]
+description : "ScanSpeak Illuminator 18WU4741T-00 6 Inch Midwoofer Review"
+Tags: ["AudioFrog", "GB60", "midbass", "midrange", "Dyn", "woofer", "Review", "Klippel", "Speaker"]
 ---
 <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <br clear="all" />
@@ -540,7 +540,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 
 Quite a long linear throw midwoofer with relatively high sensitivity which would be excellent for 2-way applications running in to the lower frequencies that most woofers this size simply can't play cleanly.  The peaking distortion around 1kHz doesn't necessarily concern me because, frankly, I can't say if it's a legitimate problem or not without finding some way to A/B this.  Still, even at 99dB, it's around 2% in level vs the fundamental and I would imagine would be reasonably innocuous.  Though, this is conjecture and not fact.
 
-One of my favorite midwoofers.  I've used it myself a few times and always marveled at the performance.  And it sure is pretty if you wanna build a clear acrylic enclosure.
+One of my favorite midwoofers.  I've used it myself a few times and always marveled at the performance.  And it sure is pretty if you wanna build a clear acrylic enclosure.  
 
 
 
