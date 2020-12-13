@@ -531,11 +531,9 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 
 <br><br>
 
-With the relatively high sensitivity, low linear excursion and the various distortion data I have provided (HD, IMD and Multitone) all indicating high levels of low frequency distortion at higher volumes, it seems evident this drive unit should be relegated to midrange duty as opposed to being crossed low in a 2-way system.  The midrange distortion numbers on this speaker are incredible.  Though, as the IMD data indicates, a high-pass filter nearing Fs (44Hz), the midrange "cleanliness" goes out the window.
+With the relatively high sensitivity, low linear excursion and the various distortion data I have provided (HD, IMD and Multitone) all indicating high levels of low frequency distortion at higher volumes, it seems evident this drive unit is more suited for midrange duty as opposed to being crossed low (roughly an octave above Fs) in a 2-way system.  The midrange distortion numbers on this speaker are incredible.  Though, as the IMD data indicates, a high-pass filter nearing Fs (44Hz), the midrange "cleanliness" goes out the window.  So, cross this appropriately.  The typical 80Hz would bea starting point but I think even higher (100Hz) might make more sense, especially if you plan to listen at loud levels.  Cross your subwoofer higher to make up the difference.  
 
-Personally, I'd like to see this used in a 3-way design but then at that point the larger diameter requires a lower crossover point to the tweeter which creates some issues.  The flip side is to use this in a bookshelf monitor for nearfield listening or for farfield listening, crossed above 80Hz or so to a subwoofer(s).
-
-As an aside, I see [Madisound sells a 5-inch version](https://www.madisoundspeakerstore.com/approx-5-woofers/sb-acoustics-sb15cac30-4-5-ceramic-woofer-4-ohms/) of this speaker.  I bet that is an excellent candidate for a midrange in a 3-way system.
+Personally, I'd like to see this used in a 3-way design but then at that point the larger diameter requires a lower crossover point to the tweeter which creates some issues.  The flip side is to use this in a bookshelf monitor for nearfield listening or for farfield listening, crossed above 80Hz or so to a subwoofer(s).  As an aside, I see [Madisound sells a 5-inch version](https://www.madisoundspeakerstore.com/approx-5-woofers/sb-acoustics-sb15cac30-4-5-ceramic-woofer-4-ohms/) of this speaker.  I bet that is an excellent candidate for a midrange in a 3-way system.
 
 
 
