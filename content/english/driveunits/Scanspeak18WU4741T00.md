@@ -538,7 +538,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 
 <br><br>
 
-Quite a long linear throw midwoofer with relatively high sensitivity which would be excellent for 2-way applications running in to the lower frequencies that most woofers this size simply can't play cleanly.  The peaking distortion around 1kHz doesn't necessarily concern me because, frankly, I can't say if it's a legitimate problem or not without finding some way to A/B this.  Still, even at 99dB, it's around 2% in level vs the fundamental and I would imagine would be reasonably innocuous.  Though, this is conjecture and not fact.
+Quite a long linear throw midwoofer with relatively high sensitivity which would be excellent for 2-way applications running in to the lower frequencies that most woofers this size simply can't play cleanly.  Alternatively, these could be used as dedicated midbass drivers for a 3-way system (which is how I have used them myself) thanks to their high linear excursion capability.  The peaking distortion around 1kHz doesn't necessarily concern me because, frankly, I can't say if it's a legitimate problem or not without finding some way to A/B this.  Still, even at 99dB, it's around 2% in level vs the fundamental and I would imagine would be reasonably innocuous.  Though, this is conjecture and not fact.
 
 One of my favorite midwoofers.  I've used it myself a few times and always marveled at the performance.  And it sure is pretty if you wanna build a clear acrylic enclosure.
 
