@@ -549,7 +549,7 @@ One of my favorite midwoofers.  I've used it myself a few times and always marve
 
 # Contribute
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button at the bottom of each page.  Any amount you can chip in to the cause would go a long way toward me keeping the grease on the cogs.  Thanks.
+If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button at the bottom of each page.  Any amount you can chip in to the cause would go a long way toward me keeping the grease on the cogs, paying for server space, hardware, shipping costs, etc.  It would be greatly appreciated.
 
 You can also join my [Facebook Group](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
 

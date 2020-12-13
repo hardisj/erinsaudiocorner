@@ -1,10 +1,10 @@
  ---
-title: "SB Acoustics SB17CAC35-4 6 Inch Ceramic Midwoofer Review"
+title: "Purifi Audio PTT4.0W04-01A 4 Inch Midwoofer Review"
 date: 2020-12-12
 draft: false
-image: /images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/DSC07290.JPG
-description : "SB Acoustics SB17CAC35-4 6 Inch Ceramic Midwoofer Review"
-Tags: ["SB acoustics", "AudioFrog", "GB60", "midbass", "midrange", "Dyn", "woofer", "Review", "Klippel", "Speaker"]
+image: /images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/DSC07301.JPG
+description : "Purifi Audio PTT4.0W04-01A 4 Inch Midwoofer Review"
+Tags: ["Purifi Audio", "scanspeak", "purifi", "GB60", "midbass", "midrange", "Dyn", "woofer", "Review", "Klippel", "Speaker"]
 ---
 <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <br clear="all" />
@@ -17,20 +17,23 @@ Tags: ["SB acoustics", "AudioFrog", "GB60", "midbass", "midrange", "Dyn", "woofe
 
 # Information
 
-Per [Madisound](https://www.madisoundspeakerstore.com/approx-6-7-woofers-sb-acoustics/sb-acoustics-sb17cac35-4-6-ceramic-woofer-4-ohms/):
-<br>
-SB Ceramic cones consist of an aluminum/ceramic dual layer cone. Ceramic provides a very hard and robust surface with improved sonic properties and cosmetic appearance.
-* Vented cast aluminum chassis for optimum strength and low compression
-* Geometrically reinforced ceramic cone for optimum piston operation and reduced break-up
-* Soft low damping rubber surround for improved transient response
-* Non-conducting fibre glass voice coil former for minimum damping
-* Extended copper sleeve on pole piece for low inductance and low distortion
-* CCAW voice coil for reduced moving mass
-* Vented pole piece for reduced compression
+The Purifi Audio PTT4.0W04 is a long linear throw 4-inch midwoofer which costs about $580/pair USD.  It has so much science baked in to its design that it makes my mind hurt so rather than try to pretend I understand it all, I'll just redirect you toward the [manufacturer's website](https://purifi-audio.com/transducers/ptt4-0w04/) or you can view and purchase them from [Madisound](https://www.madisoundspeakerstore.com/approx-5-woofers/purifi-audio-ptt4.5w04-4.5-woofer-4-ohm/) if you'd like.
+
+Madisound Enclosure Suggestions:
+* .08 -.30 cf sealed for an F3 of 113Hz, F6 of 71Hz, F10 of 45Hz
+* .15 cf with a 1” dia. x 5” long port for an F3 of 46Hz
+* .25 cf with a 1.5” dia. x 6” long port for an F3 of 43Hz
+* .35 cf with a 1.5” dia. x 5.5” long port for an F3 of 39Hz
+* .45 cf with a 1.5” dia. x 4.75” long port for an F3 of 36Hz
 
 
 
-![photo1](/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/DSC07291.JPG)
+![photo1](/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/DSC07300.JPG)
+
+![photo2](/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/DSC07302.JPG)
+
+![photo3](/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/DSC07303.JPG)
+
 
 
 
@@ -62,39 +65,39 @@ Using [Klippel's Distortion Analyzer 2](https://www.klippel.de/products/rd-syste
 
 **Note: The impedance graph can be found in the Frequency Response Linearity graphic later in this review.**
 
-| Electrical Parameters |         |      |                                                                                |
-|-----------------------|---------|------|--------------------------------------------------------------------------------|
-| Re                    | 3.26    | Ohm  | electrical voice coil resistance at DC                                         |
-| Le                    | 0.058   | mH   | frequency independent part of voice coil inductance                            |
-| L2                    | 0.356   | mH   | para-inductance of voice coil                                                  |
-| R2                    | 1.48    | Ohm  | electrical resistance due to eddy current losses                               |
-| Cmes                  | 590.15  | µF   | electrical capacitance representing moving mass                                |
-| Lces                  | 22.24   | mH   | electrical inductance representing driver compliance                           |
-| Res                   | 82.56   | Ohm  | resistance due to mechanical losses                                            |
-| fs                    | 43.9    | Hz   | driver resonance frequency                                                     |
-|                       |         |      |                                                                                |
-| Mechanical Parameters |         |      |                                                                                |
-| (using laser)         |         |      |                                                                                |
-| Mms                   | 15.064  | g    | mechanical mass of driver diaphragm assembly including air load and voice coil |
-| Mmd (Sd)              | 13.616  | g    | mechanical mass of voice coil and diaphragm without air load                   |
-| Rms                   | 0.309   | kg/s | mechanical resistance of  total-driver losses                                  |
-| Cms                   | 0.871   | mm/N | mechanical compliance of driver suspension                                     |
-| Kms                   | 1.15    | N/mm | mechanical stiffness of driver suspension                                      |
-| Bl                    | 5.052   | N/A  | force factor (Bl product)                                                      |
-| Lambda s              | 0.040   |      | suspension creep factor                                                        |
-|                       |         |      |                                                                                |
-| Loss factors          |         |      |                                                                                |
-| Qtp                   | 0.511   |      | total Q-factor considering all losses                                          |
-| Qms                   | 13.450  |      | mechanical Q-factor of driver in free air considering Rms only                 |
-| Qes                   | 0.530   |      | electrical Q-factor of driver in free air considering Re only                  |
-| Qts                   | 0.510   |      | total Q-factor considering Re and Rms only                                     |
-|                       |         |      |                                                                                |
-| Other Parameters      |         |      |                                                                                |
-| Vas                   | 17.1655 | l    | equivalent air volume of suspension                                            |
-| n0                    | 0.264   | %    | reference efficiency (2 pi-radiation using Re)                                 |
-| Lm                    | 86.41   | dB   | characteristic sound pressure level (SPL at 1m for 1W @ Re)                    |
-| Lnom                  | 87.31   | dB   | nominal sensitivity (SPL at 1m for 1W @ Zn)                                    |
-| Sd                    | 118.00  | cm²  | diaphragm area                                                                 |
+| Electrical Parameters |        |      |                                                                                |
+|-----------------------|--------|------|--------------------------------------------------------------------------------|
+| Re                    | 3.71   | Ohm  | electrical voice coil resistance at DC                                         |
+| Le                    | 0.191  | mH   | frequency independent part of voice coil inductance                            |
+| L2                    | 0.396  | mH   | para-inductance of voice coil                                                  |
+| R2                    | 2.10   | Ohm  | electrical resistance due to eddy current losses                               |
+| Cmes                  | 369.56 | µF   | electrical capacitance representing moving mass                                |
+| Lces                  | 33.15  | mH   | electrical inductance representing driver compliance                           |
+| Res                   | 54.22  | Ohm  | resistance due to mechanical losses                                            |
+| fs                    | 45.5   | Hz   | driver resonance frequency                                                     |
+|                       |        |      |                                                                                |
+| Mechanical Parameters |        |      |                                                                                |
+| (using laser)         |        |      |                                                                                |
+| Mms                   | 13.081 | g    | mechanical mass of driver diaphragm assembly including air load and voice coil |
+| Mmd (Sd)              | 12.599 | g    | mechanical mass of voice coil and diaphragm without air load                   |
+| Rms                   | 0.653  | kg/s | mechanical resistance of  total-driver losses                                  |
+| Cms                   | 0.937  | mm/N | mechanical compliance of driver suspension                                     |
+| Kms                   | 1.07   | N/mm | mechanical stiffness of driver suspension                                      |
+| Bl                    | 5.950  | N/A  | force factor (Bl product)                                                      |
+| Lambda s              | 0.089  |      | suspension creep factor                                                        |
+|                       |        |      |                                                                                |
+| Loss factors          |        |      |                                                                                |
+| Qtp                   | 0.367  |      | total Q-factor considering all losses                                          |
+| Qms                   | 5.725  |      | mechanical Q-factor of driver in free air considering Rms only                 |
+| Qes                   | 0.392  |      | electrical Q-factor of driver in free air considering Re only                  |
+| Qts                   | 0.367  |      | total Q-factor considering Re and Rms only                                     |
+|                       |        |      |                                                                                |
+| Other Parameters      |        |      |                                                                                |
+| Vas                   | 4.2610 | l    | equivalent air volume of suspension                                            |
+| n0                    | 0.098  | %    | reference efficiency (2 pi-radiation using Re)                                 |
+| Lm                    | 82.13  | dB   | characteristic sound pressure level (SPL at 1m for 1W @ Re)                    |
+| Lnom                  | 82.45  | dB   | nominal sensitivity (SPL at 1m for 1W @ Zn)                                    |
+| Sd                    | 56.70  | cm²  | diaphragm area                                                                 |
 
 </br></br>
 
@@ -133,19 +136,21 @@ Below are the displacement limits' results for this drive unit obtained from Kli
 
 | Displacement Limits   |             |         |                                                                   |
 |-----------------------|-------------|---------|-------------------------------------------------------------------|
-| X Bl @ Bl min=82%     | 5.1         | mm      | Displacement limit due to force factor variation                  |
-| X C @ C min=75%       | 2.8         | mm      | Displacement limit due to compliance variation                    |
-| X L @ Z max=10 %      | >5.2         | mm      | Displacement limit due to inductance variation                    |
-| X d @ d2=10%          | 28.0        | mm      | Displacement limit due to IM distortion (Doppler)                 |
+| X Bl @ Bl min=82%     | >7.6         | mm      | Displacement limit due to force factor variation                  |
+| X C @ C min=75%       | 4.7         | mm      | Displacement limit due to compliance variation                    |
+| X L @ Z max=10 %      | >7.6         | mm      | Displacement limit due to inductance variation                    |
+| X d @ d2=10%          | 26.8        | mm      | Displacement limit due to IM distortion (Doppler)                 |
 |                       |             |         |                                                                   |
 | Asymmetry (IEC 62458) |             |         |                                                                   |
-| Ak                    | 15.68      | %       | Stiffness asymmetry Ak(Xpeak)                                     |
-| Xsym                  | -0.60       | mm      | Symmetry point of Bl(x) at maximal excursion                      |
+| Ak                    | 31.72      | %       | Stiffness asymmetry Ak(Xpeak)                                     |
+| Xsym                  | 0.12       | mm      | Symmetry point of Bl(x) at maximal excursion                      |
 |                       |             |         |                                                                   |
 
 </br>
 
-**Per the above table, this drive unit's linear excursion is limited to 2.8mm due to exceeding the compliance variation displacement limit of 75% for the distortion limit of 10%.**
+**Per the above table, this drive unit's linear excursion is limited to 4.7mm due to exceeding the compliance variation displacement limit of 75% for the distortion limit of 10%.**
+
+To those who have used KLIPPEL's LSI module you'll know why Bl did not resolve.  For those wondering why the "greater than" sign shows up for Bl, that's because the drive unit would have to have been pushed more harder than I deemed necessary to get the data I needed.  Possibly, causing damage.  Since all I need to know is what the IEC standard xmax value is I stopped once it resolved with Cms.
 
 </br>
 
@@ -183,7 +188,7 @@ The dominant nonlinearities are modelled by variable parameters such as
 
 **Bl change with excursion**
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/Force factor Bl (X).png" alt="blx" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Force factor Bl (X).png" alt="blx" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -204,7 +209,7 @@ displayed on the bottom left / bottom right.
 
 **Suspension Stiffness change with excursion**
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/Stiffness of suspension Kms (X).png" alt="kmsx" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Stiffness of suspension Kms (X).png" alt="kmsx" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -216,13 +221,13 @@ compliance CMS(x).
 
 **Inductance change with excursion**
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/Electrical inductance L(X, I=0).png" alt="lex" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Electrical inductance L(X, I=0).png" alt="lex" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
 </br>
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/Inductance over current L(X=0, I).png" alt="lei" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Inductance over current L(X=0, I).png" alt="lei" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 </br>
@@ -248,13 +253,13 @@ similar effects as the variable term Le(x).
 
 **Fs shift with excursion**
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/Resonance frequency fs (X).png" alt="fsx" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Resonance frequency fs (X).png" alt="fsx" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
 **Qts change with excursion**
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/Total loss factor Qts (X).png" alt="qtx" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Total loss factor Qts (X).png" alt="qtx" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -295,7 +300,7 @@ coil shifting.
 
 </br>
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/Bl Symmetry Range.png" alt="bl_sym" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Bl Symmetry Range.png" alt="bl_sym" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 </br>
@@ -313,7 +318,7 @@ surround.
 
 </br>
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/Kms Symmetry Range.png" alt="kms_sym" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Kms Symmetry Range.png" alt="kms_sym" width="100%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -323,35 +328,35 @@ For accurate system modelling “Large + Cold” parameters are preferable to �
 
 | Symbol                | Large + Warm | Large + Cold | Small Signal | Unit | Comment                                                                                                      |
 |-----------------------|--------------|--------------|--------------|------|--------------------------------------------------------------------------------------------------------------|
-| Note:                 |         |         |         |      | for accurate small signal parameters, use LPM module                                                         |
-|-----------------------|---------|---------|---------|------|--------------------------------------------------------------------------------------------------------------|
-| Delta Tv [referenced] | 18.3    |         | 0       | K    | increase of voice coil temperature during the measurement referenced to imported Re(Delta Tv=0K)             |
-| Delta Tv = Tv-Ta      | 9.0     | 0       | 0       | K    | increase of voice coil temperature during the measurement                                                    |
-| Xprot                 | 6.0     | 6.0     | 3.2     | mm   | maximal voice coil excursion (limited by protection system)                                                  |
-|                       |         |         |         |      |                                                                                                              |
-| Re (Tv)               | 3.48    | 3.37    | 3.37    | Ohm  | voice coil resistance considering increase of voice coil temperature Tv                                      |
-| Le (X=0)              | 0.11    | 0.11    | 0.12    | mH   | voice coil inductance at the rest position of the voice coil                                                 |
-| L2 (X=0)              | 0.54    | 0.54    | 0.37    | mH   | para-inductance at the rest position due to the effect of eddy current                                       |
-| R2 (X=0)              | 0.29    | 0.29    | 0.40    | Ohm  | resistance at the rest position due to eddy currents                                                         |
-| Cmes (X=0)            | 623     | 623     | 650     | µF   | electrical capacitance representing moving mass                                                              |
-| Lces (X=0)            | 38.86   | 38.86   | 30.98   | mH   | electrical inductance at the rest position representing driver compliance                                    |
-| Res (X=0)             | 69.62   | 69.62   | 25.96   | Ohm  | resistance at the rest position due to mechanical losses                                                     |
-|                       |         |         |         |      |                                                                                                              |
-| Qms (X=0, Tv)         | 8.81    | 8.81    | 3.76    |      | mechanical Q-factor considering the mechanical system only                                                   |
-| Qes (Tv)              | 0.43    | 0.41    | 0.49    |      | electrical Q-factor considering Re (Tv) only                                                                 |
-| Qts (X=0, Tv)         | 0.41    | 0.39    | 0.43    |      | total Q-factor considering Re (Tv) and Rms only                                                              |
-| fs                    | 32.4    | 32.4    | 35.5    | Hz   | driver resonance frequency                                                                                   |
-|                       |         |         |         |      |                                                                                                              |
-| Mms                   | 15.367  | 15.367  |         | g    | (calculated from imported Bl) mechanical mass of driver diaphragm assembly including voice-coil and air load |
-| Rms (X=0)             | 0.355   | 0.355   | 0.983   | kg/s | mechanical resistance of  total-driver losses                                                                |
-| Cms (X=0)             | 1.57    | 1.57    | 1.21    | mm/N | mechanical compliance of driver suspension at the rest position                                              |
-| Kms (X=0)             | 0.64    | 0.64    | 0.82    | N/mm | mechanical stiffness of driver suspension at the rest position                                               |
-| Bl (X=0)              | 5.05    | 5.05    | 5.05    | N/A  | (imported) force factor at the rest position (Bl product)                                                    |
-| Vas                   | 30.9082 | 30.9082 | 23.8260 | l    | equivalent air volume of suspension                                                                          |
-| N0                    | 0.235   | 0.243   | 0.209   | %    | reference efficiency (2Pi-sr radiation using Re)                                                             |
-| Lm                    | 85.9    | 86.0    | 85.4    | dB   | characteristic sound pressure level                                                                          |
-|                       |         |         |         |      |                                                                                                              |
-| Sd                    | 118.00  | 118.00  | 118.00  | cm²  | diaphragm area                                                                                               |
+| Note:                 |        |        |        |      | for accurate small signal parameters, use LPM module                                                         |
+|-----------------------|--------|--------|--------|------|--------------------------------------------------------------------------------------------------------------|
+| Delta Tv [referenced] | 35.5   |        | 0      | K    | increase of voice coil temperature during the measurement referenced to imported Re(Delta Tv=0K)             |
+| Delta Tv = Tv-Ta      | 19.9   | 0      | 0      | K    | increase of voice coil temperature during the measurement                                                    |
+| Xprot                 | 8.7    | 8.7    | 3.0    | mm   | maximal voice coil excursion (limited by protection system)                                                  |
+|                       |        |        |        |      |                                                                                                              |
+| Re (Tv)               | 4.21   | 3.92   | 3.92   | Ohm  | voice coil resistance considering increase of voice coil temperature Tv                                      |
+| Le (X=0)              | 0.22   | 0.22   | 0.22   | mH   | voice coil inductance at the rest position of the voice coil                                                 |
+| L2 (X=0)              | 0.55   | 0.55   | 0.38   | mH   | para-inductance at the rest position due to the effect of eddy current                                       |
+| R2 (X=0)              | 0.83   | 0.83   | 0.95   | Ohm  | resistance at the rest position due to eddy currents                                                         |
+| Cmes (X=0)            | 383    | 383    | 384    | µF   | electrical capacitance representing moving mass                                                              |
+| Lces (X=0)            | 58.03  | 58.03  | 44.54  | mH   | electrical inductance at the rest position representing driver compliance                                    |
+| Res (X=0)             | 56.12  | 56.12  | 28.27  | Ohm  | resistance at the rest position due to mechanical losses                                                     |
+|                       |        |        |        |      |                                                                                                              |
+| Qms (X=0, Tv)         | 4.56   | 4.56   | 2.62   |      | mechanical Q-factor considering the mechanical system only                                                   |
+| Qes (Tv)              | 0.32   | 0.30   | 0.36   |      | electrical Q-factor considering Re (Tv) only                                                                 |
+| Qts (X=0, Tv)         | 0.30   | 0.28   | 0.32   |      | total Q-factor considering Re (Tv) and Rms only                                                              |
+| fs                    | 33.8   | 33.8   | 38.5   | Hz   | driver resonance frequency                                                                                   |
+|                       |        |        |        |      |                                                                                                              |
+| Mms                   | 12.596 | 12.596 |        | g    | (calculated from imported Bl) mechanical mass of driver diaphragm assembly including voice-coil and air load |
+| Rms (X=0)             | 0.587  | 0.587  | 1.252  | kg/s | mechanical resistance of  total-driver losses                                                                |
+| Cms (X=0)             | 1.76   | 1.76   | 1.26   | mm/N | mechanical compliance of driver suspension at the rest position                                              |
+| Kms (X=0)             | 0.57   | 0.57   | 0.79   | N/mm | mechanical stiffness of driver suspension at the rest position                                               |
+| Bl (X=0)              | 5.95   | 5.95   | 5.95   | N/A  | (imported) force factor at the rest position (Bl product)                                                    |
+| Vas                   | 7.9926 | 7.9926 | 5.7044 | l    | equivalent air volume of suspension                                                                          |
+| N0                    | 0.093  | 0.100  | 0.086  | %    | reference efficiency (2Pi-sr radiation using Re)                                                             |
+| Lm                    | 81.8   | 82.1   | 81.5   | dB   | characteristic sound pressure level                                                                          |
+|                       |        |        |        |      |                                                                                                              |
+| Sd                    | 56.70  | 56.70  | 56.70  | cm²  | diaphragm area                                                                                               |
 
 <br>
 <br>
@@ -363,7 +368,7 @@ Frequency Response data is generated using Klippel's [Transfer Function Mueasure
 
 #### On-Axis Linearity and Impedance
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/SB Acoustics SB17CAC35-4 FR linearity.png" alt="FR_Linearity" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Purifi PTT4.0W04-01A FR linearity.png" alt="FR_Linearity" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -371,11 +376,11 @@ Frequency Response data is generated using Klippel's [Transfer Function Mueasure
 
 #### On and Off-Axis Frequency Response
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/SB Acoustics SB17CAC35-4 Horizontal FR.png" alt="FRonoffaxis" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Purifi PTT4.0W04-01A Horizontal FR.png" alt="FRonoffaxis" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/SB Acoustics SB17CAC35-4_Horizontal_FR_Normalized.png" alt="FRnormalized" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Purifi PTT4.0W04-01A_Horizontal_FR_Normalized.png" alt="FRnormalized" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -386,7 +391,7 @@ Frequency Response data is generated using Klippel's [Transfer Function Mueasure
 
 Measurements were completed in the nearfield (approximately 0.30 meters with room correction applied via Klippel's ISC module) using Klippel's TRF module.  Multiple output levels were tested to provide the trend of distortion component profiles and to provide a comparison against other drive units I have tested.  The SPL provided is relative to 1 meter distance, averaged in the noted bandpass region.
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/SB Acoustics SB17CAC35-4_HD.gif" alt="THD" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Purifi PTT4.0W04-01A_HD.gif" alt="THD" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -412,7 +417,7 @@ Results are provided in GIF form to help understand how the increased output lev
 
 **Test 1: Bass Tone at Fs, Voice Tones from 200-6000Hz**
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/SB Acoustics SB17CAC35-4_IMD_Fs.gif" alt="IMD_Fs" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Purifi PTT4.0W04-01A_IMD_Fs.gif" alt="IMD_Fs" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -420,7 +425,7 @@ Results are provided in GIF form to help understand how the increased output lev
 
 **Test 2: Bass Tone at 80Hz, Voice Tones from 200-6000Hz**
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/SB Acoustics SB17CAC35-4_IMD_HPF.gif" alt="IMD_HPF" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Purifi PTT4.0W04-01A_IMD_HPF.gif" alt="IMD_HPF" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -450,8 +455,8 @@ When the speaker has reached either or both above thresholds, the test is termin
 <br>
 
 This measurement is conducted twice (with a 30-minute break between to let the voice coil cool down):
-1) "Typical" - 80Hz to 1600Hz
-2) "Extended" - 40Hz to 3200Hz
+1) "Midwoofer" - 80Hz to 1600Hz
+2) "Midrange" - 200Hz to 4000Hz
 
 The purpose of me testing with two methods is to see how a driver performs in a more "typical" passband vs when it plays an "extended" passband.  All similarly sized and similarly purposed speakers are tested in the same manner.  For better or worse.  This means a 6-inch midwoofer is tested the same way an 8-inch midwoofer is.  Ultimately, this is for my sanity, because having numerous measurement methods for all sizes of speakers would muddy the waters quickly and wouldn't give us an idea of when performance is great (say, a 6-inch midwoofer that has much less distortion than an 8-inch) or vice-versa.
 
@@ -461,11 +466,11 @@ https://youtu.be/iCjJufvW0IA
 
 <br>
 
-**Test 1: Typical**
+**Test 1: Midwoofer**
 
 Multitone compression results.
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/SB Acoustics SB17CAC35-4_MTON_Compression 1.png" alt="MTON_Compression_20" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Purifi PTT4.0W04-01A_MTON_Compression 1.png" alt="MTON_Compression_20" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -474,17 +479,17 @@ Multitone compression results.
 Multitone distortion results.
 
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/SB Acoustics SB17CAC35-4_MTON_Distortion 1.png" alt="MTON_DISTORTION_20" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Purifi PTT4.0W04-01A_MTON_Distortion 1.png" alt="MTON_DISTORTION_20" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
 <br><br>
 
-**Test 2: Extended**
+**Test 2: Midrange**
 
 Multitone compression results.
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/SB Acoustics SB17CAC35-4_MTON_Compression 2.png" alt="MTON_Compression_80" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Purifi PTT4.0W04-01A_MTON_Compression 2.png" alt="MTON_Compression_80" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -492,7 +497,7 @@ Multitone compression results.
 
 Multitone distortion results.
 
-<img align="left" src="/images/Reviews/Drivers/SB_Acoustics/SB17CAC35-4/SB Acoustics SB17CAC35-4_MTON_Distortion 2.png" alt="MTON_DISTORTION_80" width="110%" style="vertical-align:middle;margin:20px 0px"/>
+<img align="left" src="/images/Reviews/Drivers/Purifi/Purifi_PTT4.0W04-01A/Purifi PTT4.0W04-01A_MTON_Distortion 2.png" alt="MTON_DISTORTION_80" width="110%" style="vertical-align:middle;margin:20px 0px"/>
 
 <br clear="all" />
 
@@ -500,8 +505,8 @@ Multitone distortion results.
 
 The maximum SPL referenced to 1 meter for each test are:
 <br>
-* Max SPL for Test 1 is 100.9dB.  The compression threshold was exceeded above this SPL at ~1.2kHz.
-* Max SPL for Test 2 is 100.9dB.  The compression threshold was exceeded above this SPL at ~160Hz and ~1.2kHz and also passes the distortion threshold of 3% at a few frequencies.
+* Max SPL for Test 1 is 96.6dB.  The compression threshold was exceeded above this SPL in the midrange above 300Hz.
+* Max SPL for Test 1 is 95.9dB.  The compression threshold was exceeded above this SPL in the midrange above 300Hz.  Same as above.  The difference is trivial between the two sets.
 
 Does this mean the speaker will not play above this level?  No.  It simply means, within a set of limits, the above values are the maximum the speaker output is.  Above that SPL, the limits are further and further exceeded.
 
@@ -509,33 +514,35 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 
 # Bottom Line
 
+Before I get to the test data I want to state this:
+<br>
+This speaker was a bit of an odd bird in regards to how I needed to test its distortion characteristics.  It's not a typical 6 or 7-inch midwoofer and it's not a typical 4-inch midrange.  The designs more fit for this speaker are compact 2-way designs.  The low sensitivity makes it not as enticing for midrange in a 3-way.  So, I tested it a few ways different than the norm just to get a good idea of how it performs at various tasks.  Just keep this in mind if you try to directly compare to other drive units (especially in the same size; they surely won't perform as well in the midrange distortion facet).
+
+<br>
+
 **T/S Parameters and Linear Excursion:**
-* One-way linear excursion measured approximately 2.8mm for this test sample.  This is very low for a midwoofer and indicates this particular drive unit is best served as a midrange.  I'd be leery of pushing this below 80Hz (as a starting point).
+* One-way linear excursion measured approximately 4.7mm for this test sample.  This is very high for a drive unit this size.  I believe this is the longest linear throw from a 4-inch available.  But, as you have seen, the price paid is in sensitivity.
 
 
 <br>
 
 **Frequency Response:**
-* The average sensitivity is quite high, measured at about 89.1dB from 300Hz to 1000Hz.
-* On-axis response linearity is ±1.5dB within 80-2.8k Hz.
-* On-axis response linearity is ±3.0dB within 54-4.1k Hz.
-* Breakup is really nice; pushed a couple octaves above the typical low-pass crossover for a speaker this size.  That said, it does hit about +12dB over the mean but not until 10kHz.
-* Off-axis response shows nice linearity until about 3kHz but will likely be crossed over around 2kHz to keep from entering the directional (beaming) area.
+* The average sensitivity is rather low, measured at about 83.4dB from 300Hz to 3000Hz.
+* On-axis response linearity is ±1.5dB within 80-3k Hz *if ignoring the 1-2kHz peak/dip I measured*.
+* On-axis response linearity is ±3.0dB within 68-3.7k Hz *if ignoring the 1-2kHz peak/dip I measured*.
+* Breakup is kept in check to a respectable +7dB at ~5kHz.
+* Off-axis response shows nice linearity until about 4kHz.
 
 
 <br>
 
 **Distortion and Compression:**
-* Midrange distortion (>200Hz) is really something to behold.  -50dB from the fundamental (about 0.30% THD) at 100dB.  Very, *very* clean midrange.  Of course, the downside to this is the lower frequency distortion which increases drastically below 100Hz as you apply more voltage to the speaker.
-* Max SPL measures nicely at 100.9dB when running the "typical" bandpass region of 80Hz to 1600Hz.  The compression is the limiting factor here.  Curiously, when opened up from 40Hz to 3.2kHz the max SPL is still the same, *however*, the distortion significantly increases.  Very interesting to see this.  And additional proof that this drive unit should not be crossed low as to avoid distortion below 200Hz.
+* Note: due to the lower sensitivity I was only able to max the HD testing out at about 95dB.
+* Distortion at 95dB is: less than 1% THD above 100Hz and greater than 3% THD below 70Hz.  Extremely low midrange-distortion profile.
 
 <br><br>
 
-With the relatively high sensitivity, low linear excursion and the various distortion data I have provided (HD, IMD and Multitone) all indicating high levels of low frequency distortion at higher volumes, it seems evident this drive unit should be relegated to midrange duty as opposed to being crossed low in a 2-way system.  The midrange distortion numbers on this speaker are incredible.  Though, as the IMD data indicates, a high-pass filter nearing Fs (44Hz), the midrange "cleanliness" goes out the window.
-
-Personally, I'd like to see this used in a 3-way design but then at that point the larger diameter requires a lower crossover point to the tweeter which creates some issues.  The flip side is to use this in a bookshelf monitor for nearfield listening or for farfield listening, crossed above 80Hz or so to a subwoofer(s).
-
-As an aside, I see [Madisound sells a 5-inch version](https://www.madisoundspeakerstore.com/approx-5-woofers/sb-acoustics-sb15cac30-4-5-ceramic-woofer-4-ohms/) of this speaker.  I bet that is an excellent candidate for a midrange in a 3-way system.
+As I said, this Purifi 4-inch midrange drive unit is a bit of an outlier in the world of 4-inch mids.  Comparing it to other 4-inch midrange drive units is not a real apples-to-apples given the long excursion/low sensitivity tradeoff this makes in lieu of the typical low excursion/high(ish) sensitivity of typical 4-inch midranges.  It may be better suited in comparison to a 5-inch midwoofer.  In that regard, I see the advantage for this Purifi 4-inch midrange as being suited for a very compact 2-way system.  I'll be curious to see what DIY designs use this drive unit.
 
 
 
