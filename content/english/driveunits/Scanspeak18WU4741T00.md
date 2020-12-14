@@ -522,7 +522,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 # Bottom Line
 
 **T/S Parameters and Linear Excursion:**
-* One-way linear excursion measured approximately 8.5mm for this test sample.  To date, this is the longest linear stroke midwoofer in this size class I measured.
+* One-way linear excursion measured approximately 8.5mm for this test sample.  To date, this is the longest linear stroke midwoofer in this size class I have measured.
 
 
 <br>
