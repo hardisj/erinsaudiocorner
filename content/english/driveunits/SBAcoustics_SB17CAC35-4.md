@@ -12,6 +12,13 @@ Tags: ["SB acoustics", "AudioFrog", "GB60", "midbass", "midrange", "Dyn", "woofe
 <br>
 <br>
 
+## YouTube Video Review version:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dcDA4DhK5m4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+<br>
+
 
 
 
@@ -533,7 +540,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 
 With the relatively high sensitivity, low linear excursion and the various distortion data I have provided (HD, IMD and Multitone) all indicating high levels of low frequency distortion at higher volumes, it seems evident this drive unit is more suited for midrange duty as opposed to being crossed low (roughly an octave above Fs) in a 2-way system.  The midrange distortion numbers on this speaker are incredible.  Though, as the IMD data indicates, a high-pass filter nearing Fs (44Hz), the midrange "cleanliness" goes out the window.  So, cross this appropriately.  The typical 80Hz would be a starting point but I think even higher (100Hz) might make more sense, especially if you plan to listen at loud levels.  Cross your subwoofer higher to make up the difference.
 
-Personally, I'd like to see this used in a 3-way design but then at that point the larger diameter requires a lower crossover point to the tweeter which creates some issues.  The flip side is to use this in a bookshelf monitor for nearfield listening or for farfield listening, crossed above 80Hz or so to a subwoofer(s).  As an aside, I see [Madisound sells a 5-inch version](https://www.madisoundspeakerstore.com/approx-5-woofers/sb-acoustics-sb15cac30-4-5-ceramic-woofer-4-ohms/) of this speaker.  I bet that is an excellent candidate for a midrange in a 3-way system.  And, as another aside, its worth noting that [Revel uses a similar](https://www.erinsaudiocorner.com/loudspeakers/revel_f226be/) (not the same) transducer in their PerformaBe speakers but the midrange specifically has a thinner surround to increase sensitivity.  If SB Acoustics made a dedicated 5-inch midrange drive unit in the CAC family with a thinner surround to inrease sensitivity I think it would be quite awesome in a 3-way setup.  
+Personally, I'd like to see this used in a 3-way design but then at that point the larger diameter requires a lower crossover point to the tweeter which creates some issues.  The flip side is to use this in a bookshelf monitor for nearfield listening or for farfield listening, crossed above 80Hz or so to a subwoofer(s).  As an aside, I see [Madisound sells a 5-inch version](https://www.madisoundspeakerstore.com/approx-5-woofers/sb-acoustics-sb15cac30-4-5-ceramic-woofer-4-ohms/) of this speaker.  I bet that is an excellent candidate for a midrange in a 3-way system.  And, as another aside, its worth noting that [Revel uses a similar](https://www.erinsaudiocorner.com/loudspeakers/revel_f226be/) (not the same) transducer in their PerformaBe speakers but the midrange specifically has a thinner surround to increase sensitivity.  If SB Acoustics made a dedicated 5-inch midrange drive unit in the CAC family with a thinner surround to inrease sensitivity I think it would be quite awesome in a 3-way setup.
 
 
 
