@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scanspeak on Erin&#39;s Audio Corner</title>
+    <title>scanspeak on Erin&#39;s Audio Corner</title>
     <link>https://erinsaudiocorner.com/tags/scanspeak/</link>
-    <description>Recent content in Scanspeak on Erin&#39;s Audio Corner</description>
+    <description>Recent content in scanspeak on Erin&#39;s Audio Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://erinsaudiocorner.com/tags/scanspeak/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Purifi Audio PTT4.0W04-01A 4 Inch Midwoofer Review</title>
+      <link>https://erinsaudiocorner.com/driveunits/purifi_4/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/purifi_4/</guid>
+      <description>YouTube Video Review version: Information The Purifi Audio PTT4.0W04 is a long linear throw 4-inch midwoofer which costs about $580/pair USD.</description>
+    </item>
+    
+    <item>
+      <title>ScanSpeak Illuminator 18WU4741T-00 7 Inch Midwoofer Review</title>
+      <link>https://erinsaudiocorner.com/driveunits/scanspeak18wu4741t00/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/driveunits/scanspeak18wu4741t00/</guid>
+      <description>YouTube Video Review version: Information The ScanSpeak Illuminator 7&amp;rdquo; Paper Cone Woofer 18WU/4741T-00 features the following:</description>
+    </item>
     
     <item>
       <title>ScanSpeak Revelator 12M/4631-G00 4.5″ Midrange Driver Review</title>

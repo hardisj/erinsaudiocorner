@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>loudspeaker on Erin&#39;s Audio Corner</title>
+    <link>https://erinsaudiocorner.com/tags/loudspeaker/</link>
+    <description>Recent content in loudspeaker on Erin&#39;s Audio Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erinsaudiocorner.com/tags/loudspeaker/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Klipsch Heresy IV Speaker Review</title>
+      <link>https://erinsaudiocorner.com/loudspeakers/klipsch_heresy_iv/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/loudspeakers/klipsch_heresy_iv/</guid>
+      <description>Intro The Klipsch Heresy IV is a 3-way speaker with a classic look. The Heresy IV features a 12-inch midwoofer, K-702 midrange compression driver, and K-704 Tractrix horn for high frequencies.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@ date: 2020-09-15
 draft: false
 image: /images/Reviews/Loudspeakers/Subwoofers/DSC06551.JPG
 description : "CEA-2010-A/B Subwoofer Tests"
-Tags: ["subwoofer", "elac", "CEA2010", "2010", "CEA"]
+Tags: ["subwoofer", "elac", "CEA2010", "2010", "CEA", "subwoofer shootout", "best subwoofer", "budget subwoofer", "cheap subwoofer", "value subwoofer", "best budget subwoofer"]
 ---
 <iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=amazonhomepage&f=ifr&linkID=45d00811e11005f66cf1dcae88dc3060&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <br clear="all" />
@@ -86,16 +86,40 @@ Feel free to browse around.  Feel free to filter columns to help narrow your lis
 
 # Updates
 
-09/15/2020: I have added the following subwoofers to the test:
+Note: Below links are most likely affiliate links which helps me earn a small (~4%) commission at no additional cost to you.  Please use these if you plan to purchase a speaker as it helps me pay for this website and keep things going.
+
+09/15/2020:
 * [Yamaha NS-SW100BL](https://amzn.to/2Rt9k0r)
 * [Polk Audio PSW10](https://amzn.to/35K3ws1)
 * [Klipsch Reference R-10SW](https://amzn.to/3koWk8J)
 * [Sony SACS9](https://amzn.to/2H7kUwB)
 * [Elac SUB1010](https://amzn.to/3msKBrE)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2728kgJxCJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br clear="all" />
+<br>
+<br>
 
-<img align="left" src="/images/Reviews/Loudspeakers/Subwoofers/DSC06551.JPG" alt="subs_5" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+10/06/2020:
+* [Monoprice Monolith THX 10](https://www.monoprice.com/product?p_id=24456&AID=11552490&PID=7732025&ref=cj&utm_source=cj&utm_medium=affiliate&utm_term=Erin+Hardison-4466269&utm_content=11552490&cjevent=7ff31b9b55cb11eb806d015f0a240614)
+* [Monoprice Monolith THX 12](https://www.monoprice.com/product?p_id=24457&AID=11552490&PID=7732025&ref=cj&utm_source=cj&utm_medium=affiliate&utm_term=Erin+Hardison-4466269&utm_content=11552490&cjevent=7dfd948955cb11eb806301630a24060d)
+* [Monoprice Monolith THX 15](https://www.monoprice.com/product?p_id=24458&AID=11552490&PID=7732025&ref=cj&utm_source=cj&utm_medium=affiliate&utm_term=Erin+Hardison-4466269&utm_content=11552490&cjevent=7bf1224a55cb11eb806301630a24060d)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OVRYHe76bgg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br clear="all" />
+<br>
+<br>
+
+* [Monoprice $99 Budget 12-inch](https://www.monoprice.com/product?p_id=9723&AID=11552490&PID=7732025&ref=cj&utm_source=cj&utm_medium=affiliate&utm_term=Erin+Hardison-4466269&utm_content=11552490&cjevent=71a6516155cb11eb83af016c0a240613)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hA7cXsqb0j0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br clear="all" />
+<br>
+<br>
+
+11/14/2020:
+* [SVS PB-2000 Pro](https://www.svsound.com/products/pb-2000-pro?cjevent=650fcacc55cb11eb8029016c0a24060e&utm_channel=affiliate&utm_source=CommissionJunction&utm_term=Erin+Hardison&utm_content=svsound.com&utm_campaign=CJaff&afsrc=1)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VDF8uPs5aUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 <br>
