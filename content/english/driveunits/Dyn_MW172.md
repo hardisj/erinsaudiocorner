@@ -532,7 +532,7 @@ Does this mean the speaker will not play above this level?  No.  It simply means
 <br>
 
 **Frequency Response:**
-* The sensitivity is quite good at about 80.2dB from 300Hz to 1000Hz.  The response exhibits a resonance around 65Hz.
+* The sensitivity is quite good at about 90.2dB from 300Hz to 1000Hz.  The response exhibits a resonance around 65Hz.
 * The F3 measured on my 21 x 10 foot baffle (yes, feet) is 53Hz with respect to the mean SPL provided above.
 * The frequency response looks usable for midbass application and maybe as a midwoofer crossed to a large dome tweeter or wideband speaker.  Above 1kHz it exhibits what I assume is a compliance issue between the cone and surround, based on the resonance shown in the impedance, the dip in response and the correlating distortion profile shown in the Harmonic and Multitone distortion plots.
 * Using [this site's online enclosure volume calculator](http://www.mh-audio.nl/Calculators/CCC.html) yields 1.0 ft³ (~28.71 liters) with a Qtc = 0.707 and an F3 = 59Hz.  EBP = 65.6.  Seems this driver is suited more for an IB-type install rather than a small sealed enclosure.  Below is the graph using those parameters (blue line) vs a true infinite baffle installation (red line).
