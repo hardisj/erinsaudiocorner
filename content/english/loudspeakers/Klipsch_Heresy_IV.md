@@ -837,3 +837,15 @@ You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/
 </form>
 <br></br>
 </center>
+
+
+<br></br>
+
+<img align="left" src="https://www.dropbox.com/s/z76qmx8ygeyapls/Kef%20R3_360_Horizontal_Polar.png?raw=1" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<br clear="all" />
+<br>
+
+
+<img align="left" src="https://www.dropbox.com/s/2wjpb502u9mac2v/CEA2034_1_20_octave_1.43Hz.png?raw=1" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/>
+<br clear="all" />
+<br>
