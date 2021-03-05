@@ -38,6 +38,8 @@ The rear features dual 8-inch subwoofers which play below 100Hz.  The rear also 
 
 The Dutch & Dutch 8c is an "all in one" product.  It features a built-in amplifier with DSP allowing the user to tailor the speaker to their own tonal desires (bass, mid and treble adjustments).  The 8c is also designed to integrate with Room EQ Wizard for room equalization.  This feature works very well and is very easy to navigate and implement.  The speaker connects to your network via wired ethernet cable.  Once connected you can access the speaker's DSP, volume control, source selection (analog/AES), etc. via your web browser.  It is really quite easy and convenient.
 
+Current street price for a pair of these speakers is approximately $12,500 USD.
+
 I have taken the liberty of providing a screenshot of the technical specs from the manufacturer's page, provided below:
 
 <img align="left" src="https://www.dl.dropboxusercontent.com/s/syi4m02fgg7cs0h/specs.png?dl=0" alt="specs" width="80%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
@@ -80,6 +82,8 @@ The reference plane in this test is halfway between the tweeter and the midrange
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
 CTA-2034 / SPINORAMA:
+
+Note:  Since this is a powered speaker, the SPL readings in the below graphics was not the SPL tested. Per the CTA-2034 sped, the input voltagge is 2.83v.  However, this speaker was tested at a level more in line with approximately 86dB at 1m (0.30vRMS input).  The output SPL is scaled based on the 2.83v, though.  Therefore, at 2.83v input to this speaker, the output is shown as below.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/3o1c5zircnbwiqq/Dutch%20%26%20Dutch%208c%20CEA2034%20%28SPINORAMA%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
@@ -149,7 +153,7 @@ Harmonic Distortion at 96dB @ 1m:
 
 These measurements are outside of my typical measurement set but I feel are necessary to provide additional insight in to the performance of this speaker.  Thus, the "above and beyond" tag.
 
-The Dutch & Dutch 8c is a speaker that breaks the norm.  It is designed to be placed near a back wall in order to provide boundary gain.  In order to achieve boundary gain, however, a typical speaker also loses timbre due to the rear wall reflections.  With a cardioid speaker (such as the D&D 8c), the rear wall reflections are effectively "muted" and you are left with a forward-firing only speaker above 100Hz (below which, the subs are omnidirectional but cut off above this frequency sharply).
+The Dutch & Dutch 8c is a speaker that breaks the norm.  It is designed to be placed near a front wall in order to provide boundary gain.  In order to achieve boundary gain, however, a typical speaker also loses timbre due to the rear wall reflections.  With a cardioid speaker (such as the D&D 8c), the rear wall reflections are effectively "muted" and you are left with a forward-firing only speaker above 100Hz (below which, the subs are omnidirectional but cut off above this frequency sharply).
 
 This presents a bit of a challenge when analyzing performance.  Ideally you measure a speaker anechoically to see what happens when the room is not a factor in the performance.  So, I did that using Klippel's NFS which you saw above.  This gave us all a baseline understanding of the speaker's anechoic performance.  However, I also needed a way to characterize performance in the situation it is designed for: near a boundary for below approximately 100Hz reinforcement.  Therefore, I used high level engineering (see: scrap wood) to build a platform for the speaker so the subwoofers could load off the ground - effectively becoming the "rear wall", if you will.  And then I measured the performance in this manner.  Now we have not only a full SPIN set of data for anechoic measurements but we also have a quasi-anechoic measurement via the ground plane method to see how the boundary loading changes performance.
 
@@ -157,8 +161,8 @@ Setup:
 <img align="left" src="https://dl.dropboxusercontent.com/s/xgqlpm9hi8vljyx/DSC07862.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
-The 8c's DSP settings were tested both "free" and set to "10cm" from the backwall.  "Free" is essentially telling the speaker there is no rear wall behind it and there is no shelving of the bass.  "10cm" is intended to emulate placement against a backwall in a real room and, when placed near a rear wall, will shelve the bass so the response is more neutral.  As you can see in the below graphic, when the speaker is placed near a boundary and set to "free" the SPL increases from 0dB at 200Hz to approximately +6dB below about 80Hz.  This gives us an idea of what to expect in a real room (to some degree).  Ultimately, the takeaway here is that boundary gain works as expected and if you want a neutral response then the DSP should be set in accordance with the in-room backwall distance from the speaker.
-<img align="left" src="https://dl.dropboxusercontent.com/s/suohh0dd1qb1aed/Dutch%20%26%20Dutch%208c%20___%20effect%20of%20backwall%20%28taken%20on%20ground%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+The 8c's DSP settings were tested both "free" and set to "10cm" from the front wall.  "Free" is essentially telling the speaker there is no rear wall behind it and there is no shelving of the bass.  "10cm" is intended to emulate placement against a front wall in a real room and, when placed near a rear wall, will shelve the bass so the response is more neutral.  As you can see in the below graphic, when the speaker is placed near a boundary and set to "free" the SPL increases from 0dB at 200Hz to approximately +6dB below about 80Hz.  This gives us an idea of what to expect in a real room (to some degree).  Ultimately, the takeaway here is that boundary gain works as expected and if you want a neutral response then the DSP should be set in accordance with the in-room front wall distance from the speaker.
+<img align="left" src="https://dl.dropboxusercontent.com/s/ykf2i17dz1ij4tx/Dutch%20%26%20Dutch%208c%20___%20effect%20of%20front%20wall%20%28taken%20on%20ground%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
