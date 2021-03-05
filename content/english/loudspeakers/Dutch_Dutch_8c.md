@@ -30,7 +30,7 @@ I have provided a introduction to this speaker on my YouTube channel and provide
 <br>
 <br>
 
-The [Dutch & Dutch 8c](https://dutchdutch.com/8c/) is a powered bookshelf speaker that is quite the departure from the typical bookshelf speaker.  Its cardioid design means it is practically all forward-firing above approximately 100Hz.  This enables the listener to place the speakers very close to a rear wall and get the benefit of boundary reinforcment without the negative characteristic of rear-wall reflections.  It's quite a neat theory that also has remarkable sonic achievements in practice.
+The [Dutch & Dutch 8c](https://dutchdutch.com/8c/) is a powered bookshelf speaker that is quite the departure from the typical bookshelf speaker.  Its cardioid design means it is practically all forward-firing above approximately 100Hz.  This enables the listener to place the speakers very close to a rear wall and get the benefit of boundary reinforcement without the negative characteristic of rear-wall reflections.  It's quite a neat theory that also has remarkable sonic achievements in practice.
 
 The front of the speaker features a 1-inch dome tweeter and 8-inch midrange.  The crossover between these two driver units is 1250Hz.  The front baffle is one piece that fits over the drivers, resulting in a very smooth waveguide for the tweeter (notice the lack of screw heads and holes) as well as a smooth lip even on the midrange.
 
@@ -46,8 +46,11 @@ I have taken the liberty of providing a screenshot of the technical specs from t
 <br>
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/oc31ggni1da0rhn/DSC07386.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/ewaou5mv23k0ez9/DSC07385.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/n4bg0p9efzaw5xh/DSC07393.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
@@ -79,29 +82,35 @@ Measurements are provided in a format in accordance with the Standard Method of 
 CTA-2034 / SPINORAMA:
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/3o1c5zircnbwiqq/Dutch%20%26%20Dutch%208c%20CEA2034%20%28SPINORAMA%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 Early Reflections Breakout:
 <img align="left" src="https://dl.dropboxusercontent.com/s/ec5uj9y6ln2vvsi/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 Estimated In-Room Response::
 <img align="left" src="https://dl.dropboxusercontent.com/s/ggw6x3q9kst625h/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 Horizontal Frequency Response (0° to ±90°):
 <img align="left" src="https://dl.dropboxusercontent.com/s/ig8225m3lm5jnp6/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 Vertical Frequency Response (0° to ±30°):
 <img align="left" src="https://dl.dropboxusercontent.com/s/qr2vh8dy99wysyw/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
+<br>
 
 Horizontal Contour Plot (not normalized):
 <img align="left" src="https://dl.dropboxusercontent.com/s/rbi69c99tz3wji1/Dutch%20%26%20Dutch%208c%20Horizontal%20Contour%20Plot%20%28not%20normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 Horizontal Contour Plot (normalized):
 <img align="left" src="https://dl.dropboxusercontent.com/s/2achdh5erpxuypv/Dutch%20%26%20Dutch%208c%20Horizontal%20Contour%20Plot%20%28normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
+<br>
 
 Vertical Contour Plot (not normalized):
 <img align="left" src="https://dl.dropboxusercontent.com/s/wba6a6hal187ihv/Dutch%20%26%20Dutch%208c%20Vertical%20Contour%20Plot%20%28not%20normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 Vertical Contour Plot (normalized):
 <img align="left" src="https://dl.dropboxusercontent.com/s/lmmtfmomecidrnh/Dutch%20%26%20Dutch%208c%20Vertical%20Contour%20Plot%20%28normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
@@ -120,13 +129,12 @@ Nearfield response of individual drive units with anechoic on-axis response:
 
 Harmonic Distortion at 86dB @ 1m:
 <img align="left" src="https://dl.dropboxusercontent.com/s/dnbi0ccttihlb4g/Dutch%20%26%20Dutch%208c%20----%20Harmonic%20distortion%20%28relative%29%20%40%2086dB1m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
+<br>
 
 Harmonic Distortion at 96dB @ 1m:
 <img align="left" src="https://dl.dropboxusercontent.com/s/chlwpc8hrapec2o/Dutch%20%26%20Dutch%208c%20----%20Harmonic%20distortion%20%28relative%29%20%40%2096dB1m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br><br>
 
-In-Room Response:
-The following illustrates the response measured at the main listening position in my living room with varying caveats.
 
 <br>
 <br>
@@ -186,7 +194,7 @@ I encourage you to watch my YouTube review for more details but a quick few note
 * Objectively speaking, the data indicates this is a terrific speaker.  It is roughly ±1.5dB from 30Hz to 18kHz.  That's incredible.
 * The data does indicate something - possibly a resonance - around 400Hz which appears to be caused by the 8-inch midrange (judging by the nearfield response).   However, there was no hint of this when I specifically listened for this as an issue.  Therefore, it could be another source or simply inaudible (Toole discusses this in his book )
 * There is also a mild directivity mismatch at the crossover, but I am impressed it is so minimal given the size of the midrange and the center-to-center spacing of the tweeter/midrange.  Of course, the 1250Hz crossover helps to alleviate this, though one expects an increase in distortion from the tweeter with such a relatively low crossover point.  While the distortion profile is higher at 1kHz than at 2kHz , it appears this portion of the distortion profile is due to the midrange and not the tweeter.  There is no way to know for sure without testing the raw drive units with implemented crossover but I think that's too far down in to the weeds (even for me).
-* Speaking of distortion, I didn't have any complaints even at much higher than typical listening levels (>100dB at 4 meters).  At one point I was listening to these speakers at 105dB in my living room without a hint of mechanical trouble.  I backed off the volume simply because those levels, full-range, are dangerous.  
+* Speaking of distortion, I didn't have any complaints even at much higher than typical listening levels (>100dB at 4 meters).  At one point I was listening to these speakers at 105dB in my living room without a hint of mechanical trouble.  I backed off the volume simply because those levels, full-range, are dangerous.
 * The soundstage is something to behold.  I truthfully expected, with the controlled directivity nature above 100Hz, that there would be less room interaction from the side walls and that would hurt the apparent source width (ASW), thus causing a more narrow soundstage.  Um... Nope.  Quite the opposite.  Images were way outside the range where I expected and where I have heard with speakers with very wide radiation patterns.  Crazy.
 * The tonality of the speaker is great.  The data indicates this should come as no surprise.
 * The in-room response was +15dB at 30Hz.  Yes, you read that correctly.
