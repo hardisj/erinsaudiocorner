@@ -83,7 +83,7 @@ Measurements are provided in a format in accordance with the Standard Method of 
 
 CTA-2034 / SPINORAMA:
 
-Note:  Since this is a powered speaker, the SPL readings in the below graphics was not the SPL tested. Per the CTA-2034 sped, the input voltagge is 2.83v.  However, this speaker was tested at a level more in line with approximately 86dB at 1m (0.30vRMS input).  The output SPL is scaled based on the 2.83v, though.  Therefore, at 2.83v input to this speaker, the output is shown as below.
+Note:  Since this is a powered speaker, the SPL readings in the below graphics was not the SPL tested. Per the CTA-2034 spec, the input voltage is 2.83v.  However, this speaker was tested at a level more in line with approximately 86dB at 1m (0.30vRMS input).  The output SPL is scaled based on the 2.83v, though.  Therefore, at 2.83v input to this speaker, the output is shown as below.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/3o1c5zircnbwiqq/Dutch%20%26%20Dutch%208c%20CEA2034%20%28SPINORAMA%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
@@ -142,6 +142,7 @@ Harmonic Distortion at 96dB @ 1m:
 Horizontal Polar (Globe) Plot:
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
 <img align="left" src="https://dl.dropboxusercontent.com/s/pcpnnyqn6d34y6y/Dutch%20%26%20Dutch%208C_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br><br>
 
 Vertical Polar (Globe) Plot:
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
