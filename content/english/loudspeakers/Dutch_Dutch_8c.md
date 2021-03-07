@@ -200,10 +200,15 @@ Just for fun, I went another step and have provided a gif of the sound radiation
 <br>
 
 ### In-Room Measurements from the Listening Position
+<br>
+
  Below  is a photograph of the speakers set up in my living room.  The speakers were placed approximately 80cm from the front wall (not the cabinets; but the actual wall).  The listening position was approximately 4 meters from the speakers.
 <img align="left" src="https://dl.dropboxusercontent.com/s/1lp8yukxz3w6iq0/DSC09561.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 Below is the actual measured in-room response.  This is a spatial average taken over approximately 1 cubic foot.  As you can see, the actual in-room response aligns quite well with the prediction generated from the SPIN data.  Pretty cool to see how anechoic measurements can reliably predict the actual in-room response.  I feel many others often overlook this powerful benefit of the SPIN data.
+
+Black = Predicted In-Room Response from SPIN data
+Teal = Actual In-Room Measured Response from Main Listening Position
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/4qbsz52smnrr1b5/in-room%20vs%20PIR.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
