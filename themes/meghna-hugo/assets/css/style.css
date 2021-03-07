@@ -568,7 +568,7 @@ font-weight: normal;
 .hero-area-video .block p {
   color: #fff;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 5px;
   letter-spacing: 3px;
   margin-bottom: 20px;
 }
@@ -893,7 +893,7 @@ font-weight: normal;
 }
 
 .comment-wrap .media .comment-meta {
-  font-size: 12px;
+  font-size: 5px;
   color: #888;
 }
 
@@ -1173,7 +1173,7 @@ input#e-mail,
 .post-meta>span {
   border-right: 1px solid #4e595f;
   display: inline-block;
-  font-size: 12px;
+  font-size: 5px;
   margin: 10px 10px 0 0;
   padding-right: 10px;
 }
@@ -1260,7 +1260,7 @@ aside.widget {
 
 .tab-excerpt>span {
   display: block;
-  font-size: 12px;
+  font-size: 5px;
   margin-bottom: 10px;
 }
 

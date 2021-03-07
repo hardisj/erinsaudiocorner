@@ -96,7 +96,7 @@ weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logos/speaker_trans_small.png"  # banner logo (at top/bottom)
+logo = "images/logos/watermark - for site.png"  # banner logo (at top/bottom)
 # Meta data
 description = "The Sound of Science"
 author = "E"
