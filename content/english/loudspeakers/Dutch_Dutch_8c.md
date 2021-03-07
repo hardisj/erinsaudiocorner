@@ -85,6 +85,8 @@ CTA-2034 / SPINORAMA:
 
 Note:  Since this is a powered speaker, the SPL readings in the below graphics was not the SPL tested. Per the CTA-2034 spec, the input voltage is 2.83v.  However, this speaker was tested at a level more in line with approximately 86dB at 1m (0.30vRMS input).  The output SPL is scaled based on the 2.83v, though.  Therefore, at 2.83v input to this speaker, the output is shown as below.
 
+Note 2:  The 8c is intended to be placed near a wall to increase the sub-bass output.  However, per the CTA-2034, tests are conducted in anechoic fashion.  In this case, the DSP setting for the "Front Wall" in the 8c was set to "free"; or, no boundary.  Yet, the response is flat until 25Hz.  Impressive to say the least.  I conducted additional tests shown in a later section that illustrate the benefit of the front wall gain and the effect of setting the DSP to account for such things.
+
 <img align="left" src="https://dl.dropboxusercontent.com/s/3o1c5zircnbwiqq/Dutch%20%26%20Dutch%208c%20CEA2034%20%28SPINORAMA%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
