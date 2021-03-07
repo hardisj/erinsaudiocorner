@@ -148,6 +148,7 @@ Vertical Polar (Globe) Plot:
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
 <img align="left" src="https://dl.dropboxusercontent.com/s/y7i8m6tlj429g4s/Dutch%20%26%20Dutch%208C_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
+
 <br>
 <br>
 <br>
@@ -197,6 +198,24 @@ Just for fun, I went another step and have provided a gif of the sound radiation
 
 <br>
 <br>
+
+### In-Room Measurements from the Listening Position
+ Below  is a photograph of the speakers set up in my living room.  The speakers were placed approximately 80cm from the front wall (not the cabinets; but the actual wall).  The listening position was approximately 4 meters from the speakers.
+<img align="left" src="https://dl.dropboxusercontent.com/s/1lp8yukxz3w6iq0/DSC09561.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+Below is the actual measured in-room response.  This is a spatial average taken over approximately 1 cubic foot.  As you can see, the actual in-room response aligns quite well with the prediction generated from the SPIN data.  Pretty cool to see how anechoic measurements can reliably predict the actual in-room response.  I feel many others often overlook this powerful benefit of the SPIN data.
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/4qbsz52smnrr1b5/in-room%20vs%20PIR.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+Below 1kHz we see more deviation from the prediction.  This is expected.  My couch, the back wall behind where I sit, the end table and the lamp near the listening position all have an effect on the measured response.  The dip from 150-400Hz is caused by the rear wall and/or couch as when the microphone is moved in to the center of the room the dip fills in.  The thing I notice here, though, is just how well behaved the room modes are above 100Hz.  There are a few but they are much less severe than other in-room measurements I have taken of past speakers.  One has to think this is attributed to the cardioid nature of the 8c speakers.
+
+In this example, the 8c speakers were set to 80cm from the front wall in the DSP.  This helps attenuate the bass to a more neutral response based on the prediction of the boundary loading (approximately +6dB below 100Hz).  However, the room still has its say and I ended up with a +12dB response at 30Hz compared to 1kHz.  That's a lot of bass from a (albeit large) bookshelf speaker.  Free bass is never a bad thing; especially with a speaker like this which has built-in DSP to attenuate such things if they are cause for concern.
+
+
+
+
+<br>
+<br>
 <br>
 <br>
 
@@ -206,7 +225,7 @@ I encourage you to watch my YouTube review for more details but a quick few note
 * This speaker sounds phenomenal.
 * Objectively speaking, the data indicates this is a terrific speaker.  It is roughly ±1.5dB from 30Hz to 18kHz.  That's incredible.
 * The data does indicate something - possibly a resonance - around 400Hz which appears to be caused by the 8-inch midrange (judging by the nearfield response).   However, there was no hint of this when I specifically listened for this as an issue.  Therefore, it could be another source or simply inaudible (Toole discusses this in his book )
-* There is also a mild directivity mismatch at the crossover, but I am impressed it is so minimal given the size of the midrange and the center-to-center spacing of the tweeter/midrange.  Of course, the 1250Hz crossover helps to alleviate this, though one expects an increase in distortion from the tweeter with such a relatively low crossover point.  While the distortion profile is higher at 1kHz than at 2kHz , it appears this portion of the distortion profile is due to the midrange and not the tweeter.  Which implies the tweeter is not being stressed at this low crossover point.  There is no way to know for sure without testing the raw drive units with implemented crossover but I think that's too far down in to the weeds (even for me).
+* There is also a mild directivity mismatch at the crossover, but I am impressed it is so minimal given the size of the midrange and the center-to-center spacing of the tweeter/midrange.  Of course, the 1250Hz crossover helps to alleviate this, though one expects an increase in distortion from the tweeter with such a relatively low crossover point.  While the distortion profile is higher at 1kHz than at 2kHz , it appears this portion of the distortion profile is due to the midrange and not the tweeter.  sdw There is no way to know for sure without testing the raw drive units with implemented crossover but I think that's too far down in to the weeds (even for me).
 * Speaking of distortion, I didn't have any complaints even at much higher than typical listening levels (>100dB at 4 meters).  At one point I was listening to these speakers at 105dB in my living room without a hint of mechanical trouble.  I backed off the volume simply because those levels, full-range, are dangerous.
 * The soundstage is something to behold.  I truthfully expected, with the controlled directivity nature above 100Hz, that there would be less room interaction from the side walls and that would hurt the apparent source width (ASW), thus causing a more narrow soundstage.  Um... Nope.  Quite the opposite.  Images were way outside the range where I expected and where I have heard with speakers with very wide radiation patterns.  Crazy.
 * The tonality of the speaker is great.  The data indicates this should come as no surprise.
