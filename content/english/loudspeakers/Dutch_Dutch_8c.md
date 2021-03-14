@@ -93,7 +93,7 @@ Early Reflections Breakout:
 <img align="left" src="https://dl.dropboxusercontent.com/s/ec5uj9y6ln2vvsi/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-Estimated In-Room Response::
+Estimated In-Room Response:
 <img align="left" src="https://dl.dropboxusercontent.com/s/ggw6x3q9kst625h/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
@@ -128,9 +128,12 @@ Vertical Contour Plot (normalized):
 
 ## Additional measurements
 
+### Near-Field Response
+
 Nearfield response of individual drive units with anechoic on-axis response:
 <img align="left" src="https://dl.dropboxusercontent.com/s/axlgvitbtz1p7a2/Nearfield%20Measurements%20compared%20to%20Farfield%20On-Axis.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
+### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
 <img align="left" src="https://dl.dropboxusercontent.com/s/dnbi0ccttihlb4g/Dutch%20%26%20Dutch%208c%20----%20Harmonic%20distortion%20%28relative%29%20%40%2086dB1m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
@@ -140,12 +143,14 @@ Harmonic Distortion at 96dB @ 1m:
 <img align="left" src="https://dl.dropboxusercontent.com/s/chlwpc8hrapec2o/Dutch%20%26%20Dutch%208c%20----%20Harmonic%20distortion%20%28relative%29%20%40%2096dB1m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
-Horizontal Polar (Globe) Plot:
+### "Globe" Plots
+
+Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
 <img align="left" src="https://dl.dropboxusercontent.com/s/pcpnnyqn6d34y6y/Dutch%20%26%20Dutch%208C_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
-Vertical Polar (Globe) Plot:
+Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
 <img align="left" src="https://dl.dropboxusercontent.com/s/y7i8m6tlj429g4s/Dutch%20%26%20Dutch%208C_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
@@ -155,9 +160,6 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 <br>
 <br>
 
-## "Above and Beyond" Measurements
-
-<br>
 
 ### Anechoic vs Boundary Loaded
 
@@ -206,9 +208,10 @@ Just for fun, I went another step and have provided a gif of the sound radiation
  Below  is a photograph of the speakers set up in my living room.  The speakers were placed approximately 80cm from the front wall (not the cabinets; but the actual wall).  The listening position was approximately 4 meters from the speakers.
 <img align="left" src="https://dl.dropboxusercontent.com/s/1lp8yukxz3w6iq0/DSC09561.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-Below is the actual measured in-room response.  This is a spatial average taken over approximately 1 cubic foot.  As you can see, the actual in-room response aligns quite well with the prediction generated from the SPIN data.  Pretty cool to see how anechoic measurements can reliably predict the actual in-room response.  I feel many others often overlook this powerful benefit of the SPIN data.
+Below is the actual measured in-room response (with *no* DSP correction). This is a spatial average taken over approximately 1 cubic foot.  As you can see, the actual in-room response aligns quite well with the prediction generated from the SPIN data.  Pretty cool to see how anechoic measurements can reliably predict the actual in-room response.  I feel many others often overlook this powerful benefit of the SPIN data.
 
 Black = Predicted In-Room Response from SPIN data
+<br>
 Teal = Actual In-Room Measured Response from Main Listening Position
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/4qbsz52smnrr1b5/in-room%20vs%20PIR.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
