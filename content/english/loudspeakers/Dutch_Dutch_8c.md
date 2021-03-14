@@ -80,7 +80,26 @@ The reference plane in this test is halfway between the tweeter and the midrange
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
+<details>
+<summary>
 CTA-2034 / SPINORAMA:
+</summary>
+</br>
+<p>
+The On-axis Frequency Response (0°) is the universal starting point and in many situations it is a fair representation of the first sound to arrive at a listener’s ears.
+
+The Listening Lindow is a spatial average of the nine amplitude responses in the ±10º vertical and ±30º horizontal angular range. This encompasses those listeners who sit within a typical home theater audience, as well as those who disregard the normal rules when listening alone.
+
+The Early Reflections curve is an estimate of all single-bounce, first-reflections, in a typical listening room.
+
+Sound Power represents all of the sounds arriving at the listening position after any number of reflections from any direction. It is the weighted rms average of all 70 measurements, with individual measurements weighted according to the portion of the spherical surface that they represent.
+
+Sound Power Directivity Index (SPDI): In this standard the SPDI is defined as the difference between the listening window curve and the sound power curve.
+
+Early Reflections Directivity Index (SPDI): is defined as the difference between the listening window curve and the early reflections curve. In small rooms, early reflections figure prominently in what is measured and heard in the room so this curve may provide insights into potential sound quality.
+
+</p>
+  </details>
 
 Note:  Since this is a powered speaker, the SPL readings in the below graphics was not the SPL tested. Per the CTA-2034 spec, the input voltage is 2.83v.  However, this speaker was tested at a level more in line with approximately 86dB at 1m (0.30vRMS input).  The output SPL is scaled based on the 2.83v, though.  Therefore, at 2.83v input to this speaker, the output is shown as below.
 
@@ -89,11 +108,35 @@ Note 2:  The 8c is intended to be placed near a wall to increase the sub-bass ou
 <img align="left" src="https://dl.dropboxusercontent.com/s/3o1c5zircnbwiqq/Dutch%20%26%20Dutch%208c%20CEA2034%20%28SPINORAMA%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
+<details>
+<summary>
 Early Reflections Breakout:
+</summary></br>
+<p>
+Floor bounce: average of 20º, 30º, 40º down
+
+Ceiling bounce: average of 40º, 50º, 60º up
+
+Front wall bounce: average of 0º, ± 10º, ± 20º, ± 30º horizontal
+
+Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizontal
+
+Rear wall bounces: average of 180º, ± 90º horizontal
+</p>
+  </details>
 <img align="left" src="https://dl.dropboxusercontent.com/s/ec5uj9y6ln2vvsi/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
+<details>
+<summary>
 Estimated In-Room Response:
+</summary></br>
+<p>
+In theory, with complete 360-degree anechoic data on a loudspeaker and sufficient acoustical and geometrical data on the listening room and its layout it would be possible to estimate with good precision what would be measured by an omnidirectional microphone located in the listening area of that room. By making some simplifying assumptions about the listening space, the data set described above permits a usefully accurate preview of how a given loudspeaker might perform in a typical domestic listening room. Obviously, there are no guarantees, because individual rooms can be acoustically aberrant. Sometimes rooms are excessively reflective (“live”) as happens in certain hot, humid climates, with certain styles of interior décor and in under-furnished rooms. Sometimes rooms are excessively “dead” as in other styles of décor and in some custom home theaters where acoustical treatment has been used excessively. This form of post processing is offered only as an estimate of what might happen in a domestic living space with carpet on the floor and a “normal” amount of seating, drapes and cabinetry.
+
+For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
+</p>
+  </details>
 <img align="left" src="https://dl.dropboxusercontent.com/s/ggw6x3q9kst625h/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 

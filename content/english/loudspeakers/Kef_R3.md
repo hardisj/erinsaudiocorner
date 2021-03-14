@@ -28,7 +28,7 @@ I have provided an introduction to this speaker on my YouTube channel and provid
 <br>
 <br>
 
-The [Kef R3](https://us.kef.com/r3.html) is 3-way compact bookshelf speaker.  It features a 6.5-inch midwoofer and a 5-inch concentric "Uni-Q" midrange/tweeter.  The R3 features a rear port and currently comes in three colors (gloss black, gloss white, and Walnut) and come with a removable grille (note: all testing in this review was done without grille).
+The [Kef R3](https://us.kef.com/r3.html) is 3-way compact bookshelf speaker.  It features a 6.5-inch midwoofer and a 5-inch concentric "Uni-Q" midrange/tweeter.  The R3 features a rear port and currently comes in three colors: gloss black, gloss white, and Walnut.  The R3 comes with a removable grille as well.
 
 Price per pair is approximately $2000 USD.
 
@@ -68,21 +68,66 @@ A picture of the setup in my garage:
 <img align="left" src="https://dl.dropboxusercontent.com/s/ek4nrn2am4v1xgs/vlcsnap-2021-03-13-15h53m34s929.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 The reference plane in this test is at the tweeter/midrange.
-The driver was tested in ported configuration (the port was not sealed).
+The speaker was tested in ported configuration (the port was not sealed).
+All testing in this review was done without grille.
 
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
+
+<details>
+<summary>
 CTA-2034 / SPINORAMA:
+</summary>
+</br>
+<p>
+The On-axis Frequency Response (0°) is the universal starting point and in many situations it is a fair representation of the first sound to arrive at a listener’s ears.
+
+The Listening Lindow is a spatial average of the nine amplitude responses in the ±10º vertical and ±30º horizontal angular range. This encompasses those listeners who sit within a typical home theater audience, as well as those who disregard the normal rules when listening alone.
+
+The Early Reflections curve is an estimate of all single-bounce, first-reflections, in a typical listening room.
+
+Sound Power represents all of the sounds arriving at the listening position after any number of reflections from any direction. It is the weighted rms average of all 70 measurements, with individual measurements weighted according to the portion of the spherical surface that they represent.
+
+Sound Power Directivity Index (SPDI): In this standard the SPDI is defined as the difference between the listening window curve and the sound power curve.
+
+Early Reflections Directivity Index (SPDI): is defined as the difference between the listening window curve and the early reflections curve. In small rooms, early reflections figure prominently in what is measured and heard in the room so this curve may provide insights into potential sound quality.
+
+</p>
+  </details>
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/ulgctjhijqcwpu8/Kef%20R3%20CEA2034.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
+<details>
+<summary>
 Early Reflections Breakout:
+</summary></br>
+<p>
+Floor bounce: average of 20º, 30º, 40º down
+
+Ceiling bounce: average of 40º, 50º, 60º up
+
+Front wall bounce: average of 0º, ± 10º, ± 20º, ± 30º horizontal
+
+Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizontal
+
+Rear wall bounces: average of 180º, ± 90º horizontal
+</p>
+  </details>
 <img align="left" src="https://dl.dropboxusercontent.com/s/cu5wxuug11xh3lm/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
+<details>
+<summary>
 Estimated In-Room Response:
+</summary></br>
+<p>
+In theory, with complete 360-degree anechoic data on a loudspeaker and sufficient acoustical and geometrical data on the listening room and its layout it would be possible to estimate with good precision what would be measured by an omnidirectional microphone located in the listening area of that room. By making some simplifying assumptions about the listening space, the data set described above permits a usefully accurate preview of how a given loudspeaker might perform in a typical domestic listening room. Obviously, there are no guarantees, because individual rooms can be acoustically aberrant. Sometimes rooms are excessively reflective (“live”) as happens in certain hot, humid climates, with certain styles of interior décor and in under-furnished rooms. Sometimes rooms are excessively “dead” as in other styles of décor and in some custom home theaters where acoustical treatment has been used excessively. This form of post processing is offered only as an estimate of what might happen in a domestic living space with carpet on the floor and a “normal” amount of seating, drapes and cabinetry.
+
+For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
+</p>
+  </details>
 <img align="left" src="https://dl.dropboxusercontent.com/s/aosyrvzqbc0zuhz/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
@@ -90,7 +135,7 @@ Horizontal Frequency Response (0° to ±90°):
 <img align="left" src="https://dl.dropboxusercontent.com/s/n4plea2o96inidi/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-Vertical Frequency Response (0° to ±30°):
+Vertical Frequency Response (0° to ±40°):
 <img align="left" src="https://dl.dropboxusercontent.com/s/l9f08xai18zazaa/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
@@ -123,7 +168,7 @@ Vertical Contour Plot (normalized):
 Nearfield response of individual drive units:
 <img align="left" src="https://dl.dropboxusercontent.com/s/kuxkdb29htgwflj/Nearfield%20Driveunits%20%26%20Port.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-Note the lack of a strong resonance from the port.  I mention this because many speakers have ports that cause resonance in the midrange.  Most measurements do not provide sufficient resonance to show these issues. However, the Klippel NFS does.  And in the case of the Kef R3, there are no such issues.  This is attributed to the legitimate engineering of the port, dubbed by Kef as "Flexible Port Technology", which is detailed in the graphic below.
+Note the lack of a strong resonance from the port.  I mention this because many speakers have ports that cause resonance in the midrange.  Most measurements do not provide sufficient resolution to show these issues. However, the Klippel NFS does.  And in the case of the Kef R3, there are no such issues.  This is attributed to the legitimate engineering of the port, dubbed by Kef as "Flexible Port Technology", which is detailed in the graphic below.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/lcdnwu93s5wooc6/Kef_flex_port.png?dl=0" alt="specs" width="80%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
@@ -209,8 +254,10 @@ The prediction is quite accurate down to approximately 500Hz.  Below this we see
 I encourage you to watch my YouTube review for more details but a quick few notes:
 * I love this black on black colorway.
 * As I mentioned above, there is no coloration or resonance caused by the port.  I note this because many of the speakers I have tested have midrange resonances caused by the port or passive radiator.  There is no hint of that at all in this speaker.  A welcomed change.
+* The data does not indicate any resonances from anything.  It is quite a neutral response, aside from the lifted treble on-axis.  Moving to about ±10° horizontally and vertically, the treble is slightly reduced to provide a more neutral signature.  For that reason, I would encourage you to experiment with toe-in and placement.  You may find you like being on-axis or you may find you prefer the speakers toed in or out slightly.  However, I would not go beyond ±20° as the response begins to drop above 8kHz.
 * Running these speakers full-range (20Hz to 20kHz), they have nice kickdrum but not quite enough.  The harmonics of the kickdrum, however, are quite nice and give a nice fullness to the kicks, even though the fundamental notes (50-60Hz) need help.
 * Along that same token, I find these speakers to not do well in a "dead" room.  They did much better in my living room than they did in my home theater, where the latter has copious sound absorption throughout.
+* At approximately 4m listening distance, I found the max SPL to be about 95dB.  Exceeding this resulted in an unpleasant sound for a variety of music.  95dB in-room at 4m is pretty loud and when you pair these speakers with a subwoofer, the max SPL is increased a bit more.
 * In John Mayer's "Free Fallin" (a live Tom Petty cover), I loved the timbre of his voice.  And the air of the sound produced by the audience.
 * The layering of these speakers is unmatched, to date.  The soundstage isn't terribly wide (I *prefer* a wider soundstage).  However, the layering and the overall depth of the soundstage is incredible.  The soundstage extends deep from front to back (with the right source music, of course).  It is one of my favorite things about these speakers.  A good example of this is in Fleetwood Mac's "The Chain" as well as Phillip Bailey's "Easy Lover" (at the 3:00 mark, where Phil Collins gets down on the drums).
 * 2.5kHz sounded harsh to me and I couldn't tell for sure if it was the speaker or the room.  The data does not indicate it being the speaker itself.  And in that same vein, the only thing in the data that *might* make sense as to a culprit is the expansion of directivity around this point.  This could simply be coincidence.
