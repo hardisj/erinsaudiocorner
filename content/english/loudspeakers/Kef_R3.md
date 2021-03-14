@@ -34,14 +34,19 @@ Price per pair is approximately $2000 USD.
 
 <br>
 
+<img align="left" src="https://dl.dropboxusercontent.com/s/1ylgfsdezhq6zqa/DSC09601.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/xj8aw7m6yfshitx/DSC09603.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/zwtszc7mhubzzjp/DSC09606.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
 <img align="left" src="https://dl.dropboxusercontent.com/s/k6eip741rv06bxv/DSC09586.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/p0thgydexldbo0q/DSC09611.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/fbfydpmyyt1umfh/DSC09612.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
 
 
 
@@ -211,6 +216,7 @@ I encourage you to watch my YouTube review for more details but a quick few note
 * 2.5kHz sounded harsh to me and I couldn't tell for sure if it was the speaker or the room.  The data does not indicate it being the speaker itself.  And in that same vein, the only thing in the data that *might* make sense as to a culprit is the expansion of directivity around this point.  This could simply be coincidence.
 * While using the speakers full-range is OK, I found that when I added a subwoofer ([SVS SB-2000 Pro](https://www.svsound.com/products/sb-2000-pro) and [SB-3000](https://www.svsound.com/products/sb-3000), separately), the entire sound became immensely more enveloping.  Somehow, it even seems to increase the overall sense of "space" these speakers provide with the right recording.  For that reason, I do suggest a subwoofer with these speakers.  I suggest a crossover in the neighborhood of 60-80Hz.  I've had good luck with the SVS subwoofers I'm currently reviewing and with their built-in DSP, I was able to resolve a couple room modes easily and take the system to a new level of fidelity.
 * I used these speakers with the [Parasound NewClassic 200 Integrated Amplifier]("https://parasound.com/200_Integrated.php").  This integrated amplifier has 110w @ 4 and 8 ohms and was adequate to provide the output levels I needed at 4 meters listening distance.  However, if you have a seating distance of more than 4m and want to listen at louder than - say - 95dB, I would suggest more power.  I was also able to use the crossover within the Parasound to split the signal between the speakers and the SVS subwoofer.
+* Make sure to push the trim rings all the way in.
 
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
