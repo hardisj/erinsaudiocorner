@@ -163,6 +163,17 @@ Vertical Contour Plot (normalized):
 ## Additional measurements
 <br>
 
+### Impedance
+
+Impedance Magnitude and Phase + EPDR.<br>
+Per Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculating EPDR):
+<br>
+>Just a note of caution that the EPDR derivation is based on a class-B output stage so it's valid for typical class-AB amps but certainly not for class-A and probably has only marginal relevance for class-D amps (would love to hear from a class-D expert on this topic).*
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/o13nd66mpjisti7/Kef%20R3_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
 ### Near-Field Response
 
 Nearfield response of individual drive units:
