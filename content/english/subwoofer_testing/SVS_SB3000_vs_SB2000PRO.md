@@ -2,7 +2,7 @@
 title: "SVS SB-2000 Pro vs SB-3000 Subwoofer Shootout"
 date: 2021-03-16
 draft: false
-image: "https://dl.dropboxusercontent.com/s/jjhf4v98iuuymj0/DSC09623.JPG?dl=0"
+image: "https://dl.dropboxusercontent.com/s/max4hwps4yuyh9x/YT.png?dl=0"
 description : "SVS SB-2000 Pro vs SB-3000 Subwoofer Shootout"
 Tags: ["SVS", "svs subwoofer", "svs sb-2000 pro", "svs sb-3000"]
 ---
