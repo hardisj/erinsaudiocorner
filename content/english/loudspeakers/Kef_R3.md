@@ -28,7 +28,7 @@ I have provided an introduction to this speaker on my YouTube channel and provid
 <br>
 <br>
 
-The [Kef R3](https://us.kef.com/r3.html) is 3-way compact bookshelf speaker.  It features a 6.5-inch midwoofer and a 5-inch concentric "Uni-Q" midrange/tweeter.  The R3 features a rear port and currently comes in three colors: gloss black, gloss white, and Walnut.  The R3 comes with a removable grille as well.
+The [Kef R3](https://us.kef.com/r3.html) is 3-way compact bookshelf speaker.  It features a 6.5-inch midwoofer and a 5-inch concentric "Uni-Q" midrange/tweeter.  The crossover between the midbass/midrange is 400Hz and the crossover between the midrange/tweeter is 2.9kHz.  The R3 features a rear port and currently comes in three colors: gloss black, gloss white, and Walnut.  The R3 comes with a removable grille as well.
 
 Price per pair is approximately $2000 USD.
 
@@ -173,6 +173,13 @@ Per Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculating EPDR):
 <img align="left" src="https://dl.dropboxusercontent.com/s/o13nd66mpjisti7/Kef%20R3_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
+
+### Step Response
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/zxbli6npvv0mq60/Kef%20R3%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
 
 ### Near-Field Response
 
