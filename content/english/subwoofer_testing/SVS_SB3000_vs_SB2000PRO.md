@@ -56,6 +56,12 @@ Here are some photos of the Bluetooth application:
 <br>
 <br>
 
+## Test Setup/Conditions:
+
+For test setup and conditions please view my discussion on [this page](https://www.erinsaudiocorner.com/subwoofer_testing/cea-2010_subwoofer_testing/).
+
+<br>
+
 ## Frequency Response
 
 The below frequency responses were taken with all DSP options disabled, volume at maximum and 0.05v RMS input in to the LFE channel.  You can see the SB-2000 Pro has a more linear frequency response while the SB-3000 has a rise in the higher-frequency response until approximately 160Hz where both subwoofers begin to trail off.
