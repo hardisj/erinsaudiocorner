@@ -96,7 +96,7 @@ weight = 8
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logos/watermark - for site.png"  # banner logo (at top/bottom)
+logo = "https://dl.dropboxusercontent.com/s/7l7gj78pzfv5ufv/watermark%20-%20for%20site.png?dl=0"  # banner logo (at top/bottom)
 # Meta data
 description = "The Sound of Science"
 author = "E"
