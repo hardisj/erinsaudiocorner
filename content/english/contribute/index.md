@@ -14,7 +14,7 @@ This site is funded with my own money but is improved on with support from the c
 </center>
 <br></br>
 
-Alternatively, if you want to rock a super-cool shirt while helping support the site you can purchase one of my neato shirts through Spreadshirt.  Click the shirt below or [here](https://shop.spreadshirt.com/erins-audio-corner/men?q=D1) to go to the page.  As an added bonus, if you're wearing this shirt and I see you out I'll teach you the secret handshake (just remind me what it is because I will probably forget it by then).
+Alternatively, if you want to rock a super-cool shirt while helping support the site you can purchase one of my neato shirts through Spreadshirt.  Click the shirt below or [here](https://shop.spreadshirt.com/ErinsAudioCorner) to go to the page.  As an added bonus, if you're wearing this shirt and I see you out I'll teach you the secret handshake (just remind me what it is because I will probably forget it by then).
 <center>
 <a href="https://shop.spreadshirt.com/erins-audio-corner/men?q=D1">
 <img border="0" alt="W3Schools" src="https://image.spreadshirtmedia.com/image-server/v1/products/T812A2PA3140PT17X49Y56D1028495435FS6838/views/1,width=650,height=650,appearanceId=2/original-logo-with-speaker-and-kapow-lightning-show-your-support-and-wear-a-neato-shirt-too.jpg" width="400" height="400">
