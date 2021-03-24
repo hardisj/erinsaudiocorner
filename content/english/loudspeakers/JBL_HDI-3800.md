@@ -226,7 +226,18 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### In-Room Measurements from the Listening Position
 <br>
 
- (Coming Soon)
+Below  is a photograph of the speakers set up in my living room.  The speakers were placed approximately 1.2m from the front wall (not the cabinets; but the actual wall).  The listening position was approximately 4 meters from the speakers.
+<img align="left" src="https://dl.dropboxusercontent.com/s/1f5xn427oztqi0t/DSC00445.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+Below is the actual measured in-room response (with *no* DSP correction). This is a spatial average taken over approximately 1 cubic foot.  As you can see, the actual in-room response aligns quite well with the prediction generated from the SPIN data.  Pretty cool to see how anechoic measurements can reliably predict the actual in-room response.  I feel many others often overlook this powerful benefit of the SPIN data.
+
+Black = Predicted In-Room Response from SPIN data
+<br>
+Teal = Actual In-Room Measured Response from Main Listening Position
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/s3fasftai6sjy6d/PIR%20vs%20MIR.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+The prediction is quite accurate down to approximately 500Hz.  Below this we see more deviation from the prediction.  This is expected.  The room takes over as you enter mid-to-low frequencies.  Aside from the room dimensions, my couch, the back wall behind where I sit, the end table and the lamp near the listening position all influence the measured response.  The dip from 150-400Hz is caused by the rear wall and/or couch as when the microphone is moved into the center of the room the dip fills in.  Overall, what we see here is that the anechoic data can be conveniently used to predict the actual response one would expect to see in their own room.
 
 
 <br>
