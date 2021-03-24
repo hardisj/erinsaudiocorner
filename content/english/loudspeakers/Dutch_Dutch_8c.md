@@ -88,7 +88,7 @@ CTA-2034 / SPINORAMA:
 <p>
 The On-axis Frequency Response (0°) is the universal starting point and in many situations it is a fair representation of the first sound to arrive at a listener’s ears.
 
-The Listening Lindow is a spatial average of the nine amplitude responses in the ±10º vertical and ±30º horizontal angular range. This encompasses those listeners who sit within a typical home theater audience, as well as those who disregard the normal rules when listening alone.
+The Listening Window is a spatial average of the nine amplitude responses in the ±10º vertical and ±30º horizontal angular range. This encompasses those listeners who sit within a typical home theater audience, as well as those who disregard the normal rules when listening alone.
 
 The Early Reflections curve is an estimate of all single-bounce, first-reflections, in a typical listening room.
 
@@ -169,7 +169,7 @@ Vertical Contour Plot (normalized):
 <br>
 
 
-## Additional measurements
+## Additional Measurements
 
 ### Near-Field Response
 
