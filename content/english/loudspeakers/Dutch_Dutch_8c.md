@@ -96,7 +96,7 @@ Sound Power represents all of the sounds arriving at the listening position afte
 
 Sound Power Directivity Index (SPDI): In this standard the SPDI is defined as the difference between the listening window curve and the sound power curve.
 
-Early Reflections Directivity Index (SPDI): is defined as the difference between the listening window curve and the early reflections curve. In small rooms, early reflections figure prominently in what is measured and heard in the room so this curve may provide insights into potential sound quality.
+Early Reflections Directivity Index (EPDI): is defined as the difference between the listening window curve and the early reflections curve. In small rooms, early reflections figure prominently in what is measured and heard in the room so this curve may provide insights into potential sound quality.
 
 </p>
   </details>
