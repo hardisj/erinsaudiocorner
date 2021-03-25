@@ -167,7 +167,7 @@ Vertical Contour Plot (normalized):
 For those who do not know what EPDR is (ahem, myself until 2020), Keith Howard came up with this metric which he [defined in a 2007 article for Stereophile](https://www.stereophile.com/reference/707heavy/index.html) as:
 >... simply the resistive load that would give rise to the same peak device dissipation as the speaker itself.
 
-A note from Dr. Jack Oclee-Brown of JBL (who supplied the formula for calculating EPDR):
+A note from Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculating EPDR):
 <br>
 >Just a note of caution that the EPDR derivation is based on a class-B output stage so it's valid for typical class-AB amps but certainly not for class-A and probably has only marginal relevance for class-D amps (would love to hear from a class-D expert on this topic).*
 
