@@ -26,7 +26,7 @@ However, for those who want more - a detailed explanation of the objective perfo
 *Note:  JBL was kind enough to loan me this item for test.  I was not paid for my review and was not told what to say.*
 
 
-The [JBL HDI-3800](https://www.jblsynthesis.com/products/loudspeakers/type/floorstanding-loudspeakers/HDI-3800.html) is 3-way Floorstanding speaker, standing approximately 45-inches tall with serious output capability.  The below is from the manufacturer's website:
+The [JBL HDI-3800](https://www.jblsynthesis.com/products/loudspeakers/type/floorstanding-loudspeakers/HDI-3800.html) is 2.5-way Floorstanding speaker, standing approximately 45-inches tall with serious output capability.  The below is from the manufacturer's website:
 
 >Designed and engineered in JBL’s world-famous acoustic engineering facility in Northridge, California, the HDI-3800 is the flagship of the JBL HDI Series. This floorstanding loudspeaker features a 2 ½-way design with patented High-Definition Imaging (HDI™) waveguide technology, the patented 2410H-2 1-inch (25mm) compression driver, and triple 8-inch (200mm) Advanced Aluminum Matrix cone woofers for powerful dynamics and incredibly accurate sound reproduction. The HDI-3800 enclosure is heavily braced to provide a solid acoustic foundation, and incorporates a bass reflex design with dual rear-firing, computer-optimized flared ports. The sophisticated curved cabinet features a modern design finished in a choice of automotive-grade painted High Gloss Black, or furniture-grade satin Walnut or Gray Oak wood veneers. A black cloth, magnetically attached grille completes the elegant appearance.
 
@@ -68,6 +68,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 The reference plane in this test is at the tweeter.
 The speaker was tested in ported configuration (the port was not sealed).
 All testing in this review was done without grille.
+*Note: For low-frequency measurements see the appropriate section further down.
 
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
@@ -160,6 +161,8 @@ Vertical Contour Plot (normalized):
 
 ## Additional Measurements
 <br>
+
+
 
 ### Impedance Magnitude and Phase + Equivalent Peak Dissipation Resistance (EPDR)
 <br>
