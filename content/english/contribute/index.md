@@ -17,5 +17,5 @@ This site is funded with my own money but is improved on with support from the c
 Alternatively, if you want to rock a super-cool shirt while helping support the site you can purchase one of my neato shirts through Spreadshirt.  Click the shirt below or [here](https://shop.spreadshirt.com/ErinsAudioCorner) to go to the page.  As an added bonus, if you're wearing this shirt and I see you out I'll teach you the secret handshake (just remind me what it is because I will probably forget it by then).
 <center>
 <a href="https://shop.spreadshirt.com/ErinsAudioCorner">
-<img border="0" alt="W3Schools" src="https://image.spreadshirtmedia.com/image-server/v1/products/T812A2PA3140PT17X216Y1D1037667998FS4311/views/1,width=650,height=650,appearanceId=2/show-your-support-with-this-understated-yet-cool-logo-tee.jpg" width="400" height="400">
+<img border="0" alt="W3Schools" src="https://image.spreadshirtmedia.com/image-server/v1/products/T1130A2PA3365PT17X163Y50D1037667998FS3776/views/1,width=650,height=650,appearanceId=2/show-your-support-with-this-understated-yet-cool-logo-tee.jpg" width="400" height="400">
 </a></center>
