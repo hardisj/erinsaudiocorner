@@ -172,7 +172,7 @@ For those who do not know what EPDR is (ahem, myself until 2020), Keith Howard c
 
 A note from Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculating EPDR):
 <br>
->Just a note of caution that the EPDR derivation is based on a class-B output stage so it's valid for typical class-AB amps but certainly not for class-A and probably has only marginal relevance for class-D amps (would love to hear from a class-D expert on this topic).*
+>Just a note of caution that the EPDR derivation is based on a class-B output stage so it's valid for typical class-AB amps but certainly not for class-A and probably has only marginal relevance for class-D amps (would love to hear from a class-D expert on this topic).
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/r0td5qdjax9wvxl/JBL%20HDI-3800_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
