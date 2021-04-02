@@ -11,6 +11,8 @@ Tags: ["JBL", "HDI-4500", "Klippel", "Review", "Speaker", "loudspeaker"]
 ## Foreword
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
+I reviewed the big brother JBL HDI-3800 floorstanding speakers [here](https://www.erinsaudiocorner.com/loudspeakers/jbl_hdi-3800/) if you are interested in those as well.
+
 
 <br>
 <br>
@@ -224,7 +226,9 @@ Now, with that critical caveat laid out, allow me to highlight some things I thi
 * The impedance is stated at 4 ohm nominal.  The impedance plot shows this to be quite true.  I drove this with a Parasound 200 Integrated Amplifier with no issue (rated for 110w @ 4/8 ohm).
 * Output levels.  I drove this speaker hard for both music and movies and was able to achieve quite high output.  Approximately 100dB at 12 feet with no mechanical issues (port noise, speakers bottoming out, etc.).  Distortion on this speaker is also quite low.
 
-
+<br>
+<br>
+<br>
 
 # Support / Contribute
 
