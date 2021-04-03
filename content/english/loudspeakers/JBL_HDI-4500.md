@@ -8,8 +8,11 @@ Tags: ["JBL", "HDI-4500", "Klippel", "Review", "Speaker", "loudspeaker"]
 ---
 
 
-## Foreword
+## Foreword / YouTube Video Review
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
+
+However, for those who want more - a detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc.) - please watch the below video where I go more in-depth.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TPJTQN9P0Rw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I reviewed the big brother JBL HDI-3800 floorstanding speakers [here](https://www.erinsaudiocorner.com/loudspeakers/jbl_hdi-3800/) if you are interested in those as well.
 
