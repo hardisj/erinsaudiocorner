@@ -169,6 +169,7 @@ Vertical Contour Plot (normalized):
 
 ## Additional Measurements
 <br>
+
 ### On-Axis Response Linearity
 
 The mean SPL on-axis is 88.41 dB (300Hz to 3kHz).
