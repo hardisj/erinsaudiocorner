@@ -12,7 +12,7 @@ Tags: ["Focal", "Twin6 Be", "Klippel", "Review", "Speaker", "loudspeaker"]
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
 However, for those who want more - a detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc.) - please watch the below video where I go more in-depth.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t2XBDZry2-o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br>
@@ -24,7 +24,7 @@ However, for those who want more - a detailed explanation of the objective perfo
 
 <br>
 
-The [Focal Twin6 Be](https://www.focal.com/en/pro-audio/monitoring-speakers/sm6/monitoring-speakers/twin6-be#documentation) is 2.5-way Studio Monitor.  The below is from the manufacturer's website:
+The [Focal Twin6 Be](https://www.focal.com/en/pro-audio/monitoring-speakers/sm6/monitoring-speakers/twin6-be#documentation) is powered 2.5-way Studio Monitor.  The below is from the manufacturer's website:
 
 >The Twin6 Be is the best seller of the Focal Professional range and the most versatile work tool of the SM6 line. It represents the only necessary solution for recording, mixing and mastering. The image precision, treble definition as well as midrange neutrality are at the heart of its reputation. The excellent articulation of the bass and midbass registers, even at very high sound levels, makes it an unavoidable reference for engineers who require absolute transparency.
 Furthermore, the design of the Twin6 Be permits a high SPL while at the same time offering a stable tonal balance. One of the two 6.5" woofers works in large band (midrange – bass) whereas the other reproduces from 40 to 150Hz. This creates a bass that preserves all the signal dynamics, without any masking effect in the midrange, thereby keeping all its neutrality and transparency. Additional control of the bass register is accomplished by fine-tuning on the control plate on the back of the Twin6 Be in order to obtain a perfect mirror configuration with its mate.
@@ -274,6 +274,7 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 * Soundstage is about 2 feet outside of speakers and about 2 feet deep in center.
 * There is zero mechanical noise from these speakers (pops, over-excursion, vent noise) even at considerable volumes.
 * The on-axis response is really quite linear with the exception of the 2-3kHz dip.  From the nearfield data, this seems to be due to a steep low-pass filter on the midrange.  The roll off begins promptly at about 50Hz which is adequate, however, a subwoofer is obviously needed for extended bass.
+* When listening, I noticed the HF tends to sound brighter the closer I was to the speaker.  In the above in-room measurements you can see there is a gain of about 2dB when moving from 2.5 meters to 1.5  meters listening distance, so keep this in mind.
 * Hiss: When the input sensitivity was switched to +4dBu there was no audible hiss at 1.5m and also barely noticeable with ear next to tweeter.  At -10dBu hiss was noticeable from 0.5m.
 
 
