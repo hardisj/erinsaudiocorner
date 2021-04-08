@@ -295,7 +295,9 @@ In my humble opinion, I think a couple well-implemented parametric EQ bands woul
 
 If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is very much appreciated.
 
-Alternatively, if you are interested in purchasing these speakers, please consider using my Amazon affiliate link below.  It yields me a small commission at no additional cost to you.
+Alternatively, if you are interested in purchasing these speakers, please consider using one of my affiliate links below.  It yields me a small commission at no additional cost to you.
+
+<iframe width="180" scrolling="no" height="150" frameborder="0" style="border:none;" border="0" src="https://mer54715.datafeedfile.com/widget/aff_widget_prdt_generate-2.0.php?aff_num=28138&aff_net=1&size=180x150&mode=s&bucket_num=10438&link_target=y&sid=ErinsAudioCorner" marginheight="0" marginwidth="0"></iframe>
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "medlemusin-20";
