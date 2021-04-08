@@ -178,6 +178,14 @@ Vertical Contour Plot (normalized):
 ## Additional Measurements
 <br>
 
+### On-Axis Response Linearity
+
+Response linearity is ± -2.81/2.81 dB from 80Hz to 16kHz. 
+
+<img align="left" src="https://www.dropbox.com/s/m6eoblapl67pqyy/Focal%20Twin6%20Be%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
 ### "Globe" Plots
 
 These plots are generated from exporting the Klippel data to text files.  I then process that data with my own MATLAB script to provide what you see.  These are not part of any software packages and are unique to my tests.

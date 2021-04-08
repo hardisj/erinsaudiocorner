@@ -161,7 +161,14 @@ Vertical Contour Plot (normalized):
 
 ## Additional Measurements
 <br>
+### On-Axis Response Linearity
 
+The mean SPL on-axis is 88.99 dB (300Hz to 3kHz).
+Response linearity is ± -3.66/2.62 dB (80Hz to 16kHz).
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/hhdnfiuew9ynwmk/JBL%20HDI-3800%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
 
 
 ### Impedance Magnitude and Phase + Equivalent Peak Dissipation Resistance (EPDR)
