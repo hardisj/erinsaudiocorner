@@ -58,7 +58,7 @@ This is the inside of the speaker from the back.  Note the port is a U-turn port
 <img align="left" src="https://dl.dropboxusercontent.com/s/92jv9b6pclzx3vo/DSC01211.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-The amplifier for those of you know who know more about this stuff than me and like this sort of thing.
+The amplifier for those of you know who know more about this stuff than I do.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/jr16h6czulwmioa/DSC01212.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
@@ -81,7 +81,7 @@ A picture of the setup in my garage:
 <img align="left" src="https://dl.dropboxusercontent.com/s/tsbeqi1utcathx5/DSC01008.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
-The reference plane in this test is at the tweeter.  Volume set to '0' with XLR input.
+The reference plane in this test is at the tweeter.  Volume set to '0' with XLR input.  The dip switches were all set to '0' for the freefield setting.
 
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
@@ -306,6 +306,7 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 * There is zero mechanical noise from these speakers (pops, over-excursion, vent noise) even at higher volumes.  However, these are intended to be used as nearfield monitors in the 1-2 meter range.  Going past this will naturally mean you'll need more volume and if you are listening at absurd levels you will certainly run in to the built-in limiter throttling the output as I showed in my linearity test.
 * When listening, I noticed the HF tends to sound brighter the closer I was to the speaker.  In the above in-room measurements you can see there is a gain of about 2dB when moving from 2.5 meters to 1.5  meters listening distance, so keep this in mind.
 * Hiss: When sitting in the nearfield, approximately 1 meter away, I didn't experience any issues with noise floor in my living room.  When I put my ear next to the speakers, I notice the noise floor.  But, in my opinion, this is a non-issue.
+* Heat.  I recently tested the Focal Twin6 Be and noticed that if the speaker was left on for a while - maybe an hour or so - the amplifier would get quite hot.  Not scalding.  But definitely warm to the touch.  Leaving the IN-5 speakers on for hours at a time resulted in no heat at the amp.  Not sure how important this is to you but I thought I'd mention it.
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
 
