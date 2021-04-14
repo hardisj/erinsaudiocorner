@@ -223,7 +223,12 @@ Nearfield response of individual drive units:
 ### Response Linearity (Compression and Enhancement)
 
 The below graphic indicates just how much SPL is lost (compression) or gained (enhancement; usually due to distortion) when the speaker is played at higher output volumes *referenced to 76dB at 1 meter*.
+
 <img align="left" src="https://dl.dropboxusercontent.com/s/raasujnsnz13gtz/Kali%20IN-5_Compression%20%28annotated%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
+Based on my results above, it is obvious the output is limited (via internal DSP) somewhere above the 96dB @ 1m output level.  Kali confirmed this measurement is accuracte and a limiter is purposely used here to protect the speakers from being overdriven.  I do find it interesting that the limiter does not restrict the 80Hz region as much as it does the other frequencies, though.  
 
 <br><br>
 
@@ -294,10 +299,11 @@ While the prediction in this test is close to the actual measured response, the 
 
 If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
 
-* Subjective listening was primarily at 1.5 meters.  Subjective listening was conducted at 80-95dB at this distance.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.  Though, the manual does state the recommended listening range at 1 to 2 meters and most engineers mix in the 80-85dB range.
+* Subjective listening was primarily at 1.5 meters.  Subjective listening was conducted at 80-95dB at this distance.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.
+* If you are looking for speakers for home theater or high-volume listening in a farfield situatino like a living room or media room, these speakers are not recommended.  These are designed for nearfield listening; the manual states the recommended listening range at 1 to 2 meters and most engineers mix in the 80-85dB range.  As you can see in my frequency response linearity testing, the output is limited (via internal DSP) somewhere above the 96dB @ 1m output level.  This is purposely designed to protect the speakers from being overdriven and thanks to this, they are indeed best served at moderate volumes and/or nearfield listening.
 * Generally speaking, most coaxial designs tend to fare better when angled slightly off-axis.  A 10° toe-in or toe-out yields good results.  In this case, however, the best listening axis appears to be directly on-axis, at 0° horizontal and vertical.
 * The front port means you have more ability to move these speakers in to the prime spot for your needs.  And thanks to the dip switches you have more ability to place the speakers where you need; whether free standing, near a wall or on a console.
-* The on-axis linearity is pretty good above 50Hz but once you enter the 7kHz region, things take a turn.  The high-frequency droop above 7kHz is bothersome to see in the data, though, it wasn't as problematic as I might have otherwise expected.  The 6-8kHz region is responsible for sibilance and most people tend to cry foul when a speaker is sibilant.  The IN-5 is not that.  However, there was a feeling of spaciousness that was taken out of some tracks I listened to that I believe are due to this HF dip.
+* The on-axis linearity is ±1.5dB above 50Hz but once you enter the 7kHz region, things take a turn.  The high-frequency droop above 7kHz is bothersome to see in the data, though, it wasn't as problematic as I might have otherwise expected.  The 6-8kHz region is responsible for sibilance and most people tend to cry foul when a speaker is sibilant.  The IN-5 is not that.  However, there was a feeling of spaciousness that was taken out of some tracks I listened to that I believe are due to this HF dip.
 * The bass of these speakers is downright flabbergasting.  They don't plumb the depths of 20Hz; you'll still need a subwoofer for that.  But they have absolutely no problem providing plenty of impact from a 50Hz kickdrum fundamental because the roll off doesn't start until below this point.  Aside from the sheet punch these possess is the detail.  In The Police's *Wrapped Around Your Finger* the bass line has vibrato.  I mean, yea, a string is supposed to vibrate.  But with these speakers, in the nearfield, you can almost *see* the waveform of the bass as it generates the tone.  It's like being in The Matrix.  In fact, the bass of these speakers was my favorite thing.  And there's a lot to like about the IN-5.
 * In Norah Jones' *Tell Yer Mama*, the left singer was very distinct; moreso than in most other speakers I have auditioned.
 * In Dire Straits' *Money For Nothin* the opening guitar is panned around the stage and mixed out of phase, to the left of the soundstage.  The IN-5s did a great job of providing a very distinct location of this out-of-phase effect while also providing clear separation between the same guitar that is located more closely to the center.
