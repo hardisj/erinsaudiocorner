@@ -14,7 +14,7 @@ Tags: ["Kali", "IN-5", "Klippel", "Review", "Speaker", "loudspeaker", "studio mo
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
 However, for those who want more - a detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc.) - please watch the below video where I go more in-depth.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SO-MltqJgQE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br>
@@ -24,7 +24,10 @@ However, for those who want more - a detailed explanation of the objective perfo
 
 ## Information and Photos
 
+
 <br>
+
+Note:  Kali Audio loaned me this speaker to test.  I was not paid for this review nor has Kali seen this review before publication.
 
 The [Kali IN-5](https://www.kaliaudio.com/independence#Specs-Section-Independence) is powered 3-way Studio Monitor featuring a 4-inch coaxial midrange/tweeter and a 5-inch midwoofer.  The below is from the manufacturer's website:
 
@@ -43,7 +46,7 @@ And here are some specs, again from the manufacturer's website:
 <img align="left" src="https://dl.dropboxusercontent.com/s/xixi9ignbop2x78/DSC00617.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-With a coaxial (or concentric) drive unit such as the one used in this speaker, the tweeter should be terminated in a way that it meets the midrange cone very smoothly.  The reason for this is because the midrange is the waveguide for the tweeter.  Any discontinuity between the tweeter edge and the inner edge of the midrange creates diffraction.  As you can see in the below photo, the voice coil (or so it appears) protrudes beyond the midrange cone and beyond the tweeter's crossing point with the midrange center.  I measured this to be about 1 mm.  The audible detriment due to this is something I can't speak on.  I can just say it is not "ideal" to have such a discontinuity.  It would take having the ideal profile/termination design measured and listening tests conducted.  I don't want to harp on this too much but I do think this is worth noting.
+With a coaxial (or concentric) drive unit such as the one used in this speaker, the tweeter should be terminated in a way that it meets the midrange cone very smoothly.  The reason for this is because the midrange is the waveguide for the tweeter.  Any discontinuity between the tweeter edge and the inner edge of the midrange creates diffraction.  As you can see in the below photo, the voice coil (or so it appears) protrudes beyond the midrange cone and beyond the tweeter's crossing point with the midrange center.  I measured this to be about 1 mm.  The audible detriment due to this is something I can't speak on.  I can just say it is not "ideal" to have such a discontinuity.  It would take having the ideal profile/termination design measured and listening tests conducted.  The distance from the center of the tweeter to this edge is about 20mm which puts the first reflection at around 8kHz, which also coincides with the on-axis response dip.  This could be coincidence (no pun intended).  I don't want to harp on this too much but I do think this is worth noting.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/lydn2nhyah2z38v/DSC01235.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
@@ -228,7 +231,7 @@ The below graphic indicates just how much SPL is lost (compression) or gained (e
 
 <br>
 
-Based on my results above, it is obvious the output is limited (via internal DSP) somewhere above the 96dB @ 1m output level.  Kali confirmed this measurement is accuracte and a limiter is purposely used here to protect the speakers from being overdriven.  I do find it interesting that the limiter does not restrict the 80Hz region as much as it does the other frequencies, though.  
+Based on my results above, it is obvious the output is limited (via internal DSP) somewhere above the 96dB @ 1m output level.  Kali confirmed this measurement is accuracte and a limiter is purposely used here to protect the speakers from being overdriven.  I do find it interesting that the limiter does not restrict the 80Hz region as much as it does the other frequencies, though.
 
 <br><br>
 
@@ -249,7 +252,7 @@ As you can see in the below graphic, the position of the cone does influence the
 
 Is this effect audible?  Well, two things in my *personal* opinion:
 1) Cone travel speed back and forth is incredibly fast.  Are you really going to hear this "distortion" when you're talking about frequencies above 4kHz?  For point of reference, that's 0.25 milliseconds.
-2) You'd have to really be pushing the driver to get it to move this much.  Using calipers, I measured the effective diameter of the midrange to be about 100 mm (3.93 inches) and the area taken up by the tweeter assembly to be around 40 mm (1.57 inches).  Taking the area of the former and subtracting the area of the latter nets me an area of about 10.20 inches² which results in a diameter of 3.60 inches.  Using [this website](http://www.baudline.com/erik/bass/xmaxer.html), I calculate the dBSPL @ 1m of a 3.60 inch cone area at 280Hz to be 1mm.  So, assuming all my math and logic is correct, you would have to be playing this speaker at 100dB @ 1m to move the midrange cone 1mm at 280Hz (the crossover point; my target here).  From my compression testing, I already know the output is reduced somewhere in between 96dB and 102dB due to the built-in limiter.  Odds are, then, the midrange is not even moving that much because the output level is limited.
+2) You'd have to really be pushing the driver to get it to move this much.  Using calipers, I measured the effective diameter of the midrange to be about 100 mm (3.93 inches) and the area taken up by the tweeter assembly to be around 40 mm (1.57 inches).  Taking the area of the former and subtracting the area of the latter nets me an area of about 10.20 inches² which results in a diameter of 3.60 inches.  Using [this website](http://www.baudline.com/erik/bass/xmaxer.html), I calculate the dBSPL @ 1m of a 3.60 inch cone diameter at 280Hz to be 1mm.  So, assuming all my math and logic is correct, you would have to be playing this speaker at 100dB @ 1m to move the midrange cone 1mm at 280Hz (the crossover point; my target here).  From my compression testing, I already know the output is reduced somewhere in between 96dB and 102dB due to the built-in limiter.  Odds are, then, the midrange is not even moving that much because the output level is limited.
 
 Now, to be fair, this is purely a "fun", "FYI" test and I cannot attest to the audibility of this "high frequency modulation" as it has been termed.  However, from a scientific standpoint, I think it illustrates the purpose of the midrange in such a design.
 
