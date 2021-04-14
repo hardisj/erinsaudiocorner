@@ -1,5 +1,5 @@
 ---
-title: "Kali Audio IN-5 3-Way Studio Monito Review"
+title: "Kali Audio IN-5 3-Way Studio Monitor Review"
 date: 2021-04-14
 draft: false
 image: "https://dl.dropboxusercontent.com/s/0knooc5u4ua3q4z/DSC01227.JPG?dl=0"
