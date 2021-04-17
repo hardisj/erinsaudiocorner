@@ -39,7 +39,7 @@ Based on the well-reviewed BS5 passive bookshelf speakers, the BS5P uses the sam
 As stated in the above, this is a powered version of the Neumi BS5 passive bookshelf speaker set, which I also reviewed [here](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5/).
 
 
-MSRP for the single speaker is about $150 USD for a pair.
+MSRP is about $150 USD for a pair.
 
 And here are some specs copied from the manual:
 
