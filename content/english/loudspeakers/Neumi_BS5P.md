@@ -14,8 +14,7 @@ Tags: ["Neumi", "BS5P", "Klippel", "Review", "Speaker", "loudspeaker", "powered 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
 However, for those who want more - a detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc.) - please watch the below video where I go more in-depth.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSOKTkCiMo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -81,8 +80,6 @@ The reference plane in this test is just below the tweeter, per the manufacturer
 
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
-
-Note: The roll off rate of this speaker is sharp and therefore some noise was unavoidable at 25Hz which causes a spike in the response here.  Ignore the response below 25Hz.
 
 
 <details>
@@ -272,11 +269,12 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 
 * Subjective listening varied between the nearfield at 1 meter and the farfield at 4 meters.  Subjective listening was conducted at 80-95dB at these distances.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.
 * *Very* punchy bass at all output levels.
+* There is a tendency for this speaker to resonate and hang on to notes in the 100-200Hz region a bit too long.
 * Very heightened high frequency content, which is fatiguing when listening long-term, especially at higher volumes.
 * Midrange vocals recessed.
 * Despite the manufacturer stating *"optimized for a smooth frequency response while limiting distortion at high sound levels"*, this is not a reference speaker.  Furthermore, in my humble opinion, the BS5P is unfortunately a step-down in fidelity from the [Neumi BS5 (passive speaker) I reviewed in the past](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5/).
+* These speakers have very good directivity, outside of the port resonances and therefore should respond well to EQ.  In which case, they would make a good option for computer speakers if you can implement EQ to tame the exaggerated bass and highs.
 * If you are, however, looking for a speaker with a lot of pizzaz and a lot of hookup options then this is an option for you.  That said, I would not necessarily recommend these for TV as the dialogue frequencies are recesses relative to the high and low frequencies.
-* There is a tendency for this speaker to resonate and hang on to notes in the 100-200Hz region a bit too long.
 
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
