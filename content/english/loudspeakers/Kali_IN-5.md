@@ -29,7 +29,7 @@ However, for those who want more - a detailed explanation of the objective perfo
 
 Note:  Kali Audio loaned me this speaker to test.  I was not paid for this review nor has Kali seen this review before publication.
 
-The [Kali IN-5](https://www.kaliaudio.com/independence#Specs-Section-Independence) is powered 3-way Studio Monitor featuring a 4-inch coaxial midrange/tweeter and a 5-inch midwoofer.  The below is from the manufacturer's website:
+The [Kali IN-5](https://www.kaliaudio.com/independence#Specs-Section-Independence) is a powered 3-way Studio Monitor featuring a 4-inch coaxial midrange/tweeter and a 5-inch midwoofer.  The below is from the manufacturer's website:
 
 >The IN-Series monitors are unlike anything you’ve ever heard. The three-way design lets both the woofer and the tweeter do less work, resulting in better headroom and lower distortion across the frequency spectrum.  At the same time, the coaxial architecture of the midrange and tweeter result in hyper-realistic imaging. This means that you’ll be able to hear subtle details in your mix with pinpoint precision. The design of the system comes together to allow the IN-Series monitors to act as acoustic point sources. They enjoy all the benefits of both traditional 3-way systems and traditional coaxial speakers, with none of the drawbacks traditionally associated with either.  All of this make the IN-5 and IN-8 extremely accurate and easy to mix on. You’ll be able to work faster and with more confidence, and your mixes are going to translate to other systems with less work.
 
