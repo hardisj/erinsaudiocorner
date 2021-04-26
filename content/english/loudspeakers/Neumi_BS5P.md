@@ -268,6 +268,7 @@ As expected, the predicted in-room response and the farfield response (3.5 meter
 If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
 
 * Subjective listening varied between the nearfield at 1 meter and the farfield at 4 meters.  Subjective listening was conducted at 80-95dB at these distances.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.
+* The response linearity is all over the place thanks to the "V-curve" shape and the port resonances at ~800Hz and ~1.8kHz.  These resonances were also present in the passive version so weren't necessarily unexpected.  However, the V-curve response makes the response of this speaker much further from ideal.
 * *Very* punchy bass at all output levels.
 * There is a tendency for this speaker to resonate and hang on to notes in the 100-200Hz region a bit too long.
 * Very heightened high frequency content, which is fatiguing when listening long-term, especially at higher volumes.
