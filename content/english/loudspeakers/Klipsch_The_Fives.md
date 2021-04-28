@@ -7,8 +7,11 @@ description : "Klipsch The Fives Powered Bookshelf Speaker Review"
 Tags: ["Klipsch", "The Fives", "Klippel", "Review", "Speaker", "loudspeaker", "powered speaker"]
 ---
 
-
-
+<center>
+<iframe width="370" scrolling="no" height="170" frameborder="0" style="border:none;" border="0" src="https://mer54715.datafeedfile.com/widget/aff_widget_prdt_generate-resizable.php?aff_num=28138&aff_net=1&size=370x170&mode=m&bucket_num=10438&link_target=y&sid=ErinsAudioCorner" marginheight="0" marginwidth="0"><p>Your browser does not support iFrame.</p></iframe>
+</center>
+<br>
+<br>
 
 ## Foreword / YouTube Video Review
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
