@@ -14,7 +14,7 @@ Tags: ["Klipsch", "The Fives", "Klippel", "Review", "Speaker", "loudspeaker", "p
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
 However, for those who want more - a detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc.) - please watch the below video where I go more in-depth.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Ax4GhQ_l74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -27,7 +27,7 @@ However, for those who want more - a detailed explanation of the objective perfo
 <br>
 
 
-[Klipsch's The Fives](https://www.klipsch.com/products/the-fives-powered-speakers) is a compact powered 2-way speaker featuring a 4.5-inch midwoofer and 1-inch dome tweeter on Klipsch's "TRACTRIX" horn.  It comes with a variety of hookup options (HDMI ARC, Bluetooth, optical toslink, and RCA connections.  It also comes with a remote control.  The below is from the manufacturer's website:
+[Klipsch's The Fives](https://www.klipsch.com/products/the-fives-powered-speakers) is a compact powered 2-way speaker featuring a 4.5-inch midwoofer and 1-inch dome tweeter on Klipsch's "TRACTRIX" horn.  It comes with a variety of hookup options (HDMI ARC, Bluetooth, optical toslink, Turntable and RCA connections.  It also comes with a remote control.  The below is from the manufacturer's website:
 
 >Enjoy superior stereo sound from a powerful and beautifully crafted tabletop system. With virtually endless connection possibilities, including HDMI-ARC, The Fives provide a better listening experience than a traditional sound bar with the same easy plug-and-play setup. Award-winning acoustics, state-of-the-art DSP, and tuning alongside discrete left and right channels, the Fives feature removable magnetic grilles, multiple finish options, and a subwoofer output.
 The Fives are the most versatile speakers on Earth.
@@ -77,7 +77,7 @@ A picture of the setup in my garage:
 The reference plane in this test is the tweeter.  A single RCA input was used and the volume was set to about 3/4 max.  No grille was used and the ports were open (not stuffed).
 
 Note about DSP Mode:
-I initially audititoned and subsequently tested these speakers in "Flat" DSP mode.  Upon seeing the results and finishing up my review, I was informed there was a firmware update which enabled a new mode: "bass cut".  Contrary to the naming convention, "flat" was not flat and "bass cut" was a flatter bass response.  I much preferred the "bass cut" mode subjectively.  Therefore, I performed another round of objective testing using this mode.  In this review I have provided results using "bass cut" mode.  However, I do provide a single set of SPIN data using the "flat" mode.  The title of the graphs tell you which mode was enabled.  I did no testing with the "Dynamic EQ" mode enabled.
+I initially auditioned and subsequently tested these speakers in "Flat" DSP mode.  Upon seeing the results and finishing up my review, I was informed there was a firmware update which enabled a new mode: "bass cut".  Contrary to the naming convention, "flat" was not flat and "bass cut" was a flatter bass response.  I much preferred the "bass cut" mode subjectively.  Therefore, I performed another round of objective testing using this mode.  In this review I have provided results using "bass cut" mode.  However, I do provide a single set of SPIN data using the "flat" mode.  The title of each graph tells you which mode was enabled.  I did no testing with the "Dynamic EQ" mode enabled.
 
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
@@ -89,7 +89,7 @@ CTA-2034 / SPINORAMA:
 </summary>
 </br>
 <p>
-The On-axis Frequency Response (0°) is the universal starting point and in many situations it is a fair representation of the first sound to arrive at a listener’s ears.
+The On-axis Frequency Response (0°) is the universal starting point and in many situations, it is a fair representation of the first sound to arrive at a listener’s ears.
 
 The Listening Window is a spatial average of the nine amplitude responses in the ±10º vertical and ±30º horizontal angular range. This encompasses those listeners who sit within a typical home theater audience, as well as those who disregard the normal rules when listening alone.
 
@@ -255,7 +255,7 @@ As expected, the predicted in-room response and the farfield response (3.5 meter
 
 ### Comparison of "Flat" vs "Bass Cut" DSP Modes
 
-Below is a direct comparison of the on-axis response in the two different modes.  As you can see, the "Flat" mode is anything but flat.  Ironically, "Bass Cut" mode is more flat.
+Below is a direct comparison of the on-axis response in the two different modes.  As you can see, the "Flat" mode is anything but flat.  Ironically, "Bass Cut" mode is flatter.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/eun8f2qmod151u2/Compare%20--%20On%20Axis.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
@@ -278,20 +278,20 @@ My notes below are based on setting the DSP to "bass cut" mode.  When listening 
 * Subjective listening varied between the nearfield at 1 meter and the farfield at 4 meters but was mostly at the 4 meter mark as these are marketed as being soundbar replacements and my TV is quite far from my main listening position.  Subjective listening was conducted at 80-95dB at these distances.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.
 * Port resonance once again rears its head and shows itself in the midrange between ~700-800Hz.
 * Depeche Mode "Enjoy The Silence" - Clap track sounds a tad forward.  Bass is nice and mostly neutral but has a slight "bloom" to it.
-* "Higher Love"  - Very wide soundstage with effects on the left side.  Drumroll gives up ~50Hz; bass rolloff here?
+* "Higher Love"  - Very wide soundstage with effects on the left side.  Drumroll gives up ~50Hz; bass roll off here?
 * "24k Magic" - Bass sounds fuller at lower volumes (~85dB and below) vs higher levels (> ~90dB @ 4m).  Definitely using a limiter here.
 * "Magic" - Left "click clock" sound is right at the speaker.
 * Soundstage depth is even with the speakers' depth.
-* Sounds a bit "forward" or "shouty" with some tracks ~500-800Hz? (Sledehammer - "anything"  "bring yoooouur bluesky").
+* Sounds a bit "forward" or "shouty" with some tracks ~500-800Hz? (Sledgehammer - "anything"  "bring yoooouur blue sky").
 * "Free Fallin" - "too" is forward (2-4kHz?).  When he hangs his notes in "freeeeee" you can hear more resonance in the 300Hz region (or so).
 * High frequency upward tilt is noticeable but harder to tell without a proper A/B, thanks to the smooth shape.  Presents itself as a bit bright and sibilant, though.
-* The limiter's effect is certainly noticeable.  At low-to-mid volumes the bass is neutral and nice but as volume is increased the bass is limited while the high frequencies continue to increase causing a very strong imbalance in the tambre of the overall presentation and can become quite fatiguing.  This would present itself as a problem when watching TV or movies for extended periods of time.
+* The limiter's effect is certainly noticeable.  At low-to-mid volumes the bass is neutral and nice but as volume is increased the bass is limited while the high frequencies continue to increase causing a very strong imbalance in the timbre of the overall presentation and can become quite fatiguing.  This would present itself as a problem when watching TV or movies for extended periods of time.
 
 While this speaker isn't necessarily my taste in overall response, I will say it is a surprisingly pleasant departure from the typical "Klipsch sound" I am used to.  At least when the "bass cut" DSP mode is activated.  The high frequency rise in response is smooth enough that it doesn't stand out in a glaring way and I believe that some people may actually like this rise in response as it is more akin to a high frequency tone control, reaching about +3dB from 2kHz to 12kHz.
 
 For those who like a "v-curve" response, you may find the "flat" DSP setting more to your liking.  However, I was surprised when I saw just how many others commented on "bloated" bass.  As I stated in the intro, I believe this is why Klipsch introduced the firmware update to implement the "bass cut" option, which flattens the bass and makes a noticeable improvement in my opinion.
 
-If Klipsch would allow users the ability to shelve the high frequency via a simple tonal balance you could achieve a fairly flat on-axis response which would put this speaker in a higher performance category for my personal tastes.  Of course, if you do intend to use these as a soundbar replacement you are likely to place the speaker off-axis vertically and the high frequency boost may prove benefecial.  It comes down to your personal tastes and/or use as these are designed to fit a unique niche.  And that brings up another aspect.  There are numerous inputs with these speakers such as HDMI ARC, toslink, RCA, 3.5mm aux and Bluetooth.  All these features paired with the small size and supplied remote make these a worthy consideration if you are indeed looking for a soundbar replacement.
+If Klipsch would allow users the ability to shelve the high frequency via a simple tonal balance you could achieve a fairly flat on-axis response which would put this speaker in a higher performance category for my personal tastes.  Of course, if you do intend to use these as a soundbar replacement you are likely to place the speaker off-axis vertically and the high frequency boost may prove beneficial.  It comes down to your personal tastes and/or use as these are designed to fit a unique niche.  And that brings up another aspect.  There are numerous inputs with these speakers such as HDMI ARC, toslink, RCA, 3.5mm aux and Bluetooth.  All these features paired with the small size and supplied remote make these a worthy consideration if you are indeed looking for a soundbar replacement.
 
 Remember, these implement a pretty restrictive limiter to cut the bass and midrange when the SPL increases between 86dB and 96dB @ 1 meter.  So, if you plan to sit far away from your speakers this may be an issue.  Ideally, I would expect 2 to 3 meters listening distance would be the maximum for most people before the limiting is an issue.
 
