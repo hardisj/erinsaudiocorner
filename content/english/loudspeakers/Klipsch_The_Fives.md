@@ -225,9 +225,17 @@ Nearfield response of individual drive units:
 
 <br><br>
 
-### Response Linearity (Compression and Enhancement)
+### Dynamic Range (Instantaneous Compression Test)
 
-The below graphic indicates just how much SPL is lost (compression) or gained (enhancement; usually due to distortion) when the speaker is played at higher output volumes *referenced to 76dB at 1 meter*.
+The below graphic indicates just how much SPL is lost (compression) or gained (enhancement; usually due to distortion) when the speaker is played at higher output volumes *instantly* via a 2.7 second logarithmic sine sweep *referenced to 76dB at 1 meter*.  The signals are played consecutively *without* any additional stimulus applied.  Then normalized against the 76dB result.
+
+The tests are conducted in this fashion:
+1) 76dB at 1 meter (baseline; black)
+2) 86dB at 1 meter (red)
+3) 96dB at 1 meter (blue)
+4) 102dB at 1 meter (purple)
+
+The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/z305gr791hnqz7h/Klipsch%20The%20Fives%20%28Bass%20Cut%20Mode%29_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
@@ -235,6 +243,29 @@ The below graphic indicates just how much SPL is lost (compression) or gained (e
 
 Based on my results above, it is obvious the output is quite limited somewhere above the 86dB @ 1m output level.  Both the 96dB and the 102dB show significantly lowered output (>3dB loss of expected gain).  This is certainly audible when listening, too, as the bass of the speakers dwindled while the highs remained as I increased the system volume.  I haven't confirmed with Klipsch if this is a built-in limiter, though, I assume it is.
 
+<br><br>
+
+### Long Term Compression Tests
+
+The below graphics indicate how much SPL is lost or gained in the long-term as a speaker plays at the same output level for 2 minutes, in intervals.  Each graphic represents a different SPL: 86dB and 96dB both at 1 meter.
+
+The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components).
+
+The tests are conducted in this fashion:
+1) "Cold" logarithmic sine sweep (no stimulus applied beforehand)
+2) Multitone stimulus played at desired SPL/distance for 2 minutes; intended to represent music signal
+3) Interim logarithmic sine sweep (no stimulus applied beforehand) (Red in graphic)
+4) Multitone stimulus played at desired SPL/distance for 2 minutes; intended to represent music signal
+5) Final logarithmic sine sweep (no stimulus applied beforehand) (Blue in graphic)
+
+The red and blue lines represent changes in the output compared to the initial "cold" test.
+
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/0crbvb2lg9zby6k/Klipsch%20The%20Fives%20%28Bass%20Cut%20Mode%29_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/2n4blb9ejgm1w5w/Klipsch%20The%20Fives%20%28Bass%20Cut%20Mode%29_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
 
 
 <br><br>

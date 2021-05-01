@@ -223,9 +223,18 @@ Nearfield response of individual drive units:
 
 <br><br>
 
-### Response Linearity (Compression and Enhancement)
+### Dynamic Range (Instantaneous Compression Test)
 
-The below graphic indicates just how much SPL is lost (compression) or gained (enhancement; usually due to distortion) when the speaker is played at higher output volumes *referenced to 76dB at 1 meter*.
+The below graphic indicates just how much SPL is lost (compression) or gained (enhancement; usually due to distortion) when the speaker is played at higher output volumes *instantly* via a 2.7 second logarithmic sine sweep *referenced to 76dB at 1 meter*.  The signals are played consecutively *without* any additional stimulus applied.  Then normalized against the 76dB result.
+
+The tests are conducted in this fashion:
+1) 76dB at 1 meter (baseline; black)
+2) 86dB at 1 meter (red)
+3) 96dB at 1 meter (blue)
+4) 102dB at 1 meter (purple)
+
+The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
+
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/raasujnsnz13gtz/Kali%20IN-5_Compression%20%28annotated%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
