@@ -256,7 +256,7 @@ Teal = Actual In-Room Measured Response from Main Listening Position at ~ 4 mete
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/cv092cpwgfzwdr1/PIR%20vs%20MIR.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-As expected, the predicted in-room response and the farfield response (3.5 meter, blue) line up quite well above approximately 500Hz.  However, when moving to the nearfield (1.5 meter, red), the high frequency response is accentuated even more above 8kHz, reaching as much as +4dB compared to the farfield response/estimation.
+As expected, the predicted in-room response and the farfield response line up quite well above approximately 500Hz.  
 
 
 <br>
