@@ -63,7 +63,7 @@ A picture of the setup in my garage:
 <img align="left" src="https://dl.dropboxusercontent.com/s/97s1k7to2vrncn7/DSC01551.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
-The reference plane in this test is just below the tweeter, per the manufacturer.  A single RCA input was used and the volume was set to default.  No grille was used and the ports were open (not stuffed).
+The reference plane in this test is at tweeter.  XLR, +10dBv, port open (not stuffed).
 
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
@@ -283,8 +283,8 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 
 The midbass does some things I do not like at all and generally sounds quite resonant.  Let me give some specific examples:
 * Howard Jones' *Everlasting Love* has a 4-chord progression going in order from:
-        * 225 Hz, 180, 150 and 60 Hz (approximately)
-        * In the nearfield (~1 foot to mitigate room), the first note sounds *very* thin and not at all in line with the other notes.  Audacity indicates all 4 notes should be at roughly the same audible level.  This note - at ~ 225Hz - is right where a dip in the response indicates a possible resonance (cabinet; driver?).
+    * 225 Hz, 180, 150 and 60 Hz (approximately)
+    * In the nearfield (~1 foot to mitigate room), the first note sounds *very* thin and not at all in line with the other notes.  Audacity indicates all 4 notes should be at roughly the same audible level.  This note - at ~ 225Hz - is right where a dip in the response indicates a possible resonance (cabinet; driver?).
 * Tears For Fears - Everybody Wants to Rule the World at the 1:00 - 1:10 , there is a synth sound around 200Hz that rides along in the background.  This sound is brought to the forefront and stands out as a clear resonance in the enclosure.  "dum, dummmmm"
 * Wrapped Around Your Finger - Glaring sound from what I assume is the synth (@ 0:26 & 0:30, for example) lights up badly.  Again, I believe this is enclosure resonance.
 
