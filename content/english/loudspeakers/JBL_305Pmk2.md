@@ -1,6 +1,6 @@
 ---
 title: "JBL 305P MkII - Powered Two-Way Studio Monitor Review"
-date: 2020-04-29
+date: 2021-05-01
 draft: false
 image: "https://dl.dropboxusercontent.com/s/qf43yk8vmgfq29v/DSC01842.JPG?dl=0"
 description : "JBL 305P MkII - Powered Two-Way Studio Monitor Review"
@@ -27,8 +27,7 @@ However, for those who want more - a detailed explanation of the objective perfo
 
 <br>
 
-The [JBL 305P MkII]() is a powered 2-way Studio Monitor featuring a 5-inch midwoofer and 1-inch dome tweeter.  It features Balanced XLR & 1/4" TRS Inputs with input sensitivity options of +4dBu/-10dBv, a boundary EQ (Low-Frequency shelf) as well as a High-Frequency shelf to tailor the sound.
-
+The [JBL 305P MkII]() is a powered 2-way Studio Monitor featuring a 5-inch midwoofer and 1-inch dome tweeter.  It features Balanced XLR & 1/4" TRS Inputs with input sensitivity options of +4dBu/-10dBv, a boundary EQ (Low-Frequency shelf) as well as a High-Frequency shelf to tailor the sound.  The following is from the manufacturer's website:
 >The next-generation JBL 305P MkII powered studio monitor makes legendary JBL performance available to every studio. With the revolutionary JBL Image Control Waveguide and refined transducers, JBL 305P MkII offers stunning detail, precise imaging, a wide sweet spot and impressive dynamic range that enhances the critical listening capabilities of any modern workspace. Featuring patented technologies derived from the JBL 7 Series and M2 Master Reference Monitors and, sporting a sleek, modern design, JBL 305P MkII delivers outstanding performance and an enjoyable mix experience at an accessible price.
 
 
@@ -76,7 +75,7 @@ CTA-2034 / SPINORAMA:
 </summary>
 </br>
 <p>
-The On-axis Frequency Response (0°) is the universal starting point and in many situations it is a fair representation of the first sound to arrive at a listener’s ears.
+The On-axis Frequency Response (0°) is the universal starting point and in many situations, it is a fair representation of the first sound to arrive at a listener’s ears.
 
 The Listening Window is a spatial average of the nine amplitude responses in the ±10º vertical and ±30º horizontal angular range. This encompasses those listeners who sit within a typical home theater audience, as well as those who disregard the normal rules when listening alone.
 
@@ -272,9 +271,31 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 
 * Subjective listening varied between the nearfield at 1 meter and the farfield at 4 meters.  Subjective listening was conducted at 80-95dB at these distances.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.
 * Output is limited by the internal DSP.  From my testing, this occurs somewhere between 96dB and 102dB at 1 meter and results in significant limiting of the output signal.  If one assumes 3dB of in-room gain and 6dB from adding a second speaker, this works out to be approximately a maximum volume of 105dB at 1 meter and 93dB at 4 meters, in-room for a pair.  It is therefore reasonable to assume that these are not ideal for farfield, long-term high output listening and are best relegated to nearfield or midfield use for higher output levels.  If listening at moderate volumes, these make a reasonable solution in terms of output levels.
+* A bit rumbly in the midbass region
+* Depeche Mode - Nice punchy bass but sounds very slightly "rumbly" in the 100-150Hz region.
+* 24k Magic - Bass is punchy but not really "full"; assuming a steep roll off below the 50/60Hz region? (Yep, data backs this up)
+* Soundstage is surprisingly deep (at least, with experience typically only lending itself to the concentric drivers like Kef in this regard).
+* Soundstage width is also quite nice and extends past the sides of the speakers which I believe may come from the wide horizontal radiation pattern of ±70° out to ~13kHz.
+* Peter Gabriel - Sledgehammer -  Sounds quite "forward", setting the HF to -2dB helps.
+* John Mayer's "Free Fallin" - When he says, "she's a good girl", the word "good" tends to jump out of the mix at you in the 1-2kHz region.  I used my RTA app to watch for where this peak occurs (in the nearfield, of course).  The RTA shows the peakiness between 1.6kHz to 1.8kHz which is exactly where there is a +3dB jump in the on-axis response (apparently caused from port resonance).
 
+<br>
 
-While the two EQ options (low and high-frequency shelf) are nice, I do wish there were additional options for fine-tailoring the sound to a particular location a la the Kali IN-5 I recently reviewed.  Though, that would also factor in to the cost.
+The midbass does some things I do not like at all and generally sounds quite resonant.  Let me give some specific examples:
+* Howard Jones' *Everlasting Love* has a 4-chord progression going in order from:
+        * 225 Hz, 180, 150 and 60 Hz (approximately)
+        * In the nearfield (~1 foot to mitigate room), the first note sounds *very* thin and not at all in line with the other notes.  Audacity indicates all 4 notes should be at roughly the same audible level.  This note - at ~ 225Hz - is right where a dip in the response indicates a possible resonance (cabinet; driver?).
+* Tears For Fears - Everybody Wants to Rule the World at the 1:00 - 1:10 , there is a synth sound around 200Hz that rides along in the background.  This sound is brought to the forefront and stands out as a clear resonance in the enclosure.  "dum, dummmmm"
+* Wrapped Around Your Finger - Glaring sound from what I assume is the synth (@ 0:26 & 0:30, for example) lights up badly.  Again, I believe this is enclosure resonance.
+
+This is most troubling when listening to bass guitars that have notes that span the 100-300Hz region where the data also correlates to showing a downward slope in response >200Hz.
+Really hard for me to ignore these issues as I hear them.  If you tend to listen to music with synth or isolated guitar notes then you'll likely notice this right away; especially in the nearfield as it is less likely to get swamped out by the room effects.
+
+<br>
+
+I understand these are really the "darlings" of the budget monitor scene.  For the price, you do get a lot of good performance.  However, I think it is important to highlight these concerns as they will ultimately affect a person's final mix.  For example, they may try to EQ out the midbass resonances I noted or the 1-2kHz issues or the HF shelf.  If these attempts toward correcting the sound were made then the end user - who may have a much better system without these issues - would get bass that doesn't sound right, or a 1-2kHz region that doesn't right.  I am providing this information so those who are shopping and/or use this speaker are aware of some of the things that were readily apparent to me with a variety of music genres.
+
+While the two EQ options (low and high-frequency shelf) are nice, I do wish there were additional options for fine-tailoring the sound to a particular location a la the Kali IN-5 I recently reviewed.  Though, that would also factor into the cost.
 
 As with anything else, I suggest purchasing these from a retailer who offers a return policy so you can try these out in-home.  If you're in search of such a retailer, please consider using my B&H affiliate link below.
 
