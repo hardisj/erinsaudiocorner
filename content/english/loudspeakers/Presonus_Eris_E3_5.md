@@ -267,7 +267,7 @@ While still not ideal, this gives a more linear response without significant pea
 
 
 
-You may be trying to choose between these speakers and the PreSonus Eris E3.5 I have also reviewed.  They each have their own issues.  My suggestion as to which to buy boils down to this:
+You may be trying to choose between these speakers and the [Mackie CR3-X I have also reviewed](https://www.erinsaudiocorner.com/loudspeakers/mackie_cr3x/).  They each have their own issues.  My suggestion as to which to buy boils down to this:
 * No matter what speaker you buy STUFF THE PORT.  It doesn't help you get any lower.  In fact, it only serves to provide a resonant bump ~ 100Hz and results in a steeper roll off.
 * If you don't plan to adjust tonal balance knobs on the PreSonus then get the Mackie.  Easy choice.
 * I think it is a coin toss between the Mackie CR3-X and the *adjusted* PreSonus E3.5.  Though, I'd probably leave toward the Mackie as it still has a more neutral response (especially with the port stuffed).
