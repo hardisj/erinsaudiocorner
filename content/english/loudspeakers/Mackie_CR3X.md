@@ -17,7 +17,7 @@ Tags: ["Mackie", "CR3-X", "Klippel", "Review", "Speaker", "loudspeaker", "powere
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
 However, for those who want more - a detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc.) - please watch the below video where I go more in-depth.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FM4jQh45KyM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -268,7 +268,7 @@ You may be trying to choose between these speakers and the PreSonus Eris E3.5 I 
 * I think it is a coin toss between the Mackie CR3-X and the *adjusted* PreSonus E3.5.  Though, I'd probably lean toward the Mackie as it still has a more neutral response (especially with the port stuffed).
 * If you are placing these near a wall the PreSonus' tonal controls may prove useful enough (by lowering the boosted bass as you put the speaker near a wall) and make the decision to go that route easier.  Though, I would recommend turning the speakers off axis; otherwise the treble is too much.  30° to 40° looks to be the best compromise.  Still, the Mackie's HF balance appears better when the same positioning is used for that speaker.
 
-If you have DSP then make the adjustments to the E3.5 I recommended (port stuff, tonal knobs) and go with the PreSonus.
+While it is true these speakers cost only $100, the response could be much more neutral without costing more.  Don't let price always be a scapegoat for poor quality.
 
 
 <br>

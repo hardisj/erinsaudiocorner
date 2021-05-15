@@ -17,7 +17,7 @@ Tags: ["PreSonus", "Eris E3.5", "Klippel", "Review", "Speaker", "loudspeaker", "
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
 However, for those who want more - a detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc.) - please watch the below video where I go more in-depth.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FM4jQh45KyM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -270,7 +270,7 @@ While still not ideal, this gives a more linear response without significant pea
 You may be trying to choose between these speakers and the [Mackie CR3-X I have also reviewed](https://www.erinsaudiocorner.com/loudspeakers/mackie_cr3x/).  They each have their own issues.  My suggestion as to which to buy boils down to this:
 * No matter what speaker you buy STUFF THE PORT.  It doesn't help you get any lower.  In fact, it only serves to provide a resonant bump ~ 100Hz and results in a steeper roll off.
 * If you don't plan to adjust tonal balance knobs on the PreSonus then get the Mackie.  Easy choice.
-* I think it is a coin toss between the Mackie CR3-X and the *adjusted* PreSonus E3.5.  Though, I'd probably leave toward the Mackie as it still has a more neutral response (especially with the port stuffed).
+* I think it is a coin toss between the Mackie CR3-X and the *adjusted* PreSonus E3.5.  Though, I'd probably lean toward the Mackie as it still has a more neutral response (especially with the port stuffed).
 * If you are placing these near a wall the PreSonus' tonal controls may prove useful enough (by lowering the boosted bass as you put the speaker near a wall) and make the decision to go that route easier.  Though, I would recommend turning the speakers off axis; otherwise the treble is too much.  30° to 40° looks to be the best compromise.  Still, the Mackie's HF balance appears better when the same positioning is used for that speaker.
 
 You can view a comparison of the on-axis response between the two speakers below.
