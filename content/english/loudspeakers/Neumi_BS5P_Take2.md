@@ -43,7 +43,7 @@ Neumi then let me know they made some updates to their built-in EQ and provided 
 
 Note:  Neumi sent me this speaker to test.  I was not paid for this review nor has Neumi seen this review before publication.
 
-The [Neumi BS5P](https://neumitech.com/) is a powered 2-way Studio Monitor featuring a 5-inch midwoofer and 1-inch dome tweeter.  It comes with a variety of hookup options (Bluetooth, optical toslink, and RCA connections.  It also comes with a remote control.  
+The [Neumi BS5P](https://neumitech.com/) is a powered 2-way Studio Monitor featuring a 5-inch midwoofer and 1-inch dome tweeter.  It comes with a variety of hookup options (Bluetooth, optical toslink, and RCA connections.  It also comes with a remote control.
 
 MSRP is about $150 USD for a pair.
 
@@ -284,11 +284,14 @@ The red and blue lines represent changes in the output compared to the initial "
 If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
 
 * Subjective listening was mainly in the nearfield to midfield, between 1 to 2 meters.  Subjective listening was conducted at 80-95dB at these distances.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.
-* With the speaker tested in the configuration discussed (again, Updated EQ, ports stuffed), this is an entirely different ballgame than with my previous testing.  I mean, night and day.  The midrange is so much more neutral (great track: *Wishing Well* by Terence Trent D'Arby).  The response is much more neutral and doesn't call attention to itself nearly.  Gone is the bloated bass and the sharp treble.
+* With the speaker tested in the configuration discussed (again, Updated EQ, ports stuffed), this is an entirely different ballgame than with my previous testing.  I mean, night and day.  The midrange is so much more neutral (great track: *Wishing Well* by Terence Trent D'Arby).  The response is much more neutral and doesn't call attention to itself nearly.  Gone is the bloated bass and the sharp treble.  What you are left with is a reasonably neutral response with a lot of input options at a very low cost.
 * These speakers exhibit an audible compression when played above about 90dB at a couple meters away.  Therefore, they are best used in the near/midfield and not ideal for a large home theater setting, even if you plan to use a subwoofer.
 * I highly recommend using the EQ settings available from Neumi's website linked in the opening of this review and stuffing the ports.  This yields a much more neutral response that, in my humble opinion, represents the best value powered bookshelf speaker currently available at only $150, providing a multitude of input options and volume levels that would be reasonable for near and mid-field listening (note: not farfield listening at high SPL).
 
+
 Bottom line is I can now proudly recommend these speakers with the aforementioned settings.  With these settings, they still aren't without issues but I truly feel they represent an excellent value at only $150.  If you are interested in purchasing these speakers, please consider using my Amazon affiliate link below.
+
+Ultimately, if you update the firmware for the new EQ settings and stuff the port, you are left with a very capable speaker for reasonable volume levels and a lot of input options.  Could this be a perfect option to use in lieu of a soundbar or hi-fi on a budget?  I think so.  Pair it with a subwoofer and you're in business!
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
 
