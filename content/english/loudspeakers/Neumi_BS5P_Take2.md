@@ -28,10 +28,6 @@ However, for those who want more - a detailed explanation of the objective perfo
 
 <br>
 
-Note:  Neumi sent me this speaker to test.  I was not paid for this review nor has Neumi seen this review before publication.
-
-The [Neumi BS5P](https://neumitech.com/) is a powered 2-way Studio Monitor featuring a 5-inch midwoofer and 1-inch dome tweeter.  It comes with a variety of hookup options (Bluetooth, optical toslink, and RCA connections.  It also comes with a remote control.  The below is from the manufacturer's website:
-
 As I said in the Foreword, this is review is based upon some poor results from my initial testing of this speaker.  Neumi contacted me about the results (without ever questioning the legitimacy of said results) and asked if I would be willing to check the tweeter polarity to make sure it wasn't wired out of phase. Turned out the tweeter was indeed wired out of phase. Neumi was very earnest about resolving the issue and sent me an email with the following information:
 > We've tested through speakers we pulled back from Amazon's warehouse and did not find any units with a reversed tweeter. We also did FR sweeps and they were all within a tight group above 1kHz. So if the speaker you test does have a reversed tweeter, we are more confident now that it's an isolated incident.
 
@@ -44,6 +40,10 @@ Neumi then let me know they made some updates to their built-in EQ and provided 
 
 
 ## Information and Photos
+
+Note:  Neumi sent me this speaker to test.  I was not paid for this review nor has Neumi seen this review before publication.
+
+The [Neumi BS5P](https://neumitech.com/) is a powered 2-way Studio Monitor featuring a 5-inch midwoofer and 1-inch dome tweeter.  It comes with a variety of hookup options (Bluetooth, optical toslink, and RCA connections.  It also comes with a remote control.  
 
 MSRP is about $150 USD for a pair.
 
