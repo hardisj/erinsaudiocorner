@@ -281,6 +281,9 @@ However, if you adjust the Eris E3.5's tonal balance controls and port stuffing 
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/7na0jx02q86p90z/Mackie%20vs%20PreSonus%20adjusted.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
+While it is true these speakers cost only $100, the response could be much more neutral without costing more.  Don't let price always be a scapegoat for poor quality.
+
+
 
 As with anything else, I suggest purchasing these from a retailer who offers a return policy so you can try these out in-home.  If you're in search of such a retailer, please consider using my B&H affiliate link below.
 

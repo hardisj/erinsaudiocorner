@@ -312,7 +312,7 @@ If you have the means, I recommend using EQ to help flatten out the response and
 <br>
 <br>
 
-# Support / Contribute
+# Support / Donate
 
 If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is very much appreciated.
 
