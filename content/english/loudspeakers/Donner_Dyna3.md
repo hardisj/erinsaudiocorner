@@ -249,7 +249,7 @@ The red and blue lines represent changes in the output compared to the initial "
 
 ## Parting / Random Thoughts
 
-These are the worst speakers I have tested in regard to linearity.  Frankly, it aggravates me the manufacturer would make the claims they do about "accuracy" while putting out such a terrible product.  The [Mackie CR3-X](http://localhost:2897/loudspeakers/mackie_cr3x/) and [PreSonus Eris E3.5](http://localhost:2897/loudspeakers/presonus_eris_e3_5/) I recently tested are better than this speaker and neither of those are really good, either.  At this point, I'll recommend the [Neumi BS5P](http://localhost:2897/loudspeakers/neumi_bs5p_take2/) if you can fit them and follow my suggestion of sealing the ports.
+These are the worst speakers I have tested in regard to linearity.  Frankly, it aggravates me the manufacturer would make the claims they do about "accuracy" while putting out such a terrible product.  The [Mackie CR3-X](https://www.erinsaudiocorner.com/loudspeakers/mackie_cr3x/) and [PreSonus Eris E3.5](https://www.erinsaudiocorner.com/loudspeakers/presonus_eris_e3_5/) I recently tested are better than this speaker and neither of those are really good, either.  At this point, I'll recommend the [Neumi BS5P](https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5p_take2/) if you can fit them and follow my suggestion of sealing the ports.
 
 Do not waste your money on these speakers.
 
