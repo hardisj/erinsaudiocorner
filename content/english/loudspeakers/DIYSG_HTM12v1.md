@@ -290,7 +290,7 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 
 # Support / Donate
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute link here. Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site’s server space and bandwidth. All of which I otherwise pay out of pocket. And, truthfully speaking, help me buy lunch and maybe take my wife and kid out for dinner now and again in an effort to “apologize” for spending so much time in the garage testing all these speakers.  So, if you can help chip in a few bucks, know that it is very much appreciated.  Alternatively, you can use the affiliate link on my site if you want to purchase these.
+If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button below. Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site’s server space and bandwidth. All of which I otherwise pay out of pocket. And, truthfully speaking, help me buy lunch and maybe take my wife and kid out for dinner now and again in an effort to “apologize” for spending so much time in the garage testing all these speakers.  So, if you can help chip in a few bucks, know that it is very much appreciated.  Alternatively, you can use the affiliate link on my site if you want to purchase these.
 
 Alternatively, if you have a need to purchase anything through Amazon, please consider using my Amazon affiliate link below.  It yields me a small commission at no additional cost to you and allows me to keep providing you with sweet data to make educated purchase decisions.
 

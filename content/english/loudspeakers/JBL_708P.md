@@ -261,7 +261,7 @@ As stated in the Foreword, this written review is purposely a cliff's notes vers
 
 # Support / Donate
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute link here. Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site’s server space and bandwidth. All of which I otherwise pay out of pocket. And, truthfully speaking, help me buy lunch and maybe take my wife and kid out for dinner now and again in an effort to “apologize” for spending so much time in the garage testing all these speakers.  So, if you can help chip in a few bucks, know that it is very much appreciated.  Alternatively, you can use the affiliate link on my site if you want to purchase these.
+If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button below. Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site’s server space and bandwidth. All of which I otherwise pay out of pocket. And, truthfully speaking, help me buy lunch and maybe take my wife and kid out for dinner now and again in an effort to “apologize” for spending so much time in the garage testing all these speakers.  So, if you can help chip in a few bucks, know that it is very much appreciated.  Alternatively, you can use the affiliate link on my site if you want to purchase these.
 
 Alternatively, if you are interested in purchasing these speakers, please consider using either my Amazon or B&H affiliate link below.  It yields me a small commission at no additional cost to you and allows me to keep doing what I am doing.
 <center>
