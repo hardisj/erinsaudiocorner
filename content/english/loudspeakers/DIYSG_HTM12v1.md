@@ -1,6 +1,6 @@
 ---
 title: "DIYSG HTM-12v1 Speaker Review"
-date: 2021-05-18
+date: 2021-05-23
 draft: false
 image: "https://dl.dropboxusercontent.com/s/4ob7p3uh6mxsu9f/DSC01917.JPG?dl=0"
 description : "DIYSG HTM-12v1 Speaker Review"
@@ -235,8 +235,6 @@ The purpose of this test is to illustrate how much (if at all) the output change
 <img align="left" src="https://dl.dropboxusercontent.com/s/egwhdwi4oyj48oy/DIYSG%20HTM-12%20v1_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-
-Based on my results above, it is obvious the output is limited significantly above the 86dB @ 1m output level.  These will obviously need to be listened at low-to-mid volume in the nearfield (which is reasonably expected with such a small monitor).
 
 <br>
 

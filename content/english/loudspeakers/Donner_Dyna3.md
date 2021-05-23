@@ -1,6 +1,6 @@
 ---
 title: "Donner Dyna 3 Powered Bookshelf Speaker"
-date: 2021-05-18
+date: 2021-05-23
 draft: false
 image: "https://dl.dropboxusercontent.com/s/g8gp0015umuy8yz/DSC01921.JPG?dl=0"
 description : "Donner Dyna 3 Powered Bookshelf Speaker"

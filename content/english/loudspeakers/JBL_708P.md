@@ -205,7 +205,6 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 <br>
 
-Based on my results above, it is obvious the output is limited significantly somewhere above the 96dB @ 1m output level.  I haven't confirmed with JBL if this is a built-in limiter, though, I assume it is.
 
 <br>
 
