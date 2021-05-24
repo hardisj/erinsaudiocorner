@@ -283,6 +283,8 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 * No problem getting very, *very* loud in my large living room.
 * Voices don't sound natural; FR is quite varied and some intelligibility is lost due to the 3kHz suck out.
 
+While the on-axis response is not linear, the off-axis response trends very well with the on-axis and the directivity indeces are quite linear - outside of a couple areas.  This means that this speaker should do quite well once equalized to flat (or, at least, more linear).
+
 
 <br>
 <br>
