@@ -1,10 +1,10 @@
 ---
-title: "DIYSG HTM-12v1 Speaker Review"
-date: 2021-05-23
+title: "DIYSG Volt-6 Speaker Review"
+date: 2021-06-01
 draft: false
-image: "https://dl.dropboxusercontent.com/s/4ob7p3uh6mxsu9f/DSC01917.JPG?dl=0"
-description : "DIYSG HTM-12v1 Speaker Review"
-Tags: ["DIYSG", "HTM-12", "Klippel", "Review", "Speaker", "loudspeaker", "powered speaker"]
+image: "https://dl.dropboxusercontent.com/s/q7gnr5vany6v2a7/DSC01956.JPG?dl=0"
+description : "DIYSG Volt-6 Speaker Review"
+Tags: ["DIYSG", "HTM-12", "Volt-6", "Klippel", "Review", "Speaker", "loudspeaker", "diysoundgroup"]
 ---
 
 
@@ -12,7 +12,8 @@ Tags: ["DIYSG", "HTM-12", "Klippel", "Review", "Speaker", "loudspeaker", "powere
 
 ## Foreword / YouTube Video Review
 
-The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
+The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  Due to extremely limited time, I am not providing any subjective evaluation but hope the data will be enough for designers and DIY'ers alike that they can glean useful information.
+
 
 <br>
 <br>
@@ -23,26 +24,17 @@ The review on this website is a brief overview and summary of the objective perf
 
 ## Information and Photos
 
-The [DIYSG HTM-12v1](http://www.hificircuit.com/community/threads/htm-speaker-kits.609/) is a DIY design from Matt Grant which was/is available in kit form from [DIYSG](https://www.diysoundgroup.com/htm-12-kit.html).
+The [DIY Sound Group Volt-6](https://www.diysoundgroup.com/volt-6-v2.html) is a DIY design from Matt Grant which is available in kit form from DIYSG.  Here are some notes from the product page:
+> The Volt-6 has a custom made 6.5" coaxial using the same magnet and motor assembly as the Volt-8 and Volt-10.  It's not the prettiest woofer out there but if you need a small home theater speaker capable of high output and power handling, this is a good choice. Impressive X-max with a light weight cone gives this speaker a smooth sounding midrange even when played at high levels. The Celestion CDX1-1010 compression driver (tweeter) is installed on the back and fires through a small waveguide in the center of the woofer giving you point source sound and great off axis response.
+The crossover was designed to give an even response that not only excels for surround sound speaker use, but also for great front speaker performance but really should be paired with subwoofers that can handle the lower bass. The Volt-6 does quite well in small ported enclosures between .3 and .5cuft when used with a subwoofer. The Atmos version is a small sealed enclosure designed to play down to 115hz, which is perfect for Atmos use. You can use the Volt-6 in your ceiling without an enclosure for Atmos use if needed. For surround sound or mains, you should build the ported models.
 
-Note the distinction of this model is "v1" as there has since been an update to this speaker design which was released in early 2020.  Therefore, this review is more for educational purposes and hopefully will help users and designers alike understand the objective performance in the highest resolution possible as current available measurements are a mixture of quasi-anechoic methods and thus have low resolution / high smoothing, insufficient to show problematic areas where anechoic measurements excel.
 
-The HTM-12v1 is a 2-way loudspeaker featuring a SEOS-15 waveguide with Denovo DNA-325 and an Eminence Deltalite 12-inch woofer.  (These specific parts could be different model numbers; this was the best information I could find and I will update this section if necessary).
-
-A kit for a single speaker (including everything sans enclosure; except for front baffle) was approximately $330.
-
-These speakers were loaned to me by their owner, who built them from the kit.  There are no physical or electro-mechanical issues and this unit is a good sample, representative of what one would ideally build from the kit.
+These speakers were loaned to me by their owner, who built them from the kit.
 
 <br>
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/o43oiwtu4qkmetn/DSC01935.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/lssraa6w0xn61g8/DSC01936.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/jynv0chsie0v74p/DSC01940.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/fi99i614s3sa0p1/DSC01957.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -59,8 +51,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-The reference plane in this test is just below the tweeter, per the designer, Matt.
-
+The baffle is sloped at about a 76° angle which made it a bit tricky to measure but after some reconfiguring in the Klippel software, the reference axis was at the tweeter, at the same angle of the baffle.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -86,7 +77,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/w9zaes0jjqiu05z/CEA2034%20--%20DIYSG%20HTM-12%20v1.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ta58wgchbx7v1vl/CEA2034%20--%20DIYSG%20Volt-6%20%28Sloped%20Baffle%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -108,7 +99,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/jd9ycav43fde03g/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/7aw293f89ybrrla/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -121,31 +112,31 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/m08p0au4cgxajkc/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9mhfwzwtmrn05n6/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/t4y1z4z11k3zqfo/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/qnx2q73gpfo8r8f/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/r7fsv9whyoi3vea/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9d9hl5proxqdb22/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/3ppwm78dmma9lc9/DIYSG%20HTM-12%20v1_Horizontal_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/z9aktca634l2ebm/DIYSG%20VOLT-6_Horizontal_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/hnt5ieeas8idcx9/DIYSG%20HTM-12%20v1%20Beamwidth_Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/kiu05e5j84sdeno/DIYSG%20VOLT-6%20Beamwidth_Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/g8m0r6iqrpwfpq6/DIYSG%20HTM-12%20v1_Vertical_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/po5u0g8gmwkebxq/DIYSG%20VOLT-6_Vertical_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/v1kax4n11n3wcjn/DIYSG%20HTM-12%20v1%20Beamwidth_Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/br4k0560kt3raky/DIYSG%20VOLT-6%20Beamwidth_Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -166,7 +157,7 @@ A note from Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculatin
 <br>
 >Just a note of caution that the EPDR derivation is based on a class-B output stage so it's valid for typical class-AB amps but certainly not for class-A and probably has only marginal relevance for class-D amps (would love to hear from a class-D expert on this topic).
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/0jbmaxmobihegu2/DIYSG%20HTM-12%20v1_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/2ad3xu5jjobiafo/DIYSG%20VOLT-6_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -174,7 +165,7 @@ A note from Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculatin
 ### On-Axis Response Linearity
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/9i4p6v4espf1sxn/DIYSG%20HTM-12%20v1%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8f5e2lcd8hrdw4e/DIYSG%20VOLT-6%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -186,33 +177,25 @@ These plots are generated from exporting the Klippel data to text files.  I then
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/qup21cai9vp42vr/DIYSG%20HTM-12%20v1_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ka251p3g0kgeepo/DIYSG%20VOLT-6_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/ivf912egygibokk/DIYSG%20HTM-12%20v1_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/fudu7gan9si5d5p/DIYSG%20VOLT-6_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/t4yzs483ep09h28/DIYSG%20HTM-12%20v1%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/99fzug6zlhn4jxh/DIYSG%20Volt-6%20Hamonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/5rf64dmlhin4eot/DIYSG%20HTM-12%20v1%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3kceo5s0k5ng1pw/DIYSG%20Volt-6%20Hamonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-Harmonic Distortion at 102dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/t5224ra1yqgt6cw/DIYSG%20HTM-12%20v1%20Harmonic%20Distortion%20%28102dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-### Near-Field Response
-
-Nearfield response of individual drive units:
-<img align="left" src="https://dl.dropboxusercontent.com/s/f0rsbchmv49tm8o/DIYSG%20HTM-12v1%20Nearfield%20Component%20Measurements.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
 
@@ -229,7 +212,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/egwhdwi4oyj48oy/DIYSG%20HTM-12%20v1_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/1geikon9dquc8hi/DIYSG%20VOLT-6_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -251,45 +234,45 @@ The tests are conducted in this fashion:
 The red and blue lines represent changes in the output compared to the initial "cold" test.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/0sd2lrxy66dosus/DIYSG%20HTM-12%20v1_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/junqsda6optfynz/DIYSG%20VOLT-6_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/vjczul4bi0boo0f/DIYSG%20HTM-12%20v1_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/0uydgz0ain8vq3j/DIYSG%20VOLT-6_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-
 
 <br><br>
 
+### Placement Consideration (Effect of On-Wall Installation)
+
+Many people seem to be using this speaker as an on-wall speaker for surround use.  Therefore, the anechoic data - data taken in free space - is not fully representative of the Volt-6's on-wall performance.  Therefore, I placed the speaker outside on the ground, facing up.  I placed the microphone on a boom and positioned the microphone 1 meter above the speaker as illustrated in the photograph below.
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/oy7hc7k9jliklt3/193112666_10101282020004213_166825222651126699_n.jpg?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+I have provided an overlay of the SPINORAMA's on-axis response (black) vs the "Wall Mount" measurement (blue) below.  This is intended to be a caution that speakers which are not specifically designed for on-wall use will result in fairly significant comb filtering so be advised of this.
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/p8xkxygs3syymmc/DIYSG%20Volt-6%20%28Sloped%20Baffle%29%20--%20Anechoic%20On-Axis%20vs%20Ground%20Plane%20Wall%20Mount%20Emulation.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
 
 <br>
 <br>
-
 
 ## Parting / Random Thoughts
 
-If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
-
-* Subjective listening was mainly in the farfield at 3-4 meters in an open floorplan living room.  Subjective listening was conducted at 80-95dB at these distances and occasionally higher.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.
-* Toy Soldiers - Resonant in the 150Hz region, her voice pops through the mix ~1kHz.
-* Enjoy the Silence - Missing attack, vocals are a bit "behind" the mix; likely something in the 3kHz area.
-* Higher Love - Missing that strong snare attack that I really like about this track.
-* Soundstage drifts in width; i.e., "Magic" by The Cars has a mouth sound that should be on the left outside but instead is at two distinct spaces on the left; how does this match with the radiation pattern?  Is the radiation uniform?  Sounds varied.  Looking back at the radiation pattern, this makes sense as you can see the radiation tends to shift in angle.  For example, at 300Hz the radiation pattern is about 20° wider than at 500Hz before getting wider again at 800Hz to 1.3kHz and then narrowing another 20° above this and narrowing up until approximately 9kHz.  This varying radiation pattern in my incredibly subjective opinion causes the soundstage to not remain consistent, meaning that if an instrument or vocal is at one place in the soundstage for the fundamental, it will be at a different location for the harmonic(s).  YMMV.
-* Sensitivity averages around 94dB @ 2.83v/1m.
-* Obviously with an f3 of 78Hz and f10 of 53Hz, these speakers do need a subwoofer.  Without the addition of a subwoofer you will find lack of fullness to tracks with low midbass (50-60Hz kickdrums, for example).
-* Distortion and compression are incredibly low.  In fact, the lowest I've measured to date, besting the $3000/pair Klipsch Heresy IV.
-* No problem getting very, *very* loud in my large living room.
-* Voices don't sound natural; FR is quite varied and some intelligibility is lost due to the 3kHz suck out.
-
-While the on-axis response is not linear, the off-axis response trends very well with the on-axis and the directivity indeces are quite linear - outside of a couple areas.  This means that this speaker should do quite well once equalized to flat (or, at least, more linear).
-
+* Measured sensitivity averages approximately 88.4dB @ 1m.
+* I'm really surprised at the Dynamic Range and Compression test results.  There is a significant amount of distortion below 100Hz which causes enhancement (solidified by simply looking at the harmonic distortion graphic).  Above 100Hz through about 1kHz there is a good bit of compression.  That all said, the long-term compression testing doesn't look as bad.  Just realize that the difference in frequency response is going to be quite different as you increase volume.  Using an appropriate highpass filter (I'd estimate 100Hz or greater) will help this but not solve the issues.
+* The response linearity is pretty poor.  If I am being honest, this just seems like a sub-par coaxial driver with poor tweeter/mid integration.  I say that because the 6kHz region shows some sort of issue where the off-axis response is even higher in SPL than the on-axis response; something I typically see in waveguides and this is way above the crossover point.  There are also pretty significant combing effects above this, especially above 10kHz.
+* There is a resonance around 800Hz (evidenced by the impedance blip, the "stacking" of frequency response magnitude and the increased compression, the latter of which is typically a sign of port resonance).
+* Remember what I said about wall-mounting this speaker.  Ideally, you would flush mount the speaker in the wall or in the ceiling (as the designer suggests).  This would help the bass rolloff by providing an "infite baffle", reinforcing the lower frequency.
+* Note the vertical axis measurement doesn't appear to be perfectly aligned with the acoustic center of the speaker.  This isn't for a lack of trying.  I re-measred the speaker a few times, adjusting the reference point each time.  However, given the angled nature of the baffle, it's a little tricky and this is as close to "perfect" as I could get.
+* The vent tuning frequency seems to be off judging by the impedance sweep.
 
 <br>
 <br>
-<br>
+
 
 # Support / Donate
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button below. Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site’s server space and bandwidth. All of which I otherwise pay out of pocket. And, truthfully speaking, help me buy lunch and maybe take my wife and kid out for dinner now and again in an effort to “apologize” for spending so much time in the garage testing all these speakers.  So, if you can help chip in a few bucks, know that it is very much appreciated.  Alternatively, you can use the affiliate link on my site if you want to purchase these.
+If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button below. Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site’s server space and bandwidth. All of which I pay out of pocket. So, if you can help chip in a few bucks, know that it is very much appreciated and that the support means a lot to me.
 
 Alternatively, if you have a need to purchase anything through Amazon, please consider using my Amazon affiliate link below.  It yields me a small commission at no additional cost to you and allows me to keep providing you with sweet data to make educated purchase decisions.
 
