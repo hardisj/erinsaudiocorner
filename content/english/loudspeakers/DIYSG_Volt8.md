@@ -1,10 +1,10 @@
 ---
-title: "DIYSG Volt-6 Speaker Review"
-date: 2021-06-01
+title: "DIYSG Volt-8 (v2) Speaker Review"
+date: 2021-06-02
 draft: false
-image: "https://dl.dropboxusercontent.com/s/q7gnr5vany6v2a7/DSC01956.JPG?dl=0"
-description : "DIYSG Volt-6 Speaker Review"
-Tags: ["DIYSG", "HTM-12", "Volt-6", "Klippel", "Review", "Speaker", "loudspeaker", "diysoundgroup"]
+image: "https://dl.dropboxusercontent.com/s/hhwrgc69jrrpg2t/DSC01960.JPG?dl=0"
+description : "DIYSG Volt-8 (v2) Speaker Review"
+Tags: ["DIYSG", "HTM-12", "Volt-8", "Klippel", "Review", "Speaker", "loudspeaker", "diysoundgroup"]
 ---
 
 
@@ -26,9 +26,9 @@ For a primer on what the data means, please watch my series of videos where I pr
 
 ## Information and Photos
 
-The [DIY Sound Group Volt-6](https://www.diysoundgroup.com/volt-6-v2.html) is a DIY design from Matt Grant which is available in kit form from DIYSG.  Here are some notes from the product page:
-> The Volt-6 has a custom made 6.5" coaxial using the same magnet and motor assembly as the Volt-8 and Volt-10.  It's not the prettiest woofer out there but if you need a small home theater speaker capable of high output and power handling, this is a good choice. Impressive X-max with a light weight cone gives this speaker a smooth sounding midrange even when played at high levels. The Celestion CDX1-1010 compression driver (tweeter) is installed on the back and fires through a small waveguide in the center of the woofer giving you point source sound and great off axis response.
-The crossover was designed to give an even response that not only excels for surround sound speaker use, but also for great front speaker performance but really should be paired with subwoofers that can handle the lower bass. The Volt-6 does quite well in small ported enclosures between .3 and .5cuft when used with a subwoofer. The Atmos version is a small sealed enclosure designed to play down to 115hz, which is perfect for Atmos use. You can use the Volt-6 in your ceiling without an enclosure for Atmos use if needed. For surround sound or mains, you should build the ported models.
+The [DIY Sound Group Volt-8 v2](https://www.diysoundgroup.com/volt-8-v2.html) is a DIY design from Matt Grant which is available in kit form from DIYSG.  Here are some notes from the product page:
+> The Volt-8 uses a custom made 8" coaxial for high output and impressive power handling.  The new surround and spider improves the X-max rating while the light weight cone gives this speaker a smooth sounding midrange even when played at high levels.  The crossover was designed to give an even response that not only excels for surround speaker use, but also for great front speaker performance. The custom compression driver (tweeter) made by Celestion is installed on the back and fires through a small waveguide in the center of the woofer giving you point source sound and great off axis response. I'll be posting more information about the custom driver soon.  It's based off the CDX1-1446.
+The crossover was designed to give an even response that not only excels for surround sound speaker use, but also for great front speaker performance. The Volt-8 does quite well in small ported enclosures between .5 and .7cuft when used with a subwoofer. The Atmos version is a small sealed enclosure designed to play down to 100hz, which is great for Atmos use. You can use them mounted in your ceiling without an enclosure for Atmos use if needed.  For surround sound or mains, you should build the ported models.
 
 
 These speakers were loaned to me by their owner, who built them from the kit.
@@ -36,7 +36,7 @@ These speakers were loaned to me by their owner, who built them from the kit.
 <br>
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/fi99i614s3sa0p1/DSC01957.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9nkt1kbdwmcmafi/DSC01958.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -53,7 +53,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-The baffle is sloped at about a 76° angle which made it a bit tricky to measure but after some reconfiguring in the Klippel software, the reference axis was at the tweeter, at the same angle of the baffle.
+The reference axis was at the tweeter.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -79,7 +79,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ta58wgchbx7v1vl/CEA2034%20--%20DIYSG%20Volt-6%20%28Sloped%20Baffle%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8wgvgv27at8x2c8/CEA2034%20--%20DIYSG%20Volt-8.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -101,7 +101,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/7aw293f89ybrrla/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/d1vclqopbbf0j5t/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -114,31 +114,31 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/9mhfwzwtmrn05n6/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/pam9ldm7jxlyt9n/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/qnx2q73gpfo8r8f/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/tjnoc69gxgh2x8n/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/9d9hl5proxqdb22/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/d7golkwkd96ms2g/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/z9aktca634l2ebm/DIYSG%20VOLT-6_Horizontal_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/e6tq5j4wuxra2ao/DIYSG%20Volt-8_Horizontal_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/kiu05e5j84sdeno/DIYSG%20VOLT-6%20Beamwidth_Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/pq9p9nadoytok19/DIYSG%20Volt-8%20Beamwidth_Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/po5u0g8gmwkebxq/DIYSG%20VOLT-6_Vertical_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/oj2yoe3kwowq2wm/DIYSG%20Volt-8_Vertical_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/br4k0560kt3raky/DIYSG%20VOLT-6%20Beamwidth_Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9n5tp45spnapj05/DIYSG%20Volt-8%20Beamwidth_Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -159,7 +159,7 @@ A note from Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculatin
 <br>
 >Just a note of caution that the EPDR derivation is based on a class-B output stage so it's valid for typical class-AB amps but certainly not for class-A and probably has only marginal relevance for class-D amps (would love to hear from a class-D expert on this topic).
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/2ad3xu5jjobiafo/DIYSG%20VOLT-6_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9w09q0cjyrbqs7c/DIYSG%20Volt-8_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -167,7 +167,7 @@ A note from Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculatin
 ### On-Axis Response Linearity
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/8f5e2lcd8hrdw4e/DIYSG%20VOLT-6%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9v3f1md8nga8zv7/DIYSG%20Volt-8%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -179,23 +179,23 @@ These plots are generated from exporting the Klippel data to text files.  I then
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/ka251p3g0kgeepo/DIYSG%20VOLT-6_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/p4i10mi7il6olns/DIYSG%20Volt-8_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/fudu7gan9si5d5p/DIYSG%20VOLT-6_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/bkww72c6uwykoxg/DIYSG%20Volt-8_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/99fzug6zlhn4jxh/DIYSG%20Volt-6%20Hamonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/npo6uotfg3iwng5/DIYSG%20Volt-8%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/3kceo5s0k5ng1pw/DIYSG%20Volt-6%20Hamonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/1levjst4xw4pmrv/DIYSG%20Volt-8%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -214,7 +214,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/1geikon9dquc8hi/DIYSG%20VOLT-6_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/1hvb0ahbt4mj9ra/DIYSG%20Volt-8_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -236,38 +236,23 @@ The tests are conducted in this fashion:
 The red and blue lines represent changes in the output compared to the initial "cold" test.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/junqsda6optfynz/DIYSG%20VOLT-6_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/6j2nhu2wz5qaud9/DIYSG%20Volt-8_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/0uydgz0ain8vq3j/DIYSG%20VOLT-6_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3353traq2oqn5h1/DIYSG%20Volt-8_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 <br><br>
 
-### Placement Consideration (Effect of On-Wall Installation)
-
-Many people seem to be using this speaker as an on-wall speaker for surround use.  Therefore, the anechoic data - data taken in free space - is not fully representative of the Volt-6's on-wall performance.  Therefore, I placed the speaker outside on the ground, facing up.  I placed the microphone on a boom and positioned the microphone 1 meter above the speaker as illustrated in the photograph below.
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/oy7hc7k9jliklt3/193112666_10101282020004213_166825222651126699_n.jpg?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-I have provided an overlay of the SPINORAMA's on-axis response (black) vs the "Wall Mount" measurement (blue) below.  This is intended to be a caution that speakers which are not specifically designed for on-wall use will result in fairly significant comb filtering so be advised of this.
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/p8xkxygs3syymmc/DIYSG%20Volt-6%20%28Sloped%20Baffle%29%20--%20Anechoic%20On-Axis%20vs%20Ground%20Plane%20Wall%20Mount%20Emulation.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-
-<br>
-<br>
 
 ## Parting / Random Thoughts
 
-* Measured sensitivity averages approximately 88.4dB @ 1m.
-* I'm really surprised at the Dynamic Range and Compression test results.  There is a significant amount of distortion below 100Hz which causes enhancement (solidified by simply looking at the harmonic distortion graphic).  Above 100Hz through about 1kHz there is a good bit of compression.  That all said, the long-term compression testing doesn't look as bad.  Just realize that the difference in frequency response is going to be quite different as you increase volume.  Using an appropriate highpass filter (I'd estimate 100Hz or greater) will help this but not solve the issues.
-* The response linearity is pretty poor.  If I am being honest, this just seems like a sub-par coaxial driver with poor tweeter/mid integration.  I say that because the 6kHz region shows some sort of issue where the off-axis response is even higher in SPL than the on-axis response; something I typically see in waveguides and this is way above the crossover point.  There are also pretty significant combing effects above this, especially above 10kHz.
-* There is a resonance around 800Hz (evidenced by the impedance blip, the "stacking" of frequency response magnitude and the increased compression, the latter of which is typically a sign of port resonance).
-* Remember what I said about wall-mounting this speaker.  Ideally, you would flush mount the speaker in the wall or in the ceiling (as the designer suggests).  This would help the bass rolloff by providing an "infinite baffle", reinforcing the lower frequencies.  Though, baffle step would need to be properly accounted for.
-* Note the vertical axis measurement doesn't appear to be perfectly aligned with the acoustic center of the speaker.  This isn't for a lack of trying.  I re-measured the speaker a few times, adjusting the reference point each time.  Judging by the contour data, each measurement was either just above or just below the dead-center vertical alignment which makes me think that one of those angles I used was correct; there is just a good deal of comb filtering going on causing the high frequency measurements >10kHz to look out of sorts.  What I have provided here is the best guesstimate at what is the correct angle for the angle of the baffle.
-* The vent tuning frequency seems to be off judging by the impedance sweep.
-
+* Response linearity is quite varied which indicates a sub-optimal coaxial design.  Similar performance can be seen in the DIYSG Volt-6 I also reviewed ([link](https://www.erinsaudiocorner.com/loudspeakers/diysg_volt6/)).  This is my quote from that review: *The response linearity is pretty poor.  If I am being honest, this just seems like a sub-par coaxial driver with poor tweeter/mid integration.  I say that because the 6kHz region shows some sort of issue where the off-axis response is even higher in SPL than the on-axis response; something I typically see in waveguides and this is way above the crossover point.  There are also pretty significant combing effects above this, especially above 10kHz.*
+* Mean SPL is 89.4dB @ 2.83v/1m.
+* Impedance sweep indicates enclosure tuning of approximately 65Hz and shows some signs of resonance (source unknown) at approximately 500Hz and again at 700Hz.
+* Good distortion performance.
+* Poor dynamic range below about 150Hz where both compression and enhancement trade off below 100Hz.
+* Good long term compression with practically no change as listening duration continues (though, remember, this is not the same as instantaneous compression (dynamic range), mentioned above).
 <br>
 <br>
 
