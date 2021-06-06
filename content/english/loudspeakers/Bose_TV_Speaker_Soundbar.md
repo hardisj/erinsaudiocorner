@@ -14,6 +14,8 @@ Tags: ["Bose", "Soundbar", "TV Speaker Soundbar", "Klippel", "Review", "Speaker"
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
+A video review is coming soon and this will be updated then.
+
 For a primer on what the data means, please watch my series of videos where I provide in-depth discussion and examples of how to read the graphics presented hereon.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLnIxFR_ey0b37Ex4KV2mBz-kYB7QLffR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -203,6 +205,9 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/8kcq7yhj2o500yi/Bose%20TV%20Speaker%20Soundbar_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
+And since there is a whole lot of limiting (or, otherwise, altering of the output volume), here is the full window:
+<img align="left" src="https://dl.dropboxusercontent.com/s/zd96szu3b88xyy9/Bose%20TV%20Speaker%20Soundbar_Compression_full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
 <br>
 
 <br>
@@ -235,7 +240,7 @@ The red and blue lines represent changes in the output compared to the initial "
 
 This soundbar features a bass level adjustment.  I have provided the relative changes below, referenced to the default (normal) bass adjustment.
 
-Note: Mesaurements are not anechoic; data is intended to be analyzed for differences in settings.
+Note: Measurements are not anechoic; data is intended to be analyzed for differences in settings.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/dmhdep4uh2z5rcp/Bose%20TV%20Speaker%20Soundbar%20--%20Bass%20Adjustment%20Settings.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
@@ -246,7 +251,7 @@ Note: Mesaurements are not anechoic; data is intended to be analyzed for differe
 
 This soundbar features a "dialogue" option to enhance speech clarity.  I have provided a graphic below of the difference with this setting enabled vs disabled (default state).
 
-Note: Mesaurements are not anechoic; data is intended to be analyzed for differences in settings.
+Note: Measurements are not anechoic; data is intended to be analyzed for differences in settings.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/7rop6q150g5mphx/Bose%20TV%20Speaker%20Soundbar%20--%20Dialogue%20Settings.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
@@ -260,7 +265,7 @@ Note: Mesaurements are not anechoic; data is intended to be analyzed for differe
 * I'm surprised the horizontal radiation is so diffuse.  I'd have expected this to behave much more like a true point-source given the close center-to-center spacing of the full-range drivers and the tweeter.  There is a lot of cancellation in the 1300Hz region and I can't imagine this is due to the tweeter (one would expect a tweeter of this size to be crossed much higher; especially since the side drivers are assumedly truly full-range or at least extend to the HF).  Weird stuff.
 * There is a significant level of limiting here.  It registers off the chart, literally, from 76dB up to 86dB+.  So, there is no doubt at all that this speaker incorporates some sort of loudness contour or something of the sort.
 * Dialogue mode makes a drastic effect but surprisingly it really only seems to just increase the level almost overall rather than enhancing a specific region (for example, a boost from 200-800Hz or 2-4kHz for detail).
-* Bass adjustment on this thing is also counterituitive.  In the max bass setting the difference between it and default is only up a dB or two below 100Hz.  Above this frequency, however, both bass adjustment settings (max and min) are actually *lower* than the default.  Odd.
+* Bass adjustment on this thing is also counterintuitive.  In the max bass setting the difference between it and default is only up a dB or two below 100Hz.  Above this frequency, however, both bass adjustment settings (max and min) are actually *lower* than the default.  Odd.
 
 Is this a good alternative to TV speakers?  Yea, I think so.  Especially if you enable the dialogue function and aren't really concerned with true full-range response (i.e., no bass).  But for $250?  I just don't know.  Stay tuned for more TV soundbar testing so we can narrow down the selection pool.
 
@@ -275,6 +280,7 @@ If you like what you see here and want to help me keep it going, please consider
 
 Alternatively, if you would like to purchase this speaker, please consider doing so via [this B&H Photo/Video/Audio link](https://bhpho.to/3vVbOY1).
 
+<iframe width="180" scrolling="no" height="150" frameborder="0" style="border:none;" border="0" src="https://mer54715.datafeedfile.com/widget/aff_widget_prdt_generate-2.0.php?aff_num=28138&aff_net=1&size=180x150&mode=s&bucket_num=10438&link_target=y&sid=ErinsAudioCorner" marginheight="0" marginwidth="0"></iframe>
 
 
 <br>
