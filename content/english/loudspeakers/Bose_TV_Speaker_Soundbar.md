@@ -53,7 +53,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-Measurements were referenced to the center (tweeter location).  Approximate SPL of test is 80dB.  I usually test closer to 80dB but given the nature of this speaker and the uncertainty as to its linearity (to be addressed in testing provided below) I chose to not push the speaker too hard for the frequency response testing.  Higher output testing is provided, however, in the distortion and compression tests.
+Measurements were referenced to the center (tweeter location).  Approximate SPL of test is 80dB.  I usually test powered speakers closer to 86dB for SPIN data but given the nature of this speaker and the uncertainty as to its linearity (to be addressed in testing provided below) I chose to not push the speaker too hard for the frequency response testing.  Higher output testing is provided, however, in the distortion and compression tests.
 
 I DIY'd a standoff to place the soundbar upon.  The reason for this is simply because the NFS platform is wider than the depth of the Bose soundbar and I did not want the platform to create comb filtering and alter the true (anechoic) performance of the soundbar.
 
