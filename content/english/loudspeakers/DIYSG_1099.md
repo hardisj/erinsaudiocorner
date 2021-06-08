@@ -293,7 +293,7 @@ At any rate: these speakers get loud and are a blast to listen to.  Would I cons
 
 # Support / Donate
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button below. Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site’s server space and bandwidth. All of which I pay out of pocket. So, if you can help chip in a few bucks, know that it is very much appreciated and that the support means a lot to me.
+If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button below. Donations help me pay for new items to test, materials to build rigs to measure, a chicken sandwich, server space, etc. All of which I pay out of pocket. So, if you can help chip in a few bucks, know that it is very much appreciated and that the support means a lot to me.
 
 Alternatively, if you have a need to purchase anything through Amazon, please consider using my Amazon affiliate link below.  It yields me a small commission at no additional cost to you and allows me to keep providing you with sweet data to make educated purchase decisions.
 
