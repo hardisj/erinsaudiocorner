@@ -32,7 +32,7 @@ The [DIY Sound Group 1099](https://www.diysoundgroup.com/home-theater-speaker-ki
 >The Elusive 1099 has gained a cult following since it hit the DIY scene many years ago.  '1099' refers to the 10" woofers and the high sensitivity of 99db (2.83V/1m).  Keeping parts in stock for this speaker was difficult, which is how it received the 'Elusive' name. And custom 10" black coned woofers for this speaker had to be manufactured by Eminence and the Celestion midranges are special ordered from the UK.  Most people wanted the front baffles without roundovers, so I'm no longer getting them made with roundovers and they all have square edges.
 
 
-These speakers were loaned to me by their owner, who built them from the kit.
+These speakers were loaned to me by their owner, who built them from the kit.  Note, speakers pictured are on stands built and loaned also by the owner.
 
 <br>
 
