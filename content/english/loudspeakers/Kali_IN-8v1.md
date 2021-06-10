@@ -1,21 +1,35 @@
 ---
 title: "Kali Audio IN-8v1 3-Way Studio Monitor Review"
-date: 2021-06-09
+date: 2021-06-01
 draft: false
-image: "https://dl.dropboxusercontent.com/s/7bnau9ptey1tuf1/DSC01993.JPG?dl=0"
+image: "https://dl.dropboxusercontent.com/s/3qa94wj31dfkgua/DSC01993.JPG?dl=0"
 description : "Kali Audio IN-8v1 3-Way Studio Monitor Review"
 Tags: ["Kali", "IN-8v1", "Klippel", "Review", "Speaker", "loudspeaker", "studio monitor"]
 ---
 
+<script type="text/javascript">
+amzn_assoc_tracking_id = "medlemusin-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B07ZHN654L";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "0e1e6426dfed6e5a3b41b651553833b6";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 
+<br>
+<br>
 
 ## Foreword / YouTube Video Review
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
-However, for those who want more - a detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc.) - please watch the below video where I go more in-depth.
 
-Note: Video Coming Soon
+For a primer on what the data means, please watch my series of videos where I provide in-depth discussion and examples of how to read the graphics presented hereon.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLnIxFR_ey0b37Ex4KV2mBz-kYB7QLffR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -27,27 +41,20 @@ Note: Video Coming Soon
 
 <br>
 
-The [Kali IN-8v1](https://www.kaliaudio.com/independence#Specs-Section-Independence) is the "second wave" of Kali's IN-8 powered monitor.  Similar in nature to the [Kali IN-5](https://www.erinsaudiocorner.com/loudspeakers/kali_in-5/) I tested, the IN-8v1 is a powered 3-way Studio Monitor featuring a 4-inch coaxial midrange/tweeter however, in this case, features an 8-inch midwoofer in lieu of a 5-inch.  According to the manufacturer, the upgrade from the "first wave" IN-8 are:
->The new 2nd Wave in IN-8 and IN-5 features the latest technology developed by Kali. A new amplifier platform realizes a 12 dB reduction in self noise vs. the original IN-8, lower distortion, higher output, and better reliability.
-
+The Kali IN-8v1 is the first generation powered 3-way Studio Monitor featuring a 4-inch coaxial midrange/tweeter however, in this case, features an 8-inch midwoofer in lieu of a 5-inch.
 
 MSRP for the single speaker is approximately $399 USD and $800 USD for a pair.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/k0xlv47ywqncyqh/DSC01987.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/6izf8iu6yhlrbks/DSC01987.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
 
-
-With a coaxial (or concentric) drive unit such as the one used in this speaker, the tweeter should be terminated in a way that it meets the midrange cone very smoothly.  The reason for this is because the midrange is the waveguide for the tweeter.  Any discontinuity between the tweeter edge and the inner edge of the midrange creates diffraction.  As you can see in the below photo, the voice coil (or so it appears) protrudes beyond the midrange cone and beyond the tweeter's crossing point with the midrange center.  I measured this to be about 1 mm.  The audible detriment due to this is something I can't speak on.  I can just say it is not "ideal" to have such a discontinuity.  It would take having the ideal profile/termination design measured and listening tests conducted.  The distance from the center of the tweeter to this edge is about 20mm which puts the first reflection at around 8kHz, which also coincides with the on-axis response dip.  This could be coincidence (no pun intended).  I don't want to harp on this too much but I do think this is worth noting.
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/lydn2nhyah2z38v/DSC01235.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
 
 The back features a bank of dip switches for boundary settings (discussed later) and basic level adjustments.  There is a volume knob and (3) input options: XLR, TRS and RCA phono.
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/u5m9d5199fjihrk/DSC01995.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/7540izbxjykkekf/DSC01995.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -65,7 +72,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 
 A picture of the setup in my garage:
-<img align="left" src="https://dl.dropboxusercontent.com/s/7j2pmjgte8he68o/DSC01991.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ysly4r8gtip591i/DSC01991.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 The reference plane in this test is at the tweeter.  Volume set to '0' with XLR input.  The dip switches were all set to '0' for the free field setting.
@@ -97,7 +104,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/nyjzzmzs4r5c1q5/CEA2034%20--%20Kali%20Audio%20IN-8v1.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/7v2hx5rw448d9yf/CEA2034%20--%20Kali%20Audio%20IN-8v1.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -116,7 +123,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/gyfilftgpihd01z/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8rbti8triloa0fe/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -129,31 +136,31 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/55ron1jhpkatall/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/avl5x0hwm2sc7a4/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/jswlioe3nsvv7ti/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/6jfznrqil8vdn50/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/6u22adkuxi98u0x/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/26cdo6ectkj7415/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ftd2vdse8nztrz3/Kali%20IN-8v1_Horizontal_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/zc07ec9377yrcme/Kali%20IN-8v1_Horizontal_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/16fc4hwusfjmxlj/Kali%20IN-8v1%20Beamwidth_Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/6itfsgqyx1r1e6b/Kali%20IN-8v1%20Beamwidth_Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/lusuywp5xfz6gau/Kali%20IN-8v1_Vertical_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/et8q33u3jb0rrob/Kali%20IN-8v1_Vertical_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ufvxvohc7bm22w5/Kali%20IN-8v1%20Beamwidth_Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/x2kyt4ve451y83t/Kali%20IN-8v1%20Beamwidth_Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -166,7 +173,7 @@ Vertical Contour Plot (normalized):
 
 ### On-Axis Response Linearity
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/qws0au9wezv9xao/Kali%20IN-8v1%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/41sl5wl950wtyvj/Kali%20IN-8v1%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -178,23 +185,23 @@ These plots are generated from exporting the Klippel data to text files.  I then
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/hdba00togsa1q23/Kali%20IN-8v1_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9jrewxm7i0njyxt/Kali%20IN-8v1_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/3rxcth5ybqkvl5q/Kali%20IN-8v1_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https:https://dl.dropboxusercontent.com/s/x2kyt4ve451y83t/Kali%20IN-8v1%20Beamwidth_Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/gfrempyrbzmnxo1/Kali%20Audio%20IN-8v1%20--%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8epm3shbvkjymbn/Kali%20Audio%20IN-8v1%20--%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/z44gdznuvtdhysv/Kali%20Audio%20IN-8v1%20--%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/r273j9x1iampnpg/Kali%20Audio%20IN-8v1%20--%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -212,7 +219,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/prvn5tpdub3kafy/Kali%20IN-8v1_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/xj1odnzb74brop3/Kali%20IN-8v1_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -236,32 +243,11 @@ The tests are conducted in this fashion:
 The red and blue lines represent changes in the output compared to the initial "cold" test.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/gzlcmjxx3f7n3qk/Kali%20IN-8v1_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/10le70aw24icsbq/Kali%20IN-8v1_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/kr9z1ofdkdj8xnl/Kali%20IN-8v1_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/uem07awb7qryes9/Kali%20IN-8v1_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
-
-
-### "Midrange as a waveguide" High Frequency Effect
-<br>
-
-The following is from my testing of the Kali IN-5 which (presumably) uses the same concentric driver.  At any rate, the purpose/point of this section is the same.  In the photos section I mentioned the purpose of the midrange cone is to act as a waveguide for the tweeter.  I performed [a test in early 2013 with Kef's Q100 Uni-Q drive unit](http://localhost:2897/driveunits/kef-q100-drive-unit/) to see just what kind of (objective) impact the position of the midrange has on the high frequency response. To test this back then I used a 9v battery and connected it to the terminals of the midrange to "fix" the position in and out.  I then measured the response of the tweeter and compared the three positions (in/rest/out).  I have recreated that test here, shown below.  Using a 9v battery again, I connected the leads of the midrange cone (after disassembling the speaker).  The cone's movement was *approximately* ±1 mm.  I have provided a gif below showing the movement range.
-
-
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/0tow730q69rjab1/midrange-excursion.gif?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-As you can see in the below graphic, the position of the cone does influence the high frequency response. Depending on frequency, the effect is as much as 2dB.
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/2cl7j58tcvbhe81/Kali%20IN-8v1%20Midrange%20as%20a%20Waveguide%20Testing.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-Is this effect audible?  Well, two things in my *personal* opinion:
-1) Cone travel speed back and forth is incredibly fast.  Are you really going to hear this "distortion" when you're talking about frequencies above 4kHz?  For point of reference, that's 0.25 milliseconds.
-2) You'd have to really be pushing the driver to get it to move this much.  Using calipers, I measured the effective diameter of the midrange to be about 100 mm (3.93 inches) and the area taken up by the tweeter assembly to be around 40 mm (1.57 inches).  Taking the area of the former and subtracting the area of the latter nets me an area of about 10.20 inches² which results in a diameter of 3.60 inches.  Using [this website](http://www.baudline.com/erik/bass/xmaxer.html), I calculate the dBSPL @ 1m of a 3.60 inch cone diameter at 280Hz to be 1mm.  So, assuming all my math and logic is correct, you would have to be playing this speaker at 100dB @ 1m to move the midrange cone 1mm at 280Hz (the crossover point; my target here).  From my compression testing, I already know the output is reduced somewhere in between 96dB and 102dB due to the built-in limiter.  Odds are, then, the midrange is not even moving that much because the output level is limited.
-
-Now, to be fair, this is purely a "fun", "FYI" test and I cannot attest to the audibility of this "high frequency modulation" as it has been termed.  However, from a scientific standpoint, I think it illustrates the purpose of the midrange in such a design.
 
 
 <br><br>
@@ -297,17 +283,12 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 * Goo Goo Dolls' *Name* sounds a bit sibilant.  Looking at the data, it is likely this is attributed to the peak around 4-5kHz as this stands out by about 2-3dB above the mean in this region.
 * Vocals sound a bit too chesty.  Per my listening notes, I ballparked the area to be around 200-300Hz.  The only evidence I can see of this in the data is that the response shows a trough on both sides of 250Hz.  Maybe this is what I was hearing.  Maybe not.
 * *December* by Collective Soul has a great drum line and, on these speakers, it sounded quite good.  The bass/midbass is definitely a showcase element of these speakers.
-* Hiss: When sitting in the nearfield, approximately 1 meter away, I didn't experience any issues with noise floor in my living room.  The noise is noticeable when within about one foot of the tweeter with the gain (on the speaker itself) at +6dB and also at 0dB.
-* Heat.  I recently tested the Focal Twin6 Be and noticed that if the speaker was left on for a while - maybe an hour or so - the amplifier would get quite hot.  Not scalding.  But definitely warm to the touch.  Leaving the IN-8v1 speakers on for hours at a time resulted in no heat at the amp.  Not sure how important this is to you but I thought I'd mention it.
+* Hiss: The noise is noticeable when within about one foot of the tweeter with the gain (on the speaker itself) at +6dB and also at 0dB.  You need to be sitting about 1 meter away for the hiss to completely be gone.
 * As for SPL levels, these are marketed as a nearfield speaker.  My data shows the limiter kicking in somewhere above 96dB @ 1m.  I had the output up to about 100dB at 1 meter to stress test with some Linkin Park and there were no mechanical issues that I could hear.  I'd say that you could probably use these in the midfield in the lower 90's pretty well but above that would be pushing it.  Realistically, you shouldn't be mixing music (or listening) above the 85dB range for long periods anyway.  I do not know that I would recommend these for farfield movie-watching but for music at reasonable volumes, you should be fine.
 
-Overall, I really liked these speakers especially for the price.  The large dip on-axis centered around 10kHz concerns me but luckily turning the speaker slightly off-axis remedies this and in a typical room setting, I can't say that listening on-axis is even ideal with these speakers.  I recommend toeing them by about 5-10° either inward or outward, depending on how much sidewall interaction or width you want.  The directivity is quite good until above about 4kHz where the pattern changes and gets a bit wider in radiation before the on-axis dip at 10kHz.
+Overall, I like these speakers, especially for the price but they have room to improve.  The large dip on-axis centered around 10kHz concerns me but luckily turning the speaker slightly off-axis remedies this and in a typical room setting, I can't say that listening on-axis is even ideal with these speakers.  I recommend toeing them by about 5-10° either inward or outward, depending on how much sidewall interaction or width you want.  The directivity is quite good until above about 4kHz where the pattern changes and gets a bit wider in radiation before the on-axis dip at 10kHz.
 
 For reference, are these better than the JBL 708P I recently tested?  No.  But the 708p is 4.5x the cost per pair at MSRP (note, though, the 708p does come with a lot of useful features and EQ bands).
-
-Should you get this over the IN-5?  With the increased bass capability and dynamic range at only $100 more, if you have the space, yes.  If not, you're not missing out on a whole lot.
-
-As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
 
 
 <br>
@@ -318,9 +299,20 @@ As stated in the Foreword, this written review is purposely a cliff's notes vers
 
 If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is very much appreciated.
 
-Alternatively, if you have a need to purchase anything through Amazon, please consider using my Amazon affiliate link below.  It yields me a small commission at no additional cost to you and allows me to keep providing you with some cool data to make educated purchase decisions!
+Alternatively, if you'd like to purchase these speakers, please consider using my Amazon affiliate link below.  It yields me a small commission at no additional cost to you and allows me to keep providing you with some cool data to make educated purchase decisions!
 
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ez&f=ifr&linkID=3d792046ed9e115abc4ed09e924089de&t=medlemusin-20&tracking_id=medlemusin-20" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "medlemusin-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B07ZHN654L";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "0e1e6426dfed6e5a3b41b651553833b6";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 
 <br>
