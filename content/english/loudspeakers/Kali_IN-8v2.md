@@ -1,10 +1,10 @@
 ---
-title: "Kali Audio IN-8v2 3-Way Studio Monitor Review"
+title: "Kali Audio IN-8v1 3-Way Studio Monitor Review"
 date: 2021-06-09
 draft: false
 image: "https://dl.dropboxusercontent.com/s/7bnau9ptey1tuf1/DSC01993.JPG?dl=0"
-description : "Kali Audio IN-8v2 3-Way Studio Monitor Review"
-Tags: ["Kali", "IN-8v2", "Klippel", "Review", "Speaker", "loudspeaker", "studio monitor"]
+description : "Kali Audio IN-8v1 3-Way Studio Monitor Review"
+Tags: ["Kali", "IN-8v1", "Klippel", "Review", "Speaker", "loudspeaker", "studio monitor"]
 ---
 
 
@@ -27,7 +27,7 @@ Note: Video Coming Soon
 
 <br>
 
-The [Kali IN-8v2](https://www.kaliaudio.com/independence#Specs-Section-Independence) is the "second wave" of Kali's IN-8 powered monitor.  Similar in nature to the [Kali IN-5](https://www.erinsaudiocorner.com/loudspeakers/kali_in-5/) I tested, the IN-8v2 is a powered 3-way Studio Monitor featuring a 4-inch coaxial midrange/tweeter however, in this case, features an 8-inch midwoofer in lieu of a 5-inch.  According to the manufacturer, the upgrade from the "first wave" IN-8 are:
+The [Kali IN-8v1](https://www.kaliaudio.com/independence#Specs-Section-Independence) is the "second wave" of Kali's IN-8 powered monitor.  Similar in nature to the [Kali IN-5](https://www.erinsaudiocorner.com/loudspeakers/kali_in-5/) I tested, the IN-8v1 is a powered 3-way Studio Monitor featuring a 4-inch coaxial midrange/tweeter however, in this case, features an 8-inch midwoofer in lieu of a 5-inch.  According to the manufacturer, the upgrade from the "first wave" IN-8 are:
 >The new 2nd Wave in IN-8 and IN-5 features the latest technology developed by Kali. A new amplifier platform realizes a 12 dB reduction in self noise vs. the original IN-8, lower distortion, higher output, and better reliability.
 
 
@@ -97,7 +97,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/nyjzzmzs4r5c1q5/CEA2034%20--%20Kali%20Audio%20IN-8v2.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/nyjzzmzs4r5c1q5/CEA2034%20--%20Kali%20Audio%20IN-8v1.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -141,19 +141,19 @@ Vertical Frequency Response (0° to ±40°):
 <br>
 
 Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ftd2vdse8nztrz3/Kali%20IN-8v2_Horizontal_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ftd2vdse8nztrz3/Kali%20IN-8v1_Horizontal_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/16fc4hwusfjmxlj/Kali%20IN-8v2%20Beamwidth_Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/16fc4hwusfjmxlj/Kali%20IN-8v1%20Beamwidth_Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/lusuywp5xfz6gau/Kali%20IN-8v2_Vertical_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/lusuywp5xfz6gau/Kali%20IN-8v1_Vertical_Spectrogram_Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ufvxvohc7bm22w5/Kali%20IN-8v2%20Beamwidth_Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ufvxvohc7bm22w5/Kali%20IN-8v1%20Beamwidth_Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -166,7 +166,7 @@ Vertical Contour Plot (normalized):
 
 ### On-Axis Response Linearity
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/qws0au9wezv9xao/Kali%20IN-8v2%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/qws0au9wezv9xao/Kali%20IN-8v1%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -178,23 +178,23 @@ These plots are generated from exporting the Klippel data to text files.  I then
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/hdba00togsa1q23/Kali%20IN-8v2_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/hdba00togsa1q23/Kali%20IN-8v1_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/3rxcth5ybqkvl5q/Kali%20IN-8v2_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3rxcth5ybqkvl5q/Kali%20IN-8v1_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/gfrempyrbzmnxo1/Kali%20Audio%20IN-8v2%20--%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/gfrempyrbzmnxo1/Kali%20Audio%20IN-8v1%20--%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/z44gdznuvtdhysv/Kali%20Audio%20IN-8v2%20--%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/z44gdznuvtdhysv/Kali%20Audio%20IN-8v1%20--%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -212,7 +212,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/prvn5tpdub3kafy/Kali%20IN-8v2_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/prvn5tpdub3kafy/Kali%20IN-8v1_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -236,9 +236,9 @@ The tests are conducted in this fashion:
 The red and blue lines represent changes in the output compared to the initial "cold" test.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/gzlcmjxx3f7n3qk/Kali%20IN-8v2_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/gzlcmjxx3f7n3qk/Kali%20IN-8v1_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/kr9z1ofdkdj8xnl/Kali%20IN-8v2_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/kr9z1ofdkdj8xnl/Kali%20IN-8v1_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
 
@@ -255,7 +255,7 @@ The following is from my testing of the Kali IN-5 which (presumably) uses the sa
 
 As you can see in the below graphic, the position of the cone does influence the high frequency response. Depending on frequency, the effect is as much as 2dB.
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/2cl7j58tcvbhe81/Kali%20IN-8v2%20Midrange%20as%20a%20Waveguide%20Testing.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/2cl7j58tcvbhe81/Kali%20IN-8v1%20Midrange%20as%20a%20Waveguide%20Testing.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 Is this effect audible?  Well, two things in my *personal* opinion:
 1) Cone travel speed back and forth is incredibly fast.  Are you really going to hear this "distortion" when you're talking about frequencies above 4kHz?  For point of reference, that's 0.25 milliseconds.
@@ -278,7 +278,7 @@ These speakers come with a set of pre-configured boundary settings that can be e
 
 The dip switch combinations displayed above are labeled and plotted in the graphic below.
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/skv2fl4iamcixyp/Kali%20IN-8v2%20DSP%20Boundary%20Settings.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/skv2fl4iamcixyp/Kali%20IN-8v1%20DSP%20Boundary%20Settings.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
 
@@ -298,7 +298,7 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 * Vocals sound a bit too chesty.  Per my listening notes, I ballparked the area to be around 200-300Hz.  The only evidence I can see of this in the data is that the response shows a trough on both sides of 250Hz.  Maybe this is what I was hearing.  Maybe not.
 * *December* by Collective Soul has a great drum line and, on these speakers, it sounded quite good.  The bass/midbass is definitely a showcase element of these speakers.
 * Hiss: When sitting in the nearfield, approximately 1 meter away, I didn't experience any issues with noise floor in my living room.  The noise is noticeable when within about one foot of the tweeter with the gain (on the speaker itself) at +6dB and also at 0dB.
-* Heat.  I recently tested the Focal Twin6 Be and noticed that if the speaker was left on for a while - maybe an hour or so - the amplifier would get quite hot.  Not scalding.  But definitely warm to the touch.  Leaving the IN-8v2 speakers on for hours at a time resulted in no heat at the amp.  Not sure how important this is to you but I thought I'd mention it.
+* Heat.  I recently tested the Focal Twin6 Be and noticed that if the speaker was left on for a while - maybe an hour or so - the amplifier would get quite hot.  Not scalding.  But definitely warm to the touch.  Leaving the IN-8v1 speakers on for hours at a time resulted in no heat at the amp.  Not sure how important this is to you but I thought I'd mention it.
 * As for SPL levels, these are marketed as a nearfield speaker.  My data shows the limiter kicking in somewhere above 96dB @ 1m.  I had the output up to about 100dB at 1 meter to stress test with some Linkin Park and there were no mechanical issues that I could hear.  I'd say that you could probably use these in the midfield in the lower 90's pretty well but above that would be pushing it.  Realistically, you shouldn't be mixing music (or listening) above the 85dB range for long periods anyway.  I do not know that I would recommend these for farfield movie-watching but for music at reasonable volumes, you should be fine.
 
 Overall, I really liked these speakers especially for the price.  The large dip on-axis centered around 10kHz concerns me but luckily turning the speaker slightly off-axis remedies this and in a typical room setting, I can't say that listening on-axis is even ideal with these speakers.  I recommend toeing them by about 5-10° either inward or outward, depending on how much sidewall interaction or width you want.  The directivity is quite good until above about 4kHz where the pattern changes and gets a bit wider in radiation before the on-axis dip at 10kHz.
