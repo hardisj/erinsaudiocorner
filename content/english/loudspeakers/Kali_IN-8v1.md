@@ -7,22 +7,6 @@ description : "Kali Audio IN-8v1 3-Way Studio Monitor Review"
 Tags: ["Kali", "IN-8v1", "Klippel", "Review", "Speaker", "loudspeaker", "studio monitor"]
 ---
 
-<script type="text/javascript">
-amzn_assoc_tracking_id = "medlemusin-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B07ZHN654L";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "0e1e6426dfed6e5a3b41b651553833b6";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
-<br>
-<br>
 
 ## Foreword / YouTube Video Review
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
