@@ -9,8 +9,9 @@ Tags: ["Pioneer", "DJ VM-50", "Klippel", "Review", "Speaker", "loudspeaker", "st
 
 
 ## Foreword / YouTube Video Review
-The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
+The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  Discussion about the data and my subjective thoughts can be found in my video below.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FCq_fwa5yOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For a primer on what the data means, please watch my series of videos where I provide in-depth discussion and examples of how to read the graphics presented hereon.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLnIxFR_ey0b37Ex4KV2mBz-kYB7QLffR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -280,7 +281,7 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 * The bass on these speakers is really quite surprising.  As I said above, you can't crank them because the limiter kicks in and cuts the bass.  But at moderate volume (80-85dB at 1-2 meters) the bass is more than sufficient and is really quite well blended.  With the f3 at 61Hz, the bass extends low enough into the kick drum region where there is solid punch.  Bass guitars sound neutral (other than the 500-1kHz region; see below).  There is no resonance in the lower vocals that I've experienced from other speakers.
 * The treble region looks low, but remember that you have that 500-1000Hz bump.  If you flatten that out then the treble is mostly in-line with the rest of the response.  Though, the 3.5kHz-centered dip does result in a sound that may not have as much "bite" as would be expected.
 * Hiss: Most budget powered speakers have a good deal of hiss that comes through them.  While these do have some, I can say that it wasn't a problem at my listening distance.  Maybe if my room were dead silent and didn't have a computer fan running quietly in the background, I would have heard the hiss from the speakers more.  But as it was, I don't have any complaints.
-* Positioning:  Horizontally, the 0° axis has a dip (presumably) from the bar grille.  If you want, you can toe the speaker in or out a little bit to resolve this.  Vertically, you *definitely* do not want to go below the tweeter axis.  The vertical globe plot shows a signficant hole in the response doing this.  Even just 10° below the tweeter axis results in a huge dip in response at 3-4kHz.  Placing your ears above the tweeter line by about 10° may actually work better.  
+* Positioning:  Horizontally, the 0° axis has a dip (presumably) from the bar grille.  If you want, you can toe the speaker in or out a little bit to resolve this.  Vertically, you *definitely* do not want to go below the tweeter axis.  The vertical globe plot shows a signficant hole in the response doing this.  Even just 10° below the tweeter axis results in a huge dip in response at 3-4kHz.  Placing your ears above the tweeter line by about 10° may actually work better.
 
 I do want to mention this, though: Pioneer states these have "*flat frequency response*".  We know that's a farce.
 
