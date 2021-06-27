@@ -57,7 +57,7 @@ This was a tricky one to test.  *Realistically*, this speaker is almost guarante
 
 Additionally, this speaker has no auxiliary input and thus was tested via Bluetooth using Klippel's [Application Note 72](http://www.klippel.de/fileadmin/klippel/Files/Know_How/Application_Notes/AN_72_Testing_wireless_audio_devices_with_Klippel_R%26D.pdf).
 
-With the above said, the reference plane in this test is at the tweeter level.  Just above the bottom of the speaker.  Volume set to max.  Unlike its bigger brother - the HomePod - there is no adaptive EQ in the HomePod Mini.  So there was nothing to disable in terms of "DSP" other than "soundcheck" (which is only used to normalize music as track to track variation can be louder or quieter).
+With the above said, the reference plane in this test is at the waveguide level.  Just above the bottom of the speaker.  Volume set to max.  Unlike its bigger brother - the HomePod - there is no adaptive EQ in the HomePod Mini.  So there was nothing to disable in terms of "DSP" other than "soundcheck" (which is only used to normalize music as track to track variation can be louder or quieter).
 
 I modified the NFS to use a pole, placing the speaker on top rather than directly on top of the NFS' platform.  This was done to make sure there was no artifacts - comb filtering - from the stand back to the microphone as this is intended to provide anechoic data, as previously discussed.  This can be seen below.
 
@@ -183,7 +183,8 @@ Harmonic Distortion at max volume (83dB @ 1m).  This was literally the loudest I
 
 * The speaker response is practically omnidirectional.  I believe the reason you see a divergence in the higher frequencies is due to comb filtering from the power cord that is *hardwired* in to the unit (the only pluggable end is at the wall-outlet adapter).
 * As I discussed earlier, the high frequency response is likely to be misleading because the speaker is designed to be listened to while sitting on a surface.  That will (should) increase the HF output but it, too, will still suffer effects of comb filtering based on the angle of the waveguide with respect to the opening of the mouth.  But honestly, as this speaker is likely to be used, I don't think many will even care.  Again, this is not a "critical listening" speaker.  It is a convenience speaker.  The purpose is different and should be weighed with the analysis of the data.  In other words, don't draw the wrong conclusion; consider how this will be used.
-* If you are wondering where the compression testing is, well, that's because I had no viable way to test this.  With Bluetooh, I don't know how much voltage the speaker is receiving to calculate a theoretical gain in dBSPL.  Therefore, I can't calculate what the compression is based on what the SPL should be since I don't *know* what the SPL should be.  
+* The loudest I could get this unit to go was approximtely 83dB at 1 meter (anechoic).
+* If you are wondering where the compression testing is, well, that's because I had no viable way to test this.  With Bluetooh, I don't know how much voltage the speaker is receiving to calculate a theoretical gain in dBSPL.  Therefore, I can't calculate what the compression is based on what the SPL should be since I don't *know* what the SPL should be.
 
 
 # Support / Contribute
@@ -192,8 +193,9 @@ If you like what you see here and want to help me keep it going, please consider
 
 Alternatively, if you plan on purchasing this speaker please consider doing so through my B&H affiliate link below.  It helps me earn a small commission at no additional cost to you.
 
+<center>
 <iframe width="180" scrolling="no" height="150" frameborder="0" style="border:none;" border="0" src="https://mer54715.datafeedfile.com/widget/aff_widget_prdt_generate-2.0.php?aff_num=28138&aff_net=1&size=180x150&mode=s&bucket_num=10438&link_target=y&sid=ErinsAudioCorner" marginheight="0" marginwidth="0"></iframe>
-
+</center>
 
 <br>
 <br>
