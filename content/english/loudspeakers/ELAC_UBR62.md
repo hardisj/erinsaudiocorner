@@ -1,6 +1,6 @@
 ---
 title: "ELAC UBR62 Speaker Review"
-date: 2021-06-12
+date: 2021-06-21
 draft: false
 image: "https://dl.dropboxusercontent.com/s/l378mgx1mgzuspt/DSC02053.JPG?dl=0"
 description : "ELAC UBR62 Speaker Review"
@@ -269,7 +269,7 @@ If you want to see the music I use for evaluating speakers subjectively, see [my
 * For a coincident/coaxial speaker, the dispersion is rather wide.  And I liked that.  If you follow my reviews enough you know I like a wide soundstage and that is typically related directly to the radiation pattern of the speaker.  I attribute this to the rather shallow cone profile of the midrange relative to other coaxial speakers I have tested.
 * Similarly, notice the on-axis response is a bit slanted downward.  Now, look at the estimated in-room response.  Notice how the estimated in room response has an excellent downward linearity to it?  In my experience, if the on-axis response of this speaker were actually flat the in-room response would be a bit flat in the tweeter region, making the overall sound to present itself as a bit "bright" or "treble heavy" at the listening position.  In other words, wide radiation speakers reflect more energy back to the listening position so - in my opinion - the design response was purposely tilted downward so that the response *at the seated position* would result in an overall sloping response rather than a response that has a "knee".
 * On-axis listening for most coaxial designs is typically the *worst* location to listen within.  These speakers are best listened to slightly toed in or out (depending on how much room interaction you want) by about 10°.
-* With the low sensitivity of about 83dB @ 2.83v/1m, these will need some power to get to higher output levels.  But also consider what the dynamic compression tests indicate; that there is compression going above 96dB.  Realistically, this would be expected of a small, lower sensitivity speaker.  And one would also use a subwoofer to help alleviate the bass driver of trying to overextend itself.  
+* With the low sensitivity of about 83dB @ 2.83v/1m, these will need some power to get to higher output levels.  But also consider what the dynamic compression tests indicate; that there is compression going above 96dB.  Realistically, this would be expected of a small, lower sensitivity speaker.  And one would also use a subwoofer to help alleviate the bass driver of trying to overextend itself.
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
 
