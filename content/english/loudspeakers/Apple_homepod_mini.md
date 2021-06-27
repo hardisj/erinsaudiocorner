@@ -183,6 +183,7 @@ Harmonic Distortion at max volume (83dB @ 1m).  This was literally the loudest I
 
 * The speaker response is practically omnidirectional.  I believe the reason you see a divergence in the higher frequencies is due to comb filtering from the power cord that is *hardwired* in to the unit (the only pluggable end is at the wall-outlet adapter).
 * As I discussed earlier, the high frequency response is likely to be misleading because the speaker is designed to be listened to while sitting on a surface.  That will (should) increase the HF output but it, too, will still suffer effects of comb filtering based on the angle of the waveguide with respect to the opening of the mouth.  But honestly, as this speaker is likely to be used, I don't think many will even care.  Again, this is not a "critical listening" speaker.  It is a convenience speaker.  The purpose is different and should be weighed with the analysis of the data.  In other words, don't draw the wrong conclusion; consider how this will be used.
+* If you are wondering where the compression testing is, well, that's because I had no viable way to test this.  With Bluetooh, I don't know how much voltage the speaker is receiving to calculate a theoretical gain in dBSPL.  Therefore, I can't calculate what the compression is based on what the SPL should be since I don't *know* what the SPL should be.  
 
 
 # Support / Contribute
