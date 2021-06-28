@@ -169,7 +169,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at max volume (83dB @ 1m).  This was literally the loudest I could set the HomePod Mini to play via Bluetooth:
-<img align="left" src="https://dl.dropboxusercontent.com/s/hul8q723m6xa8q1/Apple%20IN-8%202nd%20Wave%20%20--%20%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ns8jycz479dutsr/Apple%20HomePod%20Mini%20--%20Harmonic%20Distortion%20at%20Max%20Volume%20%28~83dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
