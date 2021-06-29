@@ -14,7 +14,7 @@ Tags: ["DIYSG", "HTM-12", "1099", "Klippel", "Review", "Speaker", "loudspeaker",
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
-Note: Video review coming soon
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1ZALEpCeLls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For a primer on what the data means, please watch my series of videos where I provide in-depth discussion and examples of how to read the graphics presented hereon.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLnIxFR_ey0b37Ex4KV2mBz-kYB7QLffR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

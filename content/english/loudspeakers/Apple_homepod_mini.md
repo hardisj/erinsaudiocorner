@@ -2,7 +2,7 @@
 title: "Apple HomePod Mini"
 date: 2021-06-27
 draft: false
-image: "https://dl.dropboxusercontent.com/s/gpv9sujddtqy8e5/homepod_mini.png?dl=0"
+image: "https://dl.dropboxusercontent.com/s/w2n5lnr4apftzp8/DSC02080.JPG?dl=0"
 description : "Apple HomePod Mini 3-Way Studio Monitor Review"
 Tags: ["Apple", "HomePod Mini", "Klippel", "Review", "Speaker", "loudspeaker", "studio monitor"]
 ---
@@ -11,8 +11,7 @@ Tags: ["Apple", "HomePod Mini", "Klippel", "Review", "Speaker", "loudspeaker", "
 ## Foreword / YouTube Video Review
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
-Note: Coming Soon
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IxtphS4mezY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 For a primer on what the data means, please watch my series of videos where I provide in-depth discussion and examples of how to read the graphics presented hereon.
