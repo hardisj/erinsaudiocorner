@@ -188,6 +188,14 @@ And for those who are curious what happens when you apply more voltage, below is
 
 <br>
 
+### Near-Field Response
+
+Nearfield response of individual drive units:
+<img align="left" src="https://dl.dropboxusercontent.com/s/bg1obi0ur93mrt2/ELAC%20UBR62%20--%20Nearfield%20Driver%20Measurements.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br><br>
+
+
 ### "Globe" Plots
 
 These plots are generated from exporting the Klippel data to text files.  I then process that data with my own MATLAB script to provide what you see.  These are not part of any software packages and are unique to my tests.
@@ -272,10 +280,16 @@ The red and blue lines represent changes in the output compared to the initial "
 If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
 
 * Subjective listening was mainly in the farfield at 3-4 meters in an open floorplan living room.  Subjective listening was conducted at 80-95dB at these distances and occasionally higher.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.
+* I used both a [Parasound NewClassic 200 Integrated](https://parasound.com/200_Integrated.php) as well as their [HINT 6](https://parasound.com/hint6.php) integrated for my tests.  I found quickly that I the 110w on the 200 wasn't sufficient to really "go big" on these speakers, given their lower sensitivity.  The additional power of the H-INT6 was needed to provide adequate volume for my listening tests.
+* The impedance hovers mostly around/above 5 Ohms, dipping only to 4 Ohms at about 50Hz (where one is most likely to not be playing this speaker and instead using a subwoofer to take care of this region).
 * For a coincident/coaxial speaker, the dispersion is rather wide.  And I liked that.  If you follow my reviews enough you know I like a wide soundstage and that is typically related directly to the radiation pattern of the speaker.  I attribute this to the rather shallow cone profile of the midrange relative to other coaxial speakers I have tested.
 * Similarly, notice the on-axis response is a bit slanted downward.  Now, look at the estimated in-room response.  Notice how the estimated in room response has an excellent downward linearity to it?  In my experience, if the on-axis response of this speaker were actually flat the in-room response would be a bit flat in the tweeter region, making the overall sound to present itself as a bit "bright" or "treble heavy" at the listening position.  In other words, wide radiation speakers reflect more energy back to the listening position so - in my opinion - the design response was purposely tilted downward so that the response *at the seated position* would result in an overall sloping response rather than a response that has a "knee".
 * On-axis listening for most coaxial designs is typically the *worst* location to listen within.  These speakers are best listened to slightly toed in or out (depending on how much room interaction you want) by about 10°.
+* My listening tests revealed a bit of resonance in the upper female vocal.  I couldn't pin down what this was and I can't find an explicit area in the data.  However, knowing the fundamental female vocal range is primarily between 200Hz to 1kHz, looking at the data I see a mild but broad bump from 500-700Hz and I wonder if that might have had something to do with what I was hearing.  I can't be sure.  This is purely speculation as I didn't have the means to test this with EQ in the configuration I was using.
 * With the low sensitivity of about 83dB @ 2.83v/1m, these will need some power to get to higher output levels.  But also consider what the dynamic compression tests indicate; that there is compression going above 96dB.  Realistically, this would be expected of a small, lower sensitivity speaker.  And one would also use a subwoofer to help alleviate the bass driver of trying to overextend itself.
+* The dip in upper midbass around 150Hz is bothersome when looking at the data.  I can say that when listening, however, it didn't seem to be a problem.  BUT, I also have floor and ceiling cancellation an octave above that so the dip didn't stand out as it was also followed by a broader dip.  Obviously this means your mileage will vary as this is below the schroeder frequency where the room dominates the sound.  The good news, however, is the speaker is resonance-free in this region.
+
+Overall, the sound from this speaker was pleasing and I am impressed at how the in-room response was targeted to provide both a wide soundstage without too much high frequency content; a balancing act for sure.  I would have preferred lower bass extension and higher sensitivity as those two are limiting factors for higher output listening in the farfield.  The magic of this speaker, though, is the soundstage.  In my opinion, this is a good option for someone who fancies having a more 3-dimensional soundstage with great soundstage depth and is willing to sacrifice bass extension and output.
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
 
