@@ -2,7 +2,7 @@
 title: "Kali Audio IN-8v2 (Second Wave) 3-Way Studio Monitor Review"
 date: 2021-06-26
 draft: false
-image: "https://dl.dropboxusercontent.com/s/hvr3b8jo26zral6/DSC02047.JPG?dl=0"
+image: "https://dl.dropboxusercontent.com/s/20i7rt17lw2hpl8/DSC02133.JPG?dl=0"
 description : "Kali Audio IN-8v2 3-Way Studio Monitor Review"
 Tags: ["Kali", "IN-8v2", "Klippel", "Review", "Speaker", "loudspeaker", "studio monitor"]
 ---
@@ -35,7 +35,7 @@ MSRP for the single speaker is approximately $399 USD and $800 USD for a pair.
 
 The back features a bank of dip switches for boundary settings (discussed later) and basic level adjustments.  There is a volume knob and (3) input options: XLR, TRS and RCA phono.
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/oz1t77kzhpm26tg/DSC02051.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/7cebrsa0ncji7cd/DSC02130.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>

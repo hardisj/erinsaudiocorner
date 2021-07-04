@@ -2,7 +2,7 @@
 title: "ELAC UBR62 Speaker Review"
 date: 2021-06-21
 draft: false
-image: "https://dl.dropboxusercontent.com/s/l378mgx1mgzuspt/DSC02053.JPG?dl=0"
+image: "https://dl.dropboxusercontent.com/s/pm5agxur2c55jhk/DSC02117.JPG?dl=0"
 description : "ELAC UBR62 Speaker Review"
 Tags: ["ELAC", "HTM-12", "Klippel", "Review", "Speaker", "loudspeaker", "powered speaker"]
 ---
@@ -29,6 +29,9 @@ For a primer on what the data means, please watch my series of videos where I pr
 
 ## Information and Photos
 
+Note: ELAC loaned me this speaker to test. I was not paid for this review nor has ELAC seen this review before publication.
+
+
 The [ELAC UBR62](https://www.elac.com/series/uni-fi-reference/uni-fi-reference-ubr62-bookshelf-speakers/) is a 3-way bookshelf speaker featuring a 6.5-inch midwoofer, 4-inch concentric with 1-inch dome tweeter placed coaxially.
 
 MSRP for a pair of the UBR62 speakers is currently $999 USD.
@@ -36,8 +39,12 @@ MSRP for a pair of the UBR62 speakers is currently $999 USD.
 <br>
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/vb7y4gd9k7p4si0/DSC02061.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ynd7fxia3ew0kpt/DSC02119.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/z49yusnweswyb2o/DSC02124.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
 
 
 <br>
