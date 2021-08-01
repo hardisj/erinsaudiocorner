@@ -122,6 +122,15 @@ Vertical Frequency Response (0° to ±40°):
 <br>
 
 
+### Harmonic Distortion
+
+Harmonic Distortion at 86dB @ 1m:
+<img align="left" src="https://dl.dropboxusercontent.com/s/ngctsrzg3dhmrdy/Monoprice%20MM-3%20Harmonic%20Distortion%2086dB%20%40%201m%20%28stuffed%20port%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+Harmonic Distortion at 96dB @ 1m:
+<img align="left" src="https://dl.dropboxusercontent.com/s/zxanmkaw827lnik/Monoprice%20MM-3%20Harmonic%20Distortion%2096dB%20%40%201m%20%28port%20stuffed%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 <br>
 <br>
@@ -131,7 +140,7 @@ Vertical Frequency Response (0° to ±40°):
 
 ## Parting / Random Thoughts
 
-Much better performance than the Monoprice DT-3.  Still, not very smooth response even with the port stuffed.  My advice is to stuff the port which will resolve the peaky nature on the LF and help tame the mid-frequency resonances.  Turn the speaker to about 10 or 20 degrees off-axis and put the speaker below ear level to help make the high-frequency more neutral.  Most likely, this is how this speaker will be used anyway given it is a desktop speaker.
+Much better performance than the Monoprice DT-3.  Still, it's pretty bad.  Even with the port stuffed.  My advice is to stuff the port which will resolve the peaky nature on the LF and help tame the mid-frequency resonances.  Turn the speaker to about 10 or 20 degrees off-axis and put the speaker below ear level to help make the high-frequency more neutral.  Most likely, this is how this speaker will be used anyway given it is a desktop speaker.
 
 <br>
 <br>
@@ -140,6 +149,8 @@ Much better performance than the Monoprice DT-3.  Still, not very smooth respons
 # Support / Contribute
 
 If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is very much appreciated.
+
+Alternatively, if you are interested in buying this speaker while helping me earn a small commission, please consider using [my affiliate link](https://www.tkqlhce.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D35374).
 
 <br>
 <br>

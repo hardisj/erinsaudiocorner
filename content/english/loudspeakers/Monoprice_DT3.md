@@ -122,6 +122,15 @@ Vertical Contour Plot (not normalized):
 <br>
 
 
+### Harmonic Distortion
+
+Harmonic Distortion at 86dB @ 1m:
+<img align="left" src="https://dl.dropboxusercontent.com/s/1ywz8v1m8j167dw/Monoprice%20DT-3%20Harmonic%20Distortion%2086dB%20%40%201m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+Harmonic Distortion at 96dB @ 1m:
+<img align="left" src="https://dl.dropboxusercontent.com/s/4df5dlb6ct560c6/Monoprice%20DT-3%20Harmonic%20Distortion%2096dB%20%40%201m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 <br>
 <br>
@@ -140,6 +149,8 @@ This is the most budget of budget speakers it seems.  And to no real surprise, t
 # Support / Contribute
 
 If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is very much appreciated.
+
+Alternatively, if you are interested in buying this speaker while helping me earn a small commission, please consider using [my affiliate link](https://www.tkqlhce.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D36571).
 
 <br>
 <br>
