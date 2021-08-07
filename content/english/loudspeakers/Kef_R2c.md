@@ -1,18 +1,16 @@
 ---
-title: "Kef R3 Bookshelf Speaker Review"
-date: 2021-03-14
+title: "Kef R2c Center Channel Speaker Review"
+date: 2020-08-07
 draft: false
-image: "https://dl.dropboxusercontent.com/s/2if5altrpeu0byg/DSC09585.JPG?dl=0"
-description : "Kef R3 Bookshelf Speaker Review"
-Tags: ["Kef", "R3", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q"]
+image: "https://dl.dropboxusercontent.com/s/5o60svkdijts2i8/DSC02206.JPG?dl=0"
+description : "Kef R2c Center Channel Speaker Review"
+Tags: ["Kef", "R2c", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "kef center channel"]
 ---
 
 
 ## Foreword / YouTube Video Review
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
-However, for those who want more - a detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc) - please watch the below video where I go more in-depth.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Gt96DBlQk8A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -21,33 +19,14 @@ However, for those who want more - a detailed explanation of the objective perfo
 
 ## Information and Photos
 
-<br>
-I have provided an introduction to this speaker on my YouTube channel and provided below.
+The [Kef R2c](https://us.kef.com/r2c.html) is 3-way compact Center Channel speaker.  It features dual 5.25-inch midwoofers and a 5-inch concentric "Uni-Q" midrange/tweeter in a sealed cabinet.  The crossover between the midbass/midrange is 400Hz and the crossover between the midrange/tweeter is 2.9kHz.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kkdktVxDff8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<br>
-
-The [Kef R3](https://us.kef.com/r3.html) is 3-way compact bookshelf speaker.  It features a 6.5-inch midwoofer and a 5-inch concentric "Uni-Q" midrange/tweeter.  The crossover between the midbass/midrange is 400Hz and the crossover between the midrange/tweeter is 2.9kHz.  The R3 features a rear port and currently comes in three colors: gloss black, gloss white, and Walnut.  The R3 comes with a removable grille as well.
-
-Price per pair is approximately $2000 USD.
+Price is approximately $1200 USD.
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/1ylgfsdezhq6zqa/DSC09601.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/w5ey5yl89k0m7qa/DSC02205.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/xj8aw7m6yfshitx/DSC09603.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/zwtszc7mhubzzjp/DSC09606.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/k6eip741rv06bxv/DSC09586.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-
-
 
 
 <br>
@@ -64,12 +43,8 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-A picture of the setup in my garage:
-<img align="left" src="https://dl.dropboxusercontent.com/s/ek4nrn2am4v1xgs/vlcsnap-2021-03-13-15h53m34s929.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-The reference plane in this test is at the tweeter/midrange.
-The speaker was tested in ported configuration (the port was not sealed).
-All testing in this review was done without grille.
+The reference plane in this test is at the tweeter/midrange.  The speaker was laid on its side (as it will typically be used).  I did perform testing with the speaker in vertical orientation, included at the end of this review.
+Initial testing in this review was done without grille.  However, at the end of this review I do have results from testing with the grille on.
 
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
@@ -96,7 +71,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ulgctjhijqcwpu8/Kef%20R3%20CEA2034.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/zzxneapejge77g7/CEA2034%20--%20Kef%20R2c%20Center%20Channel.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -115,7 +90,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/cu5wxuug11xh3lm/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/1mxksg9otjre6rw/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -128,31 +103,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/aosyrvzqbc0zuhz/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/a3zf3eqgzmrs5ck/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/n4plea2o96inidi/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/285zji4sdw3ak0j/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/l9f08xai18zazaa/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/pil0k5rtjyrm4kj/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/b68dze58vo24t59/Kef%20R3%20Horizontal%20Contour%20Plot%20%28not%20normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/2ry94ylioyf12yi/Kef%20R2c%20Center%20Channel%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/tfg0y6w0c7r3f7y/Kef%20R3%20Horizontal%20Contour%20Plot%20%28normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
 
 Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/6ivuxvnnj463d7f/Kef%20R3%20Vertical%20Contour%20Plot%20%28not%20normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/30raoqjnnx374af/Kef%20R2c%20Center%20Channel%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/xlbp2jyu59x0m7t/Kef%20R3%20Vertical%20Contour%20Plot%20%28normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+### "Globe" Plots
+
+Horizontal Polar (Globe) Plot:<br>
+This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
+<img align="left" src="https://dl.dropboxusercontent.com/s/943uvq83cfh0nft/Kef%20R2c_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br><br>
+
+Vertical Polar (Globe) Plot:<br>
+This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
+<img align="left" src="https://dl.dropboxusercontent.com/s/7nev9j100uhp61u/Kef%20R2c_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
 
 <br>
 <br>
@@ -163,23 +144,35 @@ Vertical Contour Plot (normalized):
 ## Additional Measurements
 <br>
 
+### On-Axis Response Linearity
+
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/6srjlx490ze8k7y/Kef%20R2c%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
 ### Impedance Magnitude and Phase + Equivalent Peak Dissipation Resistance (EPDR)
 <br>
 
 For those who do not know what EPDR is (ahem, myself until 2020), Keith Howard came up with this metric which he [defined in a 2007 article for Stereophile](https://www.stereophile.com/reference/707heavy/index.html) as:
 >... simply the resistive load that would give rise to the same peak device dissipation as the speaker itself.
 
-A note from Dr. Jack Oclee-Brown of JBL (who supplied the formula for calculating EPDR):
+A note from Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculating EPDR):
 <br>
 >Just a note of caution that the EPDR derivation is based on a class-B output stage so it's valid for typical class-AB amps but certainly not for class-A and probably has only marginal relevance for class-D amps (would love to hear from a class-D expert on this topic).
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/o13nd66mpjisti7/Kef%20R3_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/mtmtimdkltf6qm1/Kef%20R2c_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
+I was curious what would happen if you increased the voltage to 2.83vRMS so I measured the impedance at this voltage level and plotted the EPDR for it and 0.10vRMS below.  The two are identical and therefore you see only what appears to be one set of data in the graph below.  This is a good thing as it shows the drivers are operating in their linear range even in the 2.83v testing.
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/rdco0ps64c07oyg/Kef%20R2c_EDPR_Compare.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/zxbli6npvv0mq60/Kef%20R3%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/qywhmz2w9mc21z5/Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -187,11 +180,8 @@ A note from Dr. Jack Oclee-Brown of JBL (who supplied the formula for calculatin
 ### Near-Field Response
 
 Nearfield response of individual drive units:
-<img align="left" src="https://dl.dropboxusercontent.com/s/kuxkdb29htgwflj/Nearfield%20Driveunits%20%26%20Port.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/d0nvr4l5tqmw5z5/Nearfield%20Driver%20Measurements%20%2816.5cm%29%20vs%20Anechoic%20On-Axis%20%40%202m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-Note the lack of a strong resonance from the port.  I mention this because many speakers have ports that cause resonance in the midrange.  Most measurements do not provide sufficient resolution to show these issues. However, the Klippel NFS does.  And in the case of the Kef R3, there are no such issues.  This is attributed to the legitimate engineering of the port, dubbed by Kef as "Flexible Port Technology", which is detailed in the graphic below.
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/lcdnwu93s5wooc6/Kef_flex_port.png?dl=0" alt="specs" width="80%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -200,24 +190,92 @@ Note the lack of a strong resonance from the port.  I mention this because many 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/5xj1n4qozzmtos5/Kef%20R3%20--%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ynz8drtr4ufxf4o/Kef%20R2c%20Center%20Channel%20Harmonic%20Distortion%2086dB%20%40%201m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/ym4jdzny2ejz2d7/Kef%20R3%20--%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/lresppsjpv6u2w5/Kef%20R2c%20Center%20Channel%20Harmonic%20Distortion%2096dB%20%40%201m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
-### "Globe" Plots
 
-Horizontal Polar (Globe) Plot:<br>
-This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/k33j2xxzb901r88/Kef%20R3_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+<br>
+
+
+### Dynamic Range (Instantaneous Compression Test)
+
+The below graphic indicates just how much SPL is lost (compression) or gained (enhancement; usually due to distortion) when the speaker is played at higher output volumes *instantly* via a 2.7 second logarithmic sine sweep *referenced to 76dB at 1 meter*.  The signals are played consecutively *without* any additional stimulus applied.  Then normalized against the 76dB result.
+
+The tests are conducted in this fashion:
+1) 76dB at 1 meter (baseline; black)
+2) 86dB at 1 meter (red)
+3) 96dB at 1 meter (blue)
+4) 102dB at 1 meter (purple)
+
+The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
+
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/yb6dc7bu7o58zu1/Kef%20R2c_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
+Based on my results above, it is obvious the output is limited (via internal DSP) somewhere above the 96dB @ 1m output level.
+
 <br><br>
 
-Vertical Polar (Globe) Plot:<br>
-This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/plxduxaqtoc4kv7/Kef%20R3_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+### Long Term Compression Tests
 
+The below graphics indicate how much SPL is lost or gained in the long-term as a speaker plays at the same output level for 2 minutes, in intervals.  Each graphic represents a different SPL: 86dB and 96dB both at 1 meter.
+
+The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components).
+
+The tests are conducted in this fashion:
+1) "Cold" logarithmic sine sweep (no stimulus applied beforehand)
+2) Multitone stimulus played at desired SPL/distance for 2 minutes; intended to represent music signal
+3) Interim logarithmic sine sweep (no stimulus applied beforehand) (Red in graphic)
+4) Multitone stimulus played at desired SPL/distance for 2 minutes; intended to represent music signal
+5) Final logarithmic sine sweep (no stimulus applied beforehand) (Blue in graphic)
+
+The red and blue lines represent changes in the output compared to the initial "cold" test.
+
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/z0ttu83dy561t74/Kef%20R2c_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/e61dkdovrgrpcmm/Kef%20R2c_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br><br>
+
+### Cumulative Spectral Decay (CSD)
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/4ce45l02kblj3i2/Cumulative%20spectral%20decay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br><br>
+
+
+## Grille Effect
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/58htcwjcfe6xnzl/g991R2CBL-o_other0.jpg?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+What happens when you put the grille on?  Comb filtering.  How bad?  Well, see for yourself:
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/5622hhkgi22x7ef/CEA2034%20--%20Kef%20R2c%20Center%20Channel%20%28with%20Grille%20On%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/6kjlyhkysmtfh7g/SPL%20Horizontal%20%28grille%20on%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+<br>
+<br>
+<br>
+
+## Vertical Orientation SPIN Results
+
+Same as previously seen, this time with the speaker standing upright.
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/k7ubx49hhvtczdk/CEA2034%20--%20Kef%20R2c%20Center%20Channel%20%28Vertical%20Orientation%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+Not much change here but that is expected given the concentric design.  However, there is still some difference in the early reflection directivity index.  While minor, it may be useful to compare this orientation of the R2c to that of the [Kef R3 I tested a few months ago](https://www.erinsaudiocorner.com/loudspeakers/kef_r3/) in case you are considering purchasing this speaker for L/C/R purposes in a home theater as I know some have expressed interest in this very thing.  (Side note: if you want to flush mount them in a wall, make sure you have DSP handy to counter the baffle step built into the passive network here).
 
 <br>
 <br>
@@ -225,66 +283,22 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 <br>
 
 
-### Shadow Flare Position Impact on Frequency Response
-
-The shadow flare is the plastic trim ring that surrounds the concentric drive unit and helps provide a smooth transition from the midrange cone to the baffle.
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/0uxro3tmos6j68n/Shadow%20Flare.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-
-The trim ring is designed to sit flush with the midrange cone; pushed all the way in toward the drive unit.  In some cases, it has been discovered that the speakers have arrived with the shadow flare positioned outward about 1mm (thus, sitting "above" of the baffle).  This is believed to simply be from shipment and is an easy fix.  Simply push the flare inward, going around the ring until it is properly seated (resulting in a 0.5mm lip between the flare and the speaker cutout).
-
-Unfortunately, as has been evidence by some in-room measurements I have seen, many people are not aware that this is an issue and think nothing of it and the ill-effects of the improper positioning of the flare.  Therefore, I did some investigating into the matter and have provided the results below.
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/rfkyrpbrzhst99n/Kef%20R3%20Response%20Variance%20per%20Shadow%20Flare%20Position.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-
-As you can see, the position of the flare matters.  As illustrated by the red curve, when the flare is sticking above the surface of the baffle and not pressed all the way in - to align with the midrange cone - the response dips as much as 12dB at approximately 1.3kHz!  Per the blue curve, when the flare is pushed inward to align with the baffle face - but still not pushed all the way in - the response dips about 5dB at 1.1kHz.  When the flare is pushed all the way in (black curve), the 1-2kHz region dip is resolved and instead you have a less severe dip centered around 700Hz.
-
-The bottom line is If the shadow flare isn't pushed all the way in there is a dip in response. One would think that flush with the baffle would be the way to go. But nope. And when you look more closely at the flare/midrange transition point it makes sense why. The shadow flare pushed all the way in (leaving a small lip between the flare and the speaker cutout) makes the flare flush with the surround edge. Any position out from that - like flush with the baffle - leaves a small gap and causes the response to dip ~1kHz. The further out the shadow flare, the more drastic the dip. You want the shadow flare to meet the drive unit, not the baffle.  So, make sure the trim ring is pressed in and not sticking out above the baffle.
-
-
-
-<br>
-<br>
-
-### In-Room Measurements from the Listening Position
-<br>
-
- Below  is a photograph of the speakers set up in my living room.  The speakers were placed approximately 1.2m from the front wall (not the cabinets; but the actual wall).  The listening position was approximately 4 meters from the speakers.
-<img align="left" src="https://dl.dropboxusercontent.com/s/n9wrefkhyw7gd5c/DSC09584.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-Below is the actual measured in-room response (with *no* DSP correction). This is a spatial average taken over approximately 1 cubic foot.  As you can see, the actual in-room response aligns quite well with the prediction generated from the SPIN data.  Pretty cool to see how anechoic measurements can reliably predict the actual in-room response.  I feel many others often overlook this powerful benefit of the SPIN data.
-
-Black = Predicted In-Room Response from SPIN data
-<br>
-Teal = Actual In-Room Measured Response from Main Listening Position
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/ubw8xeqjeiazwg2/PIR%20vs%20MIR.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-The prediction is quite accurate down to approximately 500Hz.  Below this we see more deviation from the prediction.  This is expected.  The room takes over as you enter mid-to-low frequencies.  Aside from the room dimensions, my couch, the back wall behind where I sit, the end table and the lamp near the listening position all influence the measured response.  The dip from 150-400Hz is caused by the rear wall and/or couch as when the microphone is moved into the center of the room the dip fills in.  Overall, what we see here is that the anechoic data can be conveniently used to predict the actual response one would expect to see in their own room.
-
-
-<br>
-<br>
-<br>
-<br>
 
 ## Parting / Random Thoughts
 
 I encourage you to watch my YouTube review for more details but a quick few notes:
-* I love this black on black colorway.
-* As I mentioned above, there is no coloration or resonance caused by the port.  I note this because many of the speakers I have tested have midrange resonances caused by the port or passive radiator.  There is no hint of that at all in this speaker.  A welcomed change.
-* The data does not indicate any resonances from anything.  It is quite a neutral response, aside from the lifted treble on-axis.  Moving to about ±10° horizontally and vertically, the treble is slightly reduced to provide a more neutral signature.  For that reason, I would encourage you to experiment with toe-in and placement.  You may find you like being on-axis or you may find you prefer the speakers toed in or out slightly.  However, I would not go beyond ±20° as the response begins to drop above 8kHz.
-* Running these speakers full-range (20Hz to 20kHz), they have nice kickdrum but not quite enough.  The harmonics of the kickdrum, however, are quite nice and give a nice fullness to the kicks, even though the fundamental notes (50-60Hz) need help.
-* Along that same token, I find these speakers to not do well in a "dead" room.  They did much better in my living room than they did in my home theater, where the latter has copious sound absorption throughout.
-* At approximately 4m listening distance, I found the max SPL to be about 95dB.  Exceeding this resulted in an unpleasant sound for a variety of music.  95dB in-room at 4m is pretty loud and when you pair these speakers with a subwoofer, the max SPL is increased a bit more.
-* In John Mayer's "Free Fallin" (a live Tom Petty cover), I loved the timbre of his voice.  And the air of the sound produced by the audience.
-* The layering of these speakers is unmatched, to date.  The soundstage isn't terribly wide (I *prefer* a wider soundstage).  However, the layering and the overall depth of the soundstage is incredible.  The soundstage extends deep from front to back (with the right source music, of course).  It is one of my favorite things about these speakers.  A good example of this is in Fleetwood Mac's "The Chain" as well as Phillip Bailey's "Easy Lover" (at the 3:00 mark, where Phil Collins gets down on the drums).
-* 2.5kHz sounded harsh to me and I couldn't tell for sure if it was the speaker or the room.  The data does not indicate it being the speaker itself.  And in that same vein, the only thing in the data that *might* make sense as to a culprit is the expansion of directivity around this point.  This could simply be coincidence.
-* While using the speakers full-range is OK, I found that when I added a subwoofer ([SVS SB-2000 Pro](https://www.svsound.com/products/sb-2000-pro) and [SB-3000](https://www.svsound.com/products/sb-3000), separately), the entire sound became immensely more enveloping.  Somehow, it even seems to increase the overall sense of "space" these speakers provide with the right recording.  For that reason, I do suggest a subwoofer with these speakers.  I suggest a crossover in the neighborhood of 60-80Hz.  I've had good luck with the SVS subwoofers I'm currently reviewing and with their built-in DSP, I was able to resolve a couple room modes easily and take the system to a new level of fidelity.
-* I used these speakers with the [Parasound NewClassic 200 Integrated Amplifier]("https://parasound.com/200_Integrated.php").  This integrated amplifier has 110w @ 4 and 8 ohms and was adequate to provide the output levels I needed at 4 meters listening distance.  However, if you have a seating distance of more than 4m and want to listen at louder than - say - 95dB, I would suggest more power.  I was also able to use the crossover within the Parasound to split the signal between the speakers and the SVS subwoofer.
+* Subjective listening was mainly in the farfield at 3-4 meters in an open floorplan living room.  Subjective listening was conducted at 80-95dB at these distances and occasionally higher.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.  Listening was mostly on-axis with the occasional off-axis listening to see how the dispersion pattern checked out for listeners who would be sitting to the side in home theater situations.
+* I used both a [Parasound NewClassic 200 Integrated](https://parasound.com/200_Integrated.php) as well as their [HINT 6](https://parasound.com/hint6.php) integrated for my tests.  I found quickly that I the 110w on the 200 wasn't sufficient to really "go big" on this speaker, given the mild sensitivity of .  The additional power of the H-INT6 was needed to provide adequate volume for my listening tests.
+* At approximately 4m listening distance, I found the max SPL to be about 95dB.  This is a respectable number but let me note that this was also full-range.  And in listening full range to more bass heavy music (rap), the lights in my room actually dimmed when a bass note would hit.  This tells me two things: 1) If you plan to use this full-range then you're going to need a beefy amplifier.  I was using a Parasound HINT6 and it drove the amplifier without issue but the simple fact that the impedance in the 80-200Hz region is below 4 Ohms indicates you're going to need some reserve power.  2) Ignore number 1 because you *should not* be using this speaker full-range and I would suggest a crossover no lower than the typical 80Hz if you plan to really get on these speakers.  Let your subwoofer(s) handle the lower frequency stuff and take the stress off of your speakers.
+* There was a strong "chk" sound in these speakers with many of the female vocals I listened to and when looking at the data, I suspect this is a problem of the 2.5kHz region.
+* While the overall tonality of these speakers is mostly neutral through the midrange, there is a subtle high frequency increase above about 2kHz.  Some may prefer this while others may not.
+* By far the most ear-catching thing about this speaker (for the bad, unfortunately) was the high degree of sibilance.  This was unmistakable in my listening.  I used a 1/3-octave graphic EQ to narrow down the offending frequency range and it seemed to occur in the 8kHz region; cutting about 2.5dB helped this a lot.  When looking at the data the on-axis response shows a peaking around 8.5kHz and I'm left to only conclude this is the issue I was hearing.  Either that, or it's a combination of this and the high frequency bump.  If I am being honest, this would be cause for me to not to purchase these speakers *if I didn't have EQ*.  Luckily, nearly every home theater incorporates equalization and this is rather easy to fix.
+* As with the Kef R3, the depth of the soundstage in the R2c is superb and extends well past the physical speaker's placement (at least, when placed off a wall).
+* Also, I wrote the following about the Kef R3 and the results here are no different so I'll just copy/paste the same thing: The layering of these speakers is unmatched, to date.  The soundstage isn't terribly wide (I *prefer* a wider soundstage).  However, the layering and the overall depth of the soundstage is incredible.  The soundstage extends deep from front to back (with the right source music, of course).  It is one of my favorite things about these speakers.  A good example of this is in Fleetwood Mac's "The Chain" as well as Phillip Bailey's "Easy Lover" (at the 3:00 mark, where Phil Collins gets down on the drums).
+* Step response shows a couple anomalies at approximately 1ms and 4ms (relative to IR peak).  These equate to 1kHz and 250Hz, respectively.  And when you look in the data you can see some signs of perturbations there.  The 1kHz doesn't strike me as obvious; you really have to start putting things together before this stands out.  However, the 250Hz area shows a lingering resonance that syncs up well with the CSD graphic as well as the SPIN data.  Do I know this is a problem?  No, not really.  Do I find it interesting and more than just coincidence (no pun intended)?  Yes, I do.  Given the relative level of the "resonances" here, as seen in the "stacking" of the horizontal response as well as the SPIN data in this region, BUT the magnitude being rather low, I can't say it is something I would expect most to notice; let alone find offensive.  Additionally, there is no hint of this in the impedance sweep which indicates that rather than being a resonance, it is more likely a diffraction effect.  Again, this is me doing some armchair engineering.  I think it's worthwhile to point out, though, in the interest of learning and learning how to question the data and how that relates to what we hear.
+* Looking at the horizontal response it is pretty obvious that there is a directivity mismatch between the dual woofers and the midrange.  Why is that, though?  Shallow(er) crossover slopes.  This is evidenced in the nearfield response.  However, it seems to "come out in the wash" with the early reflections and estimated in-room response showing little influence from this.  Though, I can't help but wonder if steeper slopes would help, sonically.
 * Make sure to push the trim rings all the way in.
+* Again, this speaker absolutely needs a subwoofer.
 
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
@@ -299,21 +313,7 @@ If you like what you see here and want to help support the cause you might be in
 
 Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
-Alternatively, if you plan to purchase these speakers please consider using my Amazon affiliate link below as it helps me gain a small (4%) commission at no additional cost to you.  If you are interested in a subwoofer, I'll throw some affiliate links for the SVS subwoofers I used.  The SB-3000 might be overkill for most.  I found the SB-2000 Pro to be ample.  But, if you do tend to listen at high levels and/or want very LFE, then the SB-3000 is the better option.  I truly believe this combo is a great value and excellent step in to (relatively) budget-friendly hi-fi music.  And that holds true even if you don't use my affiliate links.
-<script type="text/javascript">
-amzn_assoc_tracking_id = "medlemusin-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B07MM5ZRFJ";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "299951be1b6f5e7f8abf08147b9c951c";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-
+Alternatively, if you plan to purchase these speakers, please consider using my Amazon affiliate link below as it helps me gain a small (4%) commission at no additional cost to you.
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "medlemusin-20";
@@ -322,22 +322,9 @@ amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
 amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B082LSMTZQ";
+amzn_assoc_asins = "B07Y24GFZN";
 amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "127443bae8bbceec3953f7b8147684e1";
-</script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-<script type="text/javascript">
-amzn_assoc_tracking_id = "medlemusin-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_design = "enhanced_links";
-amzn_assoc_asins = "B07K6VN8G1";
-amzn_assoc_placement = "adunit";
-amzn_assoc_linkid = "d98a9e59dd9e9a3d07449a55d646cfb4";
+amzn_assoc_linkid = "a6a5e54d1676ecf9e2c0fe1f4da61bcf";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
