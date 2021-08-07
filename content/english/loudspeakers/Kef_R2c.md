@@ -275,6 +275,9 @@ Same as previously seen, this time with the speaker standing upright.
 <img align="left" src="https://dl.dropboxusercontent.com/s/k7ubx49hhvtczdk/CEA2034%20--%20Kef%20R2c%20Center%20Channel%20%28Vertical%20Orientation%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
+<img align="left" src="https://dl.dropboxusercontent.com/s/5szfzm5r7dsms0m/SPL%20Horizontal__vertical%20orientation.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
 Not much change here but that is expected given the concentric design.  However, there is still some difference in the early reflection directivity index.  While minor, it may be useful to compare this orientation of the R2c to that of the [Kef R3 I tested a few months ago](https://www.erinsaudiocorner.com/loudspeakers/kef_r3/) in case you are considering purchasing this speaker for L/C/R purposes in a home theater as I know some have expressed interest in this very thing.  (Side note: if you want to flush mount them in a wall, make sure you have DSP handy to counter the baffle step built into the passive network here).
 
 <br>
