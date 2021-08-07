@@ -20,7 +20,7 @@ For a primer on what the data means, please watch my series of videos where I pr
 
 ## Information and Photos
 
-Detailed information for [Monoprice DT-3]("https://www.monoprice.com/product?p_id=36571") can be found on the manufacturer's website.  A copy/paste of their description is provided below:
+Detailed information for [Monoprice DT-3](https://www.monoprice.com/product?p_id=36571) can be found on the manufacturer's website.  A copy/paste of their description is provided below:
 >The Monoprice? DT-3 Powered Multimedia Desktop Speakers deliver high-quality sound in a compact form factor. Featuring a 50-watt Class AB amplifier driving 3.5" polypropylene woofers and 0.75" silk dome tweeters, the DT-3 is engineered to deliver fantastic sound for near-field listening. The DT-3 features a 3.5mm stereo input jack and a 3.5mm headphone jack on the front panel for easy access, plus a stereo pair of RCA jacks and a stereo pair of 1/4" balanced TRS jacks on the rear panel, allowing you to connect mobile, consumer, and professional audio equipment. These speakers are the perfect complement to any home, office, gaming, or entertainment setup.
 
 
@@ -146,9 +146,11 @@ This is the most budget of budget speakers it seems.  And to no real surprise, t
 <br>
 <br>
 
-# Support / Contribute
+# Support the Cause!
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is very much appreciated.
+If you like what you see here and want to help support the cause you might be interested in joining my Patreon, [here](https://www.patreon.com/erinsaudiocorner).  You can also contribute via PayPal (the big yellow button below).
+
+Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
 Alternatively, if you are interested in buying this speaker while helping me earn a small commission, please consider using [my affiliate link](https://www.tkqlhce.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D36571).
 

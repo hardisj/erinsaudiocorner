@@ -480,9 +480,11 @@ At any rate, kudos to Mr. Murphy on a very well designed speaker!
 <br>
 <br>
 
-## The End
+# Support the Cause
 
-If you like what you see here and want to help me keep it going, you can donate via the PayPal Contribute button at the bottom of each page.  Testing and reporting the data and analysis takes me 10+ hours.  It's definitely a labor of love.  That said, there's no fame or fortune in this and all my test speakers are typically purchased and paid for by myself with help from contributions or purchases made through my affiliate links (which is negligible).  Your donations help me pay for new test items, shipping costs, hardware to build and test, etc.  Even a few dollars is more helpful than nothing.  If you don't mind chipping in a few bucks now and again it would truly be appreciated.
+If you like what you see here and want to help support the cause you might be interested in joining my Patreon, [here](https://www.patreon.com/erinsaudiocorner).  You can also contribute via PayPal (the big yellow button below).
+
+Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
 You can also join my Facebook and YouTube pages via the links at the bottom of the page if you'd like to follow along with updates.
 

@@ -340,9 +340,11 @@ As stated in the Foreword, this written review is purposely a cliff's notes vers
 <br>
 <br>
 
-# Support / Contribute
+# Support the Cause
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is very much appreciated.
+If you like what you see here and want to help support the cause you might be interested in joining my Patreon, [here](https://www.patreon.com/erinsaudiocorner).  You can also contribute via PayPal (the big yellow button below).
+
+Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
 Alternatively, if you are interested in purchasing these speakers, please consider using my B&H affiliate link below.  It yields me a small commission at no additional cost to you and allows me to keep doing what I am doing.
 

@@ -20,7 +20,7 @@ For a primer on what the data means, please watch my series of videos where I pr
 
 ## Information and Photos
 
-Detailed information for [Monoprice MM-3]("https://www.monoprice.com/product?p_id=35374") can be found on the manufacturer's website.  A copy/paste of their description is provided below:
+Detailed information for [Monoprice MM-3](https://www.monoprice.com/product?p_id=35374) can be found on the manufacturer's website.  A copy/paste of their description is provided below:
 >The Monolith™ MM-3 Speakers deliver audiophile performance for your desktop! Compact but mighty, these speakers feature exceptional sonic clarity, punchy bass, and present a spacious musical soundstage. Connect easily with RCA and 3.5mm wired inputs or pair your device wirelessly using the Bluetooth® radio with Qualcomm® aptX™ Audio. A headphone jack adorns the front, allowing you to easily switch between the speakers and headphones. The Monolith MM-3 powered speakers are a perfect, great sounding addition to a home office or bedroom.
 
 
@@ -146,9 +146,11 @@ Much better performance than the Monoprice DT-3.  Still, it's pretty bad.  Even 
 <br>
 <br>
 
-# Support / Contribute
+# Support the Cause!
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is very much appreciated.
+If you like what you see here and want to help support the cause you might be interested in joining my Patreon, [here](https://www.patreon.com/erinsaudiocorner).  You can also contribute via PayPal (the big yellow button below).
+
+Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
 Alternatively, if you are interested in buying this speaker while helping me earn a small commission, please consider using [my affiliate link](https://www.tkqlhce.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D35374).
 

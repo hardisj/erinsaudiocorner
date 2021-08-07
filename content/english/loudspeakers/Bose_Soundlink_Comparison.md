@@ -206,9 +206,11 @@ I find the Revolve+ to be the better speaker overall.  It gets louder with suffe
 However, at lower levels where the bass does not need to be limited, I prefer the sound of the Apple HomePod Mini.  It doesn't have the low end response the Revolve+ does but it does generally sound more neutral (as neutral as a speaker like this can be).
 
 
-# Support / Contribute
+# Support the Cause
 
-If you like what you see here and want to help me keep it going, please consider donating via the PayPal Contribute button located below.  Donations help me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is very much appreciated.
+If you like what you see here and want to help support the cause you might be interested in joining my Patreon, [here](https://www.patreon.com/erinsaudiocorner).  You can also contribute via PayPal (the big yellow button below).
+
+Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
 Alternatively, if you plan on purchasing this speaker please consider doing so through my B&H affiliate link below.  It helps me earn a small commission at no additional cost to you.
 

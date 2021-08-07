@@ -688,11 +688,11 @@ If you haven't heard the Bose 901 speakers, I encourage you to find a pair and g
 <br>
 <br>
 
-## Contribute
+# Support the Cause
 
-If you like what you see here and want to help me keep it going, you can donate via the PayPal Contribute button at the bottom of each page.  Since this item was loaned to me for testing I am having to pay round trip shipping which is about $230.  If you can help by chipping in a few bucks I would truly appreciate it.
+If you like what you see here and want to help support the cause you might be interested in joining my Patreon, [here](https://www.patreon.com/erinsaudiocorner).  You can also contribute via PayPal (the big yellow button below).
 
-You can also join my Facebook and YouTube pages via the links at the bottom of the page if you'd like to follow along with updates.
+Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
 
 
