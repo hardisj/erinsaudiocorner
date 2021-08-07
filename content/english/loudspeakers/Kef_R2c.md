@@ -28,7 +28,7 @@ I have provided an introduction to this speaker on my YouTube channel and provid
 <br>
 <br>
 
-The [Kef R3](https://us.kef.com/r3.html) is a relatively compact 3-way bookshelf speaker.  It features a 6.5-inch midwoofer and a 5-inch concentric "Uni-Q" midrange/tweeter.  The crossover between the midbass/midrange is 400Hz and the crossover between the midrange/tweeter is 2.9kHz.  The R3 features a rear port and currently comes in three colors: gloss black, gloss white, and Walnut.  The R3 comes with a removable grille as well.
+The [Kef R3](https://us.kef.com/r3.html) is 3-way compact bookshelf speaker.  It features a 6.5-inch midwoofer and a 5-inch concentric "Uni-Q" midrange/tweeter.  The crossover between the midbass/midrange is 400Hz and the crossover between the midrange/tweeter is 2.9kHz.  The R3 features a rear port and currently comes in three colors: gloss black, gloss white, and Walnut.  The R3 comes with a removable grille as well.
 
 Price per pair is approximately $2000 USD.
 
