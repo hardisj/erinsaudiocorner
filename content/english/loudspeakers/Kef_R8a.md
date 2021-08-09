@@ -1,6 +1,6 @@
 ---
 title: "Kef R8a Atmos Speaker Review"
-date: 2020-08-07
+date: 2021-08-07
 draft: false
 image: "https://dl.dropboxusercontent.com/s/gg0tvqg2b0xpdcq/DSC02201.JPG?dl=0"
 description : "Kef R8a Atmos Speaker Review"

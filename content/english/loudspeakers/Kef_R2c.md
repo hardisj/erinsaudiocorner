@@ -1,6 +1,6 @@
 ---
 title: "Kef R2c Center Channel Speaker Review"
-date: 2020-08-07
+date: 2021-08-07
 draft: false
 image: "https://dl.dropboxusercontent.com/s/5o60svkdijts2i8/DSC02206.JPG?dl=0"
 description : "Kef R2c Center Channel Speaker Review"
@@ -23,7 +23,7 @@ The review on this website is a brief overview and summary of the objective perf
 
 The [Kef R2c](https://us.kef.com/r2c.html) is 3-way compact Center Channel speaker.  It features dual 5.25-inch midwoofers and a 5-inch concentric "Uni-Q" midrange/tweeter in a sealed cabinet.  The crossover between the midbass/midrange is 400Hz and the crossover between the midrange/tweeter is 2.9kHz.
 
-Price is approximately $1200 USD.
+Price is approximately $1200 USD for this speaker.
 
 <br>
 
