@@ -49,7 +49,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-The reference plane in this test is at the tweeter/midrange.  The speaker was laid on its side for testing (show below) but the results are given as if the speaker were pointed directly at the listener (not angled down or up, either).  This speaker is designed to be placed on top of a speaker *or* wall-mounted.  Therefore, the configuration I tested this speaker in should be considered ... basically you just flip the vertical/horizontal results mentally if you plan to put this on top of a speaker, firing up toward the ceiling.  Then you'll have the speaker as if it were pointed up.  Otherwise, the results are given as if the speaker were wall-mounted, pointed down toward the listener.  This review was done without grille.
+The reference plane in this test is at the tweeter/midrange.  The speaker was laid on its side for testing (shown below) but the results are given as if the speaker were pointed directly at the listener (not angled down or up, either).  This speaker is designed to be placed on top of a speaker *or* wall-mounted.  Therefore, the configuration I tested this speaker in should be considered ... basically you just flip the vertical/horizontal results mentally if you plan to put this on top of a speaker, firing up toward the ceiling.  Then you'll have the speaker as if it were pointed up.  Otherwise, the results are given as if the speaker were wall-mounted, pointed down toward the listener.  This review was done without grille.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/klge1k5ppekmrhu/DSC02197.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
