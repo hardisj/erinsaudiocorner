@@ -241,16 +241,15 @@ The red and blue lines represent changes in the output compared to the initial "
 ## Parting / Random Thoughts
 
 Due to time and setup constraints, I didn't evaluate this speaker subjectively.  I will note a few things about the results, however:
-* The high frequency has a bump; presumably because this speaker is designed to on top of the other Kef R-series speakers and fire upward (toward the ceiling).  Given this, I *assume* the high frequency bump is intentional.
+* The high frequency has a bump; presumably because this speaker is designed to on top of the other Kef R-series speakers and fire upward (toward the ceiling).  Given this, I *assume* the high frequency bump is intentional.  However, when placed on a wall (using the key-holed brackets on the back of the speaker) this can become problematic as, when facing forward, the wide Q bump comes off as fairly sibilant for one thing and possibly a bit too bright depending on how on-axis you are to the speaker.
+* Aside from this, the response is reasonably neutral.  However, if you do choose to mount the speaker to a wall, the response will suffer comb filtering; something not exclusive to this particular speaker (all speakers have this issue) .  I simply mention it because it is something to be aware of.
 * Mild resonance around 600Hz that likely isn't audible.
-* Overall pretty good EQ-ability
-* Mid sensitivity around 85dB
-* You absolutely need a subwoofer.  The F3 of this speaker is 127Hz.  The distortion and compression data all support the notion that you should not expect to run this down to 80Hz.... or even below 100Hz.  I'd be looking at a crossover at least in the 150Hz region if not above 200Hz.
+* Overall pretty good EQ-ability.
+* Mid sensitivity around 85dB.  In a smaller home theater this is adequate but if you have a large home theater then you may find you need more volume, depending on how you have the channels routed to this speaker (meaning, if it gets full range signal or just spatial effects).
+* Since these aren't intended to be used as front mains, I can give it some slack on the inability to play low where you will definitely need a subwoofer.  The F3 of this speaker is 127Hz.  The distortion and compression data all support the notion that you should not expect to run this down to 80Hz to pair with mains or otherwise mimic the mains.  Frankly, I wouldn't run them below 100Hz.  I'd be looking at a crossover at least in the 125Hz region.  If not higher.  This presents a bit of a struggle for me as a reviewer because - on one hand you can't reasonably expect a speaker of this size to extend low, however, from what I can tell in the Dolby spec and have been told from reliable home theater installers, the Atmos speakers in a home theater should be very comparable in bandwidth to that of the mains.  You're simply not going to get that in this case.  And therein lies the inner struggle of rationalizing the best use-case of this speaker vs what is sensible for the small overall size; something that is likely necessary for small-to-medium sized home theaters.  
 
 
 
-
-As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
 <br>
 <br>
 <br>
