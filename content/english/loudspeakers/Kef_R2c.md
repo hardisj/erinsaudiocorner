@@ -290,6 +290,7 @@ Not much change here but that is expected given the concentric design.  However,
 
 
 ## Parting / Random Thoughts
+If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
 
 I encourage you to watch my YouTube review for more details but a quick few notes:
 * Subjective listening was mainly in the farfield at 3-4 meters in an open floorplan living room.  Subjective listening was conducted at 80-95dB at these distances and occasionally higher.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.  Listening was mostly on-axis with the occasional off-axis listening to see how the dispersion pattern checked out for listeners who would be sitting to the side in home theater situations.
