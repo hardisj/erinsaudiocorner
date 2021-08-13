@@ -49,7 +49,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-The reference plane in this test is at the tweeter/midrange.  The speaker was laid on its side for testing (show below) but the results are given as if the speaker were pointed directly at the listener (not angled down or up, either).  This review was done without grille.
+The reference plane in this test is at the tweeter/midrange.  The speaker was laid on its side for testing (show below) but the results are given as if the speaker were pointed directly at the listener (not angled down or up, either).  This speaker is designed to be placed on top of a speaker *or* wall-mounted.  Therefore, the configuration I tested this speaker in should be consider... basically you just flip the vertical/horizontal results mentally.  Then you'll have the speaker as if it were pointed up.  Otherwise, the results are given as if the speaker were wall-mounted, pointed down toward the listener.  This review was done without grille.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/klge1k5ppekmrhu/DSC02197.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
@@ -241,7 +241,7 @@ The red and blue lines represent changes in the output compared to the initial "
 ## Parting / Random Thoughts
 If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
 
-Listening was performed at about 4 meters away.  In my listening session, I turned the speaker on its side (as opposed to facing up).  I wanted to treat it more like a bookshelf to get an idea of its "ideal" listening space and reasonable conclusions can be made about positioning it in other ways after the fact.
+Listening was performed at about 4 meters away.  In my listening session, I turned the speaker on its side (as opposed to facing up).  I wanted to treat it more like a bookshelf to get an idea of its "ideal" listening space and reasonable conclusions can be made about positioning it in other ways after the fact (sitting on top of another speaker and facing up or wall-mounted pointed toward this listeners).
 
 A few quick notes:
 * I found max volume to be limited to 90dB *when ran full range*.  When I placed a crossover on the speakers at 120Hz, the listening levels got a good bit higher, in the 90-95dB region depending on what I was listening to.
