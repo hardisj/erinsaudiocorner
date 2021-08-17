@@ -219,6 +219,12 @@ Harmonic Distortion at 96dB @ 1m:
 
 <br><br>
 
+### Cumulative Spectral Decay (CSD)
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/961omnjvzxx3kn6/Cumulative%20spectral%20decay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br><br>
+
 ### Dynamic Range (Instantaneous Compression Test)
 
 The below graphic indicates just how much SPL is lost (compression) or gained (enhancement; usually due to distortion) when the speaker is played at higher output volumes *instantly* via a 2.7 second logarithmic sine sweep *referenced to 76dB at 1 meter*.  The signals are played consecutively *without* any additional stimulus applied.  Then normalized against the 76dB result.
@@ -277,7 +283,7 @@ Now, keep in mind all of this is evaluating a pro audio speaker in a home enviro
 * Subjective listening was mainly in the farfield at 3-4 meters in an open floorplan living room.  Subjective listening was conducted at 80-95dB at these distances and occasionally higher.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away. I only had a single unit to test (the one barely fit in my car; two was out of the question).
 * This speaker gets crazy loud.  I mean... crazy loud.  But it should, right?  After all, it *is* a PA speaker.  I measured the output of the single unit to be about 112dB @ 4 meters.  That was with one speaker.  Another speaker would have put it to 118dB @ 4 meters.  That is insane levels; levels no listener would ever realistically need.  At this end of things you could hear the compression creeping in but this was also fullrange.  When I had implemented a high-pass filter with these speakers set at 80Hz (as you likely would when using a subwoofer) then the low-frequency distortion was freed up and the output was super-clean (that is a technical term, sarcasm).  Imagine having that much dynamic range on tap.  Crazy.
 * Speaking of low end, the bass extension was enough for the majority of my music (I love me some good 80's synth-pop) but, yea, you'd need a subwoofer for varied genres and certainly movies with LFE.  I can't imagine a customer or venue that would have a bunch of these but not also have some extremely large subwoofer cabinets with high efficiency subwoofers flanking the mains.
-* "Out of the box" the tonality was not to my liking.  The midrange was "thin" and the upper bass was a bit boomy.  Looking at the data, I made some EQ adjustments: -3dB @ 250Hz and -3dB @ 1100Hz on a basic graphic equalizer.  Much better.  Now the midrange wasn't overshadowed by these frequencies and the overall tonality was more neutral.  Still, not perfect.  Though, honestly, I don't expect people to buy this particular speaker for home audio use.  I know they have.  But I think Danley has better offerings if that is your goal (the SM-60 as I mentioned previously... or you can go full-tilt and get their incredible-sounding [Danley Hyperion](https://tomdanley.com/hyperion/) speaker I was able to demo (linked below)).
+* "Out of the box" the tonality was not to my liking.  The midrange was "thin" and the upper midbass was a bit boomy.  Looking at the data, I made some EQ adjustments: -3dB @ 250Hz and -3dB @ 1100Hz on a basic graphic equalizer.  Much better.  Now the midrange wasn't overshadowed by these frequencies and the overall tonality was more neutral.  Still, not perfect.  Though, honestly, I don't expect people to buy this particular speaker for home audio use.  I know they have.  But I think Danley has better offerings if that is your goal (the SM-60 as I mentioned previously... or you can go full-tilt and get their incredible-sounding [Danley Hyperion](https://tomdanley.com/hyperion/) speaker I was able to demo (linked below)).
 * Acoustically, the thing that really impressed me about this speaker was the depth of the soundstage.  Once again, coaxially mounted speaker does a great job at this.  But even in mono, the depth of the soundstage of this speaker was unlike nothing I have heard before.
 * The radiation pattern is quite narrow but well controlled.  Once you go beyond about 30° to the side or above/below the speaker, the SPL drops off.
 
