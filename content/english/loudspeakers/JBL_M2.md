@@ -221,6 +221,12 @@ Harmonic Distortion at 96dB @ 1m:
 
 <br><br>
 
+### Near Field Measurements
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/waw7ro89gyfkqg7/JBL%20M2%20Nearfield%20DriverPorts%20Measurement%20%28~2cm%20from%20DUT%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br><br>
+
 ### Woofer Impedance Testing
 
 I noticed the resonance in the SPIN data and this made me curious what was going on.  I measured the impedance of the woofer in the enclosure and then removed the woofer from the enclosure and measured the raw woofer impedance.  As you can see, the enclosure is responsible for a resonance around 270Hz (I presume this is a standing wave as the frequency is roughly equivalent to the height of the enclosure).  There is another resonance that is in the woofer itself centered around 400-500Hz; I presume this to be cone edge/surround resonance.  This is responsible for the dip you see in the frequency response at this frequency.
@@ -279,6 +285,8 @@ The red and blue lines represent changes in the output compared to the initial "
 
 
 ## Parting / Random Thoughts
+
+If you don't care about my subjective evaluation because it is sighted, you might be interested in this thread over on AVSforum where John Schuermann (owner of [The Screening Room A/V](https://www.thescreeningroomav.com/) in Colorado Springs, CO) hosted a double-blind comparison listening test between the JBL M2 and the Revel Salon2 speakers.  It's a lengthy thread but there are some real gems in there with discussion from the panelists as well as from Dr. Floyd Toole.  The results discussion starts [here](https://www.avsforum.com/threads/speaker-shootout-two-of-the-most-accurate-and-well-reviewed-speakers-ever-made.2907816/page-18#post-54628832).
 
 If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
 
