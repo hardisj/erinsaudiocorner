@@ -229,7 +229,7 @@ Harmonic Distortion at 96dB @ 1m:
 
 ### Woofer Impedance Testing
 
-I noticed the resonance in the SPIN data and this made me curious what was going on.  I measured the impedance of the woofer in the enclosure and then removed the woofer from the enclosure and measured the raw woofer impedance.  As you can see, the enclosure is responsible for a resonance around 270Hz (I presume this is a standing wave as the frequency is roughly equivalent to the height of the enclosure).  There is another resonance that is in the woofer itself centered around 400-500Hz; I presume this to be cone edge/surround resonance.  This is responsible for the dip you see in the frequency response at this frequency.
+I noticed the resonance in the SPIN data and this made me curious what was going on.  I first performed a near field measurement of the woofer with and without the grille.  The results showed no difference in this region (meaning, the grille wasn't the cause).  So I measured the impedance of the woofer in the enclosure and then removed the woofer from the enclosure and measured the raw woofer impedance.  As you can see, the enclosure is responsible for a resonance around 270Hz (I presume this is a standing wave as the frequency is roughly equivalent to the height of the enclosure).  There is another resonance that is in the woofer itself centered around 400-500Hz; I presume this to be cone edge/surround resonance.  This is responsible for the dip you see in the frequency response at this frequency.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/ygttlmrzlw4tn4y/JBL%20M2%20Impedance%20Woofer.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
