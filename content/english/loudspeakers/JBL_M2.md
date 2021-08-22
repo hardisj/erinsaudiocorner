@@ -1,6 +1,6 @@
 ---
 title: "JBL M2 Master Reference Monitor"
-date: 2020-08-15
+date: 2021-08-21
 draft: false
 image: "https://dl.dropboxusercontent.com/s/p8ugaxic3p548pi/DSC02251.JPG?dl=0"
 description : "JBL M2 Master Reference Monitor"
