@@ -222,8 +222,6 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 <br>
 
-Based on my results above, it is obvious the output is limited (via internal DSP) somewhere above the 96dB @ 1m output level.
-
 <br><br>
 
 ### Long Term Compression Tests
