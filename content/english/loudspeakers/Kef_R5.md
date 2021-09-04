@@ -246,7 +246,7 @@ The red and blue lines represent changes in the output compared to the initial "
 
 ## Parting / Random Thoughts
 
-As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
+As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.  I'm on a severe time crunch and just don't have the time to give the rundown right now.
 <br>
 <br>
 <br>
