@@ -272,7 +272,7 @@ The max output volume is about 90dB at 4 meters.  These speakers are excellent b
 
 The wireless capability of these is one that I adore.  It is so nice to be able to sit down on the couch and stream music (lossless, through whatever service you care for, really) to these directly.  It made my listening session better because there was no need to turn on different pieces of gear and have volume control on different devices.  For those who want to pair these with a TV or computer, you can.  But, again, for me the payoff is being able to plug these into a wall and then start streaming.  Setup was easy.  DSP settings are at your fingertips and you can even control a separate subwoofer(s) directly from the Kef Connect app which makes dialing in the crossover frequency and subwoofer level easy and straightforward.
 
-With the SPL and low-frequency limitations in mind, I do very much like this speaker.  I think it is a fine 'lifestyle' speaker for someone who wants a mostly neutral speaker (other than the dip in the 1-3kHz region) and a very deep soundstage.  Width of soundstage could be wider but if you have a smaller room that is untreated, this may work to your advantage as the direct to reflected ratio is reasonably high and the off-axis response mimics the direct sound quite well.  It's an expensive speaker set, sure.  But if you're looking at this review and considering them, I have no problem giving them a recommendation as long as you are realistic about the SPL levels and the bass output below 50Hz. 
+With the SPL and low-frequency limitations in mind, I do very much like this speaker.  I think it is a fine 'lifestyle' speaker for someone who wants a mostly neutral speaker (other than the dip in the 1-3kHz region) and a very deep soundstage.  Width of soundstage could be wider but if you have a smaller room that is untreated, this may work to your advantage as the direct to reflected ratio is reasonably high and the off-axis response mimics the direct sound quite well.  It's an expensive speaker set, sure.  But if you're looking at this review and considering them, I have no problem giving them a recommendation as long as you are realistic about the SPL levels and the bass output below 50Hz.
 <br>
 <br>
 <br>
@@ -286,7 +286,18 @@ Your support helps me pay for new items to test, hardware, miscellaneous items a
 
 Alternatively, if you plan to purchase these speakers, please consider using my Amazon affiliate link below as it helps me gain a small (4%) commission at no additional cost to you.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=medlemusin-20&language=en_US&marketplace=amazon&region=US&placement=B08JQPPB9F&asins=B08JQPPB9F&linkId=19ddf05936d504285aaa9a78fe58b28b&show_border=true&link_opens_in_new_window=true"></iframe>
+<script type="text/javascript">
+amzn_assoc_tracking_id = "medlemusin-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B08JQPPB9F";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "7c22575930d01d2b64f513024ce97efc";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <br>
 <br>
