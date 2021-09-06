@@ -1,6 +1,6 @@
 ---
 title: "Kef LS50 Wireless II Speaker Review"
-date: 2020-08-31
+date: 2021-09-06
 draft: false
 image: "https://dl.dropboxusercontent.com/s/eo29dfe189k7679/DSC02237.JPG?dl=0"
 description : "Kef LS50 Wireless II Speaker Review"
@@ -11,7 +11,7 @@ Tags: ["Kef", "LS50 Wireless II", "Klippel", "Review", "Speaker", "loudspeaker",
 ## Foreword / YouTube Video Review
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ryxm7pPyU9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -280,11 +280,19 @@ With the SPL and low-frequency limitations in mind, I do very much like this spe
 
 # Support the Cause
 
-If you like what you see here and want to help support the cause you might be interested in joining my Patreon, [here](https://www.patreon.com/erinsaudiocorner).  You can also contribute via PayPal (the big yellow button below).
+If you like what you see here and want to help support the cause there are a few ways you can do so:
+* Join my Patreon [here](https://www.patreon.com/erinsaudiocorner).
+* Contribute via PayPal [here](https://www.paypal.com/donate?hosted_button_id=CLHSW4L9SBSLY).
+* Using my Amazon affiliate link below as it helps me gain a small commission at no additional cost to you.
 
 Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
-Alternatively, if you plan to purchase these speakers, please consider using my Amazon affiliate link below as it helps me gain a small (4%) commission at no additional cost to you.
+
+
+<br>
+<br>
+
+You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
 
 <script type="text/javascript">
 amzn_assoc_tracking_id = "medlemusin-20";
@@ -298,24 +306,3 @@ amzn_assoc_placement = "adunit";
 amzn_assoc_linkid = "7c22575930d01d2b64f513024ce97efc";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
-
-<br>
-<br>
-
-You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
-
-
-
-</details>
-
-
-<br>
-<center>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="52ANEATKE6JHQ" />
-<input type="image" src="https://www.dcrc.co/wp-content/uploads/2016/06/PayPal-Donate-Button-PNG-HD-300x103.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-<br></br>
-</center>

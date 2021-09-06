@@ -316,24 +316,29 @@ I now understand the "hype" over this speaker and believe it is warranted.  Pref
 
 # Support the Cause
 
-If you like what you see here and want to help support the cause you might be interested in joining my Patreon, [here](https://www.patreon.com/erinsaudiocorner).  You can also contribute via PayPal (the big yellow button below).
+If you like what you see here and want to help support the cause there are a few ways you can do so:
+* Join my Patreon [here](https://www.patreon.com/erinsaudiocorner).
+* Contribute via PayPal [here](https://www.paypal.com/donate?hosted_button_id=CLHSW4L9SBSLY).
+* Using my Amazon affiliate link below as it helps me gain a small commission at no additional cost to you.
 
 Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
-You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you would like to follow along with updates.
-
-
-
-</details>
 
 
 <br>
-<center>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="52ANEATKE6JHQ" />
-<input type="image" src="https://www.dcrc.co/wp-content/uploads/2016/06/PayPal-Donate-Button-PNG-HD-300x103.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-<br></br>
-</center>
+<br>
+
+You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
+
+<script type="text/javascript">
+amzn_assoc_tracking_id = "medlemusin-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B0060IG3R0";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "2c2b7714cd9b0eee2eadb9c14c7eb0ce";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
