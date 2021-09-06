@@ -295,11 +295,15 @@ As stated in the Foreword, this written review is purposely a cliff's notes vers
 
 # Support the Cause
 
-If you like what you see here and want to help support the cause you might be interested in joining my Patreon, [here](https://www.patreon.com/erinsaudiocorner).  You can also contribute via PayPal (the big yellow button below).
+If you like what you see here and want to help support the cause there are a few ways you can do so:
+* Join my Patreon [here](https://www.patreon.com/erinsaudiocorner).
+* Contribute via PayPal [here](https://www.paypal.com/donate?hosted_button_id=CLHSW4L9SBSLY).
+* Using my Amazon affiliate link below as it helps me gain a small commission at no additional cost to you.
 
 Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
-Alternatively, if you plan to purchase these speakers please consider using my Amazon affiliate link below as it helps me gain a small (4%) commission at no additional cost to you.  If you are interested in a subwoofer, I'll throw some affiliate links for the SVS subwoofers I used.  The SB-3000 might be overkill for most.  I found the SB-2000 Pro to be ample.  But, if you do tend to listen at high levels and/or want very LFE, then the SB-3000 is the better option.  I truly believe this combo is a great value and excellent step in to (relatively) budget-friendly hi-fi music.  And that holds true even if you don't use my affiliate links.
+You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
+
 <script type="text/javascript">
 amzn_assoc_tracking_id = "medlemusin-20";
 amzn_assoc_ad_mode = "manual";
@@ -345,19 +349,3 @@ amzn_assoc_linkid = "d98a9e59dd9e9a3d07449a55d646cfb4";
 <br>
 
 You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
-
-
-
-</details>
-
-
-<br>
-<center>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="52ANEATKE6JHQ" />
-<input type="image" src="https://www.dcrc.co/wp-content/uploads/2016/06/PayPal-Donate-Button-PNG-HD-300x103.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-<br></br>
-</center>
