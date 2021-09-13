@@ -1,6 +1,6 @@
 ---
 title: "Kef R5 Floorstanding Speaker Review"
-date: 2020-08-31
+date: 2021-09-13
 draft: false
 image: "https://dl.dropboxusercontent.com/s/x3lqpez10695c9x/DSC02283.JPG?dl=0"
 description : "Kef R5 Floorstanding Speaker Review"
@@ -11,6 +11,7 @@ Tags: ["Kef", "R5", "Klippel", "Review", "Speaker", "loudspeaker", "concentric",
 ## Foreword / YouTube Video Review
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6oCN4iawV4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <br>
