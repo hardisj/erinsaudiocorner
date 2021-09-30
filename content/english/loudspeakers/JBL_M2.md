@@ -323,8 +323,6 @@ If you like what you see here and want to help support the cause there are a few
 
 Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
-
-
 <br>
 <br>
 
