@@ -1,21 +1,17 @@
 ---
-title: "Klipsch Heresy IV Review (Redux!)"
-date: 2021-09-29
+title: "Klipsch Forte IV Review"
+date: 2021-10-02
 draft: false
-image: "https://dl.dropboxusercontent.com/s/pdsukuag6s3c8pa/DSC07177.JPG?dl=0"
-description : "Klipsch Heresy IV Review"
-Tags: ["Klipsch", "Heresy IV", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Klipsch center channel"]
+image: "https://dl.dropboxusercontent.com/s/tc94nkll7twgioz/DSC02302.JPG?dl=0"
+description : "Klipsch Forte IV Review"
+Tags: ["Klipsch", "Forte IV", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Klipsch center channel"]
 ---
 
 
 ## Foreword / YouTube Video Review
-Note 1:  I reviewed this speaker approximately a year ago using quasi-anechoic methods.  I am re-reviewing the speaker with Klippel's Near Field Scanner and have removed my old review as to not cause any confusion between the new and "old" dataset.  However, the old data was within acceptable error and would be suitable to use if not for the new data's higher resolution and accuracy.
-
-Note 2:  These speakers were loaned to me by their owner.
+Note:  These speakers were loaned to me by a viewer in brand new in box condition.  Multi-tone stimulus was played through these speakers for about 3 days' time before listening/testing (not that I personally think it is needed but to calm anyone's concerns about "break in").
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fRku8ACgVSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -27,39 +23,34 @@ The review on this website is a brief overview and summary of the objective perf
 ## Information and Photos
 
 Some specs from the manufacturer:
->* All-new K-702 midrange compression driver, featuring a polyimide diaphragm, for exceptional detail
->* For the first time, the Heresy IV features a rear port for the most efficient, fastest air transfer in their class, which reduces port noise for punchier low frequencies
->* K-702 midrange is mated to the K-704 Tractrix® horn for a wide coverage pattern
->* K-107-TI titanium diaphragm high-frequency driver with an all-new wide dispersion phase plug for providing exceptionally even high-frequency dispersion
->* All-new high fidelity network for truer to life sound, best-in-class efficiency, and power handling
->* Klipsch Tractrix ports have custom designed inner flares that help reduce air turbulence entering the port. Less turbulent air helps reduce port noise for cleaner, more powerful bass
->* Available in a high-quality Satin Black Ash, Natural Cherry, Distressed Oak, or American Walnut wood veneer finish
->* Designed & assembled in the USA
+>* Product highlights:
+>* matched pair of floor-standing speakers
+>* designed and hand-built in Hope, Arkansas
+>* three-way design with passive radiator
+>* frequency response: 38-20,000 Hz (±3dB)
+>* power handling: 100 watts (400 watts peak)
+>* sensitivity: 99 dB
+>* nominal impedance: 8 ohms
+>* tweeter: 1" titanium-diaphragm compression driver with horn-loaded design
+>* midrange: 1-3/4" titanium-diaphragm compression driver with horn-loaded design
+>* woofer: 12" fiber-composite cone
+>* 15" passive bass radiator reinforces low-frequency output
+>* The crossover points are 5.2kHz and 650Hz
+>* book-matched real American walnut wood veneer finish
+>* veneer leaves for the left and right speakers are crafted from the same piece of timber
+>* they're precisely arranged to provide an aesthetically pleasing "mirror" image at the splice
+>* includes removable Salt and Pepper cloth grille
+>* dual gold-plated speaker binding posts allow bi-amping or and bi-wiring
+>* 16-1/2"W x 36"H x 13"D (each)
+>* weight: 72 lbs. (each)
+>* warranty: 10 years
 
 
-Price is approximately $3200 USD for the pair.
+Price is approximately $5000 USD for the pair.
 
 If you are interested in purchasing this speaker, please consider using the following affiliate link which earns me a small commission at no additional cost to you:
-[Just-Audio.com](https://shopjustaudio.com/products/klipsch-hersey-iv-floor-standing-speaker?_pos=1&_sid=9342478ff&_ss=r&&sca_ref=1114633.NapgkxGXoR)
+[Just-Audio.com](https://shopjustaudio.com/products/klipsch-forte-iv?_pos=1&_sid=fd2078df5&_ss=r&&sca_ref=1114633.NapgkxGXoR)
 
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/rw4ke2ac5kq9q73/DSC07176.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/77mhualz4cukg6e/DSC07180.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/ha4xxfwdedji885/DSC07183.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/j8sojirzn4kycqx/DSC07223.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/9aynpwwglwmfr4y/DSC07229_zoom.jpg?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<br>
 <br>
 <br>
 <br>
@@ -75,11 +66,6 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 
 The reference plane in this test is at the tweeter*.
 Testing was performed without the grille.
-
-*I verified with Klipsch that this was the correct design axis:
->You may use the speakers with the built in stand, they are designed to be angled upward a little so they reach your listening perspective properly. Arranging Speakers for Best Sound
-this article could be helpful as well.
-
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -105,7 +91,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/s435ikx4eeceu0l/CEA2034%20--%20Klipsch%20Heresy%20IV.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/hku18ytas3a60z1/CEA2034%20--%20Klipsch%20Forte%20IV.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -124,7 +110,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/5khteqa6syh4cht/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/32q5d1qghjs9ju8/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -137,44 +123,44 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/k3m3fk0g6aa7pzu/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/48frhun176ho1m8/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/m199q0jxms2qab8/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8kqvg3i6p28atle/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/egpypfpag1ntsk5/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/myna4ap7fq09hi6/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/hs5fs6ntae6enzz/Klipsch%20Heresy%20IV%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/s7pn2uppqwvm62h/Klipsch%20Forte%20IV%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/nfe282giepvp7nf/Klipsch%20Heresy%20IV%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/jmo5f6hxitskl2d/Klipsch%20Forte%20IV%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/vjbzmykab46kjx3/Klipsch%20Heresy%20IV%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/bkv8vl9mclk73pm/Klipsch%20Forte%20IV%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/qhilawf0otspc6m/Klipsch%20Heresy%20IV%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/y1g35403k3q6ljp/Klipsch%20Forte%20IV%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/f4p4eb9r1pzzbpq/Klipsch%20Heresy%20IV%20%28NFS%20Data%29_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/yk1m6a3ck87ozri/Klipsch%20Forte%20IV_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/tp9cnbm4d7a1hnu/Klipsch%20Heresy%20IV%20%28NFS%20Data%29_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/4y5ylqchtct9vs7/Klipsch%20Forte%20IV_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -189,7 +175,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### On-Axis Response Linearity
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/awcstf7xxm5zv6o/Klipsch%20Heresy%20IV%20%28NFS%20Data%29%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/esc052rriq2jvmm/Klipsch%20Forte%20IV%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -203,20 +189,20 @@ A note from Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculatin
 <br>
 >Just a note of caution that the EPDR derivation is based on a class-B output stage so it's valid for typical class-AB amps but certainly not for class-A and probably has only marginal relevance for class-D amps (would love to hear from a class-D expert on this topic).
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/i8lf0lc433bpc3r/Klipsch%20Heresy%20IV%20%28NFS%20Data%29_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/v07ntdqnqjomu5o/Klipsch%20Forte%20IV_Impedance_0.1v.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 
 ### Group Delay (smoothed to 1/3-octave)
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/249nc889zy1r3wt/Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/rdxgupnlhfypuej/Klipsch%20Forte%20IV%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/uuvz5gg1042izgg/Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3xhexnt9idetzhf/Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -224,7 +210,7 @@ A note from Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculatin
 ### Near-Field Response
 
 Nearfield response of individual drive units:
-<img align="left" src="https://dl.dropboxusercontent.com/s/s8mw6p9tfmo5cwy/Klipsch%20Component%20Measurements.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ldjcnqbipmawxrw/Klipsch%20Forte%20IV%20Nearfield%20Components%20Measurements.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -234,11 +220,11 @@ Nearfield response of individual drive units:
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/x1ssv3d3eq39z3n/Klipsch%20Heresy%20IV%20--%20Harmonic%20Distortion%2086dB%20%40%201m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/u2ltve1yizs12pa/Klipsch%20Forte%20IV%20Harmonic%20Distortion%2086dB%20%40%201m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/s2admb3tmiuh28a/Klipsch%20Heresy%20IV%20--%20Harmonic%20Distortion%2096dB%20%40%201m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/omkpj1kr8o5x50j/Klipsch%20Forte%20IV%20Harmonic%20Distortion%2096dB%20%40%201m.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -260,7 +246,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/killxjvy4i0n5e3/Klipsch%20Heresy%20IV%20%28NFS%20Data%29_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/50ohdqmir1fteoi/Klipsch%20Forte%20IV_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -282,34 +268,26 @@ The tests are conducted in this fashion:
 The red and blue lines represent changes in the output compared to the initial "cold" test.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/uvxi7qwni3ps016/Klipsch%20Heresy%20IV%20%28NFS%20Data%29_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ifnnlb8hd08smt2/Klipsch%20Forte%20IV_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ppw5hv1bx6049rv/Klipsch%20Heresy%20IV%20%28NFS%20Data%29_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/j4iygt9401smeas/Klipsch%20Forte%20IV_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-<br><br>
+
+
+<br>
+<br>
 
 ### Cumulative Spectral Decay (CSD)
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/y227gp4vqckf14k/Cumulative%20spectral%20decay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/1j4mm457no385rp/Cumulative%20spectral%20decay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
-
-
-## Grille Effect
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/3gar7s5ow88iif3/with_without_grille.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<br>
-<br>
-<br>
-<br>
 
 ## In-Room Response vs Prediction
 
 Below is a set of measurements comparing the in-room measured response (using the moving microphone method) vs the predicted in-room response.
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/8nltod5vw1gyicz/PIR%20vs%20MIR.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/5s3o9e9ai6h3558/PIR%20vs%20MIR.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -331,13 +309,23 @@ Talk to your favorite hi-fi dealer for more specific recommendations.
 
 Under their advisement, I listened to these speakers using a [Parasound HINT-6](https://shopjustaudio.com/products/parasound-hint-6-halo-integrated-amplifier-new?sca_ref=1114633.NapgkxGXoR) (note: affiliate link) which was recommended to me by a Klipsch dealer.
 
-Look, the simple story here is I do not like this speaker.  I do not care for how it sounds for a number of reasons but to name a few:
-1) the numerous resonances throughout the low/midrange thanks to standing waves and/or port (notably, the two at ~120Hz and ~160Hz made lower male vocals very, very "boomy") (what appears to be a cone breakup mode ~600Hz).
-2) Very poor directivity control.  As one driver hands off to the other (i.e., woofer to midrange), the crossover network does not make for a smooth integration off-axis which results in strong room coloration and very poor timbre matching from the direct (on-axis) sound to that of the reflected (off-axis) sound; muddying up not only the tonality but also causing the images in the soundstage to move about in a non-cohesive way.
-3) The midrange dip from 100-400Hz tends to make male and female vocal fundamentals sound "thin" but are juxtaposed with the aforementioned resonances.
-4) Little to no bass, even in room against a wall (as evidenced via my in-room measurements).
 
-I know there is a core group of people who like this speaker.  I'm not in that group.  If you like it, don't let my words discourage you.  Rather, use this data as a guide to help you understand *what it is* you like about this speaker, in the same manner I used it to help me identify things I did not like when I auditioned them.  As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
+
+
+I did some research after I listened to and measured these speakers.  I found this quote on [Klipsch's product page](https://www.klipsch.com/blog/klipsch-notes-forte-iv-loudspeaker-q-a) noteworthy:
+> And of course, steep slope networks. Continuing the work of Paul W Klipsch, minimizing the interference band between drivers, the network of the Forte IV follows the form like the Heresy IV and Cornwall IV. One thing to note is this is a network, not a crossover. Mr. Klipsch made sure the difference was understood. A network not only provides crossover frequencies but also provides gain adjustments for the drivers, equalization of the drivers, and then adjusts the components of the network in order to provide maximum gain at the acoustic crossover. And that beyond acoustic crossover, there is a minimum to zero amplitude to affect the frequency response.”
+
+While the high-pass filters are indeed "steep" slopes (relatively speaking), the low-pass filters are *not*.  Both the midwoofer and the midrange show evidence of shallow low-pass slopes, something that makes itself evident in the nearfield data and contrasts the quoted portion regarding "*...there is a minimum to zero amplitude to affect the frequency response*":
+1) the directivity dip in the 800Hz to 2kHz region
+2) compression data visible by the 1dB compression at 102dB at about 700Hz.  Now, to be fair, this isn't the end of the world... BUT given many will likely lean into these speakers output-wise, it's worth noting that this is indeed a limitation in output capability as the response is altered as the volume changes.
+
+I found that the best placement for these speakers in my room was with them moved out from the rear wall by about 3 feet.  Placing them closer to the wall actually resulted in less bass, to my surprise.
+
+The soundstage width on these speakers was really quite pleasant.  It really seemed noticeably wider than with the Heresy IV speakers I had reviewed recently, though, the data doesn't show a striking difference.  However, when comparing the beamwidth, you can see that in the 500-1kHz region there are points where the Forte IV's horizontal radiation pattern is about ±20° wider than that of the Heresy IV.
+
+The overall tonality of this speaker wasn't terrible to my ears but could use some work.  If anything, and it sounds atypical of the standard "Klipsch sound", I would say these speakers are a bit too subdued in the upper midrange/lower treble (2kHz to 4kHz area).  However, as evidenced by the directivity index data, this area can actually be boosted a bit via EQ and made to sound better (to my ears, at least).
+
+As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
 <br>
 <br>
 <br>
