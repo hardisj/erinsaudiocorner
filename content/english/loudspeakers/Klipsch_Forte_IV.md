@@ -11,7 +11,11 @@ Tags: ["Klipsch", "Forte IV", "Klippel", "Review", "Speaker", "loudspeaker", "co
 ## Foreword / YouTube Video Review
 Note:  These speakers were loaned to me by a viewer in brand new in box condition.  Multi-tone stimulus was played through these speakers for about 3 days' time before listening/testing (not that I personally think it is needed but to calm anyone's concerns about "break in").
 
+If you are interested in seeing my review of the Klipsch Heresy IV click [this link](https://www.erinsaudiocorner.com/loudspeakers/klipsch_heresy_iv/).
+
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IZPc1tl1aPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

@@ -13,6 +13,9 @@ Note 1:  I reviewed this speaker approximately a year ago using quasi-anechoic m
 
 Note 2:  These speakers were loaned to me by their owner.
 
+If you are interested in seeing my review of the Klipsch Forte IV click [this link](https://www.erinsaudiocorner.com/loudspeakers/klipsch_forte_iv//).
+
+
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fRku8ACgVSc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
