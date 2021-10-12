@@ -14,9 +14,6 @@ These speakers were loaned to me by their owner who had them dropped shipped to 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
 
-
-
-
 <br>
 <br>
 <br>
