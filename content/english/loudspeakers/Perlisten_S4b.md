@@ -37,6 +37,12 @@ Price is approximately $8000 USD for the pair in this finish with limited editio
 <img align="left" src="https://dl.dropboxusercontent.com/s/pn5kva4w5jav85c/DSC02426.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
+<img align="left" src="https://dl.dropboxusercontent.com/s/xnorbqjcidye5mc/DSC02442.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/dncquq8yg8tflp9/DSC02446.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
 <br>
 <br>
 <br>
@@ -196,12 +202,22 @@ A note from Dr. Jack Oclee-Brown of Kef (who supplied the formula for calculatin
 ### Near-Field Response
 
 Nearfield response of individual drive units:
-<img align="left" src="https://dl.dropboxusercontent.com/s/fgxi77aecbjonuj/Perlisten%20S4b%20Nearfield%20Components%20Measurements%20%28~30mm%20Distance%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/1oe4b17x11usabh/Components%20Nearfield%20Measurements%20%28_40mm%20from%20baffle%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 <br>
 <br>
+
+### Waveguide Tweeter/Midrange Array Individual impedance
+
+Nearfield response of individual drive units:
+<img align="left" src="https://dl.dropboxusercontent.com/s/4iiwimdqlyfsqvn/Perlisten%20S4b%20Waveguide%20Assembly%20Components%27%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+<br>
+<br>
+
 
 ### Harmonic Distortion
 
@@ -271,16 +287,20 @@ The red and blue lines represent changes in the output compared to the initial "
 If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
 
 I always listen to speakers before I measure them.  This ensures I am not swayed by the measurements before I listen.  I then work to find correlations between what I heard subjectively and what I see in the data and repeat the process of listening again.
-* The midrange clarity is unrivaled by any speaker I have heard to date.  For example: In Matchbox Twenty's "Real World", the snare had a distinct wall bounce in the recording that I had not noticed before.  I actually used a few other speakers on hand to see if I could hear this same event but none managed to provide that same distinct sound.  I cannot state with certainty what might be the factor for this.  However, I do wonder if the narrow vertical directivity is one such factor (or even *the* factor).  The majority of speakers I have heard thus far generally exhibit a vertical radiation pattern in the neighborhood of ±40 to ±50°.  The Perlisten S4b, however, has a radiation pattern from ±20° ±30°.  In the same vein that a narrower horizontal radiation pattern typically yields more focused imaging, I can't help but wonder if the S4b's reduction in vertical radiation yields a more focused soundstage.  Given speakers are a very complex thing, it's hard to determine exactly what may have led to what I heard but that's my gut feeling on this subjective takeaway.  It is my opinion that this is the sole factor that separates this speaker from any other speaker I have heard.  Whether or not that is enough for someone to justify the price, however, is something I cannot say.
+* The midrange clarity is unrivaled by any speaker I have heard to date.  For example: In Matchbox Twenty's "Real World", the snare had a distinct wall bounce in the recording that I had not noticed before.  I actually used a few other speakers on hand to see if I could hear this same event but none managed to provide that same distinct sound.  I cannot state with certainty what might be the factor for this.  However, I do wonder if the narrow vertical directivity is one such factor (or even *the* factor).  The majority of speakers I have heard thus far generally exhibit a vertical radiation pattern in the neighborhood of ±40 to ±50°.  The Perlisten S4b, however, has a radiation pattern from ±20° ±30° thanks to the tweeter/midrange waveguide assembly.  The center-to-center spacing of the midrange drivers is approximately 103mm which yields a beaming point of approximately 850Hz (using 1/4-wave; or ~1700Hz using 1/2-wave).  The use of this vertical array with smaller drivers could, in some ways, be considered like a ribbon tweeter where the narrow width allows wider horizontal directivity but the taller height limits the vertical radiation.  This is seen in the vertical contour plot as the beamwidth decreases from about ±80° to ±30° from ~700Hz to ~1600Hz. In the same vein that a narrower horizontal radiation pattern typically yields more focused imaging, I can't help but wonder if the S4b's reduction in vertical radiation yields a more focused soundstage.  Given speakers are a very complex thing, it's hard to determine exactly what may have led to what I heard but that's my gut feeling on this subjective takeaway.  It is my opinion that this is the sole factor that separates this speaker from any other speaker I have heard.  Whether or not that is enough for someone to justify the price, however, is something I cannot say.
+* Speaking of directivity, the horizontal radiation is very well controlled, maintaining a ±50° dispersion pattern as the midwoofer hands off to the tweeter at approximately 1kHz.  The soundstage was reasonably wide - though, not as wide as other speakers I have reviewed - but wide enough that I wouldn't consider it a detriment.
 * In terms of output, I managed to get these speakers to approximately 100dB at about 3.5 meters listening distance, playing full range (without a high-pass crossover).  Above this output level, however, the woofer would "pop".  Notably, I heard this with Dire Straits' "Money For Nothin".  A proper high-pass filter (when paired with subs) eliminates this and allows for additional output.
 * Bass notes stood right up in the soundstage and were distinct as I'd ever noticed before.  There was no bloom or wander to these notes; they were as stable as I'd expect them to be.
 * The directivity index is really remarkable, showing a nice linear increase above the midrange with only a few very minor points where the linearity would shift ever-so-slightly.  Comparing this to other speakers I have measured, I'd say this might be the best I have measured thus far.  It performs better than the LS50 Wireless II (which features a single coincident driver).  The only other speaker this compares to in regard to the early reflections directivity index is the [Dutch & Dutch 8C](https://www.erinsaudiocorner.com/loudspeakers/dutch_dutch_8c/).  It is worth noting the DD8C is also one of the best speakers I have ever heard but is a fully active speaker where this Perlisten is passive.
 * The bass of the S4b does not extend low and necessitates the use of a subwoofer if one plans to use this speaker as the anchor in a front stage setup (i.e., 2-channel or multi-channel front speakers).  Therefore, it's not exactly an easy "sell" given the price tag.  That's my only real gripe here.  However, this speaker does not pretend to be full-range and the manufacturer makes no such claim.  In fact, the following quote comes from the manufacturer’s spec sheet:
 <br>*Great for use in 2.1 systems or any channel of theater system utilizing subwoofers.*
+When properly integrated with a subwoofer this concern would be moot and I'd be left with something phenomenal, for sure.  For further thought, consider this: while many ported cabinets exhibit a lower F3, they have with a steeper rolloff, yielding a higher F10.  With the design goal of these speakers being intended to be used with a subwoofer, the sealed design should make it a bit easier to do so and room placement will naturally increase the low end.  I'm not saying I wouldn't want lower bass extension ... I am just providing some thought into the design goal of this particular speaker with respect to low frequency extension.
 * The sealed design allows more flexibility with placement.  While I found the best location for them was set out in my room, you do get the benefit of bass boost when placed closer to a boundary and they do respond to that.  It is necessary to experiment with placement in your room to get the best response you can for your needs.
 * The +3dB peak at approximately 10kHz was not something I found noticeable in my initial round of listening.  That said, I did not specifically go back and listen for music with this knowledge in mind.
 
-Overall, one of the best performing speakers I have seen.  There is a magic in the midrange that is uncanny and was a characteristic that made me tilt my head and go "hold on... let's hear that again" as I went through my library of music.  The bass does not extend as low as *I* would expect given the price and I know that may be a concern for others as well.  However, as stated above, I know that Perlisten encourages listeners to use a subwoofer with this speaker.  When properly integrated with a subwoofer this concern would be moot and I'd be left with something phenomenal, for sure.  For further thought, consider this: while many ported cabinets exhibit a lower F3, they have with a steeper rolloff, yielding a higher F10.  With the design goal of these speakers being intended to be used with a subwoofer, the sealed design should make it a bit easier to do so and room placement will naturally increase the low end.  I'm not saying I wouldn't want lower bass extension ... I am just providing some thought into the design goal of this particular speaker with respect to low frequency extension.
+Overall, one of the best performing speakers I have seen.  There is a magic in the midrange that is uncanny and was a characteristic that made me tilt my head and go "hold on... let's hear that again" as I went through my library of music.
+
+
 
 
 
@@ -295,9 +315,19 @@ As stated in the Foreword, this written review is purposely a cliff's notes vers
 # Support the Cause
 
 I paid for this item to be shipped from the owner - across the country with insurance - to me.  Total shipping round-trip was about $430.  I was happy to pay it so we could get some good data on it.  That said, if you like what you see here and want to help me cover those costs that would be awesome!  There are a few ways you can do so:
-* <a href="https://www.patreon.com/bePatron?u=59439731" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-* <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<a href="https://www.patreon.com/bePatron?u=59439731" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+
+<form action="https://www.paypal.com/donate" method="post" target="_top">
+<input type="hidden" name="hosted_button_id" value="XV7EYYU7S77LE" />
+<input type="image" src="https://i.imgur.com/Z608uUQ.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
+
+
+
 
 
 
