@@ -211,7 +211,6 @@ Nearfield response of individual drive units:
 
 ### Waveguide Tweeter/Midrange Array Individual impedance
 
-Nearfield response of individual drive units:
 <img align="left" src="https://dl.dropboxusercontent.com/s/4iiwimdqlyfsqvn/Perlisten%20S4b%20Waveguide%20Assembly%20Components%27%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>

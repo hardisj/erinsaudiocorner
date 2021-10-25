@@ -1,6 +1,6 @@
 ---
 title: "JBL Stage A120 Review"
-date: 2021-10-12
+date: 2019-10-12
 draft: false
 image: "https://dl.dropboxusercontent.com/s/gekw25orl9pufst/DSC02347.JPG?dl=0"
 description : "JBL Stage A120 Review"
