@@ -121,6 +121,9 @@ Note: Below links are most likely affiliate links which helps me earn a small (~
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDF8uPs5aUQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+10/29/2021:
+Budget 12-inch subwoofer shootout!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eqRGeLBijc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
