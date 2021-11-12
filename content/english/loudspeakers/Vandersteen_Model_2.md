@@ -258,17 +258,18 @@ The red and blue lines represent changes in the output compared to the initial "
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/vjlpe3t97e3gaac/Vandersteen%20Model%202_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-<br><br>
-<br><br>
-<br><br>
 
+<br>
+<br>
 
+### Step Response
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/kjvoy5ke7g4dx56/Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 <br>
 <br>
-
 
 
 ## Parting / Random Thoughts
