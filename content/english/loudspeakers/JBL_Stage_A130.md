@@ -260,12 +260,11 @@ So, I then used my accelerometer to test the cabinet vibration at the side-middl
 
 
 ## Confirmation of Results
-As I mentioned in the opening of this review, my results do not match those of the results provided on AudioScienceReview on the low end and the high end.  This came as a surprise to me and I knew as soon as I saw the results that people were instantly going to question it so to get ahead of the curve (ha!) I proceeded to perform both ground plane testing (to ensure low frequency results accuracy) and gated quasi-anechoic measurements (to ensure high frequency results accuracy).  As you can see below, the ground plane LF response matches the anechoic Klippel results.  The same for the gated HF response.
+As I mentioned in the opening of this review, my results do not match those of the results provided on AudioScienceReview on the low end and the high end.  This came as a surprise to me and - by nature of being "second" - I knew as soon as I saw the results that people were instantly going to question them so to get ahead of the curve (ha!) I proceeded to perform both ground plane testing (to ensure low frequency results accuracy) and gated quasi-anechoic measurements (to ensure high frequency results accuracy).  As you can see below, the ground plane LF response matches the anechoic Klippel results.  The same for the gated HF response.
 
 The speakers received plenty of play time at varying volume before they were measured.  Both speakers' impedance results were the same.
 
-While it is possible the difference is due to measurement error on the part of ASR I *seriously* doubt that is the reason.  Rather, I am more apt to believe the differences are due to unit-to-unit consistency or potentially a model change.  With that said, I've done what I needed to in order to verify the legitimacy of *my* results and that's all I can do.
-
+I know people are going to ask why there are differences.  The truth is, I don't know.  Looking at the ASR impedance data the port tuning of that unit looks to be about 62Hz where my unit shows a tuning frequency of about 65Hz which is fairly negligable.  Additionally, the impedance peaks/frequency are also roughly the same.  I'm not sure why, then, there are pretty signifcant differences in the shape of the response between 80-120Hz.  At this point, I've done what I needed to in order to verify the legitimacy of *my* results and I am satisfied with that.
 
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/4bcz9twjaxu2sr1/JBL%20Stage%20A130%20%28Anechoic%20vs%20Ground%20Plane%20%26%20Quasi-Anechoic%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
