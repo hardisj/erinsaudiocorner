@@ -286,7 +286,7 @@ I 100% get the nostalgia and draw of this speaker.  It's neat.  The fact that yo
 * The soundstage was an odd duck.  I didn't think it was wide or deep in an unconventional way. I found the width to be rather narrow and the positioning of the listener really needs to be directly on axis with the tweeter.  You can go below the tweeter but you can't go above because there is a *lot* of sound lost in the midrange and high frequency.  I wonder how much of this is due to the wood frame.
 * These things need power.  And the sensitivity shows us why.  Though, the impedance is rather benign so a regular old' amp should have no problem driving these.
 
-Overall this was a fun experience and enlightening.  Given the design is 30+ years old, I would really like to see and hear what modern Vandersteen speakers are capable of today.
+Overall this was a fun experience and enlightening.  Given the design is 30+ years old, I would really like to see and hear what modern Vandersteen speakers are capable of today.  I did email Vandersteen a year ago to request a loaner sample of speakers to review but didn't receive a reply (which is kind of the norm so I didn't take offense).  Maybe in the future I will have the opportunity to test modern Vandersteen speakers so keep an eye out... you never know.
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
 <br>
