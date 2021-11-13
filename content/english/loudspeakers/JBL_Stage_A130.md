@@ -58,7 +58,7 @@ The reference plane in this test is at the tweeter.  Testing was performed witho
 
 Note 1: Unlike the JBL Stage A120 [I tested](https://www.erinsaudiocorner.com/loudspeakers/jbl_stage_a120/), the A130 *does not* come with a foam bung to plug the port.  Therefore, all testing was performed with the port open (not stuffed).  *However*, another round of testing was performed with the port stuffed using the bung from the A120 and the results will be clearly identified in the results below near the bottom.
 
-Note 2: This model was tested by AudioScienceReview.  My results in the bass do not match.  I found that odd so I performed additional testing (outdoor ground plane and quasi-anechoic testing) that shows my results for this unit are as expected.  Therefore, I cannot speak to the cause for differences between mine and the ASR results.  I can only attest to the accuracy of my own tests.  This is shown near the bottom as well.
+Note 2: This model was tested by AudioScienceReview.  My results in the bass as well as the high frequency region >~10kHz do not match.  I found that odd so I performed additional testing (outdoor ground plane and quasi-anechoic testing) which shows my SPIN results for this unit are indeed correct.  This is discussed and illustrated near the bottom of this review as well.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
