@@ -30,7 +30,7 @@ I also reviewed the LP-6v2 ([link here](https://www.erinsaudiocorner.com/loudspe
 
 The [Kali LP-8v2](https://www.kaliaudio.com/lone-pine-studio-monitors#Overview-Section-Lone-Pines) is the second generation powered 2-way Studio Monitor featuring a 6.5-inch midwoofer mated to 1-inch dome tweeter in an elliptical waveguide.  The back features a bank of dip switches for boundary settings (discussed later) and basic level adjustments.  There is a volume knob and (3) input options: XLR, TRS and RCA phono.
 
-MSRP for the single speaker is approximately $500 USD for a pair.
+MSRP a single speaker is $250 making it $500 USD for a pair.
 
 Closeup of the back showing DSP settings and input options:
 <img align="left" src="https://dl.dropboxusercontent.com/s/czdc82jdien94gh/DSC02544.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
