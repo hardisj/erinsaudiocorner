@@ -168,7 +168,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### On-Axis Response Linearity
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/0jyl1fhg2pyazhp/JBL%20Stage%20A130%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3a8rhx4l1xvwokd/JBL%20Stage%20A130%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 

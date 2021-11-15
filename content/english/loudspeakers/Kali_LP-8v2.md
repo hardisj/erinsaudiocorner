@@ -1,17 +1,17 @@
 ---
-title: "Kali Audio LP-6v2 (Second Wave) 2-Way Studio Monitor Review"
-date: 2021-10-29
+title: "Kali Audio LP-8v2 (Second Wave) 2-Way Studio Monitor Review"
+date: 2021-11-14
 draft: false
-image: "https://dl.dropboxusercontent.com/s/xk13egjt6q3yq0p/DSC02485.JPG?dl=0"
-description : "Kali Audio LP-6v2 2-Way Studio Monitor Review"
-Tags: ["Kali", "LP-6v2", "Klippel", "Review", "Speaker", "loudspeaker", "studio monitor", "best budget monitors"]
+image: "https://dl.dropboxusercontent.com/s/gljt8rbgjcm890g/DSC02543.JPG?dl=0"
+description : "Kali Audio LP-8v2 2-Way Studio Monitor Review"
+Tags: ["Kali", "LP-8v2", "Klippel", "Review", "Speaker", "loudspeaker", "studio monitor", "best budget monitors"]
 ---
 
 
 ## Foreword / YouTube Video Review
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wj47W9EP4tQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+< coming soon >
 
 For a primer on what the data means, please watch my series of videos where I provide in-depth discussion and examples of how to read the graphics presented hereon.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLnIxFR_ey0b37Ex4KV2mBz-kYB7QLffR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,10 +26,19 @@ For a primer on what the data means, please watch my series of videos where I pr
 
 <br>
 These speakers were loaned to me by Kali Audio for review purposes.  They were not given early access to my review and will see it the same time the public does.
+I also reviewed the LP-6v2 ([link here](https://www.erinsaudiocorner.com/loudspeakers/kali_lp-6v2/)) if you would like to compare the results.
 
-The [Kali LP-6v2](https://www.kaliaudio.com/lone-pine-studio-monitors#Overview-Section-Lone-Pines) is the second generation powered 2-way Studio Monitor featuring a 6.5-inch midwoofer mated to 1-inch dome tweeter in an elliptical waveguide.  The back features a bank of dip switches for boundary settings (discussed later) and basic level adjustments.  There is a volume knob and (3) input options: XLR, TRS and RCA phono.
+The [Kali LP-8v2](https://www.kaliaudio.com/lone-pine-studio-monitors#Overview-Section-Lone-Pines) is the second generation powered 2-way Studio Monitor featuring a 6.5-inch midwoofer mated to 1-inch dome tweeter in an elliptical waveguide.  The back features a bank of dip switches for boundary settings (discussed later) and basic level adjustments.  There is a volume knob and (3) input options: XLR, TRS and RCA phono.
 
-MSRP for the single speaker is approximately $400 USD for a pair.  A pair!
+MSRP for the single speaker is approximately $500 USD for a pair.
+
+Closeup of the back showing DSP settings and input options:
+<img align="left" src="https://dl.dropboxusercontent.com/s/czdc82jdien94gh/DSC02544.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+LP-8v2 (right) compared in size to the LP-6v2 (left):
+<img align="left" src="https://dl.dropboxusercontent.com/s/gnpqp7xydv7579e/DSC02547.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 <br>
 <br>
@@ -74,7 +83,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/pij2eish626nhca/CEA2034%20--%20Kali%20LP-6v2.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/0sdcnkuseqkq1a6/CEA2034%20--%20Kali%20LP-8v2.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -93,7 +102,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/3rwv8pz0vs8bek8/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/sk0vimibamu5xtt/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -106,31 +115,31 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/rpqoami619sh6bv/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/2i8s8zr6qx7068m/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/yuqfwvrfk2enmss/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/bq9ho1drwbqeqnr/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/1z9wo5ltf8827jm/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3cvsm4ni3es35aa/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/4moyjwlwyuhurez/Kali%20LP-6v2%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/k9nmuhfknckowex/Kali%20LP-8v2%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/bz0ij901kerdxtg/Kali%20LP-6v2%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/z86ru1ey2osff2k/Kali%20LP-8v2%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/3pkgam5aecjm8ks/Kali%20LP-6v2%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/qtlnreca2leowon/Kali%20LP-8v2%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/sosjrfn6jx0yxx5/Kali%20LP-6v2%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/dvn4ozdghz7slt2/Kali%20LP-8v2%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -143,7 +152,7 @@ Vertical Contour Plot (normalized):
 
 ### On-Axis Response Linearity
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/z86h1tuq2ryc3ib/Kali%20LP-6v2%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/0by5l8xue464580/Kali%20LP-8v2%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -155,30 +164,30 @@ These plots are generated from exporting the Klippel data to text files.  I then
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/gxe17kxupvzoiw7/Kali%20LP-6v2_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/q4zhblslu1vs8vs/Kali%20LP-8v2_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/10v703111iylx0a/Kali%20LP-6v2_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/je5gnofnzv5cgwx/Kali%20LP-8v2_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/sg89cpico6wbq48/Kali%20LP-6v2%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/1h2ua98hx27nyyz/Kali%20LP-8v2%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/hsqwu1cg3xm0rlv/Kali%20LP-6v2%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/hel51vlk3rfzu0h/Kali%20LP-8v2%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br><br>
 
 ### Near-Field Response
 
 Nearfield response of individual drive units:
-<img align="left" src="https://dl.dropboxusercontent.com/s/faezq3byfptv8l9/Nearfield%20Components%20%28~30mm%20from%20baffle%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/0egkqlk6dlnsnor/Nearfield%20Components%20%28~45mm%20from%20baffle%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br><br>
 
@@ -196,7 +205,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/35g58njazvmnzgy/Kali%20LP-6v2_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/tpsc5lv97z9bgak/Kali%20LP-8v2_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -220,21 +229,12 @@ The tests are conducted in this fashion:
 The red and blue lines represent changes in the output compared to the initial "cold" test.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/27p61wjpovdlnty/Kali%20LP-6v2_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/dajq365b62rlara/Kali%20LP-8v2_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/1djitlgnozwcodl/Kali%20LP-6v2_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-<br><br>
-
-
-### Boundary Settings
-
-
-These speakers come with a set of pre-configured boundary settings that can be enabled easily via the dip switches on the back.  A sampling of the dip switch combinations displayed above are labeled and plotted in the graphic below.
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/p1yewhxyw01cyja/DSP%20Settings.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3wicd21kygb5rph/Kali%20LP-8v2_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
+
 
 
 
@@ -242,15 +242,16 @@ These speakers come with a set of pre-configured boundary settings that can be e
 
 If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
 
-* Subjective listening was primarily at 1.5 meters but varied from 1 to 3 meters.  Subjective listening was conducted at 80-95dB at this distance.  Higher volumes were done simply to test the output capability in case one wants to try to sit further away.
-* The front port means you have more ability to move these speakers in to the prime spot for your needs.  And thanks to the dip switches you have more ability to place the speakers where you need; whether free standing, near a wall or on a console.
-* Really great linearity of -2.51/+1.99dB on-axis.  The treble shows a dip in a couple places (or a bump at 4kHz with an overall recess, otherwise depending on how you look at it).  I found that using an EQ to boost around 8kHz of about 1.5dB added a bit more "air" to some of my favorite tracks and really helped cymbals with a bit more "shimmer".  And with the well-behaved directivity here, the off-axis response plays right along.
-* The bass is really nice and extends down to 50Hz easily, anechoically.  With an F3 of 42Hz, you'll have no issue getting nice punch from kickdrums and .  There are no bass boosts or issues in the bass region that call attention to themselves.  Just neutral response that digs relatively deep.
-* Great horizontal directivity.  Really, really good.  The vertical directivity shows some vertical lobing resulting in a shift in the DI around 1.5 - 2.0kHz.  The Early Reflections *Floor Bounce* and *Ceiling Bounce* data shows this as well and indicates we need to stay on-axis with the reference plane (the tweeter) and that you may want to put some ceiling absorption in place of your studio (floor absorption isn't likely possible).
-* Hiss: I didn't hear any.
-* As for SPL levels, these are marketed as a near/mid-field speaker (recommended listening distance from 0.50 to 2.50 meters).  At this distance, there is no real concern with dynamic range capability.  From 76dB to 96dB at 1 meter the lower bass and midrange linearity decreases by about 1dB.  Above this output level, though, you can expect more limiting of the speaker to protect it, especially in the bass region.  A pair of speakers would put you at around 102dB with respectable linearity.  However, as with nearly every other monitor type speaker I have reviewed thus far, the output isn't there for farfield + high-output listening.  In other words, don't expect to use these as main speakers where you are sitting 12 feet away and wanting to listen at 90dB average.  These are not designed for that and Kali's suggested listening distance is backed up by this data.
+I think this may be best served to construct it as a comparison against the LP-6v2, since I know many will ask about this comparison.
 
-If you're considering these for your mixing needs then just buy them.  The performance is solid.  Even at a higher price.  But at $400, it's an easy recommendation from me.
+Tonally, they are quite similar.  There is more variation of the LP-8v2 in response and the data indicates some resonance in the midrange from about 500Hz to 1kHz.  The on-axis dip draws your eye pretty quickly but... rather to have a dip than a peak, for sure.  I'm not sure the cause of this and I could guess but I won't as that leads to more confusion.  The point is, it's there in the data.  How audible is it?  Well, in some tracks I noted a bit of a chesty sound.  Generally when I say "chesty" I think of the 100-300Hz region but upon applying some EQ to 600Hz with a graphic EQ by -1.5dB, it took the edge off and the issue was gone for me.  This was the only thing that stood out to me in my listening when making a comparison between the LP-6v2.  The bass *extension* is similar enough to not be a deal breaker as the -3dB point is only 3dB between the two speakers: 42Hz for the LP-6v2 and 39Hz for the LP-8v2.  However, the difference that stood out to me was the output capability.  Not just in overall level but also regarding the built-in limiter's impact on the midbass and bass.  If you look at the data of the LP-6v2 vs the LP-8v2, you can see the LP-8v2 has about 1-3dB more dynamic range below 100Hz.  Specifically, at 50Hz and referenced to 96dB @ 1 meter, the LP-6v2 reduces the output by 1.5dB compared to the LP-8v2.  If you go higher in level, the difference is even more so.
+
+With the above said, I think the easiest comparison to make between the LP-6vs and the LP-8v2 is:
+* Similar (not the same, but similar) tonality, though I prefer the LP-6v2 at more reasonable volumes.
+* LP-8v2 can get louder with more dynamic range which is also helpful if you are sitting further away than a couple meters.
+* LP-6v2 might get the soundstage width lean by being maybe 5-10° wider in horizontal radiation in the treble.  Whether or not you'll notice this difference is not something I can reliably speak to.  And, depending on your listening situation, you may or may not want one or the other.
+* LP-8v2 has better horizontal directivity control through the crossover region but only slightly so, I'd say.  Though, the LP-6v2 has better directivity through the midrange.  What this means in terms of what you're going to hear in your room will likely be: the LP-8v2 will sound more neutral in the 1-3kHz region while the LP-6v2 will sound more neutral through the 500-1kHz region.
+
 
 
 <br>
