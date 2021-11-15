@@ -252,7 +252,7 @@ With the above said, I think the easiest comparison to make between the LP-6vs a
 * LP-6v2 might get the soundstage width lean by being maybe 5-10° wider in horizontal radiation in the treble.  Whether or not you'll notice this difference is not something I can reliably speak to.  And, depending on your listening situation, you may or may not want one or the other.
 * LP-8v2 has better horizontal directivity control through the crossover region but only slightly so, I'd say.  Though, the LP-6v2 has better directivity through the midrange.  What this means in terms of what you're going to hear in your room will likely be: the LP-8v2 will sound more neutral in the 1-3kHz region while the LP-6v2 will sound more neutral through the 500-1kHz region.
 
-
+As were my thoughts on the Kali Audio LP-6v2, the LP-8v2 is a great product at a entry-level price and performs better than "hi-fi" passive speakers costing much more.  The LP series from Kali opens the door for budget minded artists to mix their music on something which yields *reliable* results that translate well on all systems without spending a year's salary to do so.  And most importantly, without having to get the crappy monitors that have become accepted as the norm by the budget conscious who simply do not know better (see my review on the budget [Mackie](erinsaudiocorner.com/loudspeakers/mackie_cr3x/) and [PreSonus](https://www.erinsaudiocorner.com/loudspeakers/presonus_eris_e3_5/) monitors).  It's not just my opinion; the data backs this up.
 
 <br>
 <br>
