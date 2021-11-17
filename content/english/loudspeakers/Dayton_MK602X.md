@@ -277,7 +277,7 @@ The majority of what I do here is paid for by myself - other than the occassiona
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my [affiliate link](https://Dayton.com/products/airmotiv-b1-pair?aff=14) which helps me gain a small commission at no additional cost to you.
+Or using my [affiliate link](https://www.jdoqocy.com/click-7732025-11553825?url=https%3A%2F%2Fwww.parts-express.com%2FDayton-Audio-MK602X-6-2-Way-Bookshelf-Speaker-Pair-300-469) which helps me gain a small commission at no additional cost to you.
 
 Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth and is *very much* appreciated.
 
