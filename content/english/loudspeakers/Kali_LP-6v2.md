@@ -13,6 +13,12 @@ The review on this website is a brief overview and summary of the objective perf
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wj47W9EP4tQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+I also have a comparison video of this versus the LP-8v2 I reviewed ([link to review](https://www.erinsaudiocorner.com/loudspeakers/kali_lp-8v2/)):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mr8eFqvdO0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 For a primer on what the data means, please watch my series of videos where I provide in-depth discussion and examples of how to read the graphics presented hereon.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLnIxFR_ey0b37Ex4KV2mBz-kYB7QLffR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
