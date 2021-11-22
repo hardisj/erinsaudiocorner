@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>elac on Erin&#39;s Audio Corner</title>
+    <title>ELAC on Erin&#39;s Audio Corner</title>
     <link>https://erinsaudiocorner.com/tags/elac/</link>
-    <description>Recent content in elac on Erin&#39;s Audio Corner</description>
+    <description>Recent content in ELAC on Erin&#39;s Audio Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://erinsaudiocorner.com/tags/elac/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ELAC UBR62 Speaker Review</title>
+      <link>https://erinsaudiocorner.com/loudspeakers/elac_ubr62/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/loudspeakers/elac_ubr62/</guid>
+      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+    </item>
     
     <item>
       <title>CEA-2010 Subwoofer Testing</title>

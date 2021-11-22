@@ -61,8 +61,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-The reference plane in this test is at the tweeter.  I have seen discussion regarding this being the optimal placement but based on my preliminary quasi-anechoic measurements, this was indeed the best vertical axis location
-.
+The reference plane in this test is at the tweeter.  I have seen discussion regarding this being the optimal placement but based on my preliminary quasi-anechoic measurements, this was indeed the best vertical axis location.
 Testing was performed without the grille.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
