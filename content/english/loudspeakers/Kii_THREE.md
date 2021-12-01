@@ -385,15 +385,13 @@ I contacted Bruno Putzeys to ask if he had any input on the limiter/compression 
 
 If you like what you see here and want to help support the cause there are a few ways you can do so below.  Your support helps me pay for new items to test, hardware, miscellaneous items needed for testing and costs of the site's server space and bandwidth.  Any help is *very much* appreciated.
 <br>
-<a href="https://www.patreon.com/bePatron?u=59439731" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
+<a href="https://www.patreon.com/bePatron?u=59439731" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="XV7EYYU7S77LE" />
 <input type="image" src="https://i.imgur.com/Z608uUQ.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+</form> 
 
-Or using my [affiliate link](https://emotiva.com/products/airmotiv-b1-pair?aff=14) which helps me gain a small commission at no additional cost to you.
 
 
 
