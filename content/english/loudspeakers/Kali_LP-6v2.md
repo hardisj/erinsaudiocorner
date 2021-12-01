@@ -35,7 +35,7 @@ These speakers were loaned to me by Kali Audio for review purposes.  They were n
 
 The [Kali LP-6v2](https://www.kaliaudio.com/lone-pine-studio-monitors#Overview-Section-Lone-Pines) is the second generation powered 2-way Studio Monitor featuring a 6.5-inch midwoofer mated to 1-inch dome tweeter in an elliptical waveguide.  The back features a bank of dip switches for boundary settings (discussed later) and basic level adjustments.  There is a volume knob and (3) input options: XLR, TRS and RCA phono.
 
-MSRP for the single speaker is approximately $400 USD for a pair.  A pair!
+MSRP for the single speaker is $200 making it $400 USD for a pair.  A pair!
 
 <br>
 <br>
