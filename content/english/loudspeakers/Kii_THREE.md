@@ -1,5 +1,5 @@
 ---
-title: "Kii Audio THREE Studio Monitor Review"
+title: "Kii Audio THREE Review"
 date: 2021-11-29
 draft: false
 image: "https://dl.dropboxusercontent.com/s/qxv9nkgypgmy7qe/DSC02621.JPG?dl=0"
