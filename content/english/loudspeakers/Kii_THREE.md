@@ -60,6 +60,9 @@ The Kii CONTROL offers three additional digital inputs for the Kii THREE: Coax S
 
 <br>
 
+<img align="left" src="https://dl.dropboxusercontent.com/s/htka1wouceh6h2d/DSC02650.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
 Back of the speaker - shown on the Klippel test stand:
 <img align="left" src="https://dl.dropboxusercontent.com/s/fe68maend5uvn9g/DSC02600.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
@@ -71,6 +74,9 @@ Closeup of the back showing DSP settings (boundary controls and tonal balance) a
 
 Kii CONTROL with additional Coax SPDIF, Optical TOSLINK and USB inputs.
 <img align="left" src="https://dl.dropboxusercontent.com/s/8wee9gn8uiwh00h/DSC02638.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/bvzpn20kj2kkxng/DSC02635.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/duh1sbyet0hpo40/DSC02634.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
