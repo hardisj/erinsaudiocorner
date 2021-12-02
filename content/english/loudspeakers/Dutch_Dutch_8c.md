@@ -197,6 +197,11 @@ Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
 <img align="left" src="https://dl.dropboxusercontent.com/s/y7i8m6tlj429g4s/Dutch%20%26%20Dutch%208C_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
+### Group Delay (smoothed to 1/3-octave)
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/3tzyx5rtjryrf4t/Group%20Delay%20%28Dutch%20%26%20Dutch%208c%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
 
 <br>
 <br>

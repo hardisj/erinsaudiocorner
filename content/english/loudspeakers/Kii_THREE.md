@@ -233,6 +233,13 @@ Nearfield response of individual drive units:
 <br>
 <br><br>
 
+### Group Delay (smoothed to 1/3-octave)
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/1zawljsnfkhehw8/Group%20Delay%20%28Phase%20Exact%20Mode%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+<br><br>
+
 
 ### Dynamic Range (Instantaneous Compression Test)
 
@@ -337,13 +344,17 @@ Notice the amount of low bass.  There is nearly 8 to 10dB of gain, flat down to 
 
 Conventional speakers are omnidirectional at low frequencies and become more directional at higher frequencies.  Omnidirectional means that the sound is radiated 360° around the speaker.  More directional means that the sound is "focused" more forward than it is behind or to the sides.  Most bookshelf and floorstanding speakers are omnidirectional from 20Hz up to 400-500Hz.  Sometimes higher; sometimes lower.  This is usually dictated by the size of the drive units and baffle used in the speaker.
 
-A cardioid speaker - like the Kii THREE - is designed to *not* be omnidirectional above a certain frequency, and in the case of the THREE that frequency is 100Hz.  Why would this be useful?  Well, remember, the Kii THREE features subwoofers on the rear of the speaker.  These subwoofers *depend* on boundary reinforcement in order for the response to extend as low as possible in frequency.  The issue, typically, would be rear-wall reflections.  If the Kii THREE had the upper midbass and lower midrange frequencies radiating backwards then there would be a high degree of sound traveling rearward only to be reflected off the rear wall and back to the front of the speaker causing comb filtering in these lower frequencies.  In terms of sound, this can (and typically does) result in marred tonality, loss of impact and imaging in the mid-to-low frequencies at the listening position.
+A cardioid speaker - like the Kii THREE - is designed to *not* be omnidirectional above a certain frequency, and in the case of the THREE that frequency is between 70-90Hz (depending on where you 'draw the line').  Why would this be useful?  Well, remember, the Kii THREE features subwoofers on the rear of the speaker.  These subwoofers *depend* on boundary reinforcement in order for the response to extend as low as possible in frequency.  The issue, typically, would be rear-wall reflections.  If the Kii THREE had the upper midbass and lower midrange frequencies radiating backwards then there would be a high degree of sound traveling rearward only to be reflected off the rear wall and back to the front of the speaker causing comb filtering in these lower frequencies.  In terms of sound, this can (and typically does) result in marred tonality, loss of impact and imaging in the mid-to-low frequencies at the listening position.
 
 How well does this actually work, though?  Well, let's take a look at the typical response of a generic studio monitor at 200Hz.  The below graphic is a plot of the sound field of said speaker at 200Hz and certainly even lower in frequency.  This was generated using Klippel's Near-Field Scanner and Visualization module.  The story here is the sound is a big ball of energy, radiating in all directions.  In front (illustrated by the red arrow), backwards, up and down.  This energy is all practically the same SPL, too.  Nothing new here.  Typical of a standard monopole speaker.
 <img align="left" src="https://dl.dropboxusercontent.com/s/pkn8b2k727jb46j/Generic%20Directivity%20Balloon%20%28Studio%20Monitor%29%20at%20200Hz.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 Now, let's look at the response of the Kii THREE from 50Hz to 200Hz, below.  At as low as 100Hz, what we see here is in stark contrast to the above.  The first thing that stands out is there is practically zero sound radiating backwards (opposite of the red arrow) at 200Hz.  And what energy *is* back there is roughly 10-15dB down in level relative to what is firing forward.
 <img align="left" src="https://dl.dropboxusercontent.com/s/3g1oiszzn7z1ef7/Directivity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+Below is another way of looking at the transition from omnidirectional to cardioid which should provide a better idea of where this transition takes place:
+<img align="left" src="https://dl.dropboxusercontent.com/s/feakwvz1w2pa0tf/Kii%20THREE%20Polar%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 
