@@ -171,6 +171,13 @@ Vertical Contour Plot (normalized):
 
 ## Additional Measurements
 
+### On-Axis Response Linearity
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/wlv9o4t4uk41cy0/Dutch%20%26%20Dutch%208C%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
+
 ### Near-Field Response
 
 Nearfield response of individual drive units with anechoic on-axis response:
@@ -202,6 +209,48 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 <img align="left" src="https://dl.dropboxusercontent.com/s/3tzyx5rtjryrf4t/Group%20Delay%20%28Dutch%20%26%20Dutch%208c%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
+
+### Dynamic Range (Instantaneous Compression Test)
+
+The below graphic indicates just how much SPL is lost (compression) or gained (enhancement; usually due to distortion) when the speaker is played at higher output volumes *instantly* via a 2.7 second logarithmic sine sweep *referenced to 76dB at 1 meter*.  The signals are played consecutively *without* any additional stimulus applied.  Then normalized against the 76dB result.
+
+The tests are conducted in this fashion:
+1) 76dB at 1 meter (baseline; black)
+2) 86dB at 1 meter (red)
+3) 96dB at 1 meter (blue)
+4) 102dB at 1 meter (purple)
+
+The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
+
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/8unno4kjtlnjb7x/Dutch%20%26%20Dutch%208C_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
+<br><br>
+
+### Long Term Compression Tests
+
+The below graphics indicate how much SPL is lost or gained in the long-term as a speaker plays at the same output level for 2 minutes, in intervals.  Each graphic represents a different SPL: 86dB and 96dB both at 1 meter.
+
+The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components).
+
+The tests are conducted in this fashion:
+1) "Cold" logarithmic sine sweep (no stimulus applied beforehand)
+2) Multitone stimulus played at desired SPL/distance for 2 minutes; intended to represent music signal
+3) Interim logarithmic sine sweep (no stimulus applied beforehand) (Red in graphic)
+4) Multitone stimulus played at desired SPL/distance for 2 minutes; intended to represent music signal
+5) Final logarithmic sine sweep (no stimulus applied beforehand) (Blue in graphic)
+
+The red and blue lines represent changes in the output compared to the initial "cold" test.
+
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/4hokt3mvmi0w149/Dutch%20%26%20Dutch%208C_Long_Term_86_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/zccyhj7n65xm63o/Dutch%20%26%20Dutch%208C_Long_Term_96_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br><br>
+
 
 <br>
 <br>
