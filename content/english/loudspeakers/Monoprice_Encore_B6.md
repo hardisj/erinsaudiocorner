@@ -66,7 +66,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-The reference plane in this test is between the midwoofer and waveguided.  The speaker was measured with the grille off, in ported configuration unless otherwise noted.
+The reference plane in this test is between the midwoofer and waveguide as most waveguided designs are designed with this as the vertical listening axis.  The data tends to back this assumption up as this is the most linear response, vertically speaking.  The speaker was measured with the grille off, in ported configuration unless otherwise noted.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
