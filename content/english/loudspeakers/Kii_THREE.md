@@ -25,7 +25,7 @@ The review on this website is a brief overview and summary of the objective perf
 
 
 <br>
-A pair of [Kii THREE](https://www.kiiaudio.com/acoustics.php) speakers and the Kii CONTROL were loaned to me by Kii Audio for review purposes.  MSRP is approximately $14,000 USD for a pair.
+A pair of [Kii THREE](https://www.kiiaudio.com/) speakers and the Kii CONTROL were loaned to me by Kii Audio for review purposes.  MSRP is approximately $14,000 USD for a pair.
 
 
 Some notes from the manufacturer's website:
