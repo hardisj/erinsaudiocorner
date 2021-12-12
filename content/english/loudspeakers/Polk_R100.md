@@ -1,5 +1,5 @@
 ---
-title: "Polk R100 Review"
+title: "Polk R100 Bookshelf Speaker Review"
 date: 2021-12-09
 draft: false
 image: "https://dl.dropboxusercontent.com/s/ty1bj8vsbtikcat/DSC02707.JPG?dl=0"
