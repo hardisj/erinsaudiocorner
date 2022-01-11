@@ -1,17 +1,15 @@
 ---
-title: "Polk Monitor XT30 Center Channel Speaker Review"
-date: 2022-01-08
+title: "Edifier MR-4 Powered Monitor Review"
+date: 2022-01-10
 draft: false
-image: "https://dl.dropboxusercontent.com/s/6j3447pwvftv8g8/g107MXT30-F.jpg?dl=0"
-description : "Polk Monitor XT30 Review"
-Tags: ["Polk Monitor", "Polk Monitor XT30","XT30", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Polk Monitor center channel", "Polk Monitor XT30 review"]
+image: "https://dl.dropboxusercontent.com/s/mxg936whjemjm9g/DSC02843.JPG?dl=0"
+description : "Edifier MR-4 Review"
+Tags: ["Edifier MR-4", "Edifier MR-4 powered monitors","powered monitors", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Edifier MR-4 powered monitors", "Edifier MR-4 powered monitors review"]
 ---
 
 
 ## Foreword / YouTube Video Review
-I purchased all of the Polk Monitor XT speakers for evaluation as an entire model lineup (except the Atmos speaker).  I was able to do so out of my own funds with support from my Patrons and donations.  If you'd like to help out with future reviews please see the bottom of this review.
-
-Due to the overwhelming task of reviewing all of these at the same time I am not providing subjective evaluation in this review.  I also used a stock photo in this review to save me a little time.
+This speaker was loaned to me by the manufacturer for review.  They did not see the data or review until publication.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
@@ -22,6 +20,7 @@ The review on this website is a brief overview and summary of the objective perf
 
 For help understanding the data, I encourage you to watch this video which discusses the implications of (some of) the data shown below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8UKcOLcDUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br>
 <br>
 <br>
@@ -29,27 +28,31 @@ For help understanding the data, I encourage you to watch this video which discu
 
 ## Information and Photos
 
-Some specs from the manufacturer can be found [here](https://www.polkaudio.com/en-us/product/center-channel-speakers/monitor-xt30).
-> * Width:  19.9" (48.3 cm)
-> * Height:  6.50" (16.6 cm)
-> * Depth:  8.13" (20.7 cm)
-> * Weight:  13lbs (5.9 kg)
-> * Front Array Driver Complement:
->    * (1) 1" (2.54 cm) Terylene Dome Tweeter
->    * (2) 5-¼" Bi-laminate Paper Woofers
-> * Enclosure Type:  Rear port
-> * Lower and Upper -3dB Limits:  77 Hz → 26,000 Hz
-> * Sensitivity (1 watt @ 1 meter):  89dB SPL
-> * Total Frequency Response:  55 Hz → 40,000 Hz
-> * Recommended Amplifier Power Per Channel:  30 watts → 200 watts
-> * Tweeter/Midrange Crossover Frequency:  2500 Hz
-> * Inputs:  Single nickel-plated 5-way binding posts
+Some specs from the manufacturer can be found [here](https://www.Edifiertron.com/Edifier-mb42x-c-center-channel-speaker/).
+> * Smooth frequency response for great audio reference
+> * 1-inch silk dome tweeter and 4-inch diaphragm woofers deliver pure sound
+> * MDF wooden cabinets minimize acoustic resonance
+> * Simple connection to mixers, audio interfaces, computers or media players
+> * 3 Inputs: TRS balanced input, RCA unbalanced input, AUX unbalanced input
+> * Front-mounted headphone output and AUX input for convenience
+> * Multi-functional knob for power, volume and sound effects toggle
+> * Monitor and music modes to fit various scenarios
 
 
 
-Price is approximately $200 USD for the single center channel.
+
+Price is approximately $130 USD for the pair.
 If you are interested in purchasing this speaker, please consider using the following affiliate link which earns me a small commission at no additional cost to you:
-[Amazon](https://amzn.to/3q7mlin)
+[Amazon](https://amzn.to/34wZzrS)
+
+<br>
+
+Input and tonality adjustments.
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/yakadxnb9xcpyqe/DSC02844.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/xrmlxkuptzxq7sh/DSC02845.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -92,7 +95,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/qcedlq2x9nq6gfp/CEA2034%20--%20Polk%20XT30.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/x8dz7epitdh1m04/CEA2034%20--%20Edifier%20MR4%20Powered%20Monitor.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -111,7 +114,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/nym558oo6xmi7pk/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/en5pgi24896nq66/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -124,44 +127,44 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/9dhhzw6afzrdcl8/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/08c2s21t5b0ymld/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/lk5cpc01ljdiye3/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/7fxfy75du6q3z72/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/qp7ix5vmn61l232/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/okw70pgcp5ca352/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/gdz4tfndlbuzr9o/Polk%20XT30%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/25xmg5bzy2yhz56/Edifier%20MR4%20Powered%20Monitor%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/sdmpjdu5e3vclqg/Polk%20XT30%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/v0612ezykvzgjpz/Edifier%20MR4%20Powered%20Monitor%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/fiv7s92kh1yb5gn/Polk%20XT30%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/c763jl78784a2rw/Edifier%20MR4%20Powered%20Monitor%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/uq3o2r3apkew68e/Polk%20XT30%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/5cpzaqmshodq4xl/Edifier%20MR4%20Powered%20Monitor%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/w57kjqc64mo1oi6/Polk%20XT30_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/11ef7rurku8zkvl/Edifier%20MR4_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/2d0l9ljs33sf86w/Polk%20XT30_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/q8v0f0lr6nx5qg8/Edifier%20MR4_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -176,27 +179,20 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### On-Axis Response Linearity
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/6x2byh8og5bugua/Polk%20XT30%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/o2yz2pteqfr0l27/Edifier%20MR4%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-
-### Impedance Magnitude and Phase
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/xhviee4y3chq9zd/Polk%20XT30%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-
 <br>
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/7ms7sddv4vm07ps/Polk%20XT30%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/0pewcgu6shwqdw0/Edifier%20MR4%20Powered%20Monitor%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/66viwvo7rsoqgry/Polk%20XT30%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/b69ax5i2b7xy7s5/Edifier%20MR4%20Powered%20Monitor%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -218,21 +214,17 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/wfbeao8i6tle2ai/Polk%20XT30_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/m7us4glut277gss/Edifier%20MR4_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 <br><br>
 
-<br>
-<br>
-<br>
-
 
 
 ## Parting / Random Thoughts
 
-Due to the sheer number of speakers I am testing at this time, all subjective and objective takeaways will be discussed in video form.  As stated in the Foreword, this written review is purposely a cliff's notes version.  For details about the performance (objectively and subjectively) please watch the YouTube video.
+As stated in the Foreword, this written review is purposely a cliff's notes version.  For details about the performance (objectively and subjectively) please watch the YouTube video.
 <br>
 <br>
 <br>
@@ -249,7 +241,7 @@ If you find this review helpful and want to help support the cause there are a f
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my [Amazon affiliate link](https://amzn.to/3q7mlin), if you are interested in purchasing anything from Amazon, which helps me gain a small commission at no additional cost to you.
+Or using my [Amazon affiliate link](https://amzn.to/34wZzrS), if you are interested in purchasing anything from Amazon, which helps me gain a small commission at no additional cost to you.
 
 
 
