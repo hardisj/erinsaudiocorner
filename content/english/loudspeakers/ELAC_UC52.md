@@ -1,15 +1,15 @@
 ---
-title: "SVS Prime Center Channel Speaker Review"
+title: "ELAC Uni-Fi 2.0 UC52 Center Channel Speaker Review"
 date: 2022-01-10
 draft: false
-image: "https://dl.dropboxusercontent.com/s/9e552zvf4gann6r/DSC02838.JPG?dl=0"
-description : "SVS Prime Center Channel Review"
-Tags: ["SVS Prime", "SVS Prime Center Channel","Center Channel", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "SVS Prime center channel", "SVS Prime Center Channel review"]
+image: "https://dl.dropboxusercontent.com/s/oavp8n4qr22kxum/DSC02836.JPG?dl=0"
+description : "ELAC UC52 Center Channel Review"
+Tags: ["ELAC UC52", "ELAC UC52 Center Channel","Center Channel", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "ELAC UC52 center channel", "ELAC UC52 Center Channel review"]
 ---
 
 
 ## Foreword / YouTube Video Review
-This speaker was loaned to me by SVS for review.  They did not see the data or review in advance.
+I purchased this speaker myself.  I was able to do so out of my own funds with support from my Patrons and donations.  If you'd like to help out with future reviews please see the "Support the Cause" section at bottom of this review.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
@@ -22,27 +22,31 @@ The review on this website is a brief overview and summary of the objective perf
 
 ## Information and Photos
 
-Some specs from the manufacturer can be found [here](https://www.svsound.com/products/prime-center).
-> * 3-way design
-> * 1" aluminum dome tweeter
-> * 3-1/2" polypropylene midrange driver
-> * dual 5-1/4" polypropylene woofers
-> * frequency response: 48-25,000 Hz (±3dB)
-> * recommended amplifier power: 20-200 watts
-> * sensitivity: 86 dB
-> * nominal impedance: 8 ohms
-> * bass-reflex cabinet with dual rear-firing ports
+Some specs from the manufacturer can be found [here](https://www.elac.com/center-channel-speakers/uni-fi-2-uc52/).
+> * true 3-way center channel speaker design
+> * voice-matched to ELAC Uni-Fi 2.0 UB52 and UF52 speakers
+> * custom-designed 1" soft dome tweeter concentrically mounted in a 4" aluminum cone midrange
+> * two newly designed 5-1/4" woofers with dished aluminum cones
+> * frequency response: 48-35,000 Hz
+> * sensitivity: 85 dB
+> * impedance: 6 ohms
+> * maximum power input: 140 watts
+> * sophisticated crossover ensures linear response and smooth transition between drivers
+> * bass-reflex cabinet design with front-firing ports
+> * thick MDF enclosures with internal bracing reduces cabinet vibration that causes unwanted sonic coloration
+> * 5-way binding post speaker terminals
 > * removable cloth grille
-> * 5-way binding posts accept bare wire, pins, spade lugs, and banana connectors
-> * 18-11/16"W x 7-11/16"H x 9-1/8"D
-> * weight: 20.2 lbs.
-> * warranty: 5 years
+> * black brushed vinyl finish
+> * 24-7/16"W x 7-5/16"H x 10-7/8"D
+> * weight: 25.74 lbs.
+> * warranty: 3 years
 
 
 
-Price is approximately $399 USD.
+
+Price is approximately $460 USD.
 If you are interested in purchasing this speaker, please consider using the following affiliate link which earns me a small commission at no additional cost to you:
-[Link](https://www.tkqlhce.com/click-7732025-12953978?url=https%3A%2F%2Fwww.svsound.com%2Fproducts%2Fprime-center)
+[Amazon](https://amzn.to/3rbNEr0)
 
 
 <br>
@@ -85,7 +89,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/eocuvcbu92rc2uc/CEA2034%20--%20SVS%20Prime%20Center%20Channel.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/1f5kgivvjsjmrx2/CEA2034%20--%20ELAC%20Uni-Fi%202.0%20UC52.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -104,7 +108,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/nqgex43zbheuqnb/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/pw7syq0lmhnpnk6/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -117,44 +121,44 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/zksjhrao3tq5xdp/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/n27vycpty22a79u/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ef0m20vc6m9ujvn/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/86bn9hssreyo94g/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/iqf0gji42b4qnmw/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/x5x4kmmxm2b5g71/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ecxy4u0bhq3yxcb/SVS%20Prime%20Center%20Channel%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/n5z661ljddktexp/ELAC%20Uni-Fi%202.0%20UC52%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/codqwr7ojryhmfd/SVS%20Prime%20Center%20Channel%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ycwpou059u8wx4w/ELAC%20Uni-Fi%202.0%20UC52%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/792wukpzm577a0v/SVS%20Prime%20Center%20Channel%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/hrbzyp3oxy7vcyq/ELAC%20Uni-Fi%202.0%20UC52%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/i2ch3ycpbsj59jr/SVS%20Prime%20Center%20Channel%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/vbyczct445a3t1l/ELAC%20Uni-Fi%202.0%20UC52%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/gyp39tl8hfwe9o8/SVS%20Prime%20Center%20Channel_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/wdprjgf5odcv8iq/ELAC%20Uni-Fi%202.0%20UC52_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/umzzl1nn7r7rozt/SVS%20Prime%20Center%20Channel_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/sh9emxl2dqucaao/ELAC%20Uni-Fi%202.0%20UC52_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -169,14 +173,14 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### On-Axis Response Linearity
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/zegl5tj3vastll5/SVS%20Prime%20Center%20Channel%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/yeqe8h4m48p0c2k/ELAC%20Uni-Fi%202.0%20UC52%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Impedance Magnitude and Phase
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/psxy1nnjmape9dx/SVS%20Prime%20Center%20Channel%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/034d1782ph968jh/ELAC%20Uni-Fi%202.0%20UC52%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -185,11 +189,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/419v071sbtlfu4u/SVS%20Prime%20Center%20Channel%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/wvwvy3qyqk9nuy0/ELAC%20Uni-Fi%202.0%20UC52%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/fnc3acfc7dbz9ul/SVS%20Prime%20Center%20Channel%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/m797illyc3e5ysw/ELAC%20Uni-Fi%202.0%20UC52%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -211,7 +215,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/dd8yr760msjrejf/SVS%20Prime%20Center%20Channel_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/5dtqqd277a9x582/ELAC%20Uni-Fi%202.0%20UC52_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -219,7 +223,7 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 ### Nearfield Components Measurements
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/l58zfs9igfsrmme/SVS%20Prime%20Center%20Channel%20Nearfield%20Components%20%40%20~30mm.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9ak2uogqx9ffc7r/Elac%20UC52%20Nearfield%20Components%20%40%20~30mm.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -246,7 +250,7 @@ If you find this review helpful and want to help support the cause there are a f
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my [Amazon affiliate link](https://amzn.to/3nfSEdf), if you are interested in purchasing anything from Amazon, which helps me gain a small commission at no additional cost to you.
+Or using my [Amazon affiliate link](https://amzn.to/3rbNEr0), if you are interested in purchasing anything from Amazon, which helps me gain a small commission at no additional cost to you.
 
 
 
