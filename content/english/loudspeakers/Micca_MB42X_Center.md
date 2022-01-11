@@ -1,10 +1,10 @@
 ---
-title: "Micca MC42X-C Center Channel Speaker Review"
+title: "Micca MB42X-C Center Channel Speaker Review"
 date: 2022-01-10
 draft: false
 image: "https://dl.dropboxusercontent.com/s/mprj0fzhwbwx1bz/DSC02829.JPG?dl=0"
-description : "Micca MC42X-C Center Channel Review"
-Tags: ["Micca MC42X-C", "Micca MC42X-C Center Channel","Center Channel", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Micca MC42X-C center channel", "Micca MC42X-C Center Channel review"]
+description : "Micca MB42X-C Center Channel Review"
+Tags: ["Micca MB42X-C", "Micca MB42X-C Center Channel","Center Channel", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Micca MB42X-C center channel", "Micca MB42X-C Center Channel review"]
 ---
 
 
