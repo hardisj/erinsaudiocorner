@@ -69,7 +69,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-The reference plane in this test is at the tweeter.  The grille was removed for testing.
+The reference plane in this test is at the tweeter.  The speaker was set to "Monitor Mode" (there is a "Music Mode" that is discussed later).  The high/low-frequency tonality knobs were set to 0dB, but later tests provide the difference in magnitude of these adjustments.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -220,7 +220,23 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 <br><br>
 
+### Monitor Mode vs Music Mode
 
+This shows the difference between the two modes that can be enabled on this speaker: Monitor vs Music mode.
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/gy5843xwxbain20/Monitor%20vs%20Music%20Mode.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+<br>
+<br>
+
+### Tonality Adjustments
+
+This shows the difference made when setting the LF/HF tonality adjustments to their min and max values.  This was done while the speaker was in Monitor mode.
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/sbll6inzeu80gsu/monitor%20mode%20min%20max.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+<br>
+<br>
 
 ## Parting / Random Thoughts
 
