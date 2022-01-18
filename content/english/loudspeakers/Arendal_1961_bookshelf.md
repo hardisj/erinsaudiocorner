@@ -230,9 +230,8 @@ Compression results results *superb*.  And when you realize just how small this 
 
 Overall, in my humble opinion, this is an excellent speaker.  The size is reminiscent of a legitimate "bookshelf" speaker; not an oversized "monitor" size, but a true bookshelf speaker.  The cabinet is "dead" and resonance free.  Great linearity (again, with the aforementioned caveat).  Great horizontal directivity (and, thus, great EQ'ability to season to taste if so desired).  Excellent output capability down to 70/80Hz with a proper crossover filter.  These make very capable bookshelf speakers as mains in a small-to-medium room and would also work well for surround speakers.  They even have the ability to be wall-mounted.
 
-I rarely, if ever, use the term "best" but I have to think this is the best speaker in its size class I've reviewed to date.  
+I rarely, if ever, use the term "best" but I have to think this is the best speaker in its size class I've reviewed to date.
 
-Directivity is great.
 <br>
 <br>
 <br>
