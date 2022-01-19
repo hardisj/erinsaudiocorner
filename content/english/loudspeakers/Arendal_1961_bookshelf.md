@@ -151,7 +151,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/g633cg9xmwx0me1/Arendal%201961%20Bookshelf%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/m2xk1fwb9k0lv2r/Arendal%201961%20Bookshelf_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -226,7 +226,7 @@ As stated in the Foreword, this written review is purposely a cliff's notes vers
 
 This is a *very* compact 2-way speaker that has excellent performance at low to high volume.  The linearity is really impressive with deviations coming into play above about 8kHz due to the symmetry of the waveguide; these peaks/dips are fairly common in waveguide designs.  I don't intend to write this non-linearity off, nor do I want to make it into a topic that may be overblown.  The simple truth is "I don't know".  The audibility of them is something I can't say with any certainty; not without spending some time comparing blind.
 
-Compression results results *superb*.  And when you realize just how small this speaker is, the results are even more impressive.  The limits are reached at 102dB @ 1m below about 70Hz.  I've tested speakers twice this size with larger woofers that didn't perform this well.
+Compression results are *superb*.  And when you realize just how small this speaker is, the results are even more impressive.  The limits are reached at 102dB @ 1m below about 70Hz.  I've tested speakers twice this size with larger woofers that didn't perform this well.
 
 Overall, in my humble opinion, this is an excellent speaker.  The size is reminiscent of a legitimate "bookshelf" speaker; not an oversized "monitor" size, but a true bookshelf speaker.  The cabinet is "dead" and resonance free.  Great linearity (again, with the aforementioned caveat).  Great horizontal directivity (and, thus, great EQ'ability to season to taste if so desired).  Excellent output capability down to 70/80Hz with a proper crossover filter.  These make very capable bookshelf speakers as mains in a small-to-medium room and would also work well for surround speakers.  They even have the ability to be wall-mounted.
 
