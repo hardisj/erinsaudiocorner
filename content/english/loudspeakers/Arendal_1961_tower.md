@@ -1,8 +1,8 @@
 ---
-title: "Arendal 1961 Bookshelf Speaker Review"
-date: 2022-01-18
+title: "Arendal 1961 Tower Speaker Review"
+date: 2022-01-22
 draft: false
-image: "https://dl.dropboxusercontent.com/s/5cg2tf4x9cck54c/DSC02905.JPG?dl=0"
+image: "https://dl.dropboxusercontent.com/s/kwzwgyldftd442k/DSC02926.JPG?dl=0"
 description : "Arendal 1961 Review"
 Tags: ["Arendal", "Arendal 1961","1961", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Arendal center channel", "Arendal 1961 review"]
 ---
@@ -28,20 +28,25 @@ For help understanding the data, I encourage you to watch this video which discu
 
 ## Information and Photos
 
-Some specs from the manufacturer can be found [here](https://arendalsound.com/product/1961-bookshelf/).
-> * 2-way design
+Some specs from the manufacturer can be found [here](https://arendalsound.com/product/1961-tower/).
+> * 2.5-way design
 >    * 28mm Tweeter in waveguide
->    * 5.5-inch midwoofer
-> * Sealed enclosure
-> * Dimensions: 28.7H x 16.3W x 15D cm
+>    * (4) 5.5-inch midwoofers
+> * Sealed *or* ported option
+> * Dimensions: 83.75H x 16.3W x 28.5D cm
 > * 4-ohm nominal impedance
-> * Crossover Frequency = 1500Hz
+> * Crossover Frequency = 120Hz / 1500Hz
+> * Spike/stand kit included
 > * Magnetic Grills included
 > * 60 Days "Buy & Try" return policy
 
 
 
-Price is approximately $799 USD for the pair.
+Price is approximately $1699 USD for the pair.
+
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/7oa1hb8qdz5tgrj/DSC02925.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 
 <br>
@@ -58,7 +63,12 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-The reference plane in this test is at the tweeter.  The grille was removed for testing.
+The reference plane in this test is at the tweeter axis.
+Note: As shown in the above photos, when standing upright, the baffle is angled 5° as the typical seated ear-level height is higher up than the tweeter is mounted on the speaker. This means that, while the data is taken at the tweeter axis, the primary listening axis will be 5° above the tweeter axis. This can be adjusted mechanically though by adjusting the front to back spikes, there is a disc on the spikes that can be moved either over or under the spike bar which will change the angle for the listening axis.
+
+Therefore, while the on-axis response shows a high-frequency slope, at the typical seated height, the on-axis response would be flat.  This is important to keep in mind.  There is no way to "correct" for this in the data without physically tilting the speaker forward 5° to flatten out the vertical axis response which is not feasible.
+
+The speaker was tested in sealed configuration.  A comparison to ported is provided later, however.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -84,7 +94,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/zwqhmbuoin1gyjg/CEA2034%20--%20Arendal%201961%20Bookshelf.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ykg45xwz7pqln1o/CEA2034%20--%20Arendal%201961%20Tower%20%28Sealed%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -103,7 +113,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/a3389iu1zf059r1/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ovvejwd9nlz3fdq/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -116,44 +126,44 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/aeauqt65jfjgbxf/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9bh5jmii0uuvg6j/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/gpshqlf7nyllhef/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/88z8pe9fic6le8d/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/12ayx6jolwkjqow/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ibwi6xx0xrhrupb/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/fn8lk8madoac54w/Arendal%201961%20Bookshelf%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/2q3qs905j54nj3n/Arendal%201961%20Tower%20%28Sealed%29%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/143cadvdv6mmfsb/Arendal%201961%20Bookshelf%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8bt1skht82csf5p/Arendal%201961%20Tower%20%28Sealed%29%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/g633cg9xmwx0me1/Arendal%201961%20Bookshelf%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/rgbc776dfxjvotu/Arendal%201961%20Tower%20%28Sealed%29%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/2zc9ptc9691t9y3/Arendal%201961%20Bookshelf%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/mmxlp0549pzyb66/Arendal%201961%20Tower%20%28Sealed%29%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/15kz3qfgbkmtmsm/Arendal%201961%20Bookshelf_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/tqnotnluuyv6o5t/Arendal%201961%20Tower%20%28Sealed%29_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/m2xk1fwb9k0lv2r/Arendal%201961%20Bookshelf_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/4743tlsyfzaudjk/Arendal%201961%20Tower%20%28Sealed%29_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -168,14 +178,14 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### On-Axis Response Linearity
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/3x00e9dvklhobks/Arendal%201961%20Bookshelf%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/4pc0y6s153qanfh/Arendal%201961%20Tower%20%28Sealed%29%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Impedance Magnitude and Phase
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/4jzmrm03zycvd1t/Arendal%201961%20Bookshelf%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/w74pwp9gcbxxsin/Arendal%201961%20Tower%20%28Sealed%29%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -184,11 +194,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/qf85pmuus0mb9zc/Arendal%201961%20Bookshelf%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/d1nvfu4tyujfxl9/Arendal%201961%20Tower%20%28Sealed%29%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/f6vzsvsvcus8gtd/Arendal%201961%20Bookshelf%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/b6u4xxli3wt1fxa/Arendal%201961%20Tower%20%28Sealed%29%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -210,11 +220,15 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ocrkqcwadchdmdc/Arendal%201961%20Bookshelf_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/sdmdbicu3u2qyrf/Arendal%201961%20Tower%20%28Sealed%29_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 <br><br>
+
+### Sealed vs Ported
+
+The speaker was tested in sealed configuration.  I did perform an outdoor ground plane check to compare the difference between sealed and ported and have provided that in a section below.  Note, however, the response is cut off below 40Hz as the noise floor the day I performed these tests was higher than acceptable to get proper < 30Hz response accuracy.
 
 <br>
 <br>
@@ -226,13 +240,14 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For details about the performance (objectively and subjectively) please watch the YouTube video.
 
-This is a *very* compact 2-way speaker that has excellent performance at low to high volume.  The linearity is really impressive with deviations coming into play above about 8kHz due to the symmetry of the waveguide; these peaks/dips are fairly common in waveguide designs.  I don't intend to write this non-linearity off, nor do I want to make it into a topic that may be overblown.  The simple truth is "I don't know".  The audibility of them is something I can't say with any certainty; not without spending some time comparing blind.
+As I discussed previously, the reference axis for measurement in the vertical plane is at the tweeter.  The baffle is angled by 5° and, therefore, puts the primary listening axis at this angle, above the tweeter.  Why?  Well, when you see these speakers, you'll understand.  They are compact tower speakers.  The smallest tower speaker I have tested to date.  The low height and the location of the tweeter places the tweeter physically below a typical ear position at a typical seated position.  However, Arendal made up for this by angling the baffle which aligns the listening axis to this typical seated height.  What this means, to me, is that this speaker is designed for the customer who may not have a large listening space or simply prefers a speaker that is less seen and more heard.  Personally, I like a big ol' tower speaker that looks like it would beat you up in a street fight but I understand not everyone does.  Nor, does everyone have the space for such a speaker.  
 
-Compression results are *superb*.  And when you realize just how small this speaker is, the results are even more impressive.  The limits are reached at 102dB @ 1m below about 70Hz.  I've tested speakers twice this size with larger woofers that didn't perform this well.
+Speaking of 'heard but not seen' (relatively speaking), this tower speaker can be used in sealed or ported configuration.  I tried both and rather liked the sealed version.  It did not excite some of the lower frequency room modes and I liked that there was less emphasis in the 100-200Hz region that the ported configuration also results in.   You can see the comparison in the above data.  Use what works best for you.  But also keep in mind that this means you have more luxury in placement of the speaker.  No longer do you have to bring them far from the walls.  If necessary, you can place them much closer to the walls when in sealed configuration as opposed to placing a ported speaker right near the wall and suffering some response issues (and potentially more wall vibrations).  This is all preference, of course.  I like that Arendal provides the option here.  I think it fits right in-line with the overall design; compact tower that has flexibility in placement for rooms of vary sizes.
 
-Overall, in my humble opinion, this is an excellent speaker.  The size is reminiscent of a legitimate "bookshelf" speaker; not an oversized "monitor" size, but a true bookshelf speaker.  The cabinet is "dead" and resonance free.  Great linearity (again, with the aforementioned caveat).  Great horizontal directivity (and, thus, great EQ'ability to season to taste if so desired).  Excellent output capability down to 70/80Hz with a proper crossover filter.  These make very capable bookshelf speakers as mains in a small-to-medium room and would also work well for surround speakers.  They even have the ability to be wall-mounted.
+Like the Arendal 1961 bookshelf I tested previously ([link](https://www.erinsaudiocorner.com/loudspeakers/arendal_1961_bookshelf/)), this is a *very* compact tower speaker that has excellent performance at low to high volume.  The linearity is really impressive.  Compression results are *superb*.  And when you realize just how small this speaker is, the results are even more impressive.
 
-I rarely, if ever, use the term "best" but I have to think this is the best speaker in its size class I've reviewed to date.
+Overall, in my humble opinion, this is an excellent speaker.  The size is reminiscent of a legitimate "Tower" speaker; not an oversized "monitor" size, but a true Tower speaker.  The cabinet is "dead" and resonance free.  Great linearity (again, with the aforementioned caveat).  Great horizontal directivity (and, thus, great EQ'ability to season to taste if so desired).  Excellent output capability down to that could possibly be ran without a crossover (depending on output needs and low frequency extension).  Even better with a proper crossover filter and an accompanying subwoofer.  The latter is what I would recommend if ran sealed.  Ported could possibly allow you to run without a subwoofer but obviously this is going to be use-case dependent.
+
 
 <br>
 <br>
