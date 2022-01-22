@@ -228,7 +228,7 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 ### Sealed vs Ported
 
-The speaker was tested in sealed configuration.  I did perform an outdoor ground plane check to compare the difference between sealed and ported and have provided that in a section below.  Note, however, the response is cut off below 40Hz as the noise floor the day I performed these tests was higher than acceptable to get proper < 30Hz response accuracy.
+The speaker was tested in sealed configuration.  I did perform an outdoor ground plane check to compare the difference between sealed and ported and have provided that in a section below.  Note, however, the response is cut off below 40Hz as the noise floor the day I performed these tests was higher than acceptable to get proper < 30Hz response accuracy.  The difference in response above 10kHz is almost certainly for the same reason.  When a speaker is more directional and there is less SPL to overcome additional noise, the accuracy diminishes.  But, this should give you a general idea of what you get in terms of low frequency response compared to the sealed configuration.  
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/meckg5iaox82b22/1961%20sealed%20vs%20ported.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
