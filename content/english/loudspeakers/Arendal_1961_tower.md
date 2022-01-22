@@ -66,7 +66,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 The reference plane in this test is at the tweeter axis.
 Note: As shown in the above photos, when standing upright, the baffle is angled 5° as the typical seated ear-level height is higher up than the tweeter is mounted on the speaker. This means that, while the data is taken at the tweeter axis, the primary listening axis will be 5° above the tweeter axis. This can be adjusted mechanically though by adjusting the front to back spikes, there is a disc on the spikes that can be moved either over or under the spike bar which will change the angle for the listening axis.
 
-Therefore, while the on-axis response shows a high-frequency slope, at the typical seated height, the on-axis response would be flat.  This is important to keep in mind.  There is no way to "correct" for this in the data without physically tilting the speaker forward 5° to flatten out the vertical axis response which is not feasible.
+Therefore, while the on-axis response shows a downward high-frequency slope, at the typical seated height, the on-axis response would be flat.  This is important to keep in mind.  There is no way to "correct" for this in the data without physically tilting the speaker forward 5° to flatten out the vertical axis response which is not feasible.
 
 The speaker was tested in sealed configuration.  A comparison to ported is provided later, however.
 
@@ -228,7 +228,7 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 ### Sealed vs Ported
 
-The speaker was tested in sealed configuration.  I did perform an outdoor ground plane check to compare the difference between sealed and ported and have provided that in a section below.  Note, however, the response is cut off below 40Hz as the noise floor the day I performed these tests was higher than acceptable to get proper < 30Hz response accuracy.  The difference in response above 10kHz is almost certainly for the same reason.  When a speaker is more directional and there is less SPL to overcome additional noise, the accuracy diminishes.  But, this should give you a general idea of what you get in terms of low frequency response compared to the sealed configuration.  
+The speaker was tested in sealed configuration.  I did perform an outdoor ground plane check to compare the difference between sealed and ported and have provided that in a section below.  Note, however, the response is cut off below 40Hz as the noise floor the day I performed these tests was higher than acceptable to get proper < 30Hz response accuracy.  The difference in response above 10kHz is almost certainly for the same reason.  When a speaker is more directional and there is less SPL to overcome additional noise, the accuracy diminishes.  But, this should give you a general idea of what you get in terms of low frequency response compared to the sealed configuration.
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/meckg5iaox82b22/1961%20sealed%20vs%20ported.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
