@@ -182,7 +182,7 @@ Harmonic Distortion at 86dB @ 1m:
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For details about the performance (objectively and subjectively) please watch the YouTube video.
 
-Look, this thing is a lamp and is also a speaker.  We're not expecting cutting edge HiFi.  The CTA-2034 data shows significant high frequency comb filtering but this is the nature of such a product where the speakers are mounted behind a plastic grille with more thought placed on protection and less thought placed on fidelity.  However, when you look at the psychoacoustic-smoothed data I provided (done so because it gives us a better idea of the audibility of the comb filtering), you can see it is not as severe as the unsmoothed data looks.  While you do still have comb filtering, it's not end-of-days... and I need to point out again that we are talking about a lamp speaker.  So, naturally, we have to cut it some slack. Alright, it isn't an ideal response.  But, when you consider the fact this is an omnidirectional speaker, the sloping on-axis response yields a sloped estimated in-room response.  And what you do get is a very respectable sound from just about anywhere throughout the room.  Moreso when your ear is placed at the tweeter height, which I discussed previously.
+Look, this thing is a lamp and is also a speaker.  We're not expecting cutting edge HiFi.  The CTA-2034 data shows significant high frequency comb filtering but this is the nature of such a product where the speakers are mounted behind a plastic grille with more thought placed on protection and less thought placed on fidelity.  However, when you look at the psychoacoustic-smoothed data I provided (done so because it gives us a better idea of the audibility of the comb filtering), you can see it is not as severe as the unsmoothed data looks.  While you do still have comb filtering, it's not end-of-days... and I need to point out again that we are talking about a lamp speaker.  So, naturally, we have to cut it some slack.  And, yes ,the response on-axis is not flat at all.  But when you consider the fact this is an omnidirectional speaker, the sloping on-axis response yields a sloped estimated in-room response.  And what you do get is a very respectable sound from just about anywhere throughout the room.  Especially when your ear is placed at the tweeter height, which I discussed previously.
 
 As for output levels, it does well to fill my large open floorplan living room with sound to satisfy me while I do chores.  It has more than enough output for me to listen to music while typing up this very review in my ~1400 ft³ office.
 
@@ -195,7 +195,7 @@ b) play music that sounds pretty good
 c) has decent midbass
 d) doesn't have piercing highs
 
-... then this product is for you.  It's a nice piece of furniture to have, works well from SONOS (though, I primarily use Apple Airplay) and frees your living space from one more gadget with its 2-in-1 technology.  I'm going to keep it.  I dig it.  That's pretty much all there is to it.
+... then this product is for you.  It's a nice piece of furniture to have, works well from SONOS and Apple Airplay (what I used 95% of the time) and frees your living space from one more gadget with its 2-in-1 technology.  I'm going to keep it.  I dig it.  That's pretty much all there is to it.
 
 <br>
 <br>
