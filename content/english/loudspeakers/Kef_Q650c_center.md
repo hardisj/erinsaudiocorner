@@ -1,6 +1,6 @@
 ---
 title: "Kef Q650c Center Channel Speaker Review"
-date: 2022-01-18
+date: 2022-01-26
 draft: false
 image: "https://dl.dropboxusercontent.com/s/donuvqywje33vfw/DSC02902.JPG?dl=0"
 description : "Kef Q650c Review"
