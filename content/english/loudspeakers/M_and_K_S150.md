@@ -225,11 +225,13 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 ## Parting / Random Thoughts
 
+Listening was mostly within a couple meters, though I did back out to 4 meters at one point.  Why close?  Because, the majority of the reviews and talk I saw about these were with respect to their "monitor speaker" use.  Some certainly use them in home theater applications.  So, I varied my listening distance and even the angle of the speakers.  Below is a very brief summary of what I heard and how it relates to the data.
+
 * Very bright speaker.  Estimated in-room response backs this up with nearly a flat response other than in the crossover region.
 * Shelved midrange/midbass.
 * Gets plenty loud with low distortion and compression through the midrange and treble.
 * Pay attention to placement because the horizontal radiation pattern changes due to the tweeters having been placed to the side of the mids.  Namely, note the suckout in response that is speaker side (left, right) dependent.
-* Poor directivity through the crossover region.  I'd recommend some serious room treatment: side, front and ceiling absorption with this speaker. 
+* Poor directivity through the crossover region.  I'd recommend some serious room treatment: side, front and ceiling absorption with this speaker.
 
 
 <br>
