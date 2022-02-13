@@ -13,8 +13,7 @@ This speaker was loaned to me by SVS for review.  They did not see the data or r
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-< coming soon >
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GZrdsxrcpBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 For help understanding the data, I encourage you to watch this video which discusses the implications of (some of) the data shown below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8UKcOLcDUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
