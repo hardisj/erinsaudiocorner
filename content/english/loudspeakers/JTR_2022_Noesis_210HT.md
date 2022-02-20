@@ -239,7 +239,7 @@ Listening was conducted in my living room at 4m using the [Parasound HINT-6](htt
 * Crazy loud.  Easily fills up my large open-plan living room with sound and no mechanical noise when used with a proper crossover (I landed on 90Hz).  I was getting to >110dB at 4m (with hearing protection).
 * Heavy.
 
-
+I've had a couple people suggest that the tilted-up HF response could be useful for behind-screen placement.  That's a worthwhile consideration.  However, I don't think the screen would provide enough attenuation.  Certainly not for me.  I use a DIY screen for my HT and when I tested it some years back, it didn't result in more than 1-2dB of attenuation, max.  I did a quick google search to see what data is available for more popular screens and it looks like that still holds true.  Now, a combination of toe-out / in + a screen with enough attenuation might work to provide what is needed but I doubt it would be enough.  Especially not 3-5dB of attenuation (a screen with such attenuation would be a terrible design).  I wouldn't rely on the screen to be enough on its own if you wanted to aim the speakers on-axis.
 
 <br>
 <br>
