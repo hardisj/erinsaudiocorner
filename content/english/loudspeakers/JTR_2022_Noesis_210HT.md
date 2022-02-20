@@ -9,7 +9,7 @@ Tags: ["JTR", "JTR Noesis 210HT","Noesis 210HT", "Klippel", "Review", "Speaker",
 
 
 ## Foreword / YouTube Video Review
-These speakers were loaned to me by JTR Speakers.
+These speakers were loaned to me by JTR Speakers.  Keep in mind that this is a 2022 version so it doesn't look like the one on the website (as of the time this review was published; hopefully it will be updated soon).  This, of course, also means my review set won't measure/sound the exact same as previous versions.  For example, the previous version is stated as using a 700Hz crossover but Jeff told me this version has an 850Hz crossover point.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
