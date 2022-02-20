@@ -206,6 +206,13 @@ The purpose of this test is to illustrate how much (if at all) the output change
 <img align="left" src="https://dl.dropboxusercontent.com/s/lpq9j0342b5f18n/Emotiva%20C1%2B_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br><br>
+
+### Step Response and Group Delay
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/9w8q9o5prgcxbl9/Emotiva%20C1%2B%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/i5bxkvyevqjheaj/GD.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
 <br><br>
 
 
