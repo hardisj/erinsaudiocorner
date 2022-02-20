@@ -229,8 +229,9 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 ## Parting / Random Thoughts
 
-Listening was conducted in my living room at 4m using the [Parasound HINT-6](https://parasound.com/hint6.php) for power.
+Listening was conducted in my living room at 4m using the [Parasound HINT-6](https://parasound.com/hint6.php) for power.  I would have taken them up the stairs into my home theater room but didn't have anyone around to help me and I didn't want to bother my wife with that.  My living room is a decent size with open floor plan that extends into the hallway, kitchen and dining room.
 
+* Average sensitivity is about 92.5dB @ 2.83v/1m.
 * Some pronounced resonances in the midrange were bothersome and the constant directivity of the horn paired with the narrowing directivity of the woofers (or, rather, likely they're center-to-center spacing) results in a "bright" sounding treble in-room.  Looking back at the horizontal SPL and the estimated in-room response, you can see what I mean.  The EIR has a downward slope from ~150Hz to 1.5kHz and then shows a slightly rising trend above this frequency up to about 10kHz.  This combination lends itself to sound different ways to different people because the frequencies are relative to each other.  Personally, I would describe this EIR as "bright", if I am being succinct in my description.  However, with a touch of EQ and a proper HF shelf-filter, this speaker is a beast with tons and tons of output, great detail and excellent imaging.
 * Excellent directivity means ability to use EQ at will to shape the sound to your liking.
 * Great imaging / focus but not much stage width ... or not as much as *I* like.  Toe-out (facing speakers out into listening room) can improve width *some* with little effect on imaging focus.
