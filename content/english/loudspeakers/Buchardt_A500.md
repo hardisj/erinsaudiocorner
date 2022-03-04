@@ -244,8 +244,9 @@ The purpose of this test is to illustrate how much (if at all) the output change
 ## Parting / Random Thoughts
 
 See video linked above for subjective and objective analysis.  But just a couple notes:
-* I really, really like this speaker.
-* If you plan to purchase these speakers, spend the extra money and purchase the Platin Hub.  It's a no brainer.  It provides "room eq" and "manual eq".  Both of which are easy to use and very useful.
+* I really, really like this speaker in the default tuning.  I did try a few other DSP options but continually came back to preferring the default setting.
+* If you plan to purchase these speakers, spend the extra money and purchase the Platin Hub.  It's a no brainer purchase.  Spend the extra money.  It provides "room eq" and "manual eq".  Both of which are easy to use and very useful.
+* Remember, these results are with the DSP enabled to provide fullrange reproduction and it does it incredibly well.  The distortion and compression (limiting) data indicate this speaker does not take kindly to high output volume but in my listening experience in my home theater at about 3 meters away, I was maxing out at about 105dB (in the midrange/highs).  I was pushing this speaker *hard* without any mechanical noise (which indcates the limiter is protecting the drivers as it should) but, more imporantly, I did not feel the speaker was unable to provide adequate output at this listening distance.  I did not notice problematic distortion.  So, yes, the data indicates this speaker is only capable of getting *so* loud but that "so loud" should be plenty for most people.  And if you have a subwoofer to pair with these then use a HPF on these to alleviate the distortion/limiting concerns.
 
 
 
