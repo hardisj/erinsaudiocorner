@@ -1,15 +1,15 @@
 ---
-title: "Buchardt A500 Powered Bookshelf Speaker Review"
+title: "Genelec 8331A Powered SAM Studio Monitor Review"
 date: 2022-03-03
 draft: false
-image: "https://dl.dropboxusercontent.com/s/p8fq8ltlr3mde9l/DSC03083.JPG?dl=0"
-description : "Buchardt A500 Review"
-Tags: ["Buchardt", "Buchardt A500","A500", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Buchardt Bookshelf", "Buchardt A500 review"]
+image: "https://dl.dropboxusercontent.com/s/qas1xmwaxo4qwsv/DSC03080.JPG?dl=0"
+description : "Genelec 8331A Review"
+Tags: ["Genelec", "Genelec 8331A","8331A", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Genelec Bookshelf", "Genelec 8331A review"]
 ---
 
 
 ## Foreword / YouTube Video Review
-This pair of speakers was loaned to me by Buchardt along with their Platin Hub.
+This pair of speakers was loaned to me by their owner who had them drop shipped from a retailer.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
@@ -27,30 +27,26 @@ For help understanding the data, I encourage you to watch this video which discu
 
 ## Information and Photos
 
-Some specs from the manufacturer can be found [here](https://buchardtaudio.com/products/a500).
-> * Amplifiers: 3 x 150 RMS / 330 Peak watts class D (each speaker)
-> * Operating principle: 2.5-way Or 3-way sealed enclosure
-> * Tweeter: 1 x 0,74" Custom fine weave soft fabric textile with CDC aluminum waveguide
-> * Mid / woofer: 1 x 6" linear long stroke paper cone
-> * Rear / subwoofer: 1 x 6" linear long stroke paper cone
-> * Frequency response: 25 - 40.000 Hz +/- 1.5dB (can change with mastertunings)
-> * DSP: Quad Core processor
-> * DAC chip: 3 x CS4398 (each speaker)
-> * Crossover Point: 150 hz / 2800 hz (can change with mastertunings)
-> * Wireless: WiSA 24 bit / 96khz lossless. Can be paired across brands up to 7.1 setup
-> * Cabled analogue input: 24 bit / 192khz ADC / Balanced / Unbalanced XLR / 20k ohms input impedance
-> * Measurements (h x w x d): 365 x 180 x 280 mm (14.4” x 7” x 11”)
-> * Input voltage: 100-240 Volts AC auto adjusting (EU & US power cords incl.)
-> * Weight: 9 kg each / 25 kg pair shipping weight
-> * Warranty: 10 years on speakers / 2 years on electronics (4 years if registered)
-> * Speaker grilles : included
-
-More information on the Platin Hub (and other options) can be found on the site as well.
+Some specs from the manufacturer can be found [here](https://www.genelec.com/8331a).
+> * SPL: 104 dB
+> * Amplifier Power: 72 W Bass (Class D) + 36 W Midrange (Class D) + 36 W Treble (Class D)
+> * Frequency Response: 45 Hz - 37 kHz ("-6 dB")
+> * Accuracy of Frequency Response: ± 1.5 dB (58 Hz - 20 kHz)
+> * Driver Dimensions: 2 x H 65 x W 130 mm Bass + ⌀ 90 mm Midrange + ⌀ 19 mm Treble (view in inches)
+> * Dimensions: H 305 x W 189 x D 212 mm, with Iso-Pod™ (view in inches)
+> * Weight: 6.7 kg / 14.8 lb
+> * Connections:
+>    * 1 x XLR Analog Input
+>    * 1 x XLR AES/EBU Input
+>    * 1 x XLR AES/EBU Output
+>    * 2 x RJ45 Control
 
 
-Price is approximately €3500 for the speaker pair (as of this writing).  With the Platin Hub the cost is €3800.
+Price is approximately $2250 USD for a single, or $4500 USD for a speaker pair (as of this writing).
 
+Genelec provided me with this exploded view so you can get a better idea of the parts and complexity of this speaker.
 
+<img align="left" src="https://dl.dropboxusercontent.com/s/3sfbmfmd3770th4/image001.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -66,17 +62,11 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-IMPORTANT SETUP INFO:
 
-The reference plane in this test is between the tweeter and the midwoofer.
 
-The A500 has the ability to load many predefined DSP settings which all result in various sound signatures / output capabilities.  You can find more information on the manufacturer's website.  The testing *for this review* was done using the default tuning (which I was informed by the manufacturer is the "*The Theoretical - Flat (new)*" setting, as of this writing.
+The reference plane in this test is between the tweeter.
 
-Additional DSP options were configured and tested.  They are clearly labeled in the title of each of the SPIN datasets toward the end of this review.
-
-Note that the default setting is full-range, using DSP to boost the bass which also uses DSP to protect the woofer from mechanical damage should the user try to push the speaker too hard.  Therefore, it is reasonable and expected that the distortion and the limiting of this speaker would be relatively high / strict.  There are other DSP options that restrict the bass to more typical corner frequencies and thus result in less distortion / limiting at the cost of low frequency output.  Tradeoffs.
-
-Got it?  Let's go....
+All dip switches were set to "off".
 
 
 
@@ -104,7 +94,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/15n08vlm3xprh4q/CEA2034%20--%20Buchardt%20A500%20The%20Theoretical%20-%20Flat%20%28new%29%20Setting.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/kqwowcssnot0ebj/CEA2034%20--%20Genelec%208331A.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -123,7 +113,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/llw9yt20ddpepb1/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/54cvebawxpjdhls/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -136,37 +126,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/7xywmpkuedx93yd/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/wzktdgtgzblq5qa/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/iqax0hy8g1hwfl9/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8tupc8u5nhoiqrd/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ru9jknbecp4csxf/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9pcrf9hqynshs70/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/pz6zokdcqj91i1n/Buchardt%20A500%20The%20Theoretical%20-%20Flat%20%28new%29%20Setting%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/mjgjbioopx12jg5/Genelec%208331A%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/w1acemvs12tyl5n/Buchardt%20A500%20The%20Theoretical%20-%20Flat%20%28new%29%20Setting%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ig64wzdre66mrhi/Genelec%208331A%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/wwakuzqlepnlwir/Buchardt%20A500_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/2y4atd5feaeqn8z/Genelec%208331A_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/cjy78x16lnziz8j/Buchardt%20A500_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/rnwds0qzzj9tvky/Genelec%208331A_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -180,25 +170,25 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/5ponz0ctgd36sv2/Buchardt%20A500%20The%20Theoretical%20-%20Flat%20%28new%29%20Setting%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/zhiwirvj7iqfx6z/Genelec%208331A%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/9ge7fvo4wp0ojux/Buchardt%20A500%20The%20Theoretical%20-%20Flat%20%28new%29%20Setting%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/di3gewy84506uua/Genelec%208331A%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/bxzmf64qu0d4p7f/Buchardt%20A500%20The%20Theoretical%20-%20Flat%20%28new%29%20Setting%20%28Harmonic%20Distortion%2086dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/n2w1yx8a85ge3ut/Genelec%208331A%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/qha7jy0yhq9byrq/Buchardt%20A500%20The%20Theoretical%20-%20Flat%20%28new%29%20Setting%20%28Harmonic%20Distortion%2096dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/4xmvdvb22cdbukx/Genelec%208331A%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -220,33 +210,27 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/b8p8c19fqjrs1j7/Buchardt%20A500_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8s3hfep6ufgfoec/Genelec%208331A_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 <br><br>
 
-### Additional DSP Settings (note the title for setting)
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/t424evm2hki9a29/CEA2034%20--%20Buchardt%20A500%20The%20Theoretical%20-%20Allaround%20%28new%29%20Setting.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/1y6r60l1hmkh9cp/CEA2034%20--%20Buchardt%20A500%20The%20Theoretical%20-%20Standard%20Setting.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/f5718xp0ebf62b5/CEA2034%20--%20Buchardt%20A500%20Neutral%20Hi-pass%2060hz%20Setting.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-
-<br>
-<br>
-<br>
 
 
 
 ## Parting / Random Thoughts
 
-See video linked above for subjective and objective analysis.  But just a couple notes:
-* I really, really like this speaker in the default tuning.  I did try a few other DSP options but continually came back to preferring the default setting.
-* If you plan to purchase these speakers, spend the extra money and purchase the Platin Hub.  It's a no brainer purchase.  Spend the extra money.  It provides "room eq" and "manual eq".  Both of which are easy to use and very useful.
-* Remember, these results are with the DSP enabled to provide fullrange reproduction and it does it incredibly well.  The distortion and compression (limiting) data indicate this speaker does not take kindly to high output volume but in my listening experience in my home theater at about 3 meters away, I was maxing out at about 105dB (in the midrange/highs).  I was pushing this speaker *hard* without any mechanical noise (which indcates the limiter is protecting the drivers as it should) but, more imporantly, I did not feel the speaker was unable to provide adequate output at this listening distance.  I did not notice problematic distortion.  So, yes, the data indicates this speaker is only capable of getting *so* loud but that "so loud" should be plenty for most people.  And if you have a subwoofer to pair with these then use a HPF on these to alleviate the distortion/limiting concerns.
+See video linked above for subjective and objective analysis.  But just a couple notes regarding the compression testing because I know some will be perplexed by the results:
+* The compression / limiting test results look crazy, don't they?  I thought so, too.  So, I did some additional testing and I also reached out to Genelec to see if the results made sense to them.  In my listening tests, when I ran the speaker well into clipping (solid red light on the front), the result was the speaker would mute itself.  Not long term; just instantaneously.  However, the only way I could get this to happen is when I was practically *trying* to break the speaker (good news, it didn't break!).  The data backs that up.  When I performed the compression testing with sine sweeps what I saw and heard was this same thing.  In other words, the protection system was designed to do this.  And Genelec confirmed as much, per their reply below:
+> The protection system is designed to ensure long-term reliability. Allowing excessive temperature in the voice coils can significantly reduce lifetime and even cause rapid failure. Protection and driver characteristics have been selected so that for music and speech signals there is little or no need for protection.
+Other manufacturers may have different philosophy with protection, like lifting the low corner frequency of the woofer to slightly limit heating, resulting in thermal compression and ultimately failure. Some even boast of not using protection at all. We find that this may often lead to earlier than expected failure and harm for the user.
+
+
+* In the room, I was able to push these to 100dB at 3m before the clipping indicator came on and began to mute the output to protect the speaker (per design).  Realistically, this speaker will likely not be listened at this distance and likely will be listened to in the 1m to 2m distance.  In this case, you would have higher dynamic range capability than I did at the 3m distance.
+* The imaging of this speaker is superb.  And in the nearfield, it's even more noteworthy as most speakers with multiple drivers - not coincident - tend to not sum properly in the nearfield and you need to be further than a meter for that to occur (generally speaking, of course).
+* F3 = 49Hz.  F10 = 39Hz.  The 8331A plays down into the 50Hz region just fine and in-room at 3m distance and 1 meter from each sidewall, they extended down to 40Hz before they rolled off sharply.  
 
 
 
