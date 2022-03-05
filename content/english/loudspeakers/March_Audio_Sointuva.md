@@ -1,15 +1,17 @@
 ---
 title: "March Audio Sointuva Bookshelf Speaker Review"
-date: 2022-01-06
+date: 2022-03-04
 draft: false
-image: "https://dl.dropboxusercontent.com/s/qt607citsedafxv/DSC02822.JPG?dl=0"
+image: "https://dl.dropboxusercontent.com/s/hqq5fusdt1coae4/DSC03082.JPG?dl=0"
 description : "March Audio Sointuva Review"
 Tags: ["March Audio", "Sointuva", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "March Audio center channel", "March Audio Sointuva review"]
 ---
 
 
 ## Foreword / YouTube Video Review
-This speaker was loaned to me by the manufacturer.  This is an updated version of the previous design, where the notable difference from the original is now the use of the SB Acoustics Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide (the original used a non-waveguided tweeter).  The pair loaned to me were the original prototype design.  Given the speaker manufacturer is located in Australia, I was willing to test these rather than have him build me a brand new pair simply for testing and then have to sell at a discounted price later for it being used.
+These speakers were loaned to me by the owner who had them shipped directly to me from the manufacturer.
+
+Note: I reviewed a previous version of this speaker with some slight differences from what the manufacturer intended, based on his measurements.  The manufacturer used my data as feedback and adjusted a few things in the design to arrive at this version.  Given the two "versions" are a month apart and all versions now sold - and sold before - will be using the same build and crossover methods, I have replaced the previous review with this review.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
@@ -29,13 +31,7 @@ Some specs from the manufacturer can be found [here](https://www.marchaudio.com/
 > * Dual Purifi PTT6.5PR-NF1-01 passive radiators
 
 
-Price is approximately $3500 USD for the pair, or more, depending on the finish.  These are built to order and lead time is 4 weeks according to the manufacturer.
-
-
-Crossover Components:
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/sx1f954txr2ic94/crossover.jpg?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
+According to the website, the current price is approximately $3995 USD for the pair, or more, depending on the finish.  These are built to order and lead time is 4 weeks according to the manufacturer.  As of this writing, of course.
 
 <br>
 <br>
@@ -77,7 +73,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/g29mvkm9sl3byuk/CEA2034%20--%20March%20Audio%20Sointuva.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/w23a2asv615mmns/CEA2034%20--%20March%20Audio%20Sointuva.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -96,7 +92,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/okqy684o42jsbdr/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/dqjcrehaows0lc5/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -109,44 +105,35 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/ssoer7zr1jcp5rj/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/2snzvwwzzmw6f5x/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/mht1atbhcggrfez/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8gyudk2jj0l6buv/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/wz42tzhcv49996w/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-Horizontal Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/xjyyi26eofihjxk/March%20Audio%20Sointuva%20Horizontal%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/gmibk7c8ao3yzj0/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/wm46rr9yqdxmhuz/March%20Audio%20Sointuva%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-
-Vertical Contour Plot (not normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/rtxe9nelj7vbgg8/March%20Audio%20Sointuva%20Vertical%20Contour%20Plot.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/4hbvvzrbyz9tiq6/March%20Audio%20Sointuva%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/xc0rmevzq6lnh66/March%20Audio%20Sointuva%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ds7le30aim4vkaz/March%20Audio%20Sointuva%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/eusdb8sofw2i9zc/March%20Audio%20Sointuva_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/mipkqn3lj7cx9rh/March%20Audio%20Sointuva_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/k8hke9t7os6ija5/March%20Audio%20Sointuva_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/dxxpex0xev2hpnx/March%20Audio%20Sointuva_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -158,17 +145,10 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ## Additional Measurements
 <br>
 
-### On-Axis Response Linearity
-
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/qwfcm3ikut69yxp/March%20Audio%20Sointuva%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-<br>
-
 ### Impedance Magnitude and Phase
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ic4rd15zfb0htl7/March%20Audio%20Sointuva%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/i6v4t483i0n62lz/impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -176,8 +156,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/kvsmt3jh2xhdwfp/Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ffbrs9v80in1yfj/March%20Audio%20Sointuva%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
+### Group Delay
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/wqhdho77e7nw01z/March%20Audio%20Sointuva%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -185,12 +168,8 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 ### Harmonic Distortion
 
-Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/p2itxmbua0vcppz/March%20Audio%20Sointuva%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/kvuf5sfslc3aoi2/March%20Audio%20Sointuva%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/c9314v0t9ay0ezy/March%20Audio%20Sointuva%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -212,35 +191,27 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/157w6z7ehlb61ji/March%20Audio%20Sointuva_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/d99e030jktish5p/March%20Audio%20Sointuva_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 <br><br>
 
 <br>
-<br>
-<br>
-
 
 
 ## Parting / Random Thoughts
 
-If you want to see a sample of the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
+See video linked above for subjective and objective analysis.  But just a couple notes:
+* The enclosure is built like a tank.  Tons of fill material and what appears to be a very thick layer of (some sort of) constrained layer damping.
+* These sound awesome.
+* While the sensitivity measured at a low 82.4dB, the implementation of some of the best drivers out there make this a speaker with super output capability.  And with an F3 = 43Hz, you might not need a subwoofer *if* you don't necessarily need a lot of output below 40Hz.  The compression and distortion data show this speaker maintains its composure very well even at high(er) volume.
+* The on-axis response shows a treble lift.  However, this combined with a narrowing radiation in the treble result in a more linear estimated in-room response (EIR) with what I would consider a mild treble lift overall.  I sometimes find a treble lift in the EIR to equate to a "bright" sound but this is more subdued and even throughout which (I believe) is what caused it to not stand out to me in a negative way.
+* Interestingly, it looks like the best vertical positioning for this speaker might actually be *above* the tweeter axis by about 5°.  This would also bring the treble boost in the EIR down a tad.
+* Objectively speaking, I believe (recalling from memory) this is the best passive speaker I have measured to date.  It rivals linearity and directivity on par with some of the best speakers I have seen.
 
-I always listen to speakers before I measure them.  This ensures I am not swayed by the measurements before I listen.
 
-* Nice extension with an F3 of 47Hz.  In-room bass response should be adequate for most 2-channel enthusiasts, though, I would still use a subwoofer as I listen to a lot of content with lower bass.
-* This speaker has one of the best overall responses that I've seen to date with great directivity.
-* While the on-axis response shows a rising treble, I didn't hear this as offensive.  I think this is due, at least partly, to the rather narrow horizontal dispersion.  The lateral reflections aren't strong and therefore the estimated in-room response doesn't exhibit the kind of pronounced treble a speaker with a rising treble response *and* wide radiation would.
-* The narrow radiation - while helping to keep the treble from sounding bright in-room - is the only underwhelming part about this speaker *on paper* to me.  I generally prefer a speaker with a wider radiation pattern.  However, when listening, I didn't find myself having any issues with this.  In fact, in many tracks, I felt the soundstage was wider than the data would have me believe.  I'm not sure what the driving factor here is.  Could it be the extremely smooth horizontal off-axis response?  I noticed that on-axis, the soundstage didn't seem that wide but when turning the speakers off-axis to tame the highs, the soundstage actually broadened more than I would have expected.  Could this be due low crosstalk from speaker to the opposite side  when listening in stereo?
-* Imaging also seemed quite good on this speaker and didn't suffer when turning the speaker off-axis.
-* In terms of output levels, due to the average sensitivity of about 83dB @ 2.83v/1m, this speaker needs power.  I am using a Parasound HINT-6 which has about 220wpc @ 4ohm and was close to maxing it out.  When talking about driving a speaker like this hard you often have to worry about mechanical issues.  I am happy to say that for most of my listening I had no issues with any pops or woofers bottoming out.  In some instances when I would listen to rap music with bass heavy notes, I engaged the Parasound's internal crossover and used a filter of 30Hz/24dB to limit the low bass excursion of the Sointuvas.
-* Distortion and Compression: The distortion is shockingly low.  Especially for a 2-way bookshelf sized speaker with a sensitivity of 83dB.  At 86dB the THD is under 0.30% down to about 50Hz.  For reference, this is actually even lower than or at least on par with the JBL M2 which uses a 15-inch high-sensitivity midwoofer.  At 96dB the THD rises but remains low at under 1% down to about 50Hz.  This is a class leading design by distortion metrics. Additionally, the compression testing shows very good performance as well with only about 0.50dB deviation from 76dB to 102dB (above 50Hz).  Again, incredibly good performance here.
 
-When I have a speaker with so few flaws, it's hard to talk about it.  This speaker - the same as the Dutch & Dutch 8c and Kii THREE (and some others I forget at this moment) - is such a speaker.  Suffice it to say, the Sointuva is a fantastic speaker with excellent directivity, incredible distortion and great linearity.  The lower sensitivity might cause one to forgo them in lieu of another speaker if you are expecting to listen louder but to that I will remind you that you are most likely not going to find another speaker this size that has more output capability in the lower bass and would still likely need to purchase a subwoofer for very low bass content.  If listening at modest levels and/or close to the speakers, I expect most 2-channel enthusiasts would be satisfied with the extension and output of this speaker.  The Purifi midwoofer and the Satori tweeter are obviously the stars here but the integration March Audio has done with these components in a relatively small cabinet, achieving textbook directivity and class-leading distortion/compression metrics should be lauded.
-
-As stated in the Foreword, this written review is purposely a cliff's notes version.  For more details about the performance (objectively and subjectively) please watch the YouTube video.
 <br>
 <br>
 <br>
@@ -257,8 +228,13 @@ If you find this review helpful and want to help support the cause there are a f
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my [Amazon affiliate link](https://amzn.to/3EDz2Xf), if you are interested in purchasing anything from Amazon, which helps me gain a small commission at no additional cost to you.
+Or using my generic [Amazon affiliate link](https://amzn.to/3KgrVqK) or [Audio Advice link](https://www.audioadvice.com/?referral=erins-audio-corner), to purchase items you may need.  These links earn me a small commission at no additional cost to you.
 
+
+
+
+<br>
+<br>
 
 
 
