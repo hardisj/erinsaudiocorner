@@ -70,11 +70,11 @@ IMPORTANT SETUP INFO:
 
 The reference plane in this test is between the tweeter and the midwoofer.
 
-The A500 has the ability to load many predefined DSP settings which all result in various sound signatures / output capabilities.  You can find more information on the manufacturer's website.  The testing *for this review* was done using the default tuning (which I was informed by the manufacturer is the "*The Theoretical - Flat (new)*" setting, as of this writing.
+The A500 has the ability to load many predefined DSP settings which all result in various sound signatures / output capabilities.  You can find more information on the manufacturer's website.  The testing *for this review* was done using the "*The Theoretical - Flat (new)*" setting.  Note, however, that this speaker ships with the "Neutral - Stock" setting.
 
 Additional DSP options were configured and tested.  They are clearly labeled in the title of each of the SPIN datasets toward the end of this review.
 
-Note that the default setting is full-range, using DSP to boost the bass which also uses DSP to protect the woofer from mechanical damage should the user try to push the speaker too hard.  Therefore, it is reasonable and expected that the distortion and the limiting of this speaker would be relatively high / strict.  There are other DSP options that restrict the bass to more typical corner frequencies and thus result in less distortion / limiting at the cost of low frequency output.  Tradeoffs.
+Note that the tested setting is full-range, using DSP to boost the bass which also uses DSP to protect the woofer from mechanical damage should the user try to push the speaker too hard.  Therefore, it is reasonable and expected that the distortion and the limiting of this speaker would be relatively high / strict.  There are other DSP options that restrict the bass to more typical corner frequencies and thus result in less distortion / limiting at the cost of low frequency output.  Tradeoffs.
 
 Got it?  Let's go....
 
@@ -234,6 +234,8 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/f5718xp0ebf62b5/CEA2034%20--%20Buchardt%20A500%20Neutral%20Hi-pass%2060hz%20Setting.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
+<img align="left" src="https://dl.dropboxusercontent.com/s/rq4d8f3ctv3b7fh/CEA2034%20--%20Buchardt%20A500%20Warm%20Setting.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
 
 <br>
 <br>
@@ -244,7 +246,7 @@ The purpose of this test is to illustrate how much (if at all) the output change
 ## Parting / Random Thoughts
 
 See video linked above for subjective and objective analysis.  But just a couple notes:
-* I really, really like this speaker in the default tuning.  I did try a few other DSP options but continually came back to preferring the default setting.
+* I really, really like this speaker in the "Theoretical - Flat (new)" tuning.  I did try a few other DSP options but continually came back to preferring the "Theoretical - Flat (new)" setting.
 * If you plan to purchase these speakers, spend the extra money and purchase the Platin Hub.  It's a no brainer purchase.  Spend the extra money.  It provides "room eq" and "manual eq".  Both of which are easy to use and very useful.
 * Remember, these results are with the DSP enabled to provide fullrange reproduction and it does it incredibly well.  The distortion and compression (limiting) data indicate this speaker does not take kindly to high output volume but in my listening experience in my home theater at about 3 meters away, I was maxing out at about 105dB (in the midrange/highs).  I was pushing this speaker *hard* without any mechanical noise (which indcates the limiter is protecting the drivers as it should) but, more imporantly, I did not feel the speaker was unable to provide adequate output at this listening distance.  I did not notice problematic distortion.  So, yes, the data indicates this speaker is only capable of getting *so* loud but that "so loud" should be plenty for most people.  And if you have a subwoofer to pair with these then use a HPF on these to alleviate the distortion/limiting concerns.
 
