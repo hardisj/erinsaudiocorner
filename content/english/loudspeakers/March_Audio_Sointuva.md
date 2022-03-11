@@ -24,10 +24,10 @@ The review on this website is a brief overview and summary of the objective perf
 
 ## Information and Photos
 
-Some specs from the manufacturer can be found [here](https://www.marchaudio.com/sointuva-purifi-speaker).
+Some specs from the manufacturer can be found [here](https://www.marchaudio.com/product/sointuva-wg-speaker/).
 > 2-way passive radiator design using the following components:
 > * Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide
-> * Purifi PTT6.5X04-NFA-01 Midwoofer
+> * Purifi PTT-OEM Midwoofer
 > * Dual Purifi PTT6.5PR-NF1-01 passive radiators
 
 
