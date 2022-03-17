@@ -230,7 +230,7 @@ Other manufacturers may have different philosophy with protection, like lifting 
 
 * In the room, I was able to push these to 100dB at 3m before the clipping indicator came on and began to mute the output to protect the speaker (per design).  Realistically, this speaker will likely not be listened at this distance and likely will be listened to in the 1m to 2m distance.  In this case, you would have higher dynamic range capability than I did at the 3m distance.
 * The imaging of this speaker is superb.  And in the nearfield, it's even more noteworthy as most speakers with multiple drivers - not coincident - tend to not sum properly in the nearfield and you need to be further than a meter for that to occur (generally speaking, of course).
-* F3 = 49Hz.  F10 = 39Hz.  The 8331A plays down into the 50Hz region just fine and in-room at 3m distance and 1 meter from each sidewall, they extended down to 40Hz before they rolled off sharply.  
+* F3 = 49Hz.  F10 = 39Hz.  The 8331A plays down into the 50Hz region just fine and in-room at 3m distance and 1 meter from each sidewall, they extended down to 40Hz before they rolled off sharply.
 
 
 
@@ -244,17 +244,21 @@ Other manufacturers may have different philosophy with protection, like lifting 
 If you find this review helpful and want to help support the cause there are a few ways you can do so below.  Your support helps me pay for new items to test, hardware, miscellaneous items needed for testing and costs of the site's server space and bandwidth.  Any help is *very much* appreciated.
 <br>
 
-<a href="https://www.patreon.com/bePatron?u=59439731" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> <form action="https://www.paypal.com/donate" method="post" target="_top">
+Join my Patreon: <a href="https://www.patreon.com/bePatron?u=59439731" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="XV7EYYU7S77LE" />
+<br>
+
+Donate via PayPal:
+<br>
 <input type="image" src="https://i.imgur.com/Z608uUQ.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my generic [Amazon affiliate link](https://amzn.to/3KgrVqK) or [Audio Advice link](https://www.audioadvice.com/?referral=erins-audio-corner), to purchase items you may need.  These links earn me a small commission at no additional cost to you.
+Or using my generic Amazon affiliate banner below to buy *anything* you may need - from toothpaste to Blu-Ray Discs - from Amazon, which helps me gain a small commission at no additional cost to you.
+<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=13&l=ur1&category=primemain&banner=04NRHQQG6YWXV2MBAJ82&f=ifr&linkID=05262f193f7a7f9e4f48fbb0e8fe981d&t=medlemusin-20&tracking_id=medlemusin-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
 
-
-
-
+<br>
+<br>
 <br>
 <br>
 

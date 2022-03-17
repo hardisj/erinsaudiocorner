@@ -1,22 +1,25 @@
 ---
-title: "March Audio Sointuva Bookshelf Speaker Review"
-date: 2022-03-04
+title: "Monoprice THX-365C Center Channel Speaker Review"
+date: 2022-03-17
 draft: false
-image: "https://dl.dropboxusercontent.com/s/hqq5fusdt1coae4/DSC03082.JPG?dl=0"
-description : "March Audio Sointuva Review"
-Tags: ["March Audio", "Sointuva", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "March Audio center channel", "March Audio Sointuva review"]
+image: "https://dl.dropboxusercontent.com/s/g2fa68g9wgwf1hd/DSC03136.JPG?dl=0"
+description : "Monoprice THX-365C Review"
+Tags: ["Monoprice", "Monoprice THX-365C","THX-365C", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Monoprice center channel", "Monoprice THX-365C review"]
 ---
 
 
 ## Foreword / YouTube Video Review
-These speakers were loaned to me by the owner who had them shipped directly to me from the manufacturer.
+This speaker was loaned to me by a viewer.
 
-Note: I reviewed a previous version of this speaker with some slight differences from what the manufacturer intended, based on his measurements.  The manufacturer used my data as feedback and adjusted a few things in the design to arrive at this version.  Given the two "versions" are a month apart and all versions now sold - and sold before - will be using the same build and crossover methods, I have replaced the previous review with this review.
-
-The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
+The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
 < coming soon >
 
+<br>
+<br>
+
+For help understanding the data, I encourage you to watch this video which discusses the implications of (some of) the data shown below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o8UKcOLcDUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <br>
 <br>
@@ -24,14 +27,28 @@ The review on this website is a brief overview and summary of the objective perf
 
 ## Information and Photos
 
-Some specs from the manufacturer can be found [here](https://www.marchaudio.com/product/sointuva-wg-speaker/).
-> 2-way passive radiator design using the following components:
-> * Satori TW29BNWG-4 Beryllium Dome Tweeter with Waveguide
-> * Purifi PTT-OEM Midwoofer
-> * Dual Purifi PTT6.5PR-NF1-01 passive radiators
+Some specs from the manufacturer can be found [here](https://www.monoprice.com/product?p_id=34189).
+> * Woofer Drivers: 2x 6.5" long fiber pulp cones with FEA optimized nitrile butadiene rubber (NBR) surround and aluminum shorting ring
+> * Midrange Driver: 2" silk dome midrange with Neodymium magnet and aluminum shorting ring
+> * Tweeter Driver: 1" silk dome tweeter with Neodymium magnet and copper shorting ring
+> * Frequency Response: 65Hz ~ 24kHz
+> * Sensitivity: 89.5dB (2.83V@1m)
+> * Crossover Frequencies: 550Hz (24dB Linkwitz‑Riley) and 1.9kHz (24dB Linkwitz‑Riley)
+> * Impedance: 4 ohms
+> * Recommended Amplifier Power: 80 ~ 250 watts
+> * Cabinet: Sealed, 5 layer HDF with horizontal shelf bracing and 5‑way binding posts
+> * Dimensions (without grille) (LxWxH): 10.8" x 22.9" x 9.7" (275 x 581 x 246 mm)
+> * Dimensions (with grille) (LxWxH): 11.4" x 22.9" x 9.7" (290 x 581 x 246 mm)
+> * Weight: 26.4 lbs. (12.0 kg)
 
 
-According to the website, the current price is approximately $3995 USD for the pair, or more, depending on the finish.  These are built to order and lead time is 4 weeks according to the manufacturer.  As of this writing, of course.
+
+
+
+Price is approximately $499 USD for the single center channel.
+If you are interested in purchasing this speaker, please consider using the following affiliate link which earns me a small commission at no additional cost to you:
+[link](https://www.dpbolvw.net/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D34189)
+
 
 <br>
 <br>
@@ -47,7 +64,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-The reference plane in this test is at the tweeter, per the manufacturer.
+The reference plane in this test is at the tweeter.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -73,7 +90,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/w23a2asv615mmns/CEA2034%20--%20March%20Audio%20Sointuva.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/24pz7npirwmklpu/CEA2034%20--%20Monoprice%20Monolith%20THX-365C.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -92,7 +109,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/dqjcrehaows0lc5/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/o94fisyi6lx0eft/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -105,35 +122,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/2snzvwwzzmw6f5x/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/c69qq2gd91env6b/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/8gyudk2jj0l6buv/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/s965fgihs6yyo09/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/gmibk7c8ao3yzj0/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/rh9bjw3gjq61h05/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
+
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/4hbvvzrbyz9tiq6/March%20Audio%20Sointuva%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9y90k228mwp6t3o/Monoprice%20Monolith%20THX-365C%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
+
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ds7le30aim4vkaz/March%20Audio%20Sointuva%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/0pcwha4ruwre2hw/Monoprice%20Monolith%20THX-365C%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/mipkqn3lj7cx9rh/March%20Audio%20Sointuva_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9y90k228mwp6t3o/Monoprice%20Monolith%20THX-365C%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/dxxpex0xev2hpnx/March%20Audio%20Sointuva_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/mffbojthydmp53t/Monoprice%20Monolith%20THX-365C_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -148,28 +167,35 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance Magnitude and Phase
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/i6v4t483i0n62lz/impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/yooslzew8yugfah/Monoprice%20Monolith%20THX-365C%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-
-
+<br>
 
 ### Step Response
+<br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ffbrs9v80in1yfj/March%20Audio%20Sointuva%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-### Group Delay
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/wqhdho77e7nw01z/March%20Audio%20Sointuva%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/5fp6ew9gw82mj2z/Monoprice%20Monolith%20THX-365C%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
+<br>
+
+### Group Delay
+<br>
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/jvrk3m6kf4if33x/Monoprice%20Monolith%20THX-365C%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
 <br>
 <br>
 
 ### Harmonic Distortion
 
+Harmonic Distortion at 86dB @ 1m:
+<img align="left" src="https://dl.dropboxusercontent.com/s/j1ksfpvo7ol5162/Monoprice%20Monolith%20THX-365C%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/c9314v0t9ay0ezy/March%20Audio%20Sointuva%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/prmzq32bmj3v9og/Monoprice%20Monolith%20THX-365C%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -191,24 +217,26 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/d99e030jktish5p/March%20Audio%20Sointuva_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/psdeer61b0kk83g/Monoprice%20Monolith%20THX-365C_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 <br><br>
 
 <br>
+<br>
+<br>
+
 
 
 ## Parting / Random Thoughts
 
-See video linked above for subjective and objective analysis.  But just a couple notes:
-* The enclosure is built like a tank.  Tons of fill material and what appears to be a very thick layer of (some sort of) constrained layer damping.
-* These sound awesome.
-* While the sensitivity measured at a low 82.4dB, the implementation of some of the best drivers out there make this a speaker with super output capability.  And with an F3 = 43Hz, you might not need a subwoofer *if* you don't necessarily need a lot of output below 40Hz.  The compression and distortion data show this speaker maintains its composure very well even at high(er) volume.
-* The on-axis response shows a treble lift.  However, this combined with a narrowing radiation in the treble result in a more linear estimated in-room response (EIR) with what I would consider a mild treble lift overall.  I sometimes find a treble lift in the EIR to equate to a "bright" sound but this is more subdued and even throughout which (I believe) is what caused it to not stand out to me in a negative way.
-* Interestingly, it looks like the best vertical positioning for this speaker might actually be *above* the tweeter axis by about 5°.  This would also bring the treble boost in the EIR down a tad.
-* Objectively speaking, I believe (recalling from memory) this is the best passive speaker I have measured to date.  It rivals linearity and directivity on par with some of the best speakers I have seen.
+Due to the sheer number of speakers I am testing at this time, all subjective and objective takeaways will be discussed in video form.  As stated in the Foreword, this written review is purposely a cliff's notes version.  For details about the performance (objectively and subjectively) please watch the YouTube video.
+
+First off, the compression results threw me for a loop so I actually re-tested the speaker.  Same result.  I then did a comparison of the impedance at 0.10v vs 2.83v to see if anything stood out in that regard.  There was a difference, but nothing that would quite explain what I was seeing.  At least, not immediately.  I double checked the speaker by opening it up and verifying nothing was loose or resonating inside.  The results, therefore, stand.
+
+On-Axis linearity isn't good but I imagine that has a lot to do with the side woofers.  The on-axis response shows a dip around 1kHz but the listening window doesn't exhibit this.  Overall horizontal radiation is pretty wide so there shouldn't be an issue with a sweet spot in *typical* home theater seating.  Output is solid (but the compression results show something funky, so I'm holding off to double-check that later).  EQ'ability looks good except for the 4kHz region where there is a transition to the tweeter, though, this isn't really all that bad, either.  All in all, I think this may be one of the better center channels I've seen under the $500 mark.
+
 
 
 
