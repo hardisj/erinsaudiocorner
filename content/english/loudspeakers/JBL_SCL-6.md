@@ -2,7 +2,7 @@
 title: "JBL Synthesis SCL-6 In-Wall Speaker Review"
 date: 2022-03-19
 draft: false
-image: "https://dl.dropboxusercontent.com/s/qoiy5j3hhnlgozm/scl-6-front_3q_1.jpg?dl=0"
+image: "https://dl.dropboxusercontent.com/s/n28bg29k0ouiuic/DSC03175.JPG?dl=0"
 description : "JBL SCL-6 Review"
 Tags: ["JBL", "JBL SCL-6","SCL-6", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "JBL center channel", "JBL SCL-6 review"]
 ---
@@ -11,11 +11,11 @@ Tags: ["JBL", "JBL SCL-6","SCL-6", "Klippel", "Review", "Speaker", "loudspeaker"
 ## Foreword / YouTube Video Review
 This speaker was kindly loaned to me by Audio Advice for review in exchange for me simply providing a link to their store at the bottom of my review.
 
-I was not paid for this review and neither Audio Advice - nor the manufacturer - have seen this review in advance.  I was simply loaned a product to review without any exeternal influence.  Besides, the data doesn't care where the speaker came from.
+I was not paid for this review and neither Audio Advice - nor the manufacturer - have seen this review in advance.  I was simply loaned a product to review without any external influence.  Besides, the data doesn't care where the speaker came from.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-
+< coming soon >
 
 <br>
 <br>
@@ -44,7 +44,10 @@ Some specs from the manufacturer can be found [here](https://www.jblsynthesis.co
 
 Price is approximately $1650 USD each.
 
+<img align="left" src="https://dl.dropboxusercontent.com/s/q7p702msmzfdvzr/DSC03178.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
+<img align="left" src="https://dl.dropboxusercontent.com/s/e8mfzifinbv1yta/DSC03177.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
