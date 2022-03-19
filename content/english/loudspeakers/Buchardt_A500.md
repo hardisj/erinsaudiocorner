@@ -268,7 +268,19 @@ If you find this review helpful and want to help support the cause there are a f
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my generic [Amazon affiliate link](https://amzn.to/3KgrVqK) or [Audio Advice link](https://www.audioadvice.com/?referral=erins-audio-corner), to purchase items you may need.  These links earn me a small commission at no additional cost to you.
+Or using my generic Amazon affiliate banner below to buy *anything* you may need - from toothpaste to Blu-Ray Discs - from Amazon, which helps me gain a small commission at no additional cost to you.  Speaker wire is just the generic link I chose to provide.
+<script type="text/javascript">
+amzn_assoc_tracking_id = "medlemusin-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00HZWYP1G";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "8aff90faecd1ba62dcef02e842d4141b";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 
 

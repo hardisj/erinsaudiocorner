@@ -254,8 +254,19 @@ Donate via PayPal:
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my generic Amazon affiliate banner below to buy *anything* you may need - from toothpaste to Blu-Ray Discs - from Amazon, which helps me gain a small commission at no additional cost to you.
-<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=13&l=ur1&category=primemain&banner=04NRHQQG6YWXV2MBAJ82&f=ifr&linkID=05262f193f7a7f9e4f48fbb0e8fe981d&t=medlemusin-20&tracking_id=medlemusin-20" width="468" height="60" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe>
+Or using my generic Amazon affiliate banner below to buy *anything* you may need - from toothpaste to Blu-Ray Discs - from Amazon, which helps me gain a small commission at no additional cost to you.  Speaker wire is just the generic link I chose to provide.
+<script type="text/javascript">
+amzn_assoc_tracking_id = "medlemusin-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_design = "enhanced_links";
+amzn_assoc_asins = "B00HZWYP1G";
+amzn_assoc_placement = "adunit";
+amzn_assoc_linkid = "8aff90faecd1ba62dcef02e842d4141b";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
 <br>
 <br>
