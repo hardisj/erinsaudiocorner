@@ -13,7 +13,7 @@ This pair of speakers was loaned to me by their owner who had them drop shipped 
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-< coming soon >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ui1Gh_s_sX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>

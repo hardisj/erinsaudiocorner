@@ -15,7 +15,7 @@ Note: I reviewed a previous version of this speaker with some slight differences
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
-< coming soon >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bTkaxd2H7-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
