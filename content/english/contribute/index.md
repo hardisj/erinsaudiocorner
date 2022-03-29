@@ -9,7 +9,8 @@ This site is funded with my own money but is improved on with support from the c
 If you find this site helpful and want to support the cause there are a few ways you can do so below.  Your support helps me pay for new items to test, hardware, miscellaneous items needed for testing and costs of the site's server space and bandwidth.  Any help is *very much* appreciated.
 <br>
 
-Join my Patreon: <a href="https://www.patreon.com/bePatron?u=59439731" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> <form action="https://www.paypal.com/donate" method="post" target="_top">
+Join my Patreon: 
+<a href="https://www.patreon.com/bePatron?u=59439731" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="XV7EYYU7S77LE" />
 <br>
 
