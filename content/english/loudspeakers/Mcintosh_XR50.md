@@ -252,13 +252,9 @@ Donate via PayPal:
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my generic affiliate links below to buy *anything* they sell that you want to try out.  This will earn me a small commission at no additional cost to you.  You can use these links anytime; now or in the future.
+Or using my product affiliate link below to buy this speaker or *anything* they sell that you want to try out (I'd suggest maybe going with the "anything else" part).  This will earn me a small commission at no additional cost to you.  You can use these links anytime; now or in the future.
 <br>
-* [Audio Advice](https://www.audioadvice.com/?referral=erins-audio-corner&b=3)
-<br>
-* [Crutchfield](https://shop-links.co/cgZmmT81jmh)
-<br>
-* [Amazon](https://amzn.to/3jl4mRC)
+* [Audio Advice](https://www.audioadvice.com/mcintosh-xr50-bookshelf-speakers+color-Black?referral=erins-audio-corner)
 <br>
 <br>
 <br>
