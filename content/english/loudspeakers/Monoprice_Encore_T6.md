@@ -1,17 +1,15 @@
 ---
-title: "Monoprice Encore B6 Bookshelf Speaker Review"
+title: "Monoprice Encore T6 Tower Speaker Review"
 date: 2022-05-07
 draft: false
-image: "https://dl.dropboxusercontent.com/s/7th1k8r59bghlzm/DSC02703.JPG?dl=0"
-description : "Monoprice Encore B6 Bookshelf Speaker Review"
-Tags: ["Monoprice Encore", "B6", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Monoprice Encore center channel", "Monoprice Encore B6 review"]
+image: "https://images.monoprice.com/productlargeimages/431491.jpg"
+description : "Monoprice Encore T6 Tower Speaker Review"
+Tags: ["Monoprice Encore", "T6", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Monoprice Encore center channel", "Monoprice Encore T6 review"]
 ---
 
 
 ## Foreword / YouTube Video Review
 These speakers were loaned to me for review by Monoprice directly.  I was not paid or given anything for this review and Monoprice has not seen this review yet and has had no say in what I publish.
-
-Update: 05/07/2022: Monoprice contacted me shortly after seeing my initial review of the B6 bookshelf (posted December 2021) and let me know they realized there was an issue with their tweeter assembly (discussed more in the video below).  They provided me a new assembly for each of their Encore speakers they had sent me a few months ago.  This update is current on all their speakers and has been for some months now.  I'm just now getting around to reviewing the speakers with the updated tweeter assembly.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
@@ -24,35 +22,32 @@ The review on this website is a brief overview and summary of the objective perf
 
 ## Information and Photos
 
-Some specs from the manufacturer can be found [here](https://www.monoprice.com/product?p_id=43150&gclid=Cj0KCQjwsdiTBhD5ARIsAIpW8CJHwwepEG5ICVJnv15pINCT5AK0_nqmhWh6gaiDAYz159u5-UfJydQaAo0lEALw_wcB):
+Some specs from the manufacturer can be found [here](https://www.tkqlhce.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D43149):
 >The Monolith™ Encore series of speakers brings astounding audio performance to any room! Featuring a silk dome tweeter with distinctive tweeter waveguide, powerful woofers, and ultra‑sturdy cabinets, the Encore series delivers affordable, high performance audio. Immersive, room filling sound, an accurate midrange, and crisp, natural highs ensure an exciting and pleasurable listening experience!
-> * Color and Finish: Black PVC
-> * Woofer: 1x 6.5" Long Fiber Pulp Cone with NBR Surround
+> * Color and Finish: Black PVC
+> * Main Woofers: 2x 6.5" Long Fiber Pulp Cone with NBR Surround
+> * Mid Woofer: 1x 6.5" Long Fiber Pulp Cone with NBR Surround
 > * Tweeter: 1x 25mm Silk Dome with Waveguide
 > * Enclosure: Vented MDF cabinet with horizontal shelf bracing
-> * Frequency Response: 49Hz ~ 20kHz
-> * Nominal Impedance: 4 ohms
-> * Sensitivity: 85.0dB (2.83V@1m)
-> * Crossover: Low: 1.2kHz @12dB/octave
-> * Crossover: High: 1.2kHz @18dB/octave
-> * Inputs: 5‑way binding posts
-> * Dimensions: 15.7" x 7.9" x 9.9" (400 x 201 x 251 mm)
-> * Weight: 15.4 lbs. (7.0 kg)
+> * Frequency Response: 37Hz ~ 20kHz
+> * Sensitivity: 87.8dB (2.83V@1m)
+> * Crossover Frequencies: Low: 180Hz @6dB/octave
+> * Crossover Frequencies: Mid: 1.35kHz @12dB/octave
+> * Crossover Frequencies: High: 1.35kHz @18dB/octave
+> * Nominal Impedance: 4 ohms
+> * Recommended Amplifier Power: 50 ~ 180 watts
+> * Inputs: Two sets of 5‑way binding posts
+> * Dimensions (LxWxH): 13.8" x 7.9" x 40.0" (351 x 201 x 1016 mm)
+> * Weight: 49.2 lbs. (22.3 kg)
 
 
 
 
-Price is approximately $179 USD each, making a pair cost about $360 USD.
+
+Price is approximately $400 USD each, making a pair cost about $800 USD.
 
 If you are interested in purchasing this speaker, please consider using the following affiliate link which earns me a small commission at no additional cost to you:
-[Buy from Monoprice](https://www.anrdoezrs.net/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D43150)
-
-
-Check out this gloss top (and bottom, not pictured).  This is unexpected for this price range.
-<img align="left" src="https://dl.dropboxusercontent.com/s/32r6t91qw7t45mr/DSC02701.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-Grille and back.
-<img align="left" src="https://dl.dropboxusercontent.com/s/tuys8b2n4qsnzd8/DSC02706.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+[Buy from Monoprice](https://www.tkqlhce.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D43149)
 
 <br>
 <br>
@@ -94,7 +89,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/38013wy8r7mt4az/CEA2034%20--%20Monolith%20by%20Monoprice%20Encore%20B6.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/q6rhz3unjcuofzq/CEA2034%20--%20Monolith%20by%20Monoprice%20Encore%20T6.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -113,7 +108,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/o48sr6jael2343x/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/f92p7k8npgxt2cf/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -126,36 +121,36 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/uo1fdk0n42gzsx0/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/610frsb2jdsg8mm/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/6b6b8kdwm2r7str/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/uhgjojtvhnw20bq/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/l14pm2y0dxnsv4v/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/n8acv91beljtwo5/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/12qfx3a37jtsbxk/Monolith%20B6%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/22mk496z2fm4z45/Monoprice%20Encore%20T6%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/4d1lcnfpc25rj4s/Monolith%20B6%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/bzdauoqpluas9mw/Monoprice%20Encore%20T6%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/jbdlvqfy7umrgo7/Monoprice%20Encore%20B6_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/adnuirsaqnn692m/Monoprice%20Encore%20T6_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/askbvnrfz4cqmmg/Monoprice%20Encore%20B6_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9svjdzikvp5xjge/Monoprice%20Encore%20T6_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -170,14 +165,14 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### On-Axis Response Linearity
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/kxbmgd87g00wn7z/Monoprice%20Encore%20B6%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/g63py4jseoq46tq/Monoprice%20Encore%20T6%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Impedance Magnitude and Phase + Equivalent Peak Dissipation Resistance (EPDR)
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/xo4ud4dmcj9fxyj/Monoprice%20Encore%20B6%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/eexkrh15xo7z1qt/Monoprice%20Encore%20T6%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -186,11 +181,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/mn7gy4nrbvzigq8/Monoprice%20Encore%20B6%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/hzn2mvnfqol8462/Monoprice%20Encore%20T6%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/mn7gy4nrbvzigq8/Monoprice%20Encore%20B6%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/2beaqweneycnzt8/Monoprice%20Encore%20T6%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -212,41 +207,18 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/wfvr3xcql5w700i/Monoprice%20Encore%20B6_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/nrca5wxve5tbh6k/Monoprice%20Encore%20T6_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 <br><br>
 
-## With EQ
-
-For kicks, I used the above data to generate some EQ profiles in my miniDSP and then re-measured the speaker.  Note it doesn't change the directivity (as expected).
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/rke0dvm0tm6op0j/CEA2034%20--%20Monolith%20by%20Monoprice%20Encore%20B6%20%28with%20manual%20EQ%20applied%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/ymtofgz8c6wlfvk/eq.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-
-<br>
-
-<br>
-<br>
 <br>
 <br>
 
 
 
 ## Parting / Random Thoughts
-
-If you want to see the music I use for evaluating speakers subjectively, see [my Spotify playlist](https://open.spotify.com/playlist/0gBVe7rwdZojX41LakrUUy?si=c3ae973409fa4e66&nd=1).
-
-I always listen to speakers before I measure them.  This ensures I am not swayed by the measurements before I listen.
-* The bass is pretty darn nice.  In my case, the speakers were away from the walls about 3 feet and while there wasn't a lot of low bass, the midbass had a nice 'attack' to it.  I attribute some of this to the mild bump at 100Hz but also to the extended port tuning that puts the F3 point at about 68Hz with an F10 at about 37Hz.  Placement near a wall will help this but since you have a port here, you'll need to be careful.  It might be worth you taking the time to try stuffing a rag in the port and putting the speaker a bit closer to the wall (say, like you might a surround speaker in a home theater) and see if you like the response.
-* While the distortion profile is respectable, I still recommend treating these as you would a similar sized bookshelf speaker by crossing them over to a subwoofer.  The typical electrical filter on AVRs of 80Hz would be a reasonable place to start here.
-* I use my music app and applied a single band of EQ at 4kHz (-3dB, Q = 3) and found the speaker to be much more pleasant.  When toggling the EQ on/off it was pretty evident that the 3-4kHz peak shown in the Estimated In-Room response was causing a bit of 'edge' that I wasn't fond of.
-* Horizontal radiation in my listening session was nice.  Not super wide, but it seemed to be reasonably even in the room with respect to the on-axis response vs what was reflected and how that impacts the overall timbre of the sound.  Though, as expected, the waveguide does narrow the response in the higher frequencies, it isn't extreme and yields a horizontal radiation pattern of about ±50° from 800Hz to 10kHz.  The radiation is about ±75° from 300Hz to 800Hz and below this it is going omnidirectional.
 
 
 While the data isn't perfect, the attributes of this speaker relative to its price make it an option worth considering.  From sound quality to looks, it's a little of everything at a relatively low price.  You get decent response and you get a nice looking speaker with the typical black veneer on the sides but the added gloss top and bottom that take it from a "plain" speaker to one that might fool your friends and/or significant other ... heck, maybe even yourself, into thinking you spent a couple hundred bucks more than you did.
@@ -268,7 +240,7 @@ If you find this review helpful and want to help support the cause there are a f
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my [affiliate link](https://www.tkqlhce.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D43150) which helps me gain a small commission at no additional cost to you.
+Or using my [affiliate link](https://www.tkqlhce.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D43149) which helps me gain a small commission at no additional cost to you.
 
 
 

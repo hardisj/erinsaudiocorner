@@ -231,14 +231,14 @@ As stated in the Foreword, this written review is purposely a cliff's notes vers
 * The Cars "Magic" has a right side hi-hat that stands out from the soundstage while the "click clock" is back and to the left, giving it a 3-D sound field that is right in front of you at some points and deep with other parts of the mix.
 * Really good low-level dynamics; great with low level listening of more bass heavy music (where high output is bass limited).
 * Non-fatiguing.  I listened for an hour at 75dB or so and never felt earache.  I did have one session where I listened at this average level and used EQ to boost the lower bass up and just sat back and enjoyed it.
-* Can get dangerously loud due to extremely low midrange distortion.  Though, at about 98dB at 3.5 meters the bass starts to sound "flat", as if I was reaching the limits of the woofers.  Still, that's an average SPL of 98dB and it's not really sane to listen to those kind of levels for anything other than a quick "stress test" as I did here.
+* Can get dangerously loud due to extremely low midrange distortion.  Though, at about 98dB at 3.5 meters the bass starts to sound "flat", as if I was reaching the limits of the woofers.  Still, that's an average SPL of 98dB and it's not really sane to listen to those kinds of levels for anything other than a quick "stress test" as I did here.
 * Bobby McFerrin "Don't Worry Be Happy" starts with low vocal on left that stays parked but you can almost visualize it moving - Matrix style.  :)
 Left snap is dynamic.
 * Turning speaker off-axis about 10° provides a bit wider soundstage with no obvious detriment to the focus of images in the soundstage.  Though, the HF is lost and may need to be boosted a bit (depending on your preference).  I would encourage you to play around with the aiming though don't be surprised if you find you like directly on-axis.
 * Good, solid kick in Depeche Mode's "Enjoy The Silence".
 * My only gripe here is that the radiation pattern isn't *quite* as wide as I'd like it to be.  Though, at about ±50° it is wider than the R3 (~±40°) according to the data and I didn't find any serious complaints to be had.
 
-Notice how around 3kHz the DI flattens out.  Normally, with a flat on-axis speaker, I'd have a problem with this as it would result in a shelved up top end (bright sounding) with a wider radiation pattern - and, I would personally put this right on the edge of "narrow/wide", using ±50° as my mark).  However, it's interesting to note that the on-axis response is slightly tilted downward by about 1dB from around 3kHz to 10kHz.  I believe this combination is what is causing such a smooth in-room response and the speakers not coming across as "bright" to my ears, even when listening directly on-axis.
+Notice how around 3kHz the DI flattens out.  Normally, with a flat on-axis speaker, I'd have a problem with this as it would result in a shelved up top end (bright sounding) with a wider radiation pattern - and I would personally put this right on the edge of "narrow/wide", using ±50° as my mark).  However, it's interesting to note that the on-axis response is slightly tilted downward by about 1dB from around 3kHz to 10kHz.  I believe this combination is what is causing such a smooth in-room response and the speakers not coming across as "bright" to my ears, even when listening directly on-axis.
 
 Awesome speakers.  Subwoofer is optional.  For most music and at reasonable volume, with the F3 of about 45Hz and the in-room response extending lower, you might be OK without a subwoofer. But if you tend to listen at high levels (or are just very far away) then a subwoofer might be necessary.  Hard for me to say for sure as this is more of a preference/personal thing and these speakers do a good job of getting reasonably low so I can't say the subwoofer is a "must" like I do with other speakers with a much higher roll off point.
 
@@ -263,7 +263,7 @@ Donate via PayPal:
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my product affiliate link below to buy this speaker or *anything* they sell that you want to try out (I'd suggest maybe going with the "anything else" part).  This will earn me a small commission at no additional cost to you.  You can use these links anytime; now or in the future.
+Or using my product affiliate link below to buy this speaker or *anything* they sell that you want to try out (I'd suggest maybe going with the "anything else" part).  This will earn me a small commission at no additional cost to you.  You can use these links anytime, now or in the future.
 <br>
 * [Audio Advice](https://www.audioadvice.com/?referral=erins-audio-corner&b=3)
 <br>
