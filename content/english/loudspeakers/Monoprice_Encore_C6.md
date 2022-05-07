@@ -22,7 +22,7 @@ The review on this website is a brief overview and summary of the objective perf
 
 ## Information and Photos
 
-Some specs from the manufacturer can be found [here](https://images.monoprice.com/productlargeimages/431511.jpg):
+Some specs from the manufacturer can be found [here](https://www.jdoqocy.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D43151):
 >The Monolith™ Encore series of speakers brings astounding audio performance to any room! Featuring a silk dome tweeter with distinctive tweeter waveguide, powerful woofers, and ultra‑sturdy cabinets, the Encore series delivers affordable, high performance audio. Immersive, room filling sound, an accurate midrange, and crisp, natural highs ensure an exciting and pleasurable listening experience!
 > * Color and Finish: Black PVC
 > * Woofers: 2x 6.5" Long Fiber Pulp Cone with NBR Surround
@@ -46,7 +46,7 @@ Some specs from the manufacturer can be found [here](https://images.monoprice.co
 Price is approximately $250 USD each.
 
 If you are interested in purchasing this speaker, please consider using the following affiliate link which earns me a small commission at no additional cost to you:
-[Buy from Monoprice](https://images.monoprice.com/productlargeimages/431511.jpg)
+[Buy from Monoprice](https://www.jdoqocy.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D43151)
 
 <br>
 <br>
@@ -259,7 +259,7 @@ If you find this review helpful and want to help support the cause there are a f
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my [affiliate link](https://images.monoprice.com/productlargeimages/431511.jpg) which helps me gain a small commission at no additional cost to you.
+Or using my [affiliate link](https://www.jdoqocy.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D43151) which helps me gain a small commission at no additional cost to you.
 
 
 
