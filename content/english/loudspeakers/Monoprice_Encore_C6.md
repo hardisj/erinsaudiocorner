@@ -259,7 +259,7 @@ If you find this review helpful and want to help support the cause there are a f
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my [affiliate link](https://www.jdoqocy.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D43151) which helps me gain a small commission at no additional cost to you.
+Or using my [affiliate link](https://www.jdoqocy.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D43151) or [Amazon affiliate link](https://amzn.to/3ylpyzj) which helps me gain a small commission at no additional cost to you.
 
 
 
