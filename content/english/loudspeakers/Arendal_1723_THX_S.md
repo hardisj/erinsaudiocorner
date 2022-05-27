@@ -1,6 +1,6 @@
 ---
 title: "Arendal 1723 BOOKSHELF S Bookshelf Speaker Review"
-date: 2022-04-30
+date: 2022-05-26
 draft: false
 image: "https://dl.dropboxusercontent.com/s/lb6631n504t0mk7/DSC03281.JPG?dl=0"
 description : "Arendal 1723 BOOKSHELF S Review"
@@ -10,6 +10,9 @@ Tags: ["Arendal", "1723 BOOKSHELF S", "Klippel", "Review", "Speaker", "loudspeak
 
 ## Foreword / YouTube Video Review
 These speakers were loaned to me for review by Arendal.  I was not paid for the review and I sent them back.  Arendal did not see the review before publication.
+
+Update 05/26/2022: Arendal saw the results and had some concerns regarding the difference in their specification vs what [my results initially showed](https://www.dropbox.com/s/55o712cbwv7whv7/CEA2034%20--%20Arendal%201723%20Bookshelf%20S%20THX_original.png?dl=0) showed in the response above 10kHz.  They sent the units to their factory in Norway to verify the results.  Once they verified, they looked into the issue and verified no others from the production batch were subject to the cause.  They swapped the tweeters out and sent me the pair again to re-review.  So, here we are.
+
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
