@@ -1,5 +1,5 @@
 ---
-title: "Philharmonic BMR Mini-Monitor Review"
+title: "Philharmonic BMR Mini-Monitor (v2) Review"
 date: 2022-05-18
 draft: false
 image: "https://dl.dropboxusercontent.com/s/kab1q81tv2txrh0/DSC03406.JPG?dl=0"
@@ -9,7 +9,7 @@ Tags: ["dennis murphy", Philharmonic", "BMR", "Klippel", "Review", "Speaker", "l
 
 
 ## Foreword / YouTube Video Review
-These speakers were loaned to me by their owner for review.
+These speakers were loaned to me by their owner for review.  This is the second iteration of Dennis Murphy's popular BMR Monitor speaker.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
