@@ -123,6 +123,48 @@ Note: All the above data is from my spreadsheet which can viewed directly [here]
 
 <br>
 <br>
+
+
+### Nonlinearities
+
+Traditionally, Xmax has been defined in one of the following ways:
+- the physical overhang of the voice coil (height of the voice coil relative to height of the gap)
+- 115% times the physical overhang above
+- the point where displacement limit(s) is/are exceeded
+
+The third option is where the Klippel LSI module comes in to play. It permits a more "apples to apples" approach of defining the displacement (Xmax) limits based on the XBL, XC, XL and Xd.  The displacement limits XBL, XC, XL and Xd describe the limiting effect for the force factor Bl(x), compliance Cms(x), inductance Le(x) and Doppler effect, respectively, according to the threshold values Blmin, Cmin, Zmax and d2 used by the operator.
+
+</br>
+
+There are one of two sets of thresholds which can be used to define linear excursion:
+1) Non-Subwoofer Drivers: The thresholds Blmin= 82 %, Cmin=75 %, Zmax=10 % and d2=10% generate for a two-tone-signal (f1=fs, f2=8.5fs) 10 % total harmonic distortion and 10 % intermodulation distortion.
+2) Subwoofer Drivers: The thresholds Blmin= 70 %, Cmin=50 %, Zmax=17 % create 20 % total harmonic distortion which is becoming the standard for acceptable subwoofer distortion thresholds.
+
+</br>
+
+These parameters are defined in more detail in the (Klippel) papers:
+* “AN04 – Measurement of Peak Displacement Xmax”
+* “AN05 - Displacement Limits due to Driver Nonlinearities”
+* “AN17 - Credibility of Nonlinear Parameters”
+* “Prediction of Speaker Performance at High Amplitudes”
+* “Assessment of Voice Coil Peak Displacement Xmax”
+* “Assessing Large Signal Performance of Loudspeakers”
+
+</br></br>
+
+Below are the displacement limits' results for this drive unit obtained from Klippel's LSI module using the 20% THD threshold:
+
+| Displacement Limits   |             |         |                                                                   |
+|-----------------------|-------------|---------|-------------------------------------------------------------------|
+| X Bl @ Bl min=82%     | >21        | mm      | Displacement limit due to force factor variation                  |
+| X C @ C min=75%       | >21         | mm      | Displacement limit due to compliance variation                    |
+| X L @ Z max=10 %      | >21         | mm      | Displacement limit due to inductance variation                    |
+| X d @ d2=10%          | 138        | mm      | Displacement limit due to IM distortion (Doppler)                 |
+
+As you can see, I was not able to test the speaker to full resolution of its limits, ultimately winding up with the LSI module showing me that this subwoofer driver has *at least* 21mm one-way linear excursion.  This is quite a feat and one of the longest throw woofers I have seen data for and the longest linear excursion I have personally tested to date.
+
+I typically share the Bl/Kms/Le(x) curves that come from the Klippel LSI module for drivers but since this speaker's excursion was not fully resolved, it does mean there is the high probability that the results I share here might not be complete and therefore incorrect (the closer to the actual resolution of an xmax figure, the more accurate the curve for each component is).  Rather than post incomplete/incorrect curves I have decided to just provide the values above as an indication of the performance of this drive unit.
+
 <br>
 <br>
 
