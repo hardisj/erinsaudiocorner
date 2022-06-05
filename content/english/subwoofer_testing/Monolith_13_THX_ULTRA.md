@@ -156,7 +156,7 @@ Below are the displacement limits' results for this drive unit obtained from Kli
 
 | Displacement Limits   |             |         |                                                                   |
 |-----------------------|-------------|---------|-------------------------------------------------------------------|
-| X Bl @ Bl min=70%     | 31.8        | mm      | Displacement limit due to force factor variation                  |
+| X Bl @ Bl min=70%     | >32.6        | mm      | Displacement limit due to force factor variation                  |
 | X C @ C min=50%       | >32.6         | mm      | Displacement limit due to compliance variation                    |
 | X L @ Z max=17%      | >32.6         | mm      | Displacement limit due to inductance variation                    |
 | X d @ d2=20%          | 162.3        | mm      | Displacement limit due to IM distortion (Doppler)                 |
