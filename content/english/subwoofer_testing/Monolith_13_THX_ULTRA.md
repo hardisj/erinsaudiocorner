@@ -1,6 +1,6 @@
 ---
 title: "Monoprice Monolith 13in THX Certified Ultra 2000-Watt Powered Subwoofer"
-date: 2021-03-16
+date: 2022-06-05
 draft: false
 image: "https://dl.dropboxusercontent.com/s/si03z3s77eflp5s/DSC03448.JPG?dl=0"
 description : "Monolith 13 THX Ultra"
