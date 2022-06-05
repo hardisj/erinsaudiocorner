@@ -156,10 +156,10 @@ Below are the displacement limits' results for this drive unit obtained from Kli
 
 | Displacement Limits   |             |         |                                                                   |
 |-----------------------|-------------|---------|-------------------------------------------------------------------|
-| X Bl @ Bl min=70%     | >21        | mm      | Displacement limit due to force factor variation                  |
-| X C @ C min=50%       | >21         | mm      | Displacement limit due to compliance variation                    |
-| X L @ Z max=17%      | >21         | mm      | Displacement limit due to inductance variation                    |
-| X d @ d2=20%          | 138        | mm      | Displacement limit due to IM distortion (Doppler)                 |
+| X Bl @ Bl min=70%     | 31.8        | mm      | Displacement limit due to force factor variation                  |
+| X C @ C min=50%       | >32.6         | mm      | Displacement limit due to compliance variation                    |
+| X L @ Z max=17%      | >32.6         | mm      | Displacement limit due to inductance variation                    |
+| X d @ d2=20%          | 162.3        | mm      | Displacement limit due to IM distortion (Doppler)                 |
 
 As you can see, I was not able to test the speaker to full resolution of its limits, ultimately winding up with the LSI module showing me that this subwoofer driver has *at least* 21mm one-way linear excursion.  This is quite a feat and one of the longest throw woofers I have seen data for and the longest linear excursion I have personally tested to date.
 
