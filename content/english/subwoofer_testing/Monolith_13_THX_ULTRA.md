@@ -25,6 +25,8 @@ However, for those who want more - a more detailed explanation of the objective 
 
 This subwoofer was loaned to me by Monoprice for testing and reviewing.  I was not paid for this review nor did I receive anything in exchange.
 
+This subwoofer was also reviewed by James Larson at Audioholics ([link](https://www.audioholics.com/subwoofer-reviews/monolith-13201d-thx-ultra/conclusion)) who provided a much more thorough written analysis of his subjective thoughts than I do in this writeup (again, I have the video for that).
+
 The current price for this subwoofer is $1699 USD.  If - after viewing this data - you are interested in purchasing these please consider using either of my affiliate links below which helps me earn a small percentage of the purchase price at no additional cost to you.
 * [Buy from Amazon](https://amzn.to/3mdAzLR)
 * [Buy from Monoprice](https://www.tkqlhce.com/click-7732025-11552490?url=https%3A%2F%2Fwww.monoprice.com%2Fproduct%3Fp_id%3D41496%26gclid%3DCjwKCAjws8yUBhA1EiwAi_tpEbUonxRLz46AYNw2W92ItUEwtsP-fiHkXB-iH87cC3VhGktb8hDrahoCIrsQAvD_BwE)
@@ -161,9 +163,9 @@ Below are the displacement limits' results for this drive unit obtained from Kli
 | X L @ Z max=17%      | >32.6         | mm      | Displacement limit due to inductance variation                    |
 | X d @ d2=20%          | 162.3        | mm      | Displacement limit due to IM distortion (Doppler)                 |
 
-As you can see, I was not able to test the speaker to full resolution of its limits, ultimately winding up with the LSI module showing me that this subwoofer driver has *at least* 21mm one-way linear excursion.  This is quite a feat and one of the longest throw woofers I have seen data for and the longest linear excursion I have personally tested to date.
+As you can see, I was not able to test the speaker to full resolution of its limits, ultimately winding up with the LSI module showing me that this subwoofer driver has *at least* 32mm one-way linear excursion.  This is quite a feat and one of the longest throw woofers I have seen data for and the longest linear excursion I have personally tested to date.
 
-I typically share the Bl/Kms/Le(x) curves that come from the Klippel LSI module for drivers but since this speaker's excursion was not fully resolved, it does mean there is the high probability that the results I share here might not be complete and therefore incorrect (the closer to the actual resolution of an xmax figure, the more accurate the curve for each component is).  Rather than post incomplete/incorrect curves I have decided to just provide the values above as an indication of the performance of this drive unit.
+I typically share the Bl/Kms/Le(x) curves that come from the Klippel LSI module for drivers but since this speaker's excursion was not fully resolved, it does mean there is the high probability that the results I share here might not be complete and therefore incorrect (the closer to the actual resolution of an xmax figure, the more accurate the curve for each component is).  Rather than post incomplete/incorrect curves I have decided to just provide the values above as an indication of the performance of this drive unit with the warning they are not complete but give certain indications that this is indeed a very long-stroke drive unit in this subwoofer package.
 
 <br>
 <br>
