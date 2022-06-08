@@ -12,7 +12,7 @@ This driver was loaned to me by Purifi for review.  I was not paid for the revie
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
-< coming soon >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/93ilxMatBOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -342,7 +342,7 @@ This speaker was measured using the Klippel Near Field Scanner *Baffle* module, 
 <br>
 *"By scanning on 2 hemi-spheres in front of the speaker, room reflection as well as diffraction effects from the baffle can be removed, providing accurate half space data."*
 
-The test baffle has a sealed volume of approximately 2ft³, though, this speaker is sealed and my baffle wall enclosure has no further effect on the low-frequency response already imparted by the speaker's internal enclosure. If you would like to see the construction of my baffle, please watch [this video](https://youtu.be/PXNC3hc8HrY).
+The test baffle has a sealed volume of approximately 2ft³ which is well above Vas for this driver. If you would like to see the construction of my baffle, please watch [this video](https://youtu.be/PXNC3hc8HrY).
 <br><br>
 
 
@@ -378,7 +378,7 @@ With that in mind, I used Klippel's DIS module to test this drive unit in two wa
 
 The purpose of me testing with two methods (different "bass tones") is to see the difference between what happens when the driver plays with high(er) excursion vs when a typical HPF is used.  All similarly sized and similarly purposed speakers are tested in the same manner.  For better or worse.  This means a 6-inch midwoofer is tested the same way an 8-inch midwoofer is.  Ultimately, this is for my sanity, because having numerous measurement methods for all sizes of speakers would muddy the waters quickly and wouldn't give us an idea of when performance is great (say, a 6-inch midwoofer that has much less distortion than an 8-inch) or vice-versa.
 
-The above is tested at 3 voltages each with an equivalent 76/86/96dB @ 1m output.  As is the case with the multiple HD tests, the multiple IMD levels provides an idea of what the speaker's IMD profiles look like as the output of the speaker is increased.
+The above is tested at 2 voltages each with an equivalent 86dB & 96dB @ 1m output.  As is the case with the multiple HD tests, the multiple IMD levels provides an idea of what the speaker's IMD profiles look like as the output of the speaker is increased.
 
 
 

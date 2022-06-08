@@ -12,7 +12,7 @@ The review on this website is a brief overview and summary of the objective perf
 
 However, for those who want more - a more detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc) - please watch the below video where I go more in-depth.  Additionally, my CEA-2010 test results can be viewed directly via my Google Sheet [here](https://docs.google.com/spreadsheets/d/18bz7z-xIlRJsC-bw6k4mHkuwv_uiGAMyEhgrTkjwdXc/edit?usp=sharing).
 
-< coming soon >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bvS1WWgGXCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
