@@ -241,6 +241,16 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 <br>
 
+### EIR: Versus RP-500M II
+
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/prqj4nnzcav903s/Estimated%20In-Room%20Response%20600MII%20VS%20500MII.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
+<br>
+
+
 ### With EQ
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/80xuz3ifc7jhk9k/eq.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
