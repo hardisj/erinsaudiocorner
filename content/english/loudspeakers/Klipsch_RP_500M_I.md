@@ -2,7 +2,7 @@
 title: "Klipsch RP-500M Bookshelf Speaker Review"
 date: 2022-06-10
 draft: false
-image: "https://www.audioadvice.com/pub/media/catalog/product/cache/c6bbdce3cd46370f3aaae71ba6cbbc02/h/t/httpswww.audioadvice.compubmediacatalogproductklklipsch-rp500m.jpg"
+image: "https://dl.dropboxusercontent.com/s/eosuqus9x0kfll5/DSC03503.JPG?dl=0"
 description : "Klipsch RP-500M Review"
 Tags: ["Klipsch", "RP-500M I", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Klipsch center channel", "Klipsch RP-500M I review"]
 ---
