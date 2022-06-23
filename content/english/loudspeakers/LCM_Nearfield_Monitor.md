@@ -167,6 +167,7 @@ N/A
 <img align="left" src="https://dl.dropboxusercontent.com/s/j7ojke36o1pe0aw/LCM%20Nearfield%20Monitor%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
+
 ### Group Delay
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/vdrfxtm9avqvssk/LCM%20Monitor%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
@@ -178,7 +179,7 @@ N/A
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/kyaw8tzmtblbio4/Parts%20Express%20Overnight%20Sensations%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/htm2vgzekzfqbjm/LCM%20Nearfield%20Monitor%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Max Speaker output is about 90dB or so.  I couldn't do a 96dB distortion test.
