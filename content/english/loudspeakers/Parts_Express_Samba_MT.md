@@ -171,6 +171,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 <img align="left" src="https://dl.dropboxusercontent.com/s/bsk4gyfoinyy316/Parts%20Express%20Samba%20MT%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
+
 ### Group Delay
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/97qyfmzu8gfy8cr/Parts%20Express%20Samba%20MT%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
@@ -217,7 +218,7 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 ### Comparison vs Simulation
 
-Once my testing of the completed speaker was finished I then disconnected the crossover and measured the response of the individual drivers (while still attached to the cabinet).  Using KLIPPEL's Near Field Scanner "Export" module I then exported the magnitude+phase of each driver as a text file (360° vertical and horizontal in 10° increments).  I imported those files to VituixCAD along with the impedance phase+magnitude and used the crossover schematic provided by Parts-Express to see verify the performance and then to tinker a bit to see if I could improve the crossover and overall performance. You can see this matches nearly perfectly to the measured performance of the completed speaker.
+Once my testing of the completed speaker was finished I then disconnected the crossover and measured the response of the individual drivers (while still attached to the cabinet).  Using KLIPPEL's Near Field Scanner "Export" module I then exported the magnitude+phase of each driver as a text file (360° vertical and horizontal in 10° increments).  I imported those files to VituixCAD along with the impedance phase+magnitude and used the crossover schematic provided by Parts-Express to verify the performance and then to tinker a bit to see if I could improve the crossover and overall performance. You can see this matches nearly perfectly to the measured performance of the completed speaker.
 
  While I am not providing my own crossover suggestions, you can find discussion on this in my Facebook group (link at the bottom of this review).  Additionally, I also have a link to the raw data should anyone be interested in trying their own hand at simulating the crossover and possibly making tweaks.  That data can be found here ([dropbox link](https://dl.dropboxusercontent.com/s/x21uycok79cjovn/Samba%20Driver%20Data%20v3.7z?dl=0)).  Just make sure you flip the polarity of the tweeter in the simulation!  Long story on why the polarity is wrong... but just make sure you don't forget to do that!
 

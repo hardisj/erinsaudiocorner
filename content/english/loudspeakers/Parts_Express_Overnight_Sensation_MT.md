@@ -186,6 +186,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 <img align="left" src="https://dl.dropboxusercontent.com/s/qx42om9gzuxww4u/Parts%20Express%20Overnight%20Sensations%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
+
 ### Group Delay
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/mhkp5j65ldz9bhh/Parts%20Express%20Overnight%20Sensations%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
