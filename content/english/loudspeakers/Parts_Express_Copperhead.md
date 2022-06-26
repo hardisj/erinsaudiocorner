@@ -240,6 +240,8 @@ For information on how to read the below data, watch this video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i1sa50hzEcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br>
+<br>
 
 1) Full bandwidth (20Hz to 20kHz)
 
@@ -260,6 +262,13 @@ For information on how to read the below data, watch this video:
 
 <br>
 
+Direct Comparison (96dB @ 1m)
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/wpzfwisxdkryrsv/MTON%20Compare.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
+<br>
 <br>
 <br>
 
