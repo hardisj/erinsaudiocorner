@@ -44,7 +44,7 @@ Specs from the manufacturer can be found [here](https://www.wharfedale.co.uk/lin
 * weight: 40.5 lbs. each
 * warranty: 5 years
 
-The current price is approximately $1500 USD for a pair.  As of the time of this review's posting there is a sale for the pair + matching stands for this same price.
+The current price is approximately $1500 USD for a pair.  As of the time of this review's posting there is a sale for the pair + matching stands for this same price at [Crutchfield](https://shop-links.co/chzSjggEcbv) (affiliate link).
 
 
 <img align="left" src="https://dl.dropboxusercontent.com/s/a193iem99isdrdo/DSC03579.JPG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
