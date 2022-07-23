@@ -1,5 +1,5 @@
 ---
-title: "Klipsch RP-8000F II Bookshelf Speaker Review"
+title: "Klipsch RP-8000F II Floorstanding Speaker Review"
 date: 2022-07-11
 draft: false
 image: "https://www.audioadvice.com/pub/media/catalog/product/cache/c6bbdce3cd46370f3aaae71ba6cbbc02/w/e/web_ready-rp-8000f-ii_-_front_-_grille_off_1_1.jpg"
