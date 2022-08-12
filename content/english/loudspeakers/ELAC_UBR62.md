@@ -28,7 +28,7 @@ For a primer on what the data means, please watch my series of videos where I pr
 Note: ELAC loaned me this speaker to test. I was not paid for this review nor has ELAC seen this review before publication.
 
 
-The [ELAC UBR62](https://www.elac.com/series/uni-fi-reference/uni-fi-reference-ubr62-bookshelf-speakers/) is a 3-way bookshelf speaker featuring a 6.5-inch midwoofer, 4-inch concentric with 1-inch dome tweeter placed coaxially.
+The [ELAC UBR62](https://shop-links.co/chErPHS8J0A) is a 3-way bookshelf speaker featuring a 6.5-inch midwoofer, 4-inch concentric with 1-inch dome tweeter placed coaxially.
 
 MSRP for a pair of the UBR62 speakers is currently $999 USD.
 
@@ -299,7 +299,7 @@ As stated in the Foreword, this written review is purposely a cliff's notes vers
 If you like what you see here and want to help support the cause there are a few ways you can do so:
 * Join my Patreon [here](https://www.patreon.com/erinsaudiocorner).
 * Contribute via PayPal [here](https://www.paypal.com/donate?hosted_button_id=CLHSW4L9SBSLY).
-* Using my Amazon affiliate link [here](https://amzn.to/3npcTGl) as it helps me gain a small commission at no additional cost to you.
+* Purchase via Crutchfield affiliate link [here](https://shop-links.co/chErPHS8J0A) as it helps me gain a small commission at no additional cost to you.
 
 Your support helps me pay for new items to test, hardware, miscellaneous items and costs of the site's server space and bandwidth.  All of which I otherwise pay out of pocket.  So, if you can help chip in a few bucks, know that it is *very much* appreciated.
 
