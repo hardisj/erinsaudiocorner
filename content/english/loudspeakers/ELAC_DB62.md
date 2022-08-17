@@ -251,7 +251,7 @@ As stated in the Foreword, this written review is purposely a cliff's notes vers
 
 Overall impression of this speaker is that is quite nice.  Is it perfect?  No.  But at $300/pair, it's a really good performer.  The only complaint I had with the speaker was the sound of "glare" in the upper midrange that looks to be caused by the 4-6kHz region.  Something equalization can fix quite easily.  Speaking of EQ, this speaker takes well to EQ given it's relatively smooth ERDI.  The only issue will be in the 2-4kHz region (due to the vertical directivity and some slight diffraction) but these are relatively minor so not a big deal in the grand scheme.
 
-The only other aspect about this speaker that caught my attention is the compression.  At even moderate output levels there is a sharp decline in the output of the speaker below 80Hz as you go from 76dB to 86/96/102dB.  Luckily, this can be remedied with a proper subwoofer if you have the need to get quite loud.
+The only other aspect about this speaker that caught my attention is the compression.  At even moderate output levels there is a sharp decline in the output of the speaker below 80Hz as you go from 76dB to 86/96/102dB.  I did verify this was not an issue with my measurement setup and I verified the compression results are the same on both speakers in the pair.  Luckily, the compression is low enough in frequency that it can be remedied with a proper subwoofer if you have the need to get quite loud.
 
 
 <br>
