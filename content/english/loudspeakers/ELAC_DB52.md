@@ -1,6 +1,6 @@
 ---
 title: "ELAC Debut 2.0 B5.2 Speaker Review"
-date: 2022-08-14
+date: 2022-09-04
 draft: false
 image: "https://dl.dropboxusercontent.com/s/sc461wctvi7m3n2/DSC03747.JPG?dl=0"
 description : "ELAC Debut 2.0 B5.2 Review"
