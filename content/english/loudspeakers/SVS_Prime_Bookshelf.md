@@ -255,7 +255,7 @@ Horizontal directivity takes a hit in the 3-5kHz region due to diffraction (desp
 
 Soundstage width - due to horizontal radiation width - is quite wide at about ±70-80° until around 8kHz where the tweeter becomes more directional (aka "beaming").
 
-Output seems relatively good with reasonably low distortion (for a speaker this size).  
+Output seems relatively good with reasonably low distortion (for a speaker this size).
 
 The finish and build quality of this speaker is quite nice and I didn't detect any resonances from the enclosure itself.  I've reviewed speakers that I thought sounded better and cost less.  For example, the Emotiva B1+ and the ELAC Debut 2.0.  However, they do not have the finish and overall build quality of the SVS Prime Bookshelf.
 

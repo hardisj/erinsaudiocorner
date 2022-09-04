@@ -1,10 +1,10 @@
 ---
-title: "ELAC Debut 2.0 B6.2 Speaker Review"
-date: 2022-08-13
+title: "ELAC Debut 2.0 B5.2 Speaker Review"
+date: 2022-08-14
 draft: false
-image: "https://dl.dropboxusercontent.com/s/qcaxkmeygm7fzr9/DSC03711.JPG?dl=0"
-description : "ELAC Debut 2.0 B6.2 Review"
-Tags: ["ELAC", "Debut 2.0 B6.2", "db62", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Wharfedale", "elac speaker"]
+image: "https://dl.dropboxusercontent.com/s/sc461wctvi7m3n2/DSC03747.JPG?dl=0"
+description : "ELAC Debut 2.0 B5.2 Review"
+Tags: ["ELAC", "Debut 2.0 B5.2", "db52", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Wharfedale", "elac speaker"]
 ---
 
 
@@ -13,7 +13,7 @@ I purchased these speakers myself to review with funds from Patreon/PayPal/Affil
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FeicGL2UWzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <br>
 <br>
@@ -22,9 +22,9 @@ The review on this website is a brief overview and summary of the objective perf
 
 ## Information and Photos
 
-Manufacturer's information can be found [here](https://www.elac.com/bookshelf-speakers/debut-2-b6-2/).
+Manufacturer's information can be found [here](https://elac-america.myshopify.com/products/debut-2-0-b5-2-bookshelf-speakers-pair?variant=6421168488475&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gclid=Cj0KCQjwmdGYBhDRARIsABmSEeN0E3jP-meTEICRI44UJO0GJJLzH4N4p2I_ROX3qCuN9AQpFdm9JggaAtoxEALw_wcB).
 
-Approximate retail price for these is about $300/pair USD.
+Approximate retail price for these is about $329/pair USD.
 
 <br>
 <br>
@@ -64,7 +64,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/wgos89vu819w785/CEA2034%20--%20ELAC%20Debut%202.0%20B6.2.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/i8dmfm99eicvofm/CEA2034%20--%20ELAC%20Debut%202.0%20B5.2.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -85,7 +85,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/8zf9fy44wecajle/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/7rkvupl4xt8thke/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -98,36 +98,36 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/idome9t1jhkjzrm/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/mvt6d7193au0tw9/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/08v2zw173hkbw2c/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/lg38sfjyrjk30ma/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/s0ps7ip3ehm5g6q/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/15xrxwevobxcgx3/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/5pugnhxiyatgdcy/ELAC%20Debut%202.0%20B6.2%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/sidg39bop8od331/ELAC%20Debut%202.0%20B5.2%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ynr6vn2k0b2gxo9/ELAC%20Debut%202.0%20B6.2%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/q5dlm2qhg26d3qt/ELAC%20Debut%202.0%20B5.2%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/zwy5iprchitnacx/ELAC%20Debut%202.0%20B6.2_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/j817dqlp8m8f9nd/ELAC%20Debut%202.0%20B5.2_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/4m5abp1ifdq5b8r/ELAC%20Debut%202.0%20B6.2_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/rkmx1wnspgjpu1q/ELAC%20Debut%202.0%20B5.2_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -142,7 +142,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/j5asj76k5i6ag3o/ELAC%20Debut%202.0%20B6.2%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/yeb4yrivf8sjcpi/ELAC%20Debut%202.0%20B5.2%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -150,7 +150,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/86s3wnhtq4wohp3/ELAC%20Debut%202.0%20B6.2%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/cy7ny5no1n9otwg/ELAC%20Debut%202.0%20B5.2%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -158,13 +158,13 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/1v9t0srnd8ih51v/ELAC%20Debut%202.0%20B6.2%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/42fpf6x28z76k1m/ELAC%20Debut%202.0%20B5.2%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ja7grd3e1jg4ntc/ELAC%20Debut%202.0%20B6.2%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/m52z69bnr1ddkp1/ELAC%20Debut%202.0%20B5.2%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -173,11 +173,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/l4vdq8x95g4nz6z/ELAC%20Debut%202.0%20B6.2%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/tjbn4jw5phwm2ht/ELAC%20Debut%202.0%20B5.2%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/wyk6dw9t4yz9bxa/ELAC%20Debut%202.0%20B6.2%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ip0fl09xg9aptou/ELAC%20Debut%202.0%20B5.2%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -199,7 +199,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/k562j0puohqksoe/ELAC%20Debut%202.0%20B6.2_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/lduapfsw1o1av1i/ELAC%20Debut%202.0%20B5.2_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -225,13 +225,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/yqgk7mvs0kz0wds/MTON%20Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/0po22qohe7py2kj/MTON%20Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/pc5waxpjxis3ww8/MTON%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8epcsdd8u2nw833/MTON%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -240,7 +240,7 @@ For information on how to read the below data, watch this video:
 ## Post-Equalization
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/5s5iugqxmvspzbu/CEA2034%20--%20ELAC%20Debut%202.0%20B6.2%20%28with%20EQ%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/5rkgtze1p2983tu/with%20EQ.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -249,10 +249,15 @@ For information on how to read the below data, watch this video:
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For details about the performance (objectively and subjectively) please watch the YouTube video.  But a couple quick notes based on my listening and what I see in the data:
 
-Overall impression of this speaker is that is quite nice.  Is it perfect?  No.  But at $300/pair, it's a really good performer.  The only complaint I had with the speaker was the sound of "glare" in the upper midrange that looks to be caused by the 4-6kHz region.  Something equalization can fix quite easily.  Speaking of EQ, this speaker takes well to EQ given it's relatively smooth ERDI.  The only issue will be in the 2-4kHz region (due to the vertical directivity and some slight diffraction) but these are relatively minor so not a big deal in the grand scheme.
+I was really hoping this would be better than the DB62 simply because smaller midwoofer should make for better directivity (all things equal).  And my hope was that it would be a better alternative for those who knew they wanted a subwoofer anyway... then you could save some money and get these over the DB62.
 
-The only other aspect about this speaker that caught my attention is the compression.  At even moderate output levels there is a sharp decline in the output of the speaker below 80Hz as you go from 76dB to 86/96/102dB.  I did verify this was not an issue with my measurement setup and I verified the compression results are the same on both speakers in the pair.  Luckily, the compression is low enough in frequency that it can be remedied with a proper subwoofer if you have the need to get quite loud.
+Unfortunately, there's a weird +3dB "step" at about 1.5kHz which makes the speaker sound uneven.  It's not like it "jumps out" at you or is "sharp" like you would get when you have a peaking in the response at a particular frequency.  It just doesn't sound "right".  I couldn't figure out exactly what I didn't like when I was listening.  But when I saw the data I realized what it was.  Every now and again I come across a speaker that does something like this; where the issues I have with it aren't easily identifiable.  It's because I'm looking for specifics and not *expecting* broadband differences like I'm seeing in this speaker.
 
+However, thanks to the good horizontal directivity, with a single high-shelf filter, the difference can be made up quite easily and the speaker is much better, imho.  I've provided a prediction of that result via REW.
+
+The compression is rather bothersome, too.  Even the MTON distortion when "high passed" at 80Hz is quite high in the midrange.
+
+If you have a miniDSP - to fix the response imbalance - this might well be worth the purchase but it is definitely going to be output limited.  So, I'd recommend this speaker if you do have EQ.  But I'd say get the DB62 if you do not and are between these two.
 
 <br>
 <br>
