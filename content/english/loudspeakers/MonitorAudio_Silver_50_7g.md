@@ -10,6 +10,8 @@ Tags: ["Monitor Audio", "Monitor Audio Silver 50 7g Bookshelf", "db62", "Klippel
 ## Foreword / YouTube Video Review
 This speaker set was loaned to me for review by Audio Advice.  I was not paid for this review and neither Audio Advice nor Monitor Audio have seen the review prior to public release.  In return for the loan Audio Advice simply asks for me to provide my audience an affiliate link to their website should you be interested in purchasing any of the thousands of audio/video products they sale.  Please find the link [here](https://www.audioadvice.com/monitor-audio-silver-50-7g-bookshelf-speakers-pair?referral=erins-audio-corner) and at the bottom of this review.
 
+If you want to support the site please see the bottom of this review for ways you can help.
+
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
 
 < coming soon >
@@ -21,7 +23,15 @@ The review on this website is a brief overview and summary of the objective perf
 
 ## Information and Photos
 
-Manufacturer's information can be found [here](https://www.monitoraudio.com/en/product-ranges/silver-series-7g/silver-50-7g/).
+Manufacturer's information can be found [here](https://www.monitoraudio.com/en/product-ranges/silver-series-7g/silver-50-7g/).  Here are some highlights from their website:
+* 1 x 5¼" (134 mm) C-CAM mid-bass driver with Rigid Surface Technology (RST) II for extra clarity
+* Designed to give the bass extension normally only possible from a floorstanding loudspeaker
+* Optimised to cope with reflected sound when placed close to a wall
+* Excellent choice when space is a premium but sound quality is very important
+* Rear-ported and tuned for ease of positioning without affecting sound performance
+* Perfect for smaller stereo music set-ups, or as front/rear channels in smaller home cinema systems
+* Compact and bookshelf-friendly with rubber stopper feet supplied
+* Choice of high quality finishes: Satin White, High Gloss Black, including real wood veneers Black Oak, Natural Walnut, Ash
 
 At the time of this writeup, these retail for approximately $979/pair USD.
 
@@ -269,7 +279,9 @@ Soundstage width - due to horizontal radiation width - is about what I would pre
 
 Distortion and compression data are good for a speaker this size (using a 5.25-inch midwoofer) with THD staying below 2% and compression within ±0.50dB down to about 70Hz even at 96dB/1m.  While this speaker won't play at deafening levels at large distances, it should be plenty adequate when used at reasonable volume levels and/or with a properly integrated subwoofer.
 
-Build quality is nice and I have no complaints.  Overall, I think this is a good speaker when used slightly off-axis.  Comparing this to other bookshelf speakers of its size (using a 5-inch midwoofer) this speaker seems to be toward the top of the crop in regards to distortion and compression.  And the linearity (aside from the rise in treble) is smooth.  Though, if the in-room HF rise - due to the HF tilt and poor pattern matching at the crossover - weren't present I'd have liked this speaker much more.  
+Build quality is nice and I have no complaints.  It's worth mentioning the unique midwoofer mounting method here which employs the use of a bolt which threads through the magnet portion of the drive unit to pull the speaker into the cabinet from the rear of the speaker.  This, in theory at least, will reduce unwanted resonances otherwise imparted onto the cabinet when a drive unit is mounted via the basket (screws through the flange).  I find this really neat and while it's impossible for me to say it does work as marketed, I can say that the data shows no evidence of any cabinet resonance.  You can find more information regarding this and the design of the midwoofer on their website [here](https://www.monitoraudio.com/en/blog/introducing-rigid-surface-technology-rst-ii/).
+
+Overall, I think this is a good speaker when used slightly off-axis.  Comparing this to other bookshelf speakers of its size (using a 5-inch midwoofer) this speaker seems to be toward the top of the crop in regards to distortion and compression.  And the linearity (aside from the rise in treble) is smooth.  Though, if the in-room HF rise - due to the HF tilt and poor pattern matching at the crossover - weren't present I'd have liked this speaker much more.
 
 
 <br>
