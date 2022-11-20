@@ -1,5 +1,5 @@
 ---
-title: "Buchardt A700 Powered Bookshelf Speaker Review"
+title: "Buchardt A700 Active Tower Speaker Review"
 date: 2022-11-20
 draft: false
 image: "https://dl.dropboxusercontent.com/s/mt7ttjt1ctlzc2o/DSC03796.JPG?dl=0"
