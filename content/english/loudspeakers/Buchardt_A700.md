@@ -339,10 +339,11 @@ Donate via PayPal:
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-If you find yourself interested in buying this speaker, please consider using the Audio Advice affiliate link below.  It costs you no additional money but does help me earn a small commission which helps me pay for gear to test and other review gear.
+If you find yourself interested in buying this speaker, please consider using one of my affiliate links below.  It costs you no additional money but does help me earn a small commission which helps me pay for gear to test and other review gear.
 <br>
-* [Audio Advice](https://www.audioadvice.com/monitor-audio-silver-50-7g-bookshelf-speakers-pair?referral=erins-audio-corner)
-
+* [Crutchfield](https://shop-links.co/chI62ryJM5Y)
+* [Amazon](https://amzn.to/3PP6Bup)
+* [Audio Advice](https://www.audioadvice.com/svs-prime-bookshelf-speaker?referral=erins-audio-corner)
 
 You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
 
