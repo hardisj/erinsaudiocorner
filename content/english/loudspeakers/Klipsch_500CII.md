@@ -254,7 +254,7 @@ For information on how to read the below data, watch this video:
 ## Parting / Random Thoughts
 
 As stated in the Foreword, this written review is purposely a cliff's notes version.  For details about the performance (objectively and subjectively) please watch the YouTube video.  But a couple quick notes based on my listening and what I see in the data:
-* While the "II" version of the Reference Premiere (RP) series generally has a more toned down treble, we still see an elevated treble response.
+* While the "II" version of the Reference Premiere (RP) series generally has a more toned down treble, we still see an elevated treble response rising to about +3dB above the average sensitivity levels above 2kHz.
 * Sensitivity measures at about 87dB @ 2.83v/1m which is nice.  However, the linearity of the speaker takes a hit thanks, in part, to the above-mentioned HF boost.
 * Directivity in the horizontal region is poor with a narrowing response through the midrange (thanks to the spacing of the multiple woofers; a common trait of "toppled" MTM type designs such as this).  This means that viewers/listening sitting to the side of the speaker more than about ±10° are going to suffer from some speech intelligibility issues.  If you look at the Estimated In-Room Response you can get an idea of how the sound between seats will be if you were to sit at either 0° (on-axis) or as much as ±30° off-axis (I understand that 30° is extreme for most home theaters but you can use the other horizontal SPL data to mentally derive what the other angles might sound like).  I recommend you watch my video in the "Foreword" section for more explanation.
 * Output levels are quite good with low distortion and compression (mostly at or below 2% THD and 0.50dB at 96dB/1m).

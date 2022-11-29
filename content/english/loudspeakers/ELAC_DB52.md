@@ -280,14 +280,21 @@ Donate via PayPal:
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-If you find yourself interested in buying this speaker, please consider using one of my affiliate links below.  It costs you no additional money but does help me earn a small commission which helps me pay for gear to test and other review gear.
 <br>
-* [Crutchfield](https://shop-links.co/chP17t7fpyG)
-* [Amazon](https://amzn.to/3pd0m8k)
+
+## Shopping
+
+If you are shopping at any of the following stores then please consider using my generic affiliate links below to make the purchase through.
 
 
-You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
+* [Amazon](https://amzn.to/3v6i6ov)
+* [Audio Advice](https://www.audioadvice.com/?referral=erins-audio-corner)
+* [Best Buy](https://shop-links.co/ciyeVq6O7ou)
+* [Crutchfield](https://shop-links.co/cgZmmT81jmh)
+* [Emotiva](https://emotiva.com?aff=14)
+* [Monoprice](https://bit.ly/3yAY6NH)
+* [Parts Express](https://bit.ly/3AqfWo3)
+* [SVS](https://www.dpbolvw.net/click-7732025-13006332)
+* [Arendal Sound](https://arendalsound.com/store/?refer=hardisj)
 
-
-<br>
-<br>
+Purchases through these links can earn me a small commission - at no additional cost to you - and help me continue to provide the community with free content and reviews.  Doesn't matter if it's a TV from Crutchfield, budget speakers from Audio Advice or a pair of socks from Amazon, just use the link above before you make your purchase.  Thank you!
