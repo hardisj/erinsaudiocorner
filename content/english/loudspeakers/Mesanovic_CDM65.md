@@ -1,5 +1,5 @@
 ---
-title: "Mesanovic CDM65 2-way Studio Monitor Review"
+title: "Mesanovic CDM65 3-way Studio Monitor Review"
 date: 2022-12-19
 draft: false
 image: "https://dl.dropboxusercontent.com/s/erfxi7bk3ipxfcx/DSC03789.JPG?dl=0"
@@ -291,7 +291,7 @@ For information on how to read the below data, watch this video:
 ## Parting / Random Thoughts
 
 See video linked above for subjective and objective analysis.  But just a couple notes:
-* Killer speaker at a real good price.  Cardioid mode is a treat to have when you are limited in space and otherwise have to place the speaker near the backwall.  Using these speaker in cardioid mode lowers the "boomy", midrange-heavy sound that placing a speaker near the wall typically results in.  What you wind up with a more neutral male and female vocal even when not ideally placed (i.e., typically you'd want to place speakers about 1 meter from the rear wall; you don't have to worry about that when cardioid mode is engaged on these speakers).
+* Killer speaker at a real good price.  Cardioid mode is a treat to have when you are limited in space and otherwise have to place the speaker near the backwall.  Using these speakers in cardioid mode lowers the "boomy", midrange-heavy sound that placing a speaker near the wall typically results in.  What you wind up with a more neutral male and female vocal even when not ideally placed (i.e., typically you'd want to place speakers about 1 meter from the rear wall; you don't have to worry about that when cardioid mode is engaged on these speakers).
 * Excellent linearity from 36Hz to 20kHz with response being about ±1.25dB from 40Hz to 16kHz.
 * Excellent horizontal directivity.
 * Horizontal radiation is pretty much where I prefer it to be at about ±60° on average.
