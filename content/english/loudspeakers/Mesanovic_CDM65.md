@@ -31,7 +31,7 @@ Some specs from the manufacturer can be found [here](https://www.mesanovicmicrop
   * Mid: 5” aluminum cone woofer
   * Low: 2 x 6.5” paper Kevlar subwoofers
 * Amplification:
-  * Hypex Class D
+  * Class D
   * High: 150W
   * Mid: 150W
   * Low: 300W
@@ -68,7 +68,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
-The reference plane is at the tweeter axis.  The CDM65 has (2) options for tuning: Standard and Cardioid.  I tested both configurations but due to similarity between different data sets I may not provide the results of both for a particular test; please see graphic headers for exact test condition.
+The reference plane is at the midway point between the tweeter and midwoofer.  The CDM65 has (2) options for tuning: Standard and Cardioid.  I tested both configurations but due to similarity between different data sets I may not provide the results of both for a particular test; please see graphic headers for exact test condition.
 
 
 
