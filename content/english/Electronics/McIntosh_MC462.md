@@ -85,6 +85,14 @@ We see the typical decrease in THD+N as the amplifier moves out of its noisy reg
 <br>
 <br>
 
+## THD+N at Different Frequencies
+
+The THD+N graphic above is referenced only to 1kHz for each load.  The graphic below shows the THD+N for a 4-ohm load at varying frequencies.
+
+<img align="left" src="https://dl.dropboxusercontent.com/s/98cbcesb59iqsph/Frequency%20vs%20Power%20vs%20THD%2BN%20Ratio.PNG?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+<br>
+
 ## Max Continuous & Peak Power
 
 The table below lists measured output ratings at varying loads and test conditions.  Maximum continuous power is provided at both 0.01% & 1.0% THD+N.  Why both?  Because we often see manufacturer's use different ratings so I wanted to cover my bases.
@@ -148,7 +156,7 @@ A couple notes:
 * This amp is a powerhouse.  I won't get into my subjective thoughts here but I will simply say that I ran a few different speakers (Wharfedale Linton, Monitor Audio Silver 7g and SVS Ultra Prime) just to see how well this amp reacted to the different loads and they rocked the house.  At levels that the speakers simply weren't meant to play.  Ultimately, what this means to you is that you not only have plenty of power available for low sensitivity speakers but you also have a lot of dynamic headroom for transient peaks (up to ~850wpc).  I can't imagine the need for more power - at least not in typical domestic living spaces.
 * I had the MC462 powered for hours at a time and while it did get quite warm to the touch it never suffered any faults such as thermal shutdown.
 * The Power Guard feature works as advertised and you can see this clearly in the Wattage vs THD+N graphs where additional input past ~4.4 Vrms resulted in no additional output (but, most importantly, no distorted output).  From the data, it appears Power Guard limits the amplifier from exceeding levels where THD+N is greater than 1%.  The Input Gain graphic also provides additional evidence for this where at approximately 4.4 Vrms the output power is capped at about 500w (at 4-ohms).
-* McIntosh rates this amplifier at 450wpc at 2/4/8-ohm loads with their specification page citing "0.005%" THD.  My tests show this to be a tad conservative where this distortion level was closer to 500wpc at this value for all loads. Again, that's 500 watts per channel at a distortion value of less than 0.005%.  
+* McIntosh rates this amplifier at 450wpc at 2/4/8-ohm loads with their specification page citing "0.005%" THD.  My tests show this to be a tad conservative where this distortion level was closer to 500wpc at this value for all loads. Again, that's 500 watts per channel at a distortion value of less than 0.005%.
 * So, here is the part where I take a bit of a detour.  McIntosh's "Dynamic Headroom" is rated at 3.0dB.  If one were using my data then we see at 4-ohms the continuous power vs max peak (headroom/dynamic range) at 1% THD+N 546 watts and 823 watts, respectively (left channel).  For a true 3dB of 'headroom' - which is doubling of power - the max peak power would have to be closer to 1092 (546w*2) or the max continuous would need to be 411.5 watts (823w/2). But the truth here is I do not know how McIntosh is rating their Dynamic Headroom spec.  I do not know where their reference is; if it's 1.0% THD+N or 0.01% THD+N or 0.005% THD (no "+N").  Therefore, depending on what they are referencing this 3dB Dynamic Range value may very well be legitimate.  And given the overall performance of this amplifier, I have no reason to believe McIntosh is fudging specs.  My guess is their reference is simply different from mine.
 
 <br>
