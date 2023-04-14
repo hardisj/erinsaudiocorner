@@ -48,6 +48,7 @@ As of this writeup, the MSRP is approximately $10,000 USD.
 
 Testing was conducted using the Audio Precision [APx555B](https://www.ap.com/analyzers-accessories/apx555/).
 * Warmup: Unit was provided pink noise with an output of 1 watt into a 4-ohm load for 10 minutes.
+* Test Bandwidth: 22.4kHz (48 kHz Sample Rate) (unless otherwise stated)
 * Input to DUT: Balanced XLR.
 * Output from DUT: Balanced XLR.
 * Volume/Gain: N/A.
@@ -57,7 +58,7 @@ Testing was conducted using the Audio Precision [APx555B](https://www.ap.com/ana
 * Future Note: I do plan to conduct tests with a reactive (speaker simulator) load but parts are currently out of stock so this test does not *currently* include said reactive load testing.  If that changes I will update this review.
 * All testing was run at two power levels:
     * 1) 1 Watt RMS @ n-Ohm. This provides a clear apples-to-apples method of comparison against all future testing.  1 watt is sufficient to power a nominally rated sensitivity speaker pair to approximately 80-85dB at most listening distances in typical rooms.
-    * 2) "Max Power" @ n-Ohm.  This is referenced to 0.10% THD+N.  Why this distortion+noise level and not something else?  Because manufacturers rate their "max" at different THD+N values.  In order to establish a *reasonable* baseline I decided that 0.10% THD+N was a good middle ground to target this "max power" testing.
+    * 2) "Max Power" @ n-Ohm.  This is referenced to 0.10% THD+N, unless otherwise stated.  Why this distortion+noise level and not something else?  Because manufacturers rate their "max" at different THD+N values.  In order to establish a *reasonable* baseline I decided that 0.10% THD+N was a good middle ground to target this "max power" testing.
 
 <br>
 
@@ -163,6 +164,8 @@ A couple notes:
 
 
 The MC462 delivers power like nothing I've ever used before.  Go back and look at the table I provided.  At least 500wpc into any load with more to spare in dynamic power. You won't be wanting for power unless you have an extremely attypical speaker setup.  Nevermind the legitimately great performance, I like the meters.  I'm a sucker for meters. There, I said it.  I've been eyeing this amplifier for a few years now and was always a bit curious how it would really fare in a battery of tests.  Well, now I know... and I want one more than before.
+
+Oh, and if you are considering buying this amplifier make sure you either a) have a healthy deadlift capability or b) have a very strong friend.  Preferably both, actually.  At 115lbs, this amplifier is not easy to move around.  And it's even hard to maneuver when taking it out of the packaging.
 
 <br>
 <br>
