@@ -1,0 +1,29 @@
+#BIMP 2.3
+#MANIPULATION SET DEFINITION
+
+[RESIZE]
+new_w_pc=50
+new_h_pc=50
+new_w_px=640
+new_h_px=480
+resize_mode_width=0
+resize_mode_height=0
+stretch_mode=0
+padding_color=#000000000000
+padding_color_alpha=65535
+interpolation=2
+change_res=false
+new_res_x=72
+new_res_y=72
+
+[WATERMARK]
+mode=false
+text=
+font=Sans 16px
+color=#000000000000
+image_file=D:\\github\\erinsaudiocorner\\static\\images\\logos\\Erin s Audio Corner vec\\watermark.png
+image_sizemode=1
+image_size_percent=10
+opacity=100
+edge_distance=0
+position=8

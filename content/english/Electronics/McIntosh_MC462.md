@@ -4,7 +4,7 @@ date: 2023-04-12
 draft: false
 image: "https://dl.dropboxusercontent.com/s/zvli91mexxgc3od/InkedDSC03825.jpg?dl=0"
 description : "McIntosh MX100 A/V Processor Review"
-Tags: ["McIntosh", "McIntosh MX100","MX100", "Klippel", "Review", "A/V Processor", "loudspeaker", "McIntosh MX100 review"]
+Tags: ["McIntosh", "McIntosh MC462","MC462", "Klippel", "Review", "A/V Processor", "loudspeaker", "BEST AMPLIFIER"]
 ---
 
 

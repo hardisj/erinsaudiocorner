@@ -143,7 +143,7 @@ See video linked above for subjective and objective analysis.  But just a couple
 * This thing is built like a tank.  The overall aesthetic screams quality.  From the aluminum knobs to the metal casing and what appears to be gold plated XLR pins.
 
 
-
+If you are interested in the full test report it is available to Patrons.  Hey, I have to figure out some way to offset the insane cost of doing this stuff.
 
 <br>
 <br>

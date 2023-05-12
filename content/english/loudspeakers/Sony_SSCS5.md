@@ -285,28 +285,37 @@ As stated in the Foreword, this written review is purposely a cliff's notes vers
 <br>
 <br>
 
-# Support the Cause
+# Support / Contribute
 
-If you find this review helpful and want to help support the cause there are a few ways you can do so below.  Your support helps me pay for new items to test, hardware, miscellaneous items needed for testing and costs of the site's server space and bandwidth.  Any help is *very much* appreciated.
+If you find this review helpful and want to help support the cause that would be AWESOME!  There are a few ways you can do so below.  Your support helps me pay for new items to test, hardware, miscellaneous items needed for testing, new speakers to review and costs of the site's server space and bandwidth.  Any help is *very much* appreciated.
 <br>
 
+Join my Patreon:
 <a href="https://www.patreon.com/bePatron?u=59439731" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script> <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="XV7EYYU7S77LE" />
+<br>
+
+Donate via PayPal:
+<br>
 <input type="image" src="https://i.imgur.com/Z608uUQ.png" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-Or using my [Amazon affiliate link](https://amzn.to/3dK7Aev), if you are interested in these speakers, which helps me gain a small commission at no additional cost to you.
-
-
-
-
-
-<br>
 <br>
 
-You can also join my [Facebook](https://www.facebook.com/groups/607627396679113/) and [YouTube](https://www.youtube.com/user/hardisj) pages if you'd like to follow along with updates.
+## Shopping
+
+If you are shopping at any of the following stores then please consider using my generic affiliate links below to make the purchase through.
 
 
-<br>
-<br>
+* [Amazon](https://amzn.to/3v6i6ov)
+* [Audio Advice](https://www.audioadvice.com/?referral=erins-audio-corner)
+* [Best Buy](https://shop-links.co/ciyeVq6O7ou)
+* [Crutchfield](https://shop-links.co/cgZmmT81jmh)
+* [Emotiva](https://emotiva.com?aff=14)
+* [Monoprice](https://bit.ly/3yAY6NH)
+* [Parts Express](https://bit.ly/3AqfWo3)
+* [SVS](https://www.dpbolvw.net/click-7732025-13006332)
+* [Arendal Sound](https://arendalsound.com/store/?refer=hardisj)
+
+Purchases through these links can earn me a small commission - at no additional cost to you - and help me continue to provide the community with free content and reviews.  Doesn't matter if it's a TV from Crutchfield, budget speakers from Audio Advice or a pair of socks from Amazon, just use the link above before you make your purchase.  Thank you!
