@@ -1,5 +1,5 @@
 ---
-title: "Kali Audio IN-UNF Active Tower Speaker Review"
+title: "Kali Audio IN-UNF Active Ultra-Nearfield Studio Monitor Review"
 date: 2023-05-17
 draft: false
 image: "https://dl.dropboxusercontent.com/s/kkhtctjf67m0nhk/DSC03864.JPG?dl=0"
