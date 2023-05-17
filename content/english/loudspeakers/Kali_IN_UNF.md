@@ -34,7 +34,7 @@ The two satellites use the same coaxial midrange and tweeter as Kali’s acclaim
 The midrange/tweeter satellites are spherical, and sit on a silicone pad that lets you adjust their angle so that they’re aimed precisely at your ears.
 The bass unit also houses the IN-UNF’s inputs, including a USB-C input which supports 24-bit resolution and up to 48kHz sample rate. Connect your computer, laptop, tablet, phone, or other USB-capable audio devices. iOS devices with a lightning connector requires Apple’s Camera Adapter Kit, sold separately. Balanced TRS, 3.5mm, and optical inputs are also provided for easy connection to pro audio and consumer devices, as well as gaming consoles and televisions.
 
-Retail cost for this set is $499 USD.
+Retail cost for this set is $599 USD.
 
 <br>
 <br>
