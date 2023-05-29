@@ -202,13 +202,6 @@ Harmonic Distortion at 96dB @ 1m:
 
 <br>
 
-### Components
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/z0atc0gp96ekgyg/MoFi%20SourcePoint 10%20NF.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br><br>
-
-<br>
-
 
 ### Dynamic Range (Instantaneous Compression Test)
 
