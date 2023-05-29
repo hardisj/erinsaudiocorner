@@ -2,7 +2,7 @@
 title: "MoFi SourcePoint 10 Speaker Review"
 date: 2023-05-28
 draft: false
-image: "https://www.dropbox.com/s/nxdxdlio176xa4n/g700sp10wn-f.jpg?dl=0"
+image: "https://dl.dropboxusercontent.com/s/nxdxdlio176xa4n/g700sp10wn-f.jpg?dl=0"
 description : "MoFi SourcePoint 10"
 Tags: ["MoFi", "MoFi","B212XL", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "MoFi Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
@@ -80,13 +80,13 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://www.dropbox.com/s/p6d1yl3tt6d75cw/CEA2034%20--%20MoFi%20SourcePoint%2010%20%2810%C2%B0%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/p6d1yl3tt6d75cw/CEA2034%20--%20MoFi%20SourcePoint%2010%20%2810%C2%B0%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-<img align="left" src="https://www.dropbox.com/s/x7c466hgt11s8q0/CEA2034%20%20--%20MoFi%20SourcePoint%2010%20%280%C2%B0%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/x7c466hgt11s8q0/CEA2034%20%20--%20MoFi%20SourcePoint%2010%20%280%C2%B0%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-<img align="left" src="https://www.dropbox.com/s/ylr7xlfj5efbli8/CEA2034%20--%20MoFi%20SourcePoint%2010%20%2830%C2%B0%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ylr7xlfj5efbli8/CEA2034%20--%20MoFi%20SourcePoint%2010%20%2830%C2%B0%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -105,7 +105,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://www.dropbox.com/s/42fdtukwzx8qwcx/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/42fdtukwzx8qwcx/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -118,37 +118,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://www.dropbox.com/s/uzbbbu8ivwak4ei/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/uzbbbu8ivwak4ei/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://www.dropbox.com/s/3iiw0deb6muyvdd/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3iiw0deb6muyvdd/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://www.dropbox.com/s/tytnuawk1fmismf/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/tytnuawk1fmismf/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://www.dropbox.com/s/9ns601x3dkkczw7/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9ns601x3dkkczw7/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://www.dropbox.com/s/ybeo6hv5tmw68kq/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ybeo6hv5tmw68kq/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://www.dropbox.com/s/1s8kgc9o8oymhqq/MoFi%20SourcePoint%2010%20%2810%C2%B0%29_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/1s8kgc9o8oymhqq/MoFi%20SourcePoint%2010%20%2810%C2%B0%29_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://www.dropbox.com/s/blzhxs20sqebsv1/MoFi%20SourcePoint%2010%20%2810%C2%B0%29_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/blzhxs20sqebsv1/MoFi%20SourcePoint%2010%20%2810%C2%B0%29_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -162,7 +162,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://www.dropbox.com/s/rl5qsi881viwsth/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/rl5qsi881viwsth/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -170,32 +170,32 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://www.dropbox.com/s/loapa64rew0f1lu/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/loapa64rew0f1lu/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Step Response
 
-<img align="left" src="https://www.dropbox.com/s/moxmsm5mhmreubv/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/moxmsm5mhmreubv/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://www.dropbox.com/s/fk2xtour59mgtqf/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/fk2xtour59mgtqf/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://www.dropbox.com/s/n3txywva43lqwat/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/n3txywva43lqwat/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://www.dropbox.com/s/2id8l6zu8dto3y6/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/2id8l6zu8dto3y6/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -223,7 +223,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://www.dropbox.com/s/4iad06c5eizdmpg/MoFi%20SourcePoint%2010%20%2810%C2%B0%29_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/4iad06c5eizdmpg/MoFi%20SourcePoint%2010%20%2810%C2%B0%29_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -248,13 +248,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://www.dropbox.com/s/3w5n4r5gcaj57ei/MTON%20FULL.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3w5n4r5gcaj57ei/MTON%20FULL.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://www.dropbox.com/s/pl6dvm0bb325om5/MTON%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/pl6dvm0bb325om5/MTON%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
