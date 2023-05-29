@@ -4,7 +4,7 @@ date: 2023-05-28
 draft: false
 image: "https://www.dropbox.com/s/nxdxdlio176xa4n/g700sp10wn-f.jpg?dl=0"
 description : "MoFi SourcePoint 10"
-Tags: ["MoFi", "MoFi","B212XL", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Q Acoustics Bookshelf", "Q Acoustics In-Room Gold LCR review"]
+Tags: ["MoFi", "MoFi","B212XL", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "MoFi Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
 
