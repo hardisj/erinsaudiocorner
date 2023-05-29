@@ -1,26 +1,40 @@
 ---
-title: "Klipsch The Nines Speaker Review"
-date: 2023-05-21
+title: "MoFi SourcePoint 10 Speaker Review"
+date: 2023-05-28
 draft: false
-image: "https://dl.dropboxusercontent.com/s/2d8eqdzy9woyssp/the_nines_-_walnut_-_hero_-_grille_off_1_1.jpg?dl=0"
-description : "Klipsch In-Room Gold LCR Review"
-Tags: ["Klipsch", "Klipsch The Nines","The Nines", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Klipsch Bookshelf", "Klipsch In-Room Gold LCR review"]
+image: "https://www.dropbox.com/s/nxdxdlio176xa4n/g700sp10wn-f.jpg?dl=0"
+description : "MoFi SourcePoint 10"
+Tags: ["MoFi", "MoFi","B212XL", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Q Acoustics Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
 
+
 ## Foreword / YouTube Video Review
-This pair of speakers was loaned to me by https://www.audioadvice.com/klipsch-the-nines-powered-speakers-pair+color-Walnut?referral=erins-audio-corner without any input into my review.  All they ask for in return is for me to use their affiliate link in my review so those who want to purchase any of their A/V gear can visit their site and potentially purchase through them.  If you want to support those who support the community by loaning me gear to review with no strings attached then please visit Audio Advice and show them some love.  [Here is the link](https://www.audioadvice.com/klipsch-the-nines-powered-speakers-pair+color-Walnut?referral=erins-audio-corner).
-(Note: Per FTC rules I must let you know that using the above link may earn me a small commission at no additional cost to you)
+This pair of speakers was loaned to me by the manufacturer.
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PxiUWhIeIeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DcYVu0TQtDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
 
+## Information and Photos
+
+Some specs from the manufacturer can be found [here](https://mofi.com/products/mofi-electronics-sourcepoint-10-bookshelf-speakers).
+* 10-inch concentric driver
+* 1.25-inch wide roll soft dome tweeter
+* 2-way vented box
+* Satin Walnut or Satin Black Ash real wood veneer
+* 5-way binding posts
+* Magnetic grilles
+* Dimensions (WxHxD): 14.5" x 22.5" x 16.6" with grille / 14.5" x 22.5" x 16" without grille
+* Weight: 46.2 lb / 21kg each
+* Warranty: Five years parts & labor
+
+This is a rather large "bookshelf" style speaker and weighs in at about 46 lbs each.  Retail cost is $3699/pair.
 
 <br>
 <br>
@@ -38,9 +52,9 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 
 IMPORTANT SETUP INFO:
 
-The reference plane in this test is approximately 3-inches below the tweeter plane.  Measurements were done without a grille.
+Per the manufacturer, this speaker was also tested off-axis at 10° horizontal of the tweeter. I also included the on-axis response as well to show the impact of the HF lift and diffraction when listening on-axis (which the manufacturer does not recommend).
 
-In my listening tests I found the tweeter to be a 'hot'.  I completed a 'baseline' measurement of the speaker where I found the tweeter level was a bit high.  I used the Klipsch Connect app and set the tweeter level to -2dB.  I have conducted the measurements with this setting in place as it is how I would recommend others listen to it and is simple to adjust.
+No Grille for these measurements.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -66,7 +80,13 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/v4upkbqmqnsjcnv/CEA2034%20--%20Klipsch%20The%20Nines%20%28Tweeter%20-2dB%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/p6d1yl3tt6d75cw/CEA2034%20--%20MoFi%20SourcePoint%2010%20%2810%C2%B0%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+<img align="left" src="https://www.dropbox.com/s/x7c466hgt11s8q0/CEA2034%20%20--%20MoFi%20SourcePoint%2010%20%280%C2%B0%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+
+<img align="left" src="https://www.dropbox.com/s/ylr7xlfj5efbli8/CEA2034%20--%20MoFi%20SourcePoint%2010%20%2830%C2%B0%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -85,7 +105,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/6kireqgbp693q8a/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/42fdtukwzx8qwcx/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -98,37 +118,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/wbos6eu2e3t5vam/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/uzbbbu8ivwak4ei/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/yjycs76aieov0m7/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/3iiw0deb6muyvdd/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/w1387ox13jj2gvn/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/tytnuawk1fmismf/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/1v1vrp3kqz3qoxm/Klipsch%20The%20Nines%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/9ns601x3dkkczw7/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/xnzezhy5cvt2giy/Klipsch%20The%20Nines%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/ybeo6hv5tmw68kq/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/7dyy5y0vzdxa11c/Klipsch%20The%20Nines_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/1s8kgc9o8oymhqq/MoFi%20SourcePoint%2010%20%2810%C2%B0%29_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/xg2d2hi6npe0drs/Klipsch%20The%20Nines_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/blzhxs20sqebsv1/MoFi%20SourcePoint%2010%20%2810%C2%B0%29_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -139,36 +159,43 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 ## Additional Measurements
 
+### Impedance
+<br>
+
+<img align="left" src="https://www.dropbox.com/s/rl5qsi881viwsth/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+<br>
 
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/plyafvjlewz89wm/Klipsch%20The%20Nines%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/loapa64rew0f1lu/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/2xbbv00bfx0ugj7/Klipsch%20The%20Nines%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/moxmsm5mhmreubv/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/qnse40iaflkdi1p/Klipsch%20The%20Nines%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/fk2xtour59mgtqf/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/kxy2a8ipexonj7o/Klipsch%20The%20Nines%20Harmonici%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/n3txywva43lqwat/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/f7dt08i596vtde2/Klipsch%20The%20Nines%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/2id8l6zu8dto3y6/MoFi%20SourcePoint%2010%20%2810%C2%B0%29%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -177,20 +204,10 @@ Harmonic Distortion at 96dB @ 1m:
 
 ### Components
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/2u3c7eyhyjgfu3t/Klipsch%20The%20Nines.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/z0atc0gp96ekgyg/MoFi%20SourcePoint 10%20NF.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 <br>
-
-### DSP Adjustment
-
-Below is an overlay of the "flat EQ" adjustments (default) vs the DSP settings used for this review (Tweeter @ -2dB)
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/lclawwvdc7vk4lh/compare.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br><br>
-
-<br>
-
 
 
 ### Dynamic Range (Instantaneous Compression Test)
@@ -206,7 +223,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/wtr2mi18lbxb2bf/Klipsch%20The%20Nines_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/4iad06c5eizdmpg/MoFi%20SourcePoint%2010%20%2810%C2%B0%29_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -231,13 +248,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/tpb22099mumht21/mton%20full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/3w5n4r5gcaj57ei/MTON%20FULL.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/nu6f98mccjgbbrp/MTON%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://www.dropbox.com/s/pl6dvm0bb325om5/MTON%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -251,21 +268,24 @@ For information on how to read the below data, watch this video:
 
 See video linked above for subjective and objective analysis.
 
-I have been reviewing speakers for about three years, and during that time, I have reviewed around 10 to 12 different Klipsch speakers. While some people have labeled me as a Klipsch hater, I want to clarify that I don't hate any particular brand, including Klipsch. However, I have found that I don't particularly care for the way their speakers are generally voiced.  That being said, the Klipsch "The Nines" is my favorite Klipsch speaker that I have heard so far.
+I recently had the opportunity to review the Mofi SourcePoint 10 speaker, courtesy of Mofi themselves. I haven't watched any other reviews to avoid being influenced by different perspectives. In this review, I'll provide my subjective thoughts along with objective data collected using my Klippel Near Field Scanner.
 
-Now, let's go over some of the specifications of this speaker. It is a powered speaker with a one-inch titanium dome tweeter inside their Tractrix horn waveguide, and it features an 8-inch midwoofer. The speaker's frequency response is generally flat from around 40 Hz to 10 kHz, with a rise in the treble starting at around 10 kHz.
+To begin, let me emphasize that the Mofi SourcePoint 10 is a truly exceptional speaker. However, it does have two shortcomings that I personally noticed. Firstly, the bass doesn't reach the low frequencies I desired. In an anechoic environment, the F3 point is around 50 Hz, and in a room, it extends to about 40 Hz when placed near a wall. Although wall placement enhances the bass, it can also negatively impact the mid-range due to wall reflections causing a dip in the 200 Hz to 500 Hz range. Finding the right balance between bass and mid-range can be challenging. Personally, I chose to prioritize mid-range quality and kept the speakers about two and a half feet away from the walls.
 
-Out of the box, I found the treble to be too high for my taste, so I adjusted it using the speaker's app. I ended up reducing the tweeter level by about 2 or 3 dB, settling on a -2dB. This adjustment provided me with the most enjoyable listening experience, offering a neutral sound where nothing stood out.
+Secondly, I found that the top end is boosted when the speakers are facing directly on-axis. However, like most coincident speakers, the Mofi SourcePoint 10 is not designed to be listened to directly on-axis due to diffraction issues caused by the tweeter housing. By slightly turning the speakers off-axis (around 10 to 15 degrees), you can alleviate the diffraction effect and reduce the excessive high-frequency lift to a degree (no pun intended). Sometimes I still found myself altering my pre-amp's treble adjustment by 1-2dB as well. Another thought, in this case, it might also be worthwhile to consider using 1-inch acoustic absoprtion at the first reflection point to absorb the first reflection in the >10kHz frequencies.
 
-In terms of connectivity, the speaker offers various inputs and outputs, including HDMI ARC, bluetooth, optical in, USB, auxiliary in, and phono in. While the speaker is often referred to as wireless, it actually requires a direct connection between the main speaker and the secondary speaker. This connection is established through a long cable running between the two speakers.
+During my conversation with Andrew Jones, the speaker's designer, he explained that the high-frequency boost was implemented to counter the narrowing of the radiation pattern caused by the larger 28 mm tweeter. I found that around 15 degrees off-axis was the sweet spot for me, but experimentation with the positioning and settings is recommended to achieve the best results.
 
-"The Nines" follows the typical two-way speaker design with a horn waveguide and a midwoofer. The reference plane, where the listener's ears are supposed to line up, is typically between the tweeter and the woofer. Placing your ears directly in line with the tweeter may result in excessive treble, while going below that level may reduce treble output. The ideal placement is between those two points.
+Although these two issues may seem like nitpicks, they can significantly impact the speaker's neutrality. Proper placement and aiming are crucial to optimize the performance of the Mofi SourcePoint 10. Nevertheless, it's worth noting that these considerations apply to many speakers, and the Mofi SourcePoint 10 stands out with its outstanding sound power and early directivity indexes, making it a true point source speaker.
 
-Reviewing a neutral speaker can be challenging because there are no particular aspects that stand out. However, I find it more valuable to describe the speaker's neutrality rather than using subjective terms. In the case of "The Nines," it maintains neutrality from 40 Hz to about 10 kHz, which is consistent with the data.  Speaking of data, the frequency response measurements show that the speaker stays within plus or minus 1.5 dB tolerance until just above 10 kHz. There seems to be some breakup around 16 kHz, which is likely due to tweeter diaphragm breakup or internal waveguide diffraction. Although I did not hear this breakup during my listening tests, I wish Klipsch would provide more EQ adjustments beyond the basic bass, midrange, and treble controls in their app.
+Regarding output capability, the Mofi SourcePoint 10 surprised me with its dynamic range, even at low volumes. I was impressed by its minimal compression, considering the limitations of mid-range performance in coincident drivers. However, the speaker's excursion is intentionally kept low to minimize HF modulation and limits its ability to reproduce frequencies below 50 Hz. Remember, the midrange/woofer of this design is a waveguide for the tweeter and you need to limit long excursion to minimize any modulation effects.  Therefore, if you desire deeper bass extension, using a good sealed subwoofer or two as a supplement is recommended.
 
-Regarding distortion, "The Nines" performed well. At 86 dB at one meter, the distortion remained below 1% THD, and at 96 dB, it stayed below 3% THD above 30 Hz. These results are impressive for an eight-inch midwoofer.
+Analyzing the objective data from the NFS, the speaker's measurements confirm its neutrality when placed off-axis. The dip in response and high-frequency lift observed on-axis are mitigated when the speaker is turned slightly off-axis. The horizontal and vertical radiation patterns are consistent, ensuring good coverage, albeit a bit narrow compared to non-waveguided designs. Compression and distortion remain within acceptable ranges for a low excursion woofer.
 
-Two aspects that may not be ideal for some listeners are compression and the speaker's horizontal radiation pattern. In terms of compression, the speaker shows good performance until around 90 dB at one meter. Beyond that, the speaker employs limiting to protect itself. However, this limitation is unlikely to be audibly noticeable during normal listening conditions. The radiation pattern is relatively narrow, with a coverage of approximately ±30 degrees. This may result in a more focused sound stage but could reduce room involvement compared to wider radiating speakers.
+In terms of impedance, the Mofi SourcePoint 10 has a minimum impedance of 6.4 ohms, and its average electrical phase dipole radiation (epdr) is around 3 ohms. It's advisable to use a 4-ohm capable amplifier to be safe.
+
+In summary, the Mofi SourcePoint 10 is an outstanding speaker that delivers excellent performance, with only minor flaws. Its neutral sound and impressive sound power and directivity indexes set it apart.
+
 
 <br>
 <br>
