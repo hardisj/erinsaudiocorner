@@ -4,7 +4,7 @@ date: 2023-06-04
 draft: false
 image: "https://cdn.shopify.com/s/files/1/0013/9716/2041/products/V2GC-GCV-NG_1000x1000_493175f9-0d2d-47e1-885b-9a50d17b4e73_686x@2x.progressive.jpg?v=1637190779"
 description : "Aperion Audio Verus 10"
-Tags: ["Aperion Audio", "Aperion Audio","V8B", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
+Tags: ["Aperion Audio", "Aperion Audio","V8B", "aperion", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
 

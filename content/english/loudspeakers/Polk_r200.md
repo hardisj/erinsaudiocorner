@@ -1,44 +1,32 @@
 ---
-title: "Aperion Audio Verus V8B 2-Way 8" Bookshelf Speaker Review"
-date: 2023-06-04
+title: "Polk Reserve R200 Bookshelf Speaker Review"
+date: 2023-06-10
 draft: false
 image: "https://cdn.shopify.com/s/files/1/0013/9716/2041/products/AperionaudioVerusConcert8BBookshelfSpeakerGlossCherry-10_4000x@2x.progressive.webp?v=1684284138"
-description : "Aperion Audio Verus 10"
-Tags: ["Aperion Audio", "Aperion Audio","V8B", "Klippel", "Review", "Speaker", "aperion", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
+description : "Polk Reserve R200"
+Tags: ["Polk Reserve R200", "Polk R200 Review","Polk Speakers", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-This pair of speakers was loaned to me by the manufacturer for review.  I was not paid to conduct this review and the manufacturer has not seen this data before public release.
+This pair of speakers was loaned to me by a viewer, brand new in box.
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JzU9cxYMkKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BzDClEAQsBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
 
 ## Information
 
-Some specs from the manufacturer can be found [here](https://www.aperionaudio.com/collections/speakers/products/verus-iii-concert-v8b-8-bookshelf-speaker-pair?variant=717072172092556).
-* Product Weight:	28 lbs/12.7 Kgs each
-* Frequency Response:	(+/- 3dB) 30-35,000 Hz
-* Impedance:	6 Ohms
-* Sensitivity:	88 dB
-* Power Range:	150-300 Watts
-* Recommended Amplifer Power:	20-150 Watts
-* Tweeter:	1.1" Custom Aperion ASR Tweeter with ferrofluid
-* Woofer:	8" Woven Kevlar Long-Throw Woofer
-* Driver Configuration:	2-Way
-* Enclosure Type:	Anti-Resonant, Internally Braced, Rear Ported
-* Product Dimensions:	17" H x 10.6" W x 13" D/433mm H x 269mm W x 330mm D
-* Placement Location	Front L/R Speakers
+Specs from the manufacturer can be found [here](https://www.polkaudio.com/en-us/product/bookshelf-speakers/reserve-r200).
 
-Retail is $1499/pair USD.
+Retail cost if $750/pair USD.
+
 
 <br>
 <br>
@@ -56,8 +44,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 
 IMPORTANT SETUP INFO:
 
-This speaker was measured with the reference point at the tweeter and with the grille off (I did test with the grille on and the results were much worse, as expected).
-The tweeter was set to the -3dB jumper position.
+This speaker was measured with the reference point at the tweeter and with the grille off.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -83,7 +70,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/jt51xydm219wk1u/CEA2034%20%20--%20Aperion%20Audio%20Verus%20III%20Concert%20V8B.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9f0kjup2l4f0up8/CEA2034%20--%20Polk%20R200.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -103,7 +90,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/g2bjeust63d1xt9/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/0cpmpeuiomtnt7y/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -116,37 +103,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/56gt1pfgt9928g7/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/6sn69v76c4hv2ir/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/uavgaamgwb8cobi/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/df0l2m5maywnql8/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/blzts6ov8nexbjt/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/gp7pevby4q9p9gu/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/t33jtr9v71ucm3p/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/jdefs0udqws8obw/Polk%20R200%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ndq12zybdlxcd4g/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ahetbig69sfkv95/Polk%20R200%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/prjt6d0vvkrcf0j/Aperion%20Audio%20Verus%20III%20Concert%20V8B_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/agvyzq85tz6o4dj/Polk%20R200_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/wol2r9khu98e7m0/Aperion%20Audio%20Verus%20III%20Concert%20V8B_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/w3gfjr6ljqyrh55/Polk%20R200_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -168,32 +155,32 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ps38evjwky0f0o3/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3nbjnbf9zd0tar0/Polk%20R200%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/qksdh4356yer6qg/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/q8hmcox673dunhd/Polk%20R200%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/x5vjt33ndx2y1pg/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/r0jnt4mqeopv3lj/Polk%20R200%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/bcar6hycb8q6883/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/keeiwzx5lm7mko5/Polk%20R200%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/6yijtll7a7fvojm/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/1dr4zpfpwwn0jb7/Polk%20R200%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -214,7 +201,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/q2jtntvhctsl35a/Aperion%20Audio%20Verus%20III%20Concert%20V8B_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/38o8fyo3a73cmsm/Polk%20R200_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -239,13 +226,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/7exyh4grpqxvchs/mton%20full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/4wbt5notqwv2gw0/mton%20full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ul88xpsz7n6yazp/mton%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/wg9vegrpeiz3kkw/mton%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -259,25 +246,19 @@ For information on how to read the below data, watch this video:
 
 See video linked above for subjective and objective analysis.
 
-I am combining my discussion of the Verus III V8B bookshelf speaker and the matching center channel speaker here.
+Overall, my impression of the speaker is that it is relatively neutral with good tonality, but it does have some limitations in terms of output and mid-range distortions.
 
-Pros:
-Aesthetic Design: The speakers have an appealing and visually pleasing design, especially in the wood finish.
-Low Bass Distortion: The bookshelf speakers exhibit low distortion in the bass region, providing clean and accurate low-frequency reproduction.
-Wide Radiation Pattern: The speakers offer a reasonably wide radiation pattern, enhancing the room involvement and soundstage.
-High-Quality Construction: The use of HDF enclosures instead of typical MDF enclosures adds to the durability and sturdiness of the speakers.
+The speaker features a two-way design with a 6.5-inch mid-woofer and a 1-inch ring radiator tweeter. The ring radiator tweeter has a more narrow dispersion pattern in the higher frequencies compared to a dome tweeter design, so it is recommended to aim the speaker directly at the listener, without toeing it out or facing it towards the room.
 
-Cons:
-Mid-Range Scoop: The bookshelf speakers suffer from a significant mid-range scoop between 100 Hz and 500 Hz, resulting in a lack of richness and fullness in vocals.
-Resonant Peaks: The speakers exhibit resonant peaks in the high-frequency range, particularly around 4 kHz and 10 kHz. These peaks can lead to overemphasis and discomfort in certain tracks, affecting overall clarity and detail.
-Limited Equalization Options: While equalization can be used to address some of the speaker's issues, the available adjustment range is limited, and it may be challenging to completely eliminate the mid-range scoop and resonant peaks.
-Crossover Issues (Center Speaker): The center speaker's three-way design, although beneficial in theory, introduces horizontal radiation limitations, causing a decrease in speech intelligibility beyond approximately ±20 degrees off-axis.
+Let's start with the pros. The speaker has reasonably tight focusing and imaging, allowing for easy pinpointing of images within the soundstage. The bass response in-room is good down to about 50 Hz, but it lacks the thump and authority in the mid-bass and kick drum frequencies. The mid-range of the R200 is neutral and pleasing, except for some issues around the 800 Hz to 1 kHz range, where there is a slight tinny or glare-like quality in certain instruments and vocals. Above 10 kHz, there is an artificial sound reminiscent of boosted EQ in the higher frequencies.
 
-Data Analysis:
-The data obtained from testing reveals some of the underlying causes behind the subjective listening experiences. The on-axis response shows the mid-range scoop and resonant peaks, which correlate with the perceived dull and imbalanced sound. The spinorama data highlights the impact of the speaker's design on off-axis response and directivity index. Additionally, the estimated in-room response provides insights into the tonal balance and the presence of peaks and dips. The distortion measurements indicate low distortion levels for the bookshelf speakers, but compression issues are noticeable above 1 kHz.
+Now let's delve into the data to better understand these observations. The impedance data shows that the speaker is close to a 4-ohm nominal load, so it is recommended to use a 4-ohm capable amplifier to drive it properly. The frequency response data indicates that the speaker has a mostly linear response within a 1.5 dB range up to 10 kHz, with peaking above that frequency. There is a resonance around 1 kHz that could explain the perceived glare in vocals and instruments in that range.
 
-Conclusion:
-While Aperion Audio's Verus III bookshelf and center speakers offer some appealing features, such as aesthetic design, low bass distortion, and wide radiation patterns, they suffer from mid-range scoop and resonant peaks. These issues result in a dull and imbalanced sound reproduction, particularly in vocals and certain high-frequency elements. Although some of the problems can be partially addressed with equalization, the limitations and the relatively high price point of the speakers make it less desirable to rely on EQ adjustments. Furthermore, the center speaker's design compromises speech intelligibility for listeners positioned beyond ±20 degrees off-axis. Overall, considering the speaker's performance, it is recommended to explore other options in the market that offer better balance and clarity within a similar price range.
+The vertical response data reveals that there is a noticeable difference in sound above and below the tweeter plane, emphasizing the importance of keeping the ears on the tweeter line for consistent sound. Distortion measurements at 86 dB and 96 dB show reasonable performance, but there is a peak in second-order distortion around 6 kHz to 7 kHz. Multi-tone distortion measurements indicate higher distortion levels in the 800 Hz to 1 kHz range at higher output levels.
+
+Compression tests show that the speaker can handle a dynamic range of about 20 dB at lower volumes, but at higher volumes, there is compression and distortion, particularly in the low frequencies. Using a crossover at around 80 Hz or 100 Hz can help mitigate these issues.
+
+In conclusion, the Polk R200 bookshelf speaker offers a relatively neutral sound with good tonality, but it has limitations in output and mid-range distortions. It is important to keep the volume in check to avoid audible issues. While the speaker performs reasonably well overall, it may benefit from the use of a subwoofer and careful EQ adjustments to address the specific frequency response and distortion characteristics.
 
 
 <br>
