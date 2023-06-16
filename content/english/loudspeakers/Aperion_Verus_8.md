@@ -1,9 +1,9 @@
 ---
-title: "Aperion Audio Verus V8B 2-Way 8" Bookshelf Speaker Review"
+title: "Aperion Audio Verus V8B 2-Way Bookshelf Speaker Review"
 date: 2023-06-04
 draft: false
 image: "https://cdn.shopify.com/s/files/1/0013/9716/2041/products/AperionaudioVerusConcert8BBookshelfSpeakerGlossCherry-10_4000x@2x.progressive.webp?v=1684284138"
-description : "Aperion Audio Verus 10"
+description : "Aperion Audio Verus"
 Tags: ["Aperion Audio", "Aperion Audio","v8b iii", "Klippel", "Review", "Speaker", "aperion", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 

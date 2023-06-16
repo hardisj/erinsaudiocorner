@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MoFi Bookshelf on Erin&#39;s Audio Corner</title>
+    <link>https://erinsaudiocorner.com/tags/mofi-bookshelf/</link>
+    <description>Recent content in MoFi Bookshelf on Erin&#39;s Audio Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erinsaudiocorner.com/tags/mofi-bookshelf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MoFi SourcePoint 10 Speaker Review</title>
+      <link>https://erinsaudiocorner.com/loudspeakers/mofi_10/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/loudspeakers/mofi_10/</guid>
+      <description>Foreword / YouTube Video Review This pair of speakers was loaned to me by the manufacturer.</description>
+    </item>
+    
+  </channel>
+</rss>

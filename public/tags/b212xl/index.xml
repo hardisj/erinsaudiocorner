@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B212XL on Erin&#39;s Audio Corner</title>
+    <link>https://erinsaudiocorner.com/tags/b212xl/</link>
+    <description>Recent content in B212XL on Erin&#39;s Audio Corner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://erinsaudiocorner.com/tags/b212xl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MoFi SourcePoint 10 Speaker Review</title>
+      <link>https://erinsaudiocorner.com/loudspeakers/mofi_10/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/loudspeakers/mofi_10/</guid>
+      <description>Foreword / YouTube Video Review This pair of speakers was loaned to me by the manufacturer.</description>
+    </item>
+    
+    <item>
+      <title>Behringer Eurolive B212XL Speaker Review</title>
+      <link>https://erinsaudiocorner.com/loudspeakers/behringer_b212xl/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/loudspeakers/behringer_b212xl/</guid>
+      <description>Foreword / YouTube Video Review This pair of speakers was sent to me by a viewer.</description>
+    </item>
+    
+    <item>
+      <title>Behringer Eurolive B215XL Speaker Review</title>
+      <link>https://erinsaudiocorner.com/loudspeakers/behringer_b215xl/</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://erinsaudiocorner.com/loudspeakers/behringer_b215xl/</guid>
+      <description>Foreword / YouTube Video Review This pair of speakers was sent to me by a viewer.</description>
+    </item>
+    
+  </channel>
+</rss>

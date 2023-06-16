@@ -1,5 +1,5 @@
 ---
-title: "Aperion Audio Verus V6C 3-Way Dual 6.5" Center Channel Speaker Review"
+title: "Aperion Audio Verus V6C 3-Way Dual 6.5 Center Channel Speaker Review"
 date: 2023-06-04
 draft: false
 image: "https://cdn.shopify.com/s/files/1/0013/9716/2041/products/V2GC-GCV-NG_1000x1000_493175f9-0d2d-47e1-885b-9a50d17b4e73_686x@2x.progressive.jpg?v=1637190779"
