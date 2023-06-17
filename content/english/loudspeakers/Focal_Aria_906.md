@@ -1,48 +1,27 @@
 ---
-title: "Aperion Audio Verus V8B 2-Way Bookshelf Speaker Review"
-date: 2023-06-04
+title: "Focal Aria 906 Bookshelf Speaker Review"
+date: 2023-06-10
 draft: false
-image: "https://cdn.shopify.com/s/files/1/0013/9716/2041/files/V8B_4000x@2x.progressive.jpg?v=1684284138"
-description : "Aperion Audio Verus"
-Tags: ["Aperion Audio", "Aperion Audio","v8b iii", "Klippel", "Review", "Speaker", "aperion", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
+image: "https://images.crutchfieldonline.com/ImageHandler/trim/3000/1950/products/2018/11/091/g091A906BPL-o_other6.jpg"
+description : "Focal Aria 906"
+Tags: ["Focal Aria 906", "Focal Aria 906 Review","Polk Speakers", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-This pair of speakers was loaned to me by the manufacturer for review.  I was not paid to conduct this review and the manufacturer has not seen this data before public release.
+This pair of speakers was loaned to me by a viewer, brand new in box.
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JzU9cxYMkKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-<br>
-<br>
-
-## Information
-
-Some specs from the manufacturer can be found [here](https://www.aperionaudio.com/collections/speakers/products/verus-iii-concert-v8b-8-bookshelf-speaker-pair?variant=717072172092556).
-* Product Weight:	28 lbs/12.7 Kgs each
-* Frequency Response:	(+/- 3dB) 30-35,000 Hz
-* Impedance:	6 Ohms
-* Sensitivity:	88 dB
-* Power Range:	150-300 Watts
-* Recommended Amplifer Power:	20-150 Watts
-* Tweeter:	1.1" Custom Aperion ASR Tweeter with ferrofluid
-* Woofer:	8" Woven Kevlar Long-Throw Woofer
-* Driver Configuration:	2-Way
-* Enclosure Type:	Anti-Resonant, Internally Braced, Rear Ported
-* Product Dimensions:	17" H x 10.6" W x 13" D/433mm H x 269mm W x 330mm D
-* Placement Location	Front L/R Speakers
-
-Retail is $1499/pair USD.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XHdutNbcXG0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
-<br>
+
+
 <br>
 
 ## CTA-2034 (SPINORAMA) and Accompanying Data
@@ -56,8 +35,8 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 
 IMPORTANT SETUP INFO:
 
-This speaker was measured with the reference point at the tweeter and with the grille off (I did test with the grille on and the results were much worse, as expected).
-The tweeter was set to the -3dB jumper position.
+This speaker was measured with the reference point at the tweeter and with the grille off.
+Speaker was broken in.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -83,7 +62,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/jt51xydm219wk1u/CEA2034%20%20--%20Aperion%20Audio%20Verus%20III%20Concert%20V8B.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ytcuyy4c5ynq34o/CEA2034%20--%20Focal%20Aria%20906.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -103,7 +82,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/g2bjeust63d1xt9/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/m78k09u0y939qnf/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -116,37 +95,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/56gt1pfgt9928g7/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/xcx4rapyt1nrp9q/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/uavgaamgwb8cobi/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/8fkki0e86pkles5/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/blzts6ov8nexbjt/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/lxtalas8v46dr1u/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/t33jtr9v71ucm3p/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ceavnwnolmgv9cf/Focal%20Aria%20906%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/ndq12zybdlxcd4g/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/f30mimowqgdu335/Focal%20Aria%20906%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/prjt6d0vvkrcf0j/Aperion%20Audio%20Verus%20III%20Concert%20V8B_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/d6s0llsbpxxevu9/Focal%20Aria%20906_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/wol2r9khu98e7m0/Aperion%20Audio%20Verus%20III%20Concert%20V8B_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/f6vgd6mltg0f4sv/Focal%20Aria%20906_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -160,7 +139,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/9tr5nmnb79cml2w/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/bnwu5lq180cr86k/Focal%20Aria%20906%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -168,32 +147,32 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ps38evjwky0f0o3/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/9m2xl1nzko5ebl8/Focal%20Aria%20906%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/qksdh4356yer6qg/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/nc1jivsels49c97/Focal%20Aria%20906%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/x5vjt33ndx2y1pg/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/pd90ewptxjevaim/Focal%20Aria%20906%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/bcar6hycb8q6883/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/yfsb52aff4g0d3x/Focal%20Aria%20906%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/6yijtll7a7fvojm/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ma2z2if9vrx9ymi/Focal%20Aria%20906%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -214,7 +193,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/q2jtntvhctsl35a/Aperion%20Audio%20Verus%20III%20Concert%20V8B_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/dbvv50mkcc6xlor/Focal%20Aria%20906_Compression.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -239,13 +218,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/7exyh4grpqxvchs/mton%20full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/ms0sg8iwdoz1ufd/MTON%20Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/ul88xpsz7n6yazp/mton%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/0k0s4ogopngwbty/MTON%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -259,25 +238,13 @@ For information on how to read the below data, watch this video:
 
 See video linked above for subjective and objective analysis.
 
-I am combining my discussion of the Verus III V8B bookshelf speaker and the matching center channel speaker here.
+The first thing I noticed about these speakers is their aesthetic appeal, with black leather and glossy sides. However, when it comes to the pros, there aren't many. The mid-range is nice, with no audible resonances, and the speakers look great.
 
-Pros:
-Aesthetic Design: The speakers have an appealing and visually pleasing design, especially in the wood finish.
-Low Bass Distortion: The bookshelf speakers exhibit low distortion in the bass region, providing clean and accurate low-frequency reproduction.
-Wide Radiation Pattern: The speakers offer a reasonably wide radiation pattern, enhancing the room involvement and soundstage.
-High-Quality Construction: The use of HDF enclosures instead of typical MDF enclosures adds to the durability and sturdiness of the speakers.
+Moving on to the cons, there are quite a few. Firstly, I would have preferred a bit more mid-range presence, particularly in the 150 Hz to 300 Hz range. It's important to note that this could be subjective preference and not an actual flaw. The bass is weak, with a roll-off around 50 Hz, lacking a strong punch and kick. The high frequencies are very bright, and I found the overall detail to be lacking. Furthermore, sibilance was an issue, with a boost in the 8 kHz range, resulting in an excessive and fatiguing sibilant sound. There was also a dip in the upper mid-range and lower treble, making some sounds appear recessed in the mix. Additionally, the speakers exhibited high distortion and compression at higher volumes. Don't expect these speakers to provide significant bass below 50 Hz, and if you want to listen at higher volumes, a subwoofer is necessary.
 
-Cons:
-Mid-Range Scoop: The bookshelf speakers suffer from a significant mid-range scoop between 100 Hz and 500 Hz, resulting in a lack of richness and fullness in vocals.
-Resonant Peaks: The speakers exhibit resonant peaks in the high-frequency range, particularly around 4 kHz and 10 kHz. These peaks can lead to overemphasis and discomfort in certain tracks, affecting overall clarity and detail.
-Limited Equalization Options: While equalization can be used to address some of the speaker's issues, the available adjustment range is limited, and it may be challenging to completely eliminate the mid-range scoop and resonant peaks.
-Crossover Issues (Center Speaker): The center speaker's three-way design, although beneficial in theory, introduces horizontal radiation limitations, causing a decrease in speech intelligibility beyond approximately ±20 degrees off-axis.
+In terms of impedance, the minimum impedance is rated at 4.8 ohms, and while an AV receiver might be able to drive these speakers, it's advisable to use a separate amplifier that is 4-ohm capable, especially if you plan on listening at loud volumes.
 
-Data Analysis:
-The data obtained from testing reveals some of the underlying causes behind the subjective listening experiences. The on-axis response shows the mid-range scoop and resonant peaks, which correlate with the perceived dull and imbalanced sound. The spinorama data highlights the impact of the speaker's design on off-axis response and directivity index. Additionally, the estimated in-room response provides insights into the tonal balance and the presence of peaks and dips. The distortion measurements indicate low distortion levels for the bookshelf speakers, but compression issues are noticeable above 1 kHz.
-
-Conclusion:
-While Aperion Audio's Verus III bookshelf and center speakers offer some appealing features, such as aesthetic design, low bass distortion, and wide radiation patterns, they suffer from mid-range scoop and resonant peaks. These issues result in a dull and imbalanced sound reproduction, particularly in vocals and certain high-frequency elements. Although some of the problems can be partially addressed with equalization, the limitations and the relatively high price point of the speakers make it less desirable to rely on EQ adjustments. Furthermore, the center speaker's design compromises speech intelligibility for listeners positioned beyond ±20 degrees off-axis. Overall, considering the speaker's performance, it is recommended to explore other options in the market that offer better balance and clarity within a similar price range.
+In conclusion, the Focal Aria 906 speakers have some positive aspects, such as a nice mid-range and an appealing design. However, there are several drawbacks, including weak bass, excessive brightness in the high frequencies, lack of overall detail, sibilance issues, and a recessed upper mid-range. High distortion and compression at higher volumes are also concerns. If you decide to purchase these speakers, a subwoofer is recommended for better low-end performance, and using a separate amplifier capable of handling 4-ohm speakers is ideal.
 
 
 <br>

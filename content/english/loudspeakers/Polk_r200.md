@@ -2,7 +2,7 @@
 title: "Polk Reserve R200 Bookshelf Speaker Review"
 date: 2023-06-10
 draft: false
-image: "https://cdn.shopify.com/s/files/1/0013/9716/2041/products/AperionaudioVerusConcert8BBookshelfSpeakerGlossCherry-10_4000x@2x.progressive.webp?v=1684284138"
+image: "https://images.crutchfieldonline.com/ImageHandler/trim/3000/1950/products/2021/26/107/g107R200BWN-F.jpg"
 description : "Polk Reserve R200"
 Tags: ["Polk Reserve R200", "Polk R200 Review","Polk Speakers", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
@@ -147,7 +147,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/9tr5nmnb79cml2w/Aperion%20Audio%20Verus%20III%20Concert%20V8B%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/s/3nbjnbf9zd0tar0/Polk%20R200%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
