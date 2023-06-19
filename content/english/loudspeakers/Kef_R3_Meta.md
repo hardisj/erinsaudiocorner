@@ -254,9 +254,9 @@ One important consideration is the speaker's optimal positioning. When the speak
 
 The bass response of the speaker is noteworthy. Unlike most speakers that are either sealed or ported, the KEF R3 Meta employs a unique combination of both designs.  While technically still a "ported" design it reaches a certain frequency and then starts to roll off, but a slight scoop in the bottom end brings it back up before rolling off sharply. This quasi-sealed/ported design is known as Extended Bass Shelf (EBS) aims to achieve a more neutral response and can be advantageous depending on room characteristics and placement.
 
-Another notable feature of the KEF R3 Meta is its excellent directivity, which evenly spreads reflections around the room with the direct sound. This means you don't have to sit in the perfect sweet spot to experience optimal sound quality. However, to achieve the best results, it is recommended to aim the speaker slightly off-axis as mentioned above.
+Another notable feature of the KEF R3 Meta is its excellent directivity, which evenly spreads reflections around the room with the direct sound. This means you don't have to sit in the perfect sweet spot to experience optimal sound quality. In order to achieve the best results it is recommended to aim the speaker slightly off-axis as mentioned above.
 
-In terms of performance, the speaker offers a solid bass response, although it doesn't reach as low as 20 Hz. It outperforms other bookshelf speakers in its price range, such as the Focal 906, Polk R200, and Aperion with an 8-inch mid-bass driver. However, the reviewer wishes that the waveguide in the mid-range had a wider profile to enhance room involvement.
+In terms of performance, the speaker offers a solid bass response, although it doesn't reach as low as 20 Hz. It outperforms other bookshelf speakers in its price range, such as the Focal 906, Polk R200, and Aperion with an 8-inch mid-bass driver.
 
 Measurement data demonstrates the KEF R3 Meta's impressive characteristics. The frequency response shows a slight drop in higher frequencies when the speaker is toed out. This drop helps achieve a more neutral in-room response, compensating for the slight elevation around 9 kHz when on-axis. The speaker's linearity, both on-axis and off-axis, is excellent, making it well-suited for equalization.
 
