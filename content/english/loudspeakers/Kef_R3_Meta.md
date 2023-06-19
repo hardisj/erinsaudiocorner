@@ -248,6 +248,31 @@ For information on how to read the below data, watch this video:
 
 See video linked above for subjective and objective analysis.
 
+The KEF R3 Meta speaker, priced at $2200 per pair, offers excellent performance in its class. It features a three-way design with a 5.25-inch mid-range driver and a 1-inch tweeter organized in a coaxial or concentric fashion. The unique design places the tweeter pushed back into the throat of the mid-range driver, resulting in world-class neutrality.
+
+One important consideration is the speaker's optimal positioning. When the speaker is toed out about 5 to 10 degrees, it provides the best performance. Coaxial concentric designs, like the KEF R3 Meta, are designed to be slightly off-axis because on-axis listening may introduce diffraction elements and result in a brighter sound. By toing out the speaker, you can achieve a more neutral and smooth sound.
+
+The bass response of the speaker is noteworthy. Unlike most speakers that are either sealed or ported, the KEF R3 Meta employs a unique combination of both designs.  While technically still a "ported" design it reaches a certain frequency and then starts to roll off, but a slight scoop in the bottom end brings it back up before rolling off sharply. This quasi-sealed/ported design is known as Extended Bass Shelf (EBS) aims to achieve a more neutral response and can be advantageous depending on room characteristics and placement.
+
+Another notable feature of the KEF R3 Meta is its excellent directivity, which evenly spreads reflections around the room with the direct sound. This means you don't have to sit in the perfect sweet spot to experience optimal sound quality. However, to achieve the best results, it is recommended to aim the speaker slightly off-axis as mentioned above.
+
+In terms of performance, the speaker offers a solid bass response, although it doesn't reach as low as 20 Hz. It outperforms other bookshelf speakers in its price range, such as the Focal 906, Polk R200, and Aperion with an 8-inch mid-bass driver. However, the reviewer wishes that the waveguide in the mid-range had a wider profile to enhance room involvement.
+
+Measurement data demonstrates the KEF R3 Meta's impressive characteristics. The frequency response shows a slight drop in higher frequencies when the speaker is toed out. This drop helps achieve a more neutral in-room response, compensating for the slight elevation around 9 kHz when on-axis. The speaker's linearity, both on-axis and off-axis, is excellent, making it well-suited for equalization.
+
+The radiation patterns of the speaker indicate good horizontal dispersion, narrowing only at higher frequencies. Likewise, the vertical response shows a broad range, allowing for consistent sound characteristics within a wider listening area. This is a significant advantage compared to standard two-way or three-way designs.
+
+Regarding output capability, the KEF R3 Meta exhibits low harmonic distortion levels for reasonable levels, crossing the 3% threshold around 40 Hz and 80 Hz at 86 dB and 96 dB, respectively. This suggests that using a subwoofer is advisable for higher output levels unless sitting close to the speaker.
+
+Multi-tone distortion tests show minimal audible distortion, even at high output levels. The limited 80Hz - 20kHz bandpass test further reduces distortion, indicating improved dynamic range.
+
+Compression linearity and dynamic range data highlight some deviations in the speaker's response profile below 100 Hz at higher output levels. This is a common characteristic among similar speakers in the same price range, emphasizing the importance of using a subwoofer or listening at moderate volumes.
+
+In conclusion, the KEF R3 Meta speaker delivers exceptional value with its coaxial design, neutral sound, excellent directivity, and unique combination of sealed and ported enclosure characteristics. While it may benefit from a wider mid-range waveguide and the use of a subwoofer for higher output levels, it offers impressive performance in its price class.
+
+
+
+
 
 
 
