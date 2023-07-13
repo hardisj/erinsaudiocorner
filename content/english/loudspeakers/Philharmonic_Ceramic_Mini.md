@@ -253,6 +253,20 @@ Wide horizontal radiation (subjective).
 Best seating axis is from 0°-20° horizontal and 0°-10° vertically.
 Somewhat output limited but not attypical for its size. My max volume was about 95dB @ 3m before the woofer would "plop" with most of my demo music. At lower listening levels it's not an issue but if using these for high output systems make sure to use a subwoofer below about 80Hz to alleviate the woofer excursion.
 
+The Philharmonic Ceramic Mini Monitors by Philharmonic Audio are a stunning pair of speakers that offer a combination of great looks and impressive performance. Priced at $850 a pair, they are a solid option for audiophiles seeking both aesthetics and audio quality.
+
+The design of these speakers is visually appealing, breaking away from the typical vinyl wrap speakers in this price range. The high gloss black, white, or blue cabinet options add a touch of elegance to any room.
+
+The Philharmonic Ceramic Mini Monitors feature a 5.25-inch ceramic SB Acoustics driver and a 1-inch ceramic dome tweeter, also from SB Acoustics. Despite their compact size, these drivers deliver a pleasurable listening experience with a good bass extension. However, it's worth noting that the speaker's output capability is somewhat limited due to its size. It may struggle at higher volumes, especially in the lower frequencies, but this is to be expected from a bookshelf speaker of its size.
+
+In terms of performance, these speakers excel in several areas. The mid-range distortion is remarkably low, providing a clean and accurate sound reproduction. The linearity of the speaker is within +/- 2.5 dB on-axis, with a mild bass bump around 100 Hz, which I found to be a positive characteristic despite it not quite being completely "accurate". The speaker offers a fairly wide soundstage, with a radiation pattern of approximately ± 70° to 80°.
+
+While there are many pros to these speakers, there are a few cons to consider as well. One drawback is a diffraction effect caused by the omnidirectional or close-to-omnidirectional radiation of the tweeter hitting the edge of the speaker's cabinet. This results in a dip in on-axis sound, resulting in a "balloon" in the directivity in the 4-6kHz region.  This can occasionally result in sibilance at these frequencies. Additionally, the dynamic range of the speaker is not very high, so if you plan to listen at louder volumes or use them for home theater applications, it's recommended to pair them with a subwoofer.
+
+In terms of technical specifications, the Philharmonic Ceramic Mini Monitors have a nominal impedance of 4 ohms and average sensitivity of 82.2 dB.
+
+Overall, the Philharmonic Ceramic Mini Monitors offer an excellent combination of aesthetics and performance at an affordable price point. With their gorgeous design, low mid-range distortion, and pleasing sound reproduction, they are a highly recommended option for those seeking a high-value bookshelf speaker with looks to match. Just be mindful of their output limitations and consider supplementing them with a subwoofer for more demanding applications.
+
 
 
 <br>
