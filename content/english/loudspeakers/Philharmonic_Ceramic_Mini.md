@@ -244,17 +244,14 @@ For information on how to read the below data, watch this video:
 
 ## Parting / Random Thoughts
 
-See video linked above for subjective and objective analysis.
+See video linked above for subjective and objective analysis.  A few notes below.
 
-The M126Be provides an immersive sound experience with a wide radiation pattern. The bass is neutral but not particularly low-reaching, requiring a subwoofer for deeper frequencies.
-
-The impedance plot shows a minimum impedance of 4.9 ohms, which indicates the speaker may be compatible with most A/V receivers but verify with the manufacturer first. The on-axis and listening window response indicate good linearity with some evidence of diffraction at specific frequencies. The extended bass shelf design aims to provide a more linear in-room bass response, which I found satisfactory until about 50Hz.
-
-The CEA 2034 data reveals minor diffraction effects at around 3 kHz and 7 kHz, which are filled in and smoothed out in the overall in-room response. The horizontal radiation pattern is about 60 to 70 degrees wide, providing a balanced radiation distribution. The vertical response highlights a dip around 1.7 kHz in the crossover region, indicating the importance of staying within a few degrees of the tweeter axis for optimal sound quality.
-
-Distortion measurements show good performance below 3% distortion up to around 100 Hz, with some harmonic distortion at higher output levels. Multi-tone distortion testing indicates distortion levels below 3%, ensuring a cleaner sound reproduction. Compression measurements reveal increased distortion around the crossover point at 1.7 kHz, which could potentially explain a perceived glare in the upper mid-range.
-
-Overall, the Revel M126Be PerformaBe speakers are regarded as very good speakers in the audio community and I found that to be the case myself due to wide stereo width and neutral sound.
+Low midrange distortion even at higher output volume.
+Good linearity.
+Nice little bass bump (subjective).
+Wide horizontal radiation (subjective).
+Best seating axis is from 0°-20° horizontal and 0°-10° vertically.
+Somewhat output limited but not attypical for its size. My max volume was about 95dB @ 3m before the woofer would "plop" with most of my demo music. At lower listening levels it's not an issue but if using these for high output systems make sure to use a subwoofer below about 80Hz to alleviate the woofer excursion.
 
 
 
