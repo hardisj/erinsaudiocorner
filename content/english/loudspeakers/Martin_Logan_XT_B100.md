@@ -1,6 +1,6 @@
 ---
 title: "Martin Logan Motion XT B100 Bookshelf Speaker Review"
-date: 2023-08-06
+date: 2023-08-05
 draft: false
 image: "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2023/4/839/g839XTB1HSW-F.jpg"
 description : "Martin Logan Motion XT B100"
@@ -80,7 +80,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/wb5tk2zxb8jk50y7q5851/CEA2034-Martin-Logan-Motion-XT-B100.png?rlkey=xrj3smoudgkvu78rqkgm4w80i&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wb5tk2zxb8jk50y7q5851/CEA2034-Martin-Logan-Motion-XT-B100.png?rlkey=xrj3smoudgkvu78rqkgm4w80i&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -100,7 +100,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/mmcs04l9eo43idr3s869f/Early-Reflections.png?rlkey=ajjt493q59sr4ijp93g547742&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/mmcs04l9eo43idr3s869f/Early-Reflections.png?rlkey=ajjt493q59sr4ijp93g547742&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -113,37 +113,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent/scl/fi/zar3b1pf3u42jfett9zvi/Estimated-In-Room-Response.png?rlkey=widrgr1t6h9r567o5ow8oyb7k&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zar3b1pf3u42jfett9zvi/Estimated-In-Room-Response.png?rlkey=widrgr1t6h9r567o5ow8oyb7k&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/tnz56gifge5leg519giu8/SPL-Horizontal.png?rlkey=422zb39cjmsu2trfw9nwl4not&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/tnz56gifge5leg519giu8/SPL-Horizontal.png?rlkey=422zb39cjmsu2trfw9nwl4not&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/j1dx67b2qgtorl4dygcx2/SPL-Vertical.png?rlkey=40rr48oe5ew5s3iz5gfvipej4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/j1dx67b2qgtorl4dygcx2/SPL-Vertical.png?rlkey=40rr48oe5ew5s3iz5gfvipej4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/gas51m7dsxszecs5rj13b/Martin-Logan-Motion-XT-B100-Horizontal-Contour-Plot-Normalized.png?rlkey=h7ia1avbjpglyizkerkv57g95&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/gas51m7dsxszecs5rj13b/Martin-Logan-Motion-XT-B100-Horizontal-Contour-Plot-Normalized.png?rlkey=h7ia1avbjpglyizkerkv57g95&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/842xcs7cuquyueurvgdvf/Martin-Logan-Motion-XT-B100-Vertical-Contour-Plot-Normalized.png?rlkey=62dkg1q74y2tgou9tjqcmqmch&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/842xcs7cuquyueurvgdvf/Martin-Logan-Motion-XT-B100-Vertical-Contour-Plot-Normalized.png?rlkey=62dkg1q74y2tgou9tjqcmqmch&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/hbx2l14fy7nqhudg1hcyg/Martin-Logan-Motion-XT-B100_360_Horizontal_Polar.png?rlkey=or8ytx8fah1bpr0uu1ig7mwzq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hbx2l14fy7nqhudg1hcyg/Martin-Logan-Motion-XT-B100_360_Horizontal_Polar.png?rlkey=or8ytx8fah1bpr0uu1ig7mwzq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/25hh6ncg2le9r78wfinfu/Martin-Logan-Motion-XT-B100_360_Vertical_Polar.png?rlkey=dyu2kd8z3ww8pukbniwbw20zc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/25hh6ncg2le9r78wfinfu/Martin-Logan-Motion-XT-B100_360_Vertical_Polar.png?rlkey=dyu2kd8z3ww8pukbniwbw20zc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -157,7 +157,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/x2sibhaqe12ofmpwfhmuf/Martin-Logan-Motion-XT-B100-Impedance.png?rlkey=d267ldlewyen4yg806vgrsj4r&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/x2sibhaqe12ofmpwfhmuf/Martin-Logan-Motion-XT-B100-Impedance.png?rlkey=d267ldlewyen4yg806vgrsj4r&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -165,7 +165,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/5dzbpv41dinz9ef2o32hi/Martin-Logan-Motion-XT-B100-FR_Linearity.png?rlkey=4cxhyuvmz9iwd78yb2bnxj98m&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5dzbpv41dinz9ef2o32hi/Martin-Logan-Motion-XT-B100-FR_Linearity.png?rlkey=4cxhyuvmz9iwd78yb2bnxj98m&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -173,21 +173,21 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Step Response
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/hr04qoow148bpq6xrgiqi/Martin-Logan-Motion-XT-B100-Step-Response.png?rlkey=rnobpqzhm2gqzhjainu9xo1l6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hr04qoow148bpq6xrgiqi/Martin-Logan-Motion-XT-B100-Step-Response.png?rlkey=rnobpqzhm2gqzhjainu9xo1l6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/byfbdj9ynv5ntot1u6qof/Martin-Logan-Motion-XT-B100-Group-Delay.png?rlkey=azwsw6sb0k6lsrn5z36zs3hfb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/byfbdj9ynv5ntot1u6qof/Martin-Logan-Motion-XT-B100-Group-Delay.png?rlkey=azwsw6sb0k6lsrn5z36zs3hfb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Nearfield Components
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/jv06k7tf57v8wmtlncom8/Nearfield-Components.png?rlkey=q402aq3av2he17vkemqf8nan2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/jv06k7tf57v8wmtlncom8/Nearfield-Components.png?rlkey=q402aq3av2he17vkemqf8nan2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -196,11 +196,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/2ya3mmy65i2iv09j4ip8c/Martin-Logan-Motion-XT-B100-Harmonic-Distortion-86dB-1m.png?rlkey=d04z9ywutrsb2febanftc2fjn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2ya3mmy65i2iv09j4ip8c/Martin-Logan-Motion-XT-B100-Harmonic-Distortion-86dB-1m.png?rlkey=d04z9ywutrsb2febanftc2fjn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/2ya3mmy65i2iv09j4ip8c/Martin-Logan-Motion-XT-B100-Harmonic-Distortion-86dB-1m.png?rlkey=d04z9ywutrsb2febanftc2fjn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2ya3mmy65i2iv09j4ip8c/Martin-Logan-Motion-XT-B100-Harmonic-Distortion-86dB-1m.png?rlkey=d04z9ywutrsb2febanftc2fjn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -221,7 +221,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/y6v5kn7jwwok4fj80cy70/Martin-Logan-Motion-XT-B100_Compression.png?rlkey=zr86cf0npgewo6s1kjr79naps&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/y6v5kn7jwwok4fj80cy70/Martin-Logan-Motion-XT-B100_Compression.png?rlkey=zr86cf0npgewo6s1kjr79naps&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -246,13 +246,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/ojfw08bglrn4nuxxh2rik/MTON-Full.png?rlkey=a6wevxaqicpwseoaqxqbyd9k5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ojfw08bglrn4nuxxh2rik/MTON-Full.png?rlkey=a6wevxaqicpwseoaqxqbyd9k5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/edl5gy0vdmwercml8c24y/mton-80.png?rlkey=stughuwbwb2tdtdgikbzmjljj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/edl5gy0vdmwercml8c24y/mton-80.png?rlkey=stughuwbwb2tdtdgikbzmjljj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>

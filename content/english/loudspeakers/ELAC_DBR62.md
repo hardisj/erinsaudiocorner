@@ -16,7 +16,7 @@ All my reviews are done on my own time with great care to give you all the best 
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nbZGj69rI0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VCY_CDu5Xas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -62,7 +62,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/f5k7qhz4ez38pofe48blo/CEA2034-ELAC-DBR62.png?rlkey=eav4iskz79ptsg6suvxqy45rk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/f5k7qhz4ez38pofe48blo/CEA2034-ELAC-DBR62.png?rlkey=eav4iskz79ptsg6suvxqy45rk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -82,7 +82,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/r23ug9xox23nyhq7bctvr/Early-Reflections.png?rlkey=wzfnezdgeiv1b8dilbwv5gdj2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/r23ug9xox23nyhq7bctvr/Early-Reflections.png?rlkey=wzfnezdgeiv1b8dilbwv5gdj2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -95,37 +95,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent/scl/fi/uhge13a9h0scgihcifsie/Estimated-In-Room-Response.png?rlkey=n8cbpbhrf6hm9sjiypz9fy37q&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/uhge13a9h0scgihcifsie/Estimated-In-Room-Response.png?rlkey=n8cbpbhrf6hm9sjiypz9fy37q&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/fmczop88ceqbnmwizpyoc/SPL-Horizontal.png?rlkey=fhrwkb6n0knwqn4j6vcw004lz&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fmczop88ceqbnmwizpyoc/SPL-Horizontal.png?rlkey=fhrwkb6n0knwqn4j6vcw004lz&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/0phkl5pq6z03qxx4a82zv/SPL-Vertical.png?rlkey=wpj8n7ytb8vorgw5r0t981vrd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0phkl5pq6z03qxx4a82zv/SPL-Vertical.png?rlkey=wpj8n7ytb8vorgw5r0t981vrd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/e7pp0ssd8hjw3i930y90z/ELAC-DBR62-Horizontal-Contour-Plot-Normalized.png?rlkey=aqx8ih544m52qk2pwvuu0ba8t&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/e7pp0ssd8hjw3i930y90z/ELAC-DBR62-Horizontal-Contour-Plot-Normalized.png?rlkey=aqx8ih544m52qk2pwvuu0ba8t&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/wp5mmkshbqwf25pr6a5ci/ELAC-DBR62-Vertical-Contour-Plot-Normalized.png?rlkey=me5u3xy4qiof6bjyail5x72o4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wp5mmkshbqwf25pr6a5ci/ELAC-DBR62-Vertical-Contour-Plot-Normalized.png?rlkey=me5u3xy4qiof6bjyail5x72o4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/u2jhlmz44ti30856cugu6/ELAC-DBR62_360_Horizontal_Polar.png?rlkey=hai696kxl81mywm2o0ukphkh7&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/u2jhlmz44ti30856cugu6/ELAC-DBR62_360_Horizontal_Polar.png?rlkey=hai696kxl81mywm2o0ukphkh7&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/f3azucls6p2krhpbjpmj0/ELAC-DBR62_360_Vertical_Polar.png?rlkey=d3j4gvmcj1jevtwq4spb7t9in&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/f3azucls6p2krhpbjpmj0/ELAC-DBR62_360_Vertical_Polar.png?rlkey=d3j4gvmcj1jevtwq4spb7t9in&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -139,7 +139,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/78106m6y57hqicz0bjxeh/ELAC-DBR62-Impedance.png?rlkey=oiw6iz1igikco2b6i3pqmu6lw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/78106m6y57hqicz0bjxeh/ELAC-DBR62-Impedance.png?rlkey=oiw6iz1igikco2b6i3pqmu6lw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -147,7 +147,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/wqpshm84jha2m116ar7pc/ELAC-DBR62-FR_Linearity.png?rlkey=0r2wv8qb37b860wole2q8oes8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wqpshm84jha2m116ar7pc/ELAC-DBR62-FR_Linearity.png?rlkey=0r2wv8qb37b860wole2q8oes8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -155,18 +155,18 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/5rfqva8fgy47er2d94j67/ELAC-DBR62-Group-Delay.png?rlkey=9010n2d108c7jfjzp9rscgqwl&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5rfqva8fgy47er2d94j67/ELAC-DBR62-Group-Delay.png?rlkey=9010n2d108c7jfjzp9rscgqwl&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/6s3h4kn6ip3b95ab9izt7/ELAC-DBR62-Harmonic-Distortion-86dB-1m.png?rlkey=ch4z2kfm9yckfhkklr0glhvak&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6s3h4kn6ip3b95ab9izt7/ELAC-DBR62-Harmonic-Distortion-86dB-1m.png?rlkey=ch4z2kfm9yckfhkklr0glhvak&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/4xlgjoc64w84yu2b9i4zh/ELAC-DBR62-Harmonic-Distortion-96dB-1m.png?rlkey=xqjompelhdt27tcelcdthj3d5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/4xlgjoc64w84yu2b9i4zh/ELAC-DBR62-Harmonic-Distortion-96dB-1m.png?rlkey=xqjompelhdt27tcelcdthj3d5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -187,7 +187,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/svd5k6jyix6qju7duzrcd/ELAC-DBR62_Compression.png?rlkey=lzbrd2blpm6x5v6pfnfrmotsx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/svd5k6jyix6qju7duzrcd/ELAC-DBR62_Compression.png?rlkey=lzbrd2blpm6x5v6pfnfrmotsx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -212,13 +212,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/tqbz93iau6ynf8px4sv9o/mton-full.png?rlkey=pc64keg7sf797c6y5rfcv6q1f&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/tqbz93iau6ynf8px4sv9o/mton-full.png?rlkey=pc64keg7sf797c6y5rfcv6q1f&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/tdp6rxx25gk6dvfy5lnih/mton-80.png?rlkey=4vwgfmqvgnhvln6mtwr9vwly7&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/tdp6rxx25gk6dvfy5lnih/mton-80.png?rlkey=4vwgfmqvgnhvln6mtwr9vwly7&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>

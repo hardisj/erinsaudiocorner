@@ -1,6 +1,6 @@
 ---
 title: "Dynaudio Special Forty Bookshelf Speaker Review"
-date: 2023-08-06
+date: 2023-08-05
 draft: false
 image: "https://14515867.fs1.hubspotusercontent-na1.net/hub/14515867/hubfs/Magazines%E2%8E%9CTechnology/special_forty_duo_front.jpeg?width=750&name=special_forty_duo_front.jpeg"
 description : "Dynaudio Special Forty"
@@ -83,7 +83,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/qhqjc8y5wccm1so56zee3/CEA2034-Dynaudio-Special-Forty.png?rlkey=qbe8khdd9kiowdqbpf9j0y9hw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/qhqjc8y5wccm1so56zee3/CEA2034-Dynaudio-Special-Forty.png?rlkey=qbe8khdd9kiowdqbpf9j0y9hw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -103,7 +103,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/nb1kfq53m6pqa49qili6y/Early-Reflections.png?rlkey=pja1rmcdwdfa4vcjwbki12occ&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nb1kfq53m6pqa49qili6y/Early-Reflections.png?rlkey=pja1rmcdwdfa4vcjwbki12occ&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -116,37 +116,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent/scl/fi/fe7c3pwvgvfsa1cf7bd8m/Estimated-In-Room-Response.png?rlkey=gikrfd53298jixjdv37n01xct&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fe7c3pwvgvfsa1cf7bd8m/Estimated-In-Room-Response.png?rlkey=gikrfd53298jixjdv37n01xct&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/2zwmnwqtw79yatp383vd4/SPL-Horizontal.png?rlkey=9ub1ryqjbwyvq6qd6mr841yjx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2zwmnwqtw79yatp383vd4/SPL-Horizontal.png?rlkey=9ub1ryqjbwyvq6qd6mr841yjx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/lqbe2li0cj1heybn69iuh/SPL-Vertical.png?rlkey=jiwdccqj74ozndmsvt6pek6ch&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lqbe2li0cj1heybn69iuh/SPL-Vertical.png?rlkey=jiwdccqj74ozndmsvt6pek6ch&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/at3neot3es4yux3wgotuf/Dynaudio-Special-Forty-Horizontal-Contour-Plot-Normalized.png?rlkey=dc3xju50u07no1ttv129mm504&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/at3neot3es4yux3wgotuf/Dynaudio-Special-Forty-Horizontal-Contour-Plot-Normalized.png?rlkey=dc3xju50u07no1ttv129mm504&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/fiwium8hr8wonr0ki7fq1/Dynaudio-Special-Forty-Vertical-Contour-Plot-Normalized.png?rlkey=9ttvvc0geupv3qyaxl92a43z8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fiwium8hr8wonr0ki7fq1/Dynaudio-Special-Forty-Vertical-Contour-Plot-Normalized.png?rlkey=9ttvvc0geupv3qyaxl92a43z8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/dogaggfhunwsjgbneyh09/Dynaudio-Special-Forty_360_Horizontal_Polar.png?rlkey=d73mc3su16veavvzbb40smhb5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/dogaggfhunwsjgbneyh09/Dynaudio-Special-Forty_360_Horizontal_Polar.png?rlkey=d73mc3su16veavvzbb40smhb5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/gtcipnw4n6vqfmkic6u8d/Dynaudio-Special-Forty_360_Vertical_Polar.png?rlkey=e68damsa34cxl20ovius290f0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/gtcipnw4n6vqfmkic6u8d/Dynaudio-Special-Forty_360_Vertical_Polar.png?rlkey=e68damsa34cxl20ovius290f0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -160,7 +160,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/pjrmqyiv2co4juwlw2nln/Dynaudio-Special-Forty-Impedance.png?rlkey=lc69u6tud9q904200agijesx0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/pjrmqyiv2co4juwlw2nln/Dynaudio-Special-Forty-Impedance.png?rlkey=lc69u6tud9q904200agijesx0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -168,7 +168,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/c6kv9avwf70sma28eysb4/Dynaudio-Special-Forty-FR_Linearity.png?rlkey=r88pual8lrcnnqhsj3m3771za&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/c6kv9avwf70sma28eysb4/Dynaudio-Special-Forty-FR_Linearity.png?rlkey=r88pual8lrcnnqhsj3m3771za&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -176,21 +176,21 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Step Response
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/frotd37yh09cv7jx6d6dn/Dynaudio-Special-Forty-Step-Response.png?rlkey=7dxbnjzzxuik3r5nggjii8wli&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/frotd37yh09cv7jx6d6dn/Dynaudio-Special-Forty-Step-Response.png?rlkey=7dxbnjzzxuik3r5nggjii8wli&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/2jpqj0rwt410bdiw6yuz8/Dynaudio-Special-Forty-Group-Delay.png?rlkey=bcfqvy2btotpjhk559u8vrsdj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2jpqj0rwt410bdiw6yuz8/Dynaudio-Special-Forty-Group-Delay.png?rlkey=bcfqvy2btotpjhk559u8vrsdj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Nearfield Components
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/zmogmui2iptunysua4tod/Dynaudio-Special-Forty-Nearfield-Components.png?rlkey=lp3hf5tghbnlgtp4w0w9mf1rb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zmogmui2iptunysua4tod/Dynaudio-Special-Forty-Nearfield-Components.png?rlkey=lp3hf5tghbnlgtp4w0w9mf1rb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -198,7 +198,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### CSD
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/iwujjv16vi91bkfc9ote5/CSD.png?rlkey=5bpbcax9m3fz00190khc0su83&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/iwujjv16vi91bkfc9ote5/CSD.png?rlkey=5bpbcax9m3fz00190khc0su83&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -206,11 +206,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/a5j2r9gaw73ne173ucpp2/Dynaudio-Special-Forty-Harmonic-Distortion-86dB-1m.png?rlkey=spfgvduvys55wd8vsi4qmpq0k&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/a5j2r9gaw73ne173ucpp2/Dynaudio-Special-Forty-Harmonic-Distortion-86dB-1m.png?rlkey=spfgvduvys55wd8vsi4qmpq0k&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/0uurnfgpenjvrcbc15u6d/Dynaudio-Special-Forty-Harmonic-Distortion-96dB-1m.png?rlkey=7y2t8otmgmma82540vd7vae1u&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0uurnfgpenjvrcbc15u6d/Dynaudio-Special-Forty-Harmonic-Distortion-96dB-1m.png?rlkey=7y2t8otmgmma82540vd7vae1u&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -231,7 +231,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/iotoy832tp7s56u20rvkv/Dynaudio-Special-Forty_Compression.png?rlkey=vbskuqwk9w5mwcigehnsbwwys&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/iotoy832tp7s56u20rvkv/Dynaudio-Special-Forty_Compression.png?rlkey=vbskuqwk9w5mwcigehnsbwwys&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -256,13 +256,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/k7690up91q2orcok50wl3/MTON-full.png?rlkey=pvvn2rx7owjqtf0avejurdp35&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/k7690up91q2orcok50wl3/MTON-full.png?rlkey=pvvn2rx7owjqtf0avejurdp35&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent/scl/fi/2tlddplfxlcg7hrzi9fmv/MTON-80.png?rlkey=pesr4ugkzu1qgtk4gtylxfr65&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2tlddplfxlcg7hrzi9fmv/MTON-80.png?rlkey=pesr4ugkzu1qgtk4gtylxfr65&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
