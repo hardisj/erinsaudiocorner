@@ -83,25 +83,8 @@ The below provides an idea of how the integrated DSP's "room gain compensation" 
 
 ## CEA-2010 Test Results
 
-CEA-2010-A vs CEA-2010-B Foreword:
+CEA-2010A results can be viewed directly [here](https://docs.google.com/spreadsheets/d/18bz7z-xIlRJsC-bw6k4mHkuwv_uiGAMyEhgrTkjwdXc/edit?usp=sharing).
 
-CEA-2010-A and CEA-2010-B are completely different tests with different distortion thresholds and therefore should only be compared to other like tests (A vs A, B vs B).  To date, I am the only independent outlet providing -B tests so no worries there.  Comparisons between my own -A and -B tests should only be made for educational purposes.
-
--A specification uses only frequencies from 20Hz to 63H in 1/3-Octave steps (20/25/31.5/40 Hz).  Distortion thresholds are the same for each frequency.  Other outlets have taken the liberty to use those same thresholds and apply them to frequencies above/below the -A standard.  To provide a comparison, I have also done the same.  However, note these frequencies below 20Hz and above 63Hz are not part of the CEA-2010-A specification.
-
--B specification uses frequencies 12.5/16/20/25/31.5/40/60/80/100/120/160 Hz with varying distortion thresholds per frequency.  More can be read about this in the CTA-2010-B specification.  Peak values are obtained, then weighted per the spec.  Maximum SPL values are provided for each frequency.  A final "broadband" Peak SPL value is provided based on each frequency's max SPL.  While I have chosen to provide "extended" frequency results for -A (those tones above and below the specification's called out frequencies), I am not doing so for -B because there is no reasonable way to determine what the threshold for those values should be.  I believe those who wrote the spec to be smarter than me and I do not take liberties in adjusting specifications at will.  You can download a copy of the -B specification [here](https://shop.cta.tech/products/standard-method-of-measurement-for-subwoofers).  The CEA-2010-A standard is not free and thus I have no freely available link.
-
-All the following data is from my spreadsheet which can viewed directly [here](https://docs.google.com/spreadsheets/d/18bz7z-xIlRJsC-bw6k4mHkuwv_uiGAMyEhgrTkjwdXc/edit?usp=sharing).
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/1low0mtjak1zb01/Maximum%20SPL%20%28dB%29%20per%20CEA-2010-A%20%282-meter%20Ground%20Plane%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/2kjn9dm6gctatoo/Weighted%20%26%20Limited%20Maximum%20SPL%20%28dB%29%20per%20CEA-2010-B%20%282-meter%20Ground%20Plane%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-In both test standards the SB-3000 provides more output.  Per the CEA-2010-A spec, Above 31.5Hz the difference is approximately 5dB higher with the SB-3000.  Below this, there is approximately 3dB difference.  Per the CEA-2010-B spec, the difference follows the same trends.  Both subwoofers display a lot of clean output potential.
-
-Some have questioned the high SPL level capability of the SB-3000's low frequencies.  As I mention in the video review, I did, too.  It pushed me to test *three* times on different days, wiping all settings between runs just to make sure nothing was carried over from a previous run set. I even verified the mic calibration of my Earthworks mic with that of a different mic which showed roughly the same response with a deviation of about 2dB.  Since the mic comparison was performed in-room I was willing to let this 2dB variation stand as low-frequency measurements are very room dependent.  Interestingly, if you look at the results of [Audioholics](https://www.audioholics.com/subwoofer-reviews/svs-3000) test and mine above about 40Hz, though, you'll see they're practically *identical*.  Which really causes confusion.  To be honest, I'm not sure what the discrepancy could be between mine and the dataset shown by Audioholics.  Additonally, it was stated in their review that Audioholics' test was performed on a cold day in 43°F temperature - which is not conducive to LF tests.  I have gone over my test parameters and setup and find nothing to indicate an error on my end.  Given these facts, I will leave my data up.  However, if I do find an issue has occurred with my tests then I will make the appropriate updates/retractions. But, as of this moment I see no evidence to tell me the numbers acquired were not real.  (To be clear, I am not "bashing" or saying the results from Audioholics are incorrect; I am simply addressing questions asked and providing possible explanations.  I have the utmost respect for James - who conducted the test for Audioholics - and consider him an ally in the audio science reviewer realm.)
 
 <br>
 <br>
