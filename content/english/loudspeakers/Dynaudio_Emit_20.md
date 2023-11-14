@@ -76,10 +76,10 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/csbvzacte0rmndkoehai6/CEA2034-Dynaudio-Emit-20-0.png?rlkey=c6s7s8l9xmory4yuor209w53c&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/csbvzacte0rmndkoehai6/CEA2034-Dynaudio-Emit-20-0.png?rlkey=c6s7s8l9xmory4yuor209w53c&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/7w3a93h4nfldq0qvopjfq/CEA2034-Dynaudio-Emit-20-30.png?rlkey=w6e0qdl7tqkfrb46haslcg6qk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7w3a93h4nfldq0qvopjfq/CEA2034-Dynaudio-Emit-20-30.png?rlkey=w6e0qdl7tqkfrb46haslcg6qk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -101,7 +101,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://www.dropbox.com/scl/fi/95zode8k1roinf6ib8o4j/Early-Reflections.png?rlkey=omy9otrd404hyhhl7t6gjjvvp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/95zode8k1roinf6ib8o4j/Early-Reflections.png?rlkey=omy9otrd404hyhhl7t6gjjvvp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -114,29 +114,29 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://www.dropbox.com/scl/fi/c3ayvkyn8bkdcn8dafv0x/Estimated-In-Room-Response.png?rlkey=q5qh9yqx2uv882d67o7b48cha&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/c3ayvkyn8bkdcn8dafv0x/Estimated-In-Room-Response.png?rlkey=q5qh9yqx2uv882d67o7b48cha&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://www.dropbox.com/scl/fi/8v5ch994rahj8u29i1v59/Dynaudio-Emit-20-Horizontal-Contour-Plot-Normalized.png?rlkey=enx0d3h47py5nl5sd7sszuqml&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/8v5ch994rahj8u29i1v59/Dynaudio-Emit-20-Horizontal-Contour-Plot-Normalized.png?rlkey=enx0d3h47py5nl5sd7sszuqml&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://www.dropbox.com/scl/fi/nv2hwxuzc7ebjwoyfiqev/Dynaudio-Emit-20-Vertical-Contour-Plot-Normalized.png?rlkey=sqyzfgsnus3hifgwtfzarrmhd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nv2hwxuzc7ebjwoyfiqev/Dynaudio-Emit-20-Vertical-Contour-Plot-Normalized.png?rlkey=sqyzfgsnus3hifgwtfzarrmhd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://www.dropbox.com/scl/fi/v0v6mto5a7ctqku87ecyf/Dynaudio-Emit-20_360_Horizontal_Polar.png?rlkey=tr2xkhlgts4tciesklepha1co&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/v0v6mto5a7ctqku87ecyf/Dynaudio-Emit-20_360_Horizontal_Polar.png?rlkey=tr2xkhlgts4tciesklepha1co&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://www.dropbox.com/scl/fi/nl6dcv2n0spp7vapnmhpv/Dynaudio-Emit-20_360_Vertical_Polar.png?rlkey=dxlw3nmwg3b9h0a9juemlx2z0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nl6dcv2n0spp7vapnmhpv/Dynaudio-Emit-20_360_Vertical_Polar.png?rlkey=dxlw3nmwg3b9h0a9juemlx2z0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -150,7 +150,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/31178i3our92xwezaidtw/Dynaudio-Emit-20-Impedance.png?rlkey=nqea516mt141662ewj42mgsly&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/31178i3our92xwezaidtw/Dynaudio-Emit-20-Impedance.png?rlkey=nqea516mt141662ewj42mgsly&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -159,13 +159,13 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 This is the RAW woofer, OUTSIDE of the enclosure. Using CLD on the basket spokes did not resolve this issue.
 
-<img align="left" src="https://www.dropbox.com/scl/fi/hgep211eoi22zsuvncw03/Dynaudio-Emit-20-Raw-Driver-Impedance-Phase.png?rlkey=kwx4wz9h015yy5gq4i2ecjvva&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hgep211eoi22zsuvncw03/Dynaudio-Emit-20-Raw-Driver-Impedance-Phase.png?rlkey=kwx4wz9h015yy5gq4i2ecjvva&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### Response Linearity
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/n2ae60sapcfx8wo2vlf25/Dynaudio-Emit-20-FR_Linearity.png?rlkey=omsc5t5z62v7heb2n2sr5c5h3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/n2ae60sapcfx8wo2vlf25/Dynaudio-Emit-20-FR_Linearity.png?rlkey=omsc5t5z62v7heb2n2sr5c5h3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -173,14 +173,14 @@ This is the RAW woofer, OUTSIDE of the enclosure. Using CLD on the basket spokes
 ### Step Response
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/2xvwqszmeqfqxkr63vc1r/Dynaudio-Emit-20-Step-Response.png?rlkey=7696m7iapaw2rs1l88u1oferb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2xvwqszmeqfqxkr63vc1r/Dynaudio-Emit-20-Step-Response.png?rlkey=7696m7iapaw2rs1l88u1oferb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://www.dropbox.com/scl/fi/jwe0yo40mbazbqfk5eovf/Dynaudio-Emit-20-Group-Delay.png?rlkey=vue14fz7lwo440v0gzxw1hbrn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/jwe0yo40mbazbqfk5eovf/Dynaudio-Emit-20-Group-Delay.png?rlkey=vue14fz7lwo440v0gzxw1hbrn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -189,16 +189,16 @@ This is the RAW woofer, OUTSIDE of the enclosure. Using CLD on the basket spokes
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://www.dropbox.com/scl/fi/lbn8h5kq9tromei3alycf/Dynaudio-Emit-20-Harmonic-Distortion-86dB-1m.png?rlkey=vilu1lyntoa9yxncrzbiozckd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lbn8h5kq9tromei3alycf/Dynaudio-Emit-20-Harmonic-Distortion-86dB-1m.png?rlkey=vilu1lyntoa9yxncrzbiozckd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://www.dropbox.com/scl/fi/bgadvgxl6dfd80vc8lzri/Dynaudio-Emit-20-Harmonic-Distortion-96dB-1m.png?rlkey=oncuz9gnrmcq4rkc8zfmhac1m&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bgadvgxl6dfd80vc8lzri/Dynaudio-Emit-20-Harmonic-Distortion-96dB-1m.png?rlkey=oncuz9gnrmcq4rkc8zfmhac1m&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 ### Nearfield Components
 
-<img align="left" src="https://www.dropbox.com/scl/fi/lxe49y0nl19glv0oil03i/Nearfield-Dynaudio-Emit-20.png?rlkey=9hwz5jyfuwa8e0p3lcfioinc2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lxe49y0nl19glv0oil03i/Nearfield-Dynaudio-Emit-20.png?rlkey=9hwz5jyfuwa8e0p3lcfioinc2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -221,7 +221,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://www.dropbox.com/scl/fi/yr9fjdkk1or5owcjf11xo/Dynaudio-Emit-20_Compression.png?rlkey=ikv1k0iv4kxjgiqr2vdrv97tf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yr9fjdkk1or5owcjf11xo/Dynaudio-Emit-20_Compression.png?rlkey=ikv1k0iv4kxjgiqr2vdrv97tf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -246,13 +246,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://www.dropbox.com/scl/fi/94yv62j58fj1ep2pcpkbk/MTON-Full.png?rlkey=eu0047vtu9jipfs9q2ky9u1mt&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/94yv62j58fj1ep2pcpkbk/MTON-Full.png?rlkey=eu0047vtu9jipfs9q2ky9u1mt&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://www.dropbox.com/scl/fi/rkyrznevybk97z4bh0b07/Mton-80.png?rlkey=56towanvwccyfe8kb8fihycyj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rkyrznevybk97z4bh0b07/Mton-80.png?rlkey=56towanvwccyfe8kb8fihycyj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
