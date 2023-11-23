@@ -289,18 +289,22 @@ Pros:
 * Does sound somewhat “deep”. The only way I can reconcile this in the data is that there is a mild MF/HF shelf (around 2-4kHz) of about 1.5dB
 * Good bass extension down to about 40-50Hz in-room
 
-* Cons:
+<br>
+
+Cons:
 * Do wish beaming was better controlled in the upper HF (above 8kHz) but this is typical of dome tweeters on a flat baffle (i.e., without waveguide)
 * Limited in output to some degree.  Compression & Distortion increase above about 90dB @ 4 meters... closer to the speakers would be better to keep the linearity more in check.  But at least the mechanical noise wasn't a problem (no audible resonances or excursion being exceeded).
 
-* Comparable (Under $1k):
-  * Dyn Emit 20:
-    * Sierra more linear
-    * Dyn a tad more bass extension
-    * Dyn has higher output (lower compression/distortion)
-  * Revel M16:
-    * Revel a bit “bassier” thanks to 100Hz bump
-    * Sierra is slightly more linear
+<br>
+
+Comparable (Under $1k):
+* Dynaudio Emit 20:
+  * Sierra more linear
+  * Dyn a tad more bass extension
+  * Dyn has higher output (lower compression/distortion)
+* Revel M16:
+  * Revel a bit “bassier” thanks to 100Hz bump
+  * Sierra is slightly more linear
 
 
 
