@@ -64,8 +64,9 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 
 IMPORTANT SETUP INFO:
 
-This speaker was measured with the reference point at the tweeter with the metal grille on.
+This speaker was measured with the reference point at the tweeter.
 Speaker was broken in.
+Grille was not on.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
