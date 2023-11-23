@@ -22,11 +22,23 @@ The review on this website is a brief overview and summary of the objective perf
 <br>
 <br>
 
-[Manufacturer Specs](https://ascendacoustics.com/):
-* Cabinet is truly environmentally friendly, formaldehyde free, layered bamboo ply.
-* 1" tweeter
-* 5 1/4" woofer
-* Available in piano black, satin espresso, satin dark cherry and natural.
+[Manufacturer Specs](https://ascendacoustics.com/collections/sierra-series-pairs/products/sierra-1-v2-pair?variant=41419225038902/):
+* Typical In-Room Frequency Response	39Hz - 23kHz
+* Typical In-Room Sensitivity	87dB @ 2.83v / 1 meter
+* Nominal Impedance	8 ohms
+* Max Continuous Power*	180 watts
+* Max Short Term Peak Power*	250 watts
+* Cabinet Detail	Exclusive V-LAM™ construction featuring 20mm thick vertically laminated bamboo, internally braced. Bass reflex via flared rear port tube
+* Tweeter	Customized version of SEAS "Titan" dome tweeter, with titanium former, 26mm aluminum/magnesium alloy dome, large tuned damping chamber and copper cap for reduced distortion and inductance
+* Woofer	Proprietary 5.25” long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings, low-inductance motor assembly, vented pole-piece and vented spider.
+* Connections	(2) gold plated all metal 5 way binding posts
+* Inserts	1/4-20 threaded insert for securing to our TP-24 stands
+* Bass Extension (-6dB)	45Hz
+* Anechoic Frequency Response	53Hz - 23kHz +/- 3dB
+* Anechoic Sensitivity	83dB @ 2.83v / 1 meter
+* Dimensions H x W x D**	14.25" x 7.5" x 10.5"
+* Speaker Weight (each)	18.5 pounds
+* Shipping Weight (pair)	43 pounds
 
 
 
