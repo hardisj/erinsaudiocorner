@@ -1,8 +1,8 @@
 ---
-title: "Vanatoo Transparent Zero Plus Review"
-date: 2023-11-18
+title: "Vanatoo Transparent One Encore Plus Review"
+date: 2023-11-26
 draft: false
-image: "https://m.media-amazon.com/images/I/71agBHMJ5vL._AC_SL1500_.jpg"
+image: "https://vanatoo.com/wp-content/uploads/2023/08/T1E-plus-Black-Front-No-Grills-Remote.jpg"
 description : "Vanatoo Transparent Zero Plus Review"
 Tags: ["Vanatoo Transparent Zero Plus Review", "Vanatoo Transparent Zero Plus","Klippel", "best gaming monitor", "best pc speaker", "best desktop speaker","best computer speaker","best budget speaker"]
 ---
@@ -11,41 +11,51 @@ Tags: ["Vanatoo Transparent Zero Plus Review", "Vanatoo Transparent Zero Plus","
 
 ## Foreword / YouTube Video Review
 I was loaned these from the manufacturer.  I was not paid nor did I receive any other form of compensation.  The manufacturer did not see the data before public release.
+If, after reading this review and evaluating the data, you are interested in purchasing these speakers please consider using my affiliate link below:
+* [Vanatoo Transparent One Encore Plus (Pair)](https://amzn.to/3RhX8zB)
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jztXlVDCBME?si=wT265QnZ7szTJivV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVuz9V94FIA?si=2uoN6gk0psFqWGyR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
-[Manufacturer Specs](https://vanatoo.com/shop/speakers/transparent-zero-plus/):
+[Manufacturer Specs](https://vanatoo.com/shop/speakers/transparent-one-encore-plus/):
 * Drivers
-  * 4 inch aluminum cone woofer with 1 inch underhung voice coil
-  * 4 inch long-throw passive radiator
-  * 1 inch soft dome tweeter
+  * 5.25 inch aluminum cone woofer with 1.2 inch XBL magnetic  motor for outstanding performance linearity.
+  * 5.25 inch long-throw passive radiator
+  * 1.0 inch aluminum dome tweeter with integrated waveguide
 * Design
-  * 2 way bi-amplified active speaker
+  * 2-way bi-amplified active speakers
   * Assisted passive radiator bass reflex system
-  * 8th-Order DSP derived Butterworth high-pass at 58 Hz
-  * 8th-Order DSP derived Linkwitz-Riley crossover at 2200 Hz
+  * 6th-Order DSP derived Butterworth response at 48Hz
+  * 6th-Order DSP derived Linkwitz-Riley crossover at 2kHz
 * Inputs
   * Bluetooth with AAC and aptX-HD for wireless connection
-  * USB audio up to 96kHz at 24 bits
-  * Toslink optical up to 96K at 24 bits
-  * 3.5mm (1/8″) analog input, ADC sampled at 48K at 24 bits
+  * USB audio up to 24 bits at 96kHz
+  * Toslink optical up to 24 bits at 96kHz
+  * Coax digital up to 24 bits at 96kHz
+  * Analog conversion at 24 bits at 48Khz
 * Amplifier & DSP
   * Direct Digital Class D
-  * 2×48 Watts per woofer channel; 2×12 Watts per tweeter channel
-  * DSP resolution of 48K at 24 bits
+  * 100 Watts to each woofer, 20 watts to each tweeter
+  * DSP resolution of 24 bits at 48kHz
   * Thermal, short circuit, over current protection
 * Frequency Response
-  * 56Hz – 20K Hz ±3dB (Shelf Mode in room)
-  * 52Hz – 20K Hz ±3dB (Flat Mode in room)
-
+  * Flat Mode: 48-20,000 Hz +/- 3dB, -10dB at 38Hz
+  * Shelf Mode: Above with -4 dB shelf between 48-150Hz
+* Subwoofer Crossover
+  * Flat Mode : 4th-Order Butterworth at 80HZ
+  * Shelf Mode : 4th-Order Butterworth at 110HZ
+* Power Requirements
+  * 120VAC +/- 10% at 60Hz or 220 VAC +/- 10% at 50Hz
+* Size
+  * 10.0"H x 6.5"W x 8.0"D
+  * Shipping: 18" x 16" x 12" box weighing 30lbs
 <br>
 
 As of this writeup MSRP is approximately $450/pair.
@@ -92,7 +102,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zmafrjqxiehmlkvjtvld0/CEA2034-Vanatoo-Transparent-Zero-Plus.png?rlkey=3xg7py1b4xe6x2mwdeshtmi0h&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/iwtsexagzskn1a39c7ttu/CEA2034-Vanatoo-Transparent-One-Plus.png?rlkey=2s2xudp277q2q9u52cqdqs36b&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -116,7 +126,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fnv01rmoy4m6tflmagfyz/Early-Reflections.png?rlkey=qw48grxsp5tasjniyqsp9lsr6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yciv0uommvubvrum7rw2h/Early-Reflections.png?rlkey=egj4w5p39rrsalfbgpbs1op45&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -129,29 +139,29 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/cl0wq2ptc601oo1vevpke/Estimated-In-Room-Response.png?rlkey=z8vjgz73wo1xgcwlu92fdoej0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rju4li5fs1doo2ewhx8ww/Estimated-In-Room-Response.png?rlkey=cb2xm7w1ac2dtu4ixps8wfj65&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0adqx80dhbc4o7b7z8mgp/Vanatoo-Transparent-Zero-Plus-Horizontal-Contour-Plot-Normalized.png?rlkey=ocb9wpxoc1cqmynb8jpkl918l&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/k4oosgrpnwmv2iz1ccht4/Vanatoo-Transparent-One-Plus-Horizontal-Contour-Plot-Normalized.png?rlkey=pro2dygpefpnpa151vdsnonzh&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/pshejnpz04fd6dczolmlu/Vanatoo-Transparent-Zero-Plus-Vertical-Contour-Plot-Normalized.png?rlkey=ev7c0419izh48ugmsij8qyl0l&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/tj8wv6yc2fv3ader1axj1/Vanatoo-Transparent-One-Plus-Vertical-Contour-Plot-Normalized.png?rlkey=t1589ji4etn1xe6xjq383cmok&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1l9orlbjyu6iq8q3jnaox/Vanatoo-Transparent-Zero-Plus_360_Horizontal_Polar.png?rlkey=8vlv07qu5cxr636boobx5j6ui&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/j54bzp1h17vjjamungn8d/Vanatoo-Transparent-One-Plus_360_Horizontal_Polar.png?rlkey=zswvp2yq9mn6ldyw4zsjg0hmq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/cjn5v1z48zkc6ah15271e/Vanatoo-Transparent-Zero-Plus_360_Vertical_Polar.png?rlkey=ir5icqacd8m0wo5pz9d9qoltw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nxps3pbpyspsmzkdv0hg7/Vanatoo-Transparent-One-Plus_360_Vertical_Polar.png?rlkey=i4dwaz1td2e7lscjwx7cbqwx6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -165,7 +175,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/091pjv28gazm1e5qjrkiw/Vanatoo-Transparent-Zero-Plus-FR_Linearity.png?rlkey=eoueknt0nwlpyqcfdyg9ozlr1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/psbq694k5b6zpg8xqvh3o/Vanatoo-Transparent-One-Plus-FR_Linearity.png?rlkey=ay95nkmbs29zdkf6g4rhfvxk4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -173,14 +183,14 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Step Response
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3i1thehlwsghsbv2ajd2i/Vanatoo-Transparent-Zero-Plus-Step-Response.png?rlkey=sakyyy9m5o1g5vkz828a5ufzq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nnqwd8veb3mwke7zfjwh3/Vanatoo-Transparent-One-Plus-Step-Response.png?rlkey=tva4d4z7eb1glk9lww43p2lgp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p0niwrqk8inh0jc6lis72/Vanatoo-Transparent-Zero-Plus-Group-Delay.png?rlkey=uo8uhc7rae6rr3bodui2j879o&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/u285h32goh51rjr4gy6yi/Vanatoo-Transparent-One-Plus-Group-Delay.png?rlkey=fwlhzg4ctopm1bviwofll99rq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -189,11 +199,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rdznp8kmgtdq3dxtkilj2/Vanatoo-Transparent-Zero-Plus-Harmonic-Distortion-86dB-1m.png?rlkey=i7fklqrfthxzpm6rvy5vtc8o8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/azzm4wat3gfijnm3k810e/Vanatoo-Transparent-One-Plus-Harmonic-Distortion-86dB-1m.png?rlkey=juw7w6n0c9s5sqcvggbjo7qtm&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rqng5mxymbdio6if404jj/Vanatoo-Transparent-Zero-Plus-Harmonic-Distortion-96dB-1m.png?rlkey=3vahd4jh3vqjxhlow070061fo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xe5jby6wuiegefbrpv56m/Vanatoo-Transparent-One-Plus-Harmonic-Distortion-96dB-1m.png?rlkey=87jb96fz1yh2ahcbcxzyzvyui&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -214,7 +224,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/i58sk3kfkum6js11f0quf/Vanatoo-Transparent-Zero-Plus_Compression.png?rlkey=sx4t9ur4pax08rjrz2vy18fuf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6l0lh4s8r3xbg161cuq29/Vanatoo-Transparent-One-Plus_Compression.png?rlkey=cl7l185owvadjxispuzr37lwp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -239,13 +249,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2bon7vsiwjk6hp8x20zqi/MTON-FULL.png?rlkey=8qhjq1vfkhted5iz72se7098a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1nzargon3cpto67hbwf6p/mton-full.png?rlkey=0d2e6qck99f4qw23pwi6ar3xx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3wvkaqhrwkj35vfip5lqz/mton-80.png?rlkey=rkjf5j4faxtu1wy7nt6g5c2q0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/uj8psxvo96daq8zwos9xb/mton-80.png?rlkey=xyp0wsjzpb7ut3lw2c0uolnhc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -261,12 +271,11 @@ See video linked above for subjective and objective analysis. I have provided a 
 <br>
 
 My quick thoughts:
-These sound pretty neutral though there is some "glare" in the upper midrange/lower treble that has a bit of a sibilance to it.  The 2-4kHz region has a mild recess that I felt took a little bit out of the attack and clarity of vocals at times.  The highs also seem to drop above 8kHz so there sin't a lot of "air" or "shimmer" in cymbals.
+A mostly neutral speaker with a few caveats for mid/farfield listening: A mild dip in the 1-2kHz "presence"/"clarity" region.  A mild bump in the 4-6kHz region which sounds "edgy" or "sibilant". The highs also seem to drop above 8kHz so there sin't a lot of "air" or "shimmer" in cymbals.
 
-This comes with a remote which is nice.  The remote allows you to alter the tweeter and mid/woofer levels on the fly to dial the sound in to your liking.  For instance, on my desk the "flat" setting was too boomy so I dropped that down a little.  You can kind of get a feel for the various options provided in my REW graph of my in-seat measurements.  I noticed these measurements makes the 2kHz dip stand out more and I found that you need to make sure the tweeter is aimed at your ear because if you go too far beyond that then the 2kHz does indeed start to dip down.  It's not terrible but it's noticeable if you're listening for it.
+This comes with a remote which is nice.  The remote allows you to alter the tweeter and mid/woofer levels on the fly to dial the sound in to your liking.  Plenty of input options and subwoofer out which is automatically engaged with a HPF of either 80Hz or 125Hz (depending on the speaker's DSP setting) when a subwoofer is connected.
 
-Overall I like these speakers.  May be the best desktop speakers I've come across in this size but it's hard to initially get past the $450 asking price.  But when you consider just how downright terrible other desktop speakers tend to be then you realize what you are getting here is solid performance with a good mix of input options.
-
+Good, relatively compact speaker that should be on your list of options if you need a speaker that doesn't consume a lot of deskspace or as an alternative to a soundbar.
 
 
 
