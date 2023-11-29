@@ -1,41 +1,42 @@
 ---
-title: "Acoustic Energy AE100 Mk2 Speaker Review"
-date: 2023-11-27
+title: "Aperion Audio Novus N6SR Slim Satellite On-Wall & Surround Speaker Review"
+date: 2023-11-28
 draft: false
-image: "https://www.acoustic-energy.co.uk/wp-content/uploads/AE100-White-1.jpg"
-description : "Acoustic Energy AE100 Mk2 Review"
-Tags: ["Acoustic Energy AE100 Mk2 Speaker Review", "Acoustic Energy AE100 Mk2 Speaker","dynaudio emit 20", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
+image: "https://www.aperionaudio.com/cdn/shop/products/N6SR-2PK-GBPMain1000x1000_686x.progressive.jpg?v=1652893763"
+description : "Aperion Audio Novus N6SR Slim Satellite On-Wall & Surround Review"
+Tags: ["Aperion Audio Novus N6SR Slim Satellite On-Wall & Surround Speaker Review", "Acoustic Energy AE100 Mk2 Speaker","dynaudio emit 20", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-I was loaned these from a viewer.
+I was loaned these from the manufacturer. I was not paid nor did I receive any other form of compensation.  The manufacturer did not see the data before public release.
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
-The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-q4VkErtoAQ?si=mgF-0cQAE6RbjW1e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The review on this website is a brief overview and summary of the objective performance of this speaker.
 
 <br>
 <br>
 <br>
 
-[Manufacturer Specs](https://www.acoustic-energy.co.uk/products/100-series/#AE100):
-* Drive Unit: 130mm paper cone
-* Tweeter: 25mm fabric dome
-* Frequency Range: 51Hz - 26kHz
-* Sensitivity: 87dB
-* Peak SPL: 112dB
-* Power Handling: 120w
-* Crossover Frequency: 2.9kHz
-* Impedance: 6ohms
-* Design: 2-way
-* Grilles: Slim, cloth magnetic fit
-* Dimensions: 290 x 165 x 250 (HxWxD)
-* Weight: 9.2kg (pair)
-* Finishes: Black, Satin White and Walnut vinyl veneer
+[Manufacturer Specs](https://www.aperionaudio.com/products/copy-of-aperion-audio-novus-6-5-2-way-slim-lcr-wall-surround-speaker-single):
+* Product Weight	10 lbs/4.5 Kg each
+* Frequency Response	(+/- 3dB) 60-30,000 Hz
+* Crossover	3,000 Hz
+* Impedance	4 Ohms
+* Sensitivity	86dB
+* Recommended Power	20-100W
+* Peak Power	200W
+* Tweeter	1 x 1" German Natural Silk-Dome Tweeter with Ferrofluid
+* Woofer	1 x 6.5" Aramid-Fiber Cone Driver
+* Driver Configuration	2-Way On-wall Speaker
+* Enclosure Type	Anti-Resonant, Internally Braced, Sealed
+* Product Dimensions	7.9" x 13" x 5" / 200 x 330 x 125 mm (WxHxD)
+* Product Family	Novus
+* Placement Location	Front, Center or Surround Speakers - Easy wall mounting
+* Shipping Weight	12 lbs / 5.5 Kg
+* Shipping Dimensions	12" x 9" x 18" / 300 x 230 x 455mm (LxWxH)
 
 
 
@@ -45,7 +46,7 @@ The review on this website is a brief overview and summary of the objective perf
 
 <br>
 
-As of this writeup MSRP is approximately $500/pair.
+As of this writeup MSRP is approximately $650/pair.
 
 <br>
 <br>
@@ -89,7 +90,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wx3lv2cyil5133hhlci5v/CEA2034-Acoustic-Energy-AE100-Mk2.png?rlkey=jllz83fdzbhwh9rr2mz2oww6c&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1i54b6nc5nv7x8l3g4y57/CEA2034-Aperion-Audio-Novus-N6SR.png?rlkey=akv1jkux2feirxsa4c2spvvlf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -113,7 +114,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/c37j5wivq1u960ko869gv/Early-Reflections.png?rlkey=dsz00bv4nniqvax99gxsqrcto&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fi92rcus63nz60se0v1v5/Early-Reflections.png?rlkey=l6j2vghqgvekb65r9gl3krzos&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -126,37 +127,29 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sf98uqwsp42k83xsbdccm/Estimated-In-Room-Response.png?rlkey=m26ulo886qf4r1sxilqsak15c&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/jtwuxv6ln34efk8q07jok/Estimated-In-Room-Response.png?rlkey=w8p7prpgqvl45ke3wkerkfonx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
-
-Horizontal SPL:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/uo61syzjx1i44l0xooe8r/SPL-Horizontal.png?rlkey=b15cancxoxhdufm58bbvk1w0f&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-  <br>
-
-Vertical SPL:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/do7udedcur0hh4b01uwqw/SPL-Vertical.png?rlkey=wliaq2r7q38i8awu68d8s3o51&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-  <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sw1f1m5h961n50wee1w8a/Acoustic-Energy-AE100-Mk2-Horizontal-Contour-Plot-Normalized.png?rlkey=j8s3r57qmaimbf2lfl1hzmvz4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5mcuybj4taxrjpfustabu/Aperion-Audio-Novus-N6SR-Horizontal-Contour-Plot.png?rlkey=423dnplzjwa5g2y4pze05w7d3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/90rrsq6a1tpwurdt3jd1b/Acoustic-Energy-AE100-Mk2-Vertical-Contour-Plot-Normalized.png?rlkey=q3iat37xusje0g2w0fyk388vw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/95hofpbug1n7iaicsw8a1/Aperion-Audio-Novus-N6SR-Vertical-Contour-Plot-Normalized.png?rlkey=ls38kp4cws0shiupe3xvbqvgs&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sfcp103lv1vb5dypjl5td/Acoustic-Energy-AE100-Mk2_360_Horizontal_Polar.png?rlkey=5wkujwc5m5e26i7f5vgr1582z&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ouoxjxzv7f3471208b0kz/Aperion-Audio-Novus-N6SR_360_Horizontal_Polar.png?rlkey=l406qio94l1jcbpckton4ksd5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2awethn12paw9vur1i7en/Acoustic-Energy-AE100-Mk2_360_Vertical_Polar.png?rlkey=xgba3n4r3th22pl4ojy1jgxti&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/dxh49qqldq2w6uj8vdudi/Aperion-Audio-Novus-N6SR_360_Vertical_Polar.png?rlkey=nvx53snt7s6grtgic44inaw1p&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -170,7 +163,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vqqxlym1fb89qjyzaij5e/Acoustic-Energy-AE100-Mk2-Impedance.png?rlkey=855r28unxbrkl44q7b3opyqrg&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zgexrhsp9uj56u84s78ge/Aperion-Audio-Novus-N6SR-Impedance.png?rlkey=xd131gglycr10d3voxht9bqbf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -178,7 +171,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/198nz67uenwuh0ez5fpbb/Acoustic-Energy-AE100-Mk2-FR_Linearity.png?rlkey=rd0d2b297u2nif07fgas7nboe&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/4hscjl0xzozdcfo5dhl9t/Aperion-Audio-Novus-N6SR-FR_Linearity.png?rlkey=m9fsfen3w8d59qno6kvg30oes&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -186,14 +179,14 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Step Response
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7ezdks3mzeau4jwg8zvv2/Acoustic-Energy-AE100-Mk2-Step-Response.png?rlkey=g9z79t0ibfe6dqnfo3chwd0s3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7dsv4j14ieezpcdazc346/Aperion-Audio-Novus-N6SR-Step-Response.png?rlkey=7aslpoknrqt2rciknh8xj9c00&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wlemmcady5y9jgr4isj4b/Acoustic-Energy-AE100-Mk2-Group-Delay.png?rlkey=w01n1e3gj598d4ad8k4v8f3j0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lxwwxwmcjcnkigqhz6i6x/Aperion-Audio-Novus-N6SR-Group-Delay.png?rlkey=1uqe7i8qqsah35x4uqe5op6ww&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -202,11 +195,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yr18xwfveestwd7m5yp3k/Acoustic-Energy-AE100-Mk2-Harmonic-Distortion-86dB-1m.png?rlkey=wqefv8uy4pv43yn4b44jl5d8e&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3kcwcz3raxcrp6pibqui6/Aperion-Audio-Novus-N6SR-Harmonic-Distortion-86dB-1m.png?rlkey=assrz4jp1btpzx3a34zhefruh&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/spauzpk2xufwclk7kzda8/Acoustic-Energy-AE100-Mk2-Harmonic-Distortion-96dB-1m.png?rlkey=iq7c6uwk93c1gktrwy5nx6q6y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/s74w0hlg9w4fgc5x7g2o5/Aperion-Audio-Novus-N6SR-Harmonic-Distortion-96dB-1m.png?rlkey=z7o77mgnm74qnr7747gne2hx6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -227,7 +220,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0imx4bzlm345eu3yzyojm/Acoustic-Energy-AE100-Mk2_Compression.png?rlkey=8lkmg32nmvbhnocxu2kv31n89&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/j1iwomvirt10arddoj03q/Aperion-Audio-Novus-N6SR_Compression.png?rlkey=w0fo0yaz61xaw5t0tkca62zf8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -252,41 +245,29 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7h4imtg73skrys32z2qgv/MTON-Full.png?rlkey=ohqy7dn4pc4w512zpyhp2kivp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/mvo8cvjjfr3wkgtn8y9k5/MTON-Full.png?rlkey=ihky4ihmfykgs9osern5436n2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/kc37y38z9eaz2kyi7u9v2/MTON-80.png?rlkey=c12fuzijfxit01jb28bp3gd12&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ursdwnlb7f0ta2w2jxpcj/MTON-80.png?rlkey=jkswe2hempjbrljfwc73vmjn4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
-### Nearfield Components
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ydam6gjjkslcnqjmavu1a/Nearfield-Acoustic-Energy-AE100-Mk2.png?rlkey=spkxrajao3qepyznetmo1n5rd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-
-<br>
-<br>
 
 
 
 
 ## Parting / Random Thoughts
 
-See video linked above for subjective and objective analysis. I have provided a brief transcript below.
 <br>
 
-There is a resonance of some sort ~300Hz, one at ~750Hz as well as another around 5kHz (my guess is cone breakup but I don't have the nearfield measurements to verify this at the moment).  There appears to be poor baffle step compensation and/or port/enclosure resonance at 750Hz causing a mismatch in energy in the midrange which makes the speaker sound "hollow" as well.
+Keep in mind this speaker is intended to be used on-wall.  With the depth of 5-inches I estimate a strong suckout to be around 500-600Hz.  This is due to the reflection from the rear-wall the speaker is mounted to arriving out of phase with the direct sound from the speaker at the listening position.  In other words, the two sound waves cancel out and you get a deep (6dB+) null in this frequency region.  There is already a mild dip around 370Hz due to cabinet resonance.
 
-However, the directivity is actually pretty good.  So the crossover between the mid & tweeter together looks good.  With some EQ this could sound quite good - a couple shelf filters would go a long way.  However, without EQ there's just too many other objective issues that result in poor subjective sound, at least to my ears.
-
-And then I saw all these rave reviews from others and I thought I'd go the extra mile to give them the benefit of the doubt by trying about 8 different positions/placement combinations.  Bottom line is: No real improvement.  I went so far as to measure the speakers ~ 0.80 meters off the wall behind them AND a few inches off the wall, thinking that the boundary reinforcement might help fill in the midrange dip.  -- I have a lot of measurements via REW and included a few here. -- But, it didn't really do much.  I moved positions from my typical listening position (at about 10 feet from the speakers) to about 6 feet from the speakers.  Still, nothing I did really made these speakers sound good to me.  At best, placing them near the wall did help fill in the upper midrange/lower treble dip and 30° toe-out (speaker parallel with wall behind it) worked best.  But even still, the speaker just sounded poor.  I swapped it with my recently reviewed the Ascend Acoustics Sierra-1 V2 which has the best in-room response I've seen in quite a while and it was night and day.
-
-All in all, the midrange dip (300-800Hz) and tweeter level being 3dB above the midrange yielded a speaker that I just didn't enjoy listening to.  If you have EQ you can fix these easily and the directivity should yield a really solid speaker but without it... I'd pass.
+Horizontal directivity has some issues due to this cabinet resonance as well as what appears to be diffraction about 5-6kHz.  While the speaker remains within about ±3dB the response does vary multiple times over a few octaves which results in a very unnatural sound, to my ears at least.  Overall directivity is rather poor thanks to the vertical narrowing at the crossover as well.
 
 
 
