@@ -1,44 +1,41 @@
 ---
-title: "Ascend Acoustics Sierra-1 V2 Speaker Review"
-date: 2023-11-22
+title: "Acoustic Energy AE100 Mk2 Speaker Review"
+date: 2023-11-28
 draft: false
-image: "https://dl.dropboxusercontent.com/scl/fi/ecncv2oo7frtup01ulfw0/DSC03989.JPG?rlkey=0xu3hniuzydng4yia1gu7rpcf&dl=0"
-description : "Ascend Acoustics Sierra-1 V2 Review"
-Tags: ["Ascend Acoustics Sierra-1 V2 Speaker Review", "Ascend Acoustics Sierra-1 V2 Speaker","dynaudio emit 20", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
+image: "https://www.acoustic-energy.co.uk/wp-content/uploads/AE100-White-1.jpg"
+description : "Acoustic Energy AE100 Mk2 Review"
+Tags: ["Acoustic Energy AE100 Mk2 Speaker Review", "Acoustic Energy AE100 Mk2 Speaker","dynaudio emit 20", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-I was loaned these from the manufacturer.  I was not paid nor did I receive any other form of compensation.  The manufacturer did see the SPINORAMA data before public release since he also owns a Near Field Scanner and wanted to compare our results.
+I was loaned these from a viewer.
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XuLAkwYEdfY?si=4WjIC_-X3auie87h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-q4VkErtoAQ?si=mgF-0cQAE6RbjW1e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
-[Manufacturer Specs](https://ascendacoustics.com/collections/sierra-series-pairs/products/sierra-1-v2-pair?variant=41419225038902/):
-* Typical In-Room Frequency Response	39Hz - 23kHz
-* Typical In-Room Sensitivity	87dB @ 2.83v / 1 meter
-* Nominal Impedance	8 ohms
-* Max Continuous Power*	180 watts
-* Max Short Term Peak Power*	250 watts
-* Cabinet Detail	Exclusive V-LAM™ construction featuring 20mm thick vertically laminated bamboo, internally braced. Bass reflex via flared rear port tube
-* Tweeter	Customized version of SEAS "Titan" dome tweeter, with titanium former, 26mm aluminum/magnesium alloy dome, large tuned damping chamber and copper cap for reduced distortion and inductance
-* Woofer	Proprietary 5.25” long throw mineral-filled polypropylene cone, non-resonant cast aluminum frame, copper shorting rings, low-inductance motor assembly, vented pole-piece and vented spider.
-* Connections	(2) gold plated all metal 5 way binding posts
-* Inserts	1/4-20 threaded insert for securing to our TP-24 stands
-* Bass Extension (-6dB)	45Hz
-* Anechoic Frequency Response	53Hz - 23kHz +/- 3dB
-* Anechoic Sensitivity	83dB @ 2.83v / 1 meter
-* Dimensions H x W x D**	14.25" x 7.5" x 10.5"
-* Speaker Weight (each)	18.5 pounds
-* Shipping Weight (pair)	43 pounds
+[Manufacturer Specs](https://www.acoustic-energy.co.uk/products/100-series/#AE100):
+* Drive Unit: 130mm paper cone
+* Tweeter: 25mm fabric dome
+* Frequency Range: 51Hz - 26kHz
+* Sensitivity: 87dB
+* Peak SPL: 112dB
+* Power Handling: 120w
+* Crossover Frequency: 2.9kHz
+* Impedance: 6ohms
+* Design: 2-way
+* Grilles: Slim, cloth magnetic fit
+* Dimensions: 290 x 165 x 250 (HxWxD)
+* Weight: 9.2kg (pair)
+* Finishes: Black, Satin White and Walnut vinyl veneer
 
 
 
@@ -48,7 +45,7 @@ The review on this website is a brief overview and summary of the objective perf
 
 <br>
 
-As of this writeup MSRP is approximately $998/pair.
+As of this writeup MSRP is approximately $500/pair.
 
 <br>
 <br>
@@ -92,7 +89,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/dqncskx3h7x621zkw0rix/CEA2034-Ascend-Acoustics-Sierra-1-V2.png?rlkey=7x10e6s4btrt10ptd2dq2a37j&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wx3lv2cyil5133hhlci5v/CEA2034-Acoustic-Energy-AE100-Mk2.png?rlkey=jllz83fdzbhwh9rr2mz2oww6c&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -116,7 +113,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/b8agwgl8fyv6qcdrwo7rg/Early-Reflections.png?rlkey=k88ersyy1k0r6r6gabwb6yred&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/c37j5wivq1u960ko869gv/Early-Reflections.png?rlkey=dsz00bv4nniqvax99gxsqrcto&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -129,29 +126,37 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/k3pd1jb1s95utkw37mc57/Estimated-In-Room-Response.png?rlkey=0im2vfwhzdsowfrjdm5dzltd8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sf98uqwsp42k83xsbdccm/Estimated-In-Room-Response.png?rlkey=m26ulo886qf4r1sxilqsak15c&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
+Horizontal SPL:
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/uo61syzjx1i44l0xooe8r/SPL-Horizontal.png?rlkey=b15cancxoxhdufm58bbvk1w0f&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <br>
+
+Vertical SPL:
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/do7udedcur0hh4b01uwqw/SPL-Vertical.png?rlkey=wliaq2r7q38i8awu68d8s3o51&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <br>
+
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rzprh0d36pq8tledepmzw/Ascend-Acoustics-Sierra-1-V2-Horizontal-Contour-Plot-Normalized.png?rlkey=9hl5rjyccki59j73wawyw6j2d&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sw1f1m5h961n50wee1w8a/Acoustic-Energy-AE100-Mk2-Horizontal-Contour-Plot-Normalized.png?rlkey=j8s3r57qmaimbf2lfl1hzmvz4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3m4wxeyttl8a0qszm8by4/Ascend-Acoustics-Sierra-1-V2-Vertical-Contour-Plot-Normalized.png?rlkey=q84t2ksjt2jg486053nl5tde4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/90rrsq6a1tpwurdt3jd1b/Acoustic-Energy-AE100-Mk2-Vertical-Contour-Plot-Normalized.png?rlkey=q3iat37xusje0g2w0fyk388vw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lthstuyjb46fqm2tyy0af/Ascend-Acoustics-Sierra-1-V2_360_Horizontal_Polar.png?rlkey=utfv4wzsmrq3nua9hlgfmdjen&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sfcp103lv1vb5dypjl5td/Acoustic-Energy-AE100-Mk2_360_Horizontal_Polar.png?rlkey=5wkujwc5m5e26i7f5vgr1582z&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3haej8cnrejkiu99lsvpi/Ascend-Acoustics-Sierra-1-V2_360_Vertical_Polar.png?rlkey=8ju1ie0q0eybmjngp1zh3iyfx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2awethn12paw9vur1i7en/Acoustic-Energy-AE100-Mk2_360_Vertical_Polar.png?rlkey=xgba3n4r3th22pl4ojy1jgxti&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -165,7 +170,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ur9gui9ginnlxd8fa0brq/Ascend-Acoustics-Sierra-1-V2-Impedance.png?rlkey=lvktt7ai54phnfpfpe79i58vt&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vqqxlym1fb89qjyzaij5e/Acoustic-Energy-AE100-Mk2-Impedance.png?rlkey=855r28unxbrkl44q7b3opyqrg&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -173,7 +178,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2yyawlib7i1t2fovmpl92/Ascend-Acoustics-Sierra-1-V2-FR_Linearity.png?rlkey=42egrr2xcuwdl90quqki0au2m&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/198nz67uenwuh0ez5fpbb/Acoustic-Energy-AE100-Mk2-FR_Linearity.png?rlkey=rd0d2b297u2nif07fgas7nboe&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -181,14 +186,14 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Step Response
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xl1vsw3fzu8uv9rfj6tkn/Ascend-Acoustics-Sierra-1-V2-Step-Response.png?rlkey=dz7d3nhizmkhk3kewv17icju2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7ezdks3mzeau4jwg8zvv2/Acoustic-Energy-AE100-Mk2-Step-Response.png?rlkey=g9z79t0ibfe6dqnfo3chwd0s3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/mv1aw5uzzst8db62ue5lo/Ascend-Acoustics-Sierra-1-V2-Group-Delay.png?rlkey=4ga1z6lnu47cpcb43bfb86x3k&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wlemmcady5y9jgr4isj4b/Acoustic-Energy-AE100-Mk2-Group-Delay.png?rlkey=w01n1e3gj598d4ad8k4v8f3j0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -197,11 +202,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/gk68m87mg7qt1ug21otb6/Ascend-Acoustics-Sierra-1-V2-Harmonic-Distortion-86dB-1m.png?rlkey=2uuzxmle929j1wym3a8xfctwo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yr18xwfveestwd7m5yp3k/Acoustic-Energy-AE100-Mk2-Harmonic-Distortion-86dB-1m.png?rlkey=wqefv8uy4pv43yn4b44jl5d8e&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/saujro4mvw9p1cp6bbzpw/Ascend-Acoustics-Sierra-1-V2-Harmonic-Distortion-96dB-1m.png?rlkey=jq4wopmwv6wl8huty5g6sy2ri&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/spauzpk2xufwclk7kzda8/Acoustic-Energy-AE100-Mk2-Harmonic-Distortion-96dB-1m.png?rlkey=iq7c6uwk93c1gktrwy5nx6q6y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -222,7 +227,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/t6oza6pvpk97rtq0ebvay/Ascend-Acoustics-Sierra-1-V2_Compression.png?rlkey=opm3rcar5hz8i3wmzvfnjlnpp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0imx4bzlm345eu3yzyojm/Acoustic-Energy-AE100-Mk2_Compression.png?rlkey=8lkmg32nmvbhnocxu2kv31n89&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -247,26 +252,21 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bi08vaua6aaluc1v8twlo/MTON-FULL.png?rlkey=tycpi6t4rw2ig2udcf0b7l655&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7h4imtg73skrys32z2qgv/MTON-Full.png?rlkey=ohqy7dn4pc4w512zpyhp2kivp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/f5pcjdj3sp776qkpzr54c/mton-80.png?rlkey=1kinkzenopugzdahs3k8zysoq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/kc37y38z9eaz2kyi7u9v2/MTON-80.png?rlkey=c12fuzijfxit01jb28bp3gd12&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
-### Comparison to Sierra-1 V1
+### Nearfield Components
 
-Frequency Response (0°):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sq38wgguxks8p50tfzvpy/Sierra-1-V1-vs-V2-Comparison-On-Axis.png?rlkey=pz35n1s1ppd32gu16ieb2df0p&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ydam6gjjkslcnqjmavu1a/Nearfield-Acoustic-Energy-AE100-Mk2.png?rlkey=spkxrajao3qepyznetmo1n5rd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
-
-Estimated In-Room Response (0°):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/4gfur34vw90mu4wgyx8fg/Sierra-1-V1-vs-V2-Comparison-Estimated-In-Room.png?rlkey=3ep35lfqzyiwv5kz58pc7n3cw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br><br>
 
 
 <br>
@@ -280,31 +280,15 @@ Estimated In-Room Response (0°):
 See video linked above for subjective and objective analysis. I have provided a brief transcript below.
 <br>
 
-My quick thoughts:
+There is a resonance of some sort ~300Hz, one at ~750Hz as well as another around 5kHz (my guess is cone breakup but I don't have the nearfield measurements to verify this at the moment).  There appears to be poor baffle step compensation and/or port/enclosure resonance at 750Hz causing a mismatch in energy in the midrange which makes the speaker sound "hollow" as well.
 
-This is the first speaker in a couple months that I’ve been able to “lose myself” in (most recently was the JBL 4329P). Sitting for extended periods of time, cycling through all sorts of genres and not finding a single complaint about the tone/timbre or soundstage that wasn’t distracting. There are many speakers that sound “good” but few that I find myself not nit-picking one or two things about that are distracting from my enjoyment of a speaker. The Sierra-1 V2 is a speaker that breaks that mold.
+However, the directivity is actually pretty good.  So the crossover between the mid & tweeter together looks good.  With some EQ this could sound quite good - a couple shelf filters would go a long way.  However, without EQ there's just too many other objective issues that result in poor subjective sound, at least to my ears.
 
-Pros:
-* One of / if not the best in-room neutrality I’ve heard/measured
-* Does sound somewhat “deep”. The only way I can reconcile this in the data is that there is a mild MF/HF shelf (around 2-4kHz) of about 1.5dB
-* Good bass extension down to about 40-50Hz in-room
+And then I saw all these rave reviews from others and I thought I'd go the extra mile to give them the benefit of the doubt by trying about 8 different positions/placement combinations.  Bottom line is: No real improvement.  I went so far as to measure the speakers ~ 0.80 meters off the wall behind them AND a few inches off the wall, thinking that the boundary reinforcement might help fill in the midrange dip.  -- I have a lot of measurements via REW and included a few here. -- But, it didn't really do much.  I moved positions from my typical listening position (at about 10 feet from the speakers) to about 6 feet from the speakers.  Still, nothing I did really made these speakers sound good to me.  At best, placing them near the wall did help fill in the upper midrange/lower treble dip and 30° toe-out (speaker parallel with wall behind it) worked best.  But even still, the speaker just sounded poor.  I swapped it with my recently reviewed the Ascend Acoustics Sierra-1 V2 which has the best in-room response I've seen in quite a while and it was night and day.
 
-<br>
+All in all, the midrange dip (300-800Hz) and tweeter level being 3dB above the midrange yielded a speaker that I just didn't enjoy listening to.  If you have EQ you can fix these easily and the directivity should yield a really solid speaker but without it... I'd pass.
 
-Cons:
-* Do wish beaming was better controlled in the upper HF (above 8kHz) but this is typical of dome tweeters on a flat baffle (i.e., without waveguide)
-* Limited in output to some degree.  Compression & Distortion increase above about 90dB @ 4 meters... closer to the speakers would be better to keep the linearity more in check.  But at least the mechanical noise wasn't a problem (no audible resonances or excursion being exceeded).
 
-<br>
-
-Comparable (Under $1k):
-* Dynaudio Emit 20:
-  * Sierra more linear
-  * Dyn a tad more bass extension
-  * Dyn has higher output (lower compression/distortion)
-* Revel M16:
-  * Revel a bit “bassier” thanks to 100Hz bump
-  * Sierra is slightly more linear
 
 
 
