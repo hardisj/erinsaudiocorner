@@ -1,46 +1,48 @@
 ---
-title: "Aperion Audio Novus N5B 2-Way Bookshelf Speaker Review"
-date: 2023-11-28
+title: "Sonus Faber Lumina II 2-Way Bookshelf Speaker Review"
+date: 2023-12-07
 draft: false
-image: "https://www.aperionaudio.com/cdn/shop/products/Aperionaudio-Novus-5B-2way-5.25in-Bookshelf-Speaker-Matte-Black-5_686x.progressive.webp?v=1700191210"
-description : "Aperion Audio Novus N5B 2-Way Bookshelf Speaker Review"
-Tags: ["Aperion Audio Novus N5B 2-Way Bookshelf Speaker Review", "Acoustic Energy AE100 Mk2 Speaker","dynaudio emit 20", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
+image: "https://www.overtureav.com/wp-content/uploads/2021/08/2106_SF_Lumina-II_Finiture_Walnut.jpg"
+description : "Sonus Faber Lumina II 2-Way Bookshelf Speaker Review"
+Tags: ["Sonus Faber Lumina II 2-Way Bookshelf Speaker Review", "Acoustic Energy AE100 Mk2 Speaker","dynaudio emit 20", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Sonus Faber Lumina II Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-I was loaned these from the manufacturer. I was not paid nor did I receive any other form of compensation.  The manufacturer did not see the data before public release.
+I was loaned these from [Audio Advice](https://www.audioadvice.com/?referral=erins-audio-corner). I was not paid nor did I receive any other form of compensation for this review.
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
-The review on this website is a brief overview and summary of the objective performance of this speaker.
+The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1RdxgLwnHc?si=oROoXSTty1Eqf7lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
 [Manufacturer Specs](https://www.aperionaudio.com/collections/novus-speakers/products/novus-speakers-products-novus-bookshelf-speaker):
-* Product Weight	10 lbs/4.5 Kg each
-* Frequency Response	(+/- 3dB) 45-30,000 Hz
-* Impedance	4 Ohms
-* Sensitivity	85 dB
-* Recommended Power	20-80W
-* Peak Power	160W
-* Tweeter	1 x 1" Silk-Dome Tweeter with ferrofluid
-* Woofer	1 x 5.25" Aramid-Fiber Cone Driver
-* Driver Configuration	2-Way Bookshelf Speaker
-* Enclosure Type	Anti-Resonant, Internally Braced, Front Ported
-* Product Dimensions	7.1" x 11.8" x 7.9" / 180 x 300 x 200mm (WxHxD)
-* Product Family	Novus
-* Placement Location	Front L/R Speakers
-* Shipping Weight	24 lbs/11 Kg Pair
-* Shipping Dimensions	19" x 13" x 17"/ 490 x 330 x 425mm (LxWxH)
+* 2-way shelf loudspeaker system
+* Vented box design
+* Drivers:
+  * Tweeter: 29mm high definition DAD™ driver
+  * Midwoofer: 150mm cone driver
+* Visco-elastically baffle decoupling
+* Crossover:
+  * Optimized amplitude/phase response for optimal space/time performance
+  * Crossover frequency: 1800 Hz
+* Frequency response: 55 Hz -24.000 Hz
+* Sensitivity: 86dB SPL (2.83V/1m)
+* Nominal Impedance: 4 ohm
+* Suggested Amplifier Power Output: 30W – 150W undistorted signal
+* Dimensions: 12 x 7.1 x 10.3 in (304 x 180 x 263 mm) (HxWxD)
+* Weight (each): 12.5 lb (5.65 Kg)
 
 
 <br>
 
-As of this writeup MSRP is approximately $599/pair.
+As of this writeup MSRP is approximately $1299/pair.
 
 <br>
 <br>
@@ -56,7 +58,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 
 IMPORTANT SETUP INFO:
 
-This speaker was measured with the reference point at the tweeter. Tweeter level was set to 0dB (by default; jumper can be removed to make it -3dB; data provided below).
+This speaker was measured with the reference point at the tweeter.
 Speaker was broken in.
 Grille was not on.
 
@@ -84,7 +86,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2qj7v6gggcoxwkcseagu8/CEA2034-Aperion-Audio-Novus-N5B.png?rlkey=xus1wwjskfw42xwiogd1jtmxl&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2897yavvljyuxb8oqgddk/CEA2034-Sonus-Faber-Lumina-II.png?rlkey=lasrbd5u9gg06f7nqhfjipj8p&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -108,7 +110,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w3szfkxfgco6dr30beti6/Early-Reflections.png?rlkey=gklh8pzx5rr43tcibldxcka9w&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/78g6azb0siw0trqhid908/Early-Reflections.png?rlkey=k6fihy8imq9nmyd3yo15v69kv&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -121,29 +123,29 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/38u5iryctscs1hemuey6r/Estimated-In-Room-Response.png?rlkey=muqgg1yu1foxar90pfw7lgswp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vnd4dg8f1f1fi4p4y1fxd/Estimated-In-Room-Response.png?rlkey=jqeij92c21gudgj5qs4hz3dsk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/r92p9rtu5fsqax4x7dbm3/Aperion-Audio-Novus-N5B-Horizontal-Contour-Plot-Normalized.png?rlkey=vu9iii94pig0vqu72m8e5qdqm&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/35qu7gzghjf9ms3wjted6/Sonus-Faber-Lumina-II-Horizontal-Contour-Plot-Normalized.png?rlkey=n19gmnsd7g22l4siewzmebocy&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ta43l6wp9glxwm5ai5inf/Aperion-Audio-Novus-N5B-Vertical-Contour-Plot-Normalized.png?rlkey=nyv9srsmv8b8wuiovdps4npmj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/u9zco3jgdzy3etfmnzm9y/Sonus-Faber-Lumina-II-Vertical-Contour-Plot-Normalized.png?rlkey=cqen4w5m2yad4589anpw55386&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lq242pyh2zltux1l26kyx/Aperion-Audio-Novus-N5B_360_Horizontal_Polar.png?rlkey=pn02mlmr2u5hlvw6o2lggxg8l&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ja6rah0kn9ssp3nkcnvu9/Sonus-Faber-Lumina-II_360_Horizontal_Polar.png?rlkey=n9ex8cwwed8j2bg2wea6nvs2t&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/btgsot5870jgwv6layz5d/Aperion-Audio-Novus-N5B_360_Vertical_Polar.png?rlkey=8sm87pi29fol418kvyl03la1f&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1p90d7ap2pdwlyfz0d2wq/Sonus-Faber-Lumina-II_360_Vertical_Polar.png?rlkey=oqhsixv4et0di12g5v71xba51&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -157,7 +159,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/4b7twunffgysuujdehdrv/Aperion-Audio-Novus-N5B-Impedance.png?rlkey=ibyh9lnbn6m3z21xfmztp4r3n&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9y85k1pn4zdi0t25gn6qs/Sonus-Faber-Lumina-II-Impedance.png?rlkey=xqw7anhh20l45ah67zbj48evr&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -165,7 +167,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/dghw9w0iukco1whdydgnh/Aperion-Audio-Novus-N5B-FR_Linearity.png?rlkey=mbozx1uhtzax8e7fr75bbgps6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/86503up3eb7pu8jw0rrzu/Sonus-Faber-Lumina-II-FR_Linearity.png?rlkey=r06yws7tm020p4pus1uihs0c0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -173,35 +175,39 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Step Response
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wn2dwr42khzsldel0sm89/Aperion-Audio-Novus-N5B-Step-Response.png?rlkey=pqqncun3qz0pcivtw1bb6pzfp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rk79zkvkxrh1f0yj0mwtw/Sonus-Faber-Lumina-II-Step-Response.png?rlkey=9ihrp3vdnkxrv4ndzywvbz20e&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lh55s7p8gi8p8bbdeh2oe/Aperion-Audio-Novus-N5B-Group-Delay.png?rlkey=mw7dv4rmxvdzljmq9vu5091hr&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/imni9qxlhc1iz9755aq3l/Sonus-Faber-Lumina-II-Group-Delay.png?rlkey=j5mnmxt0yfqckcgz9dk7i96fc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 <br>
 
-### Tweeter Level Adjustment
+### Near Field Components
 
-This speaker comes with a jumper to tailor the HF between 0dB (default) and -3dB (jumper removed)
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lvugo6mr6lafaynurljbu/Nearfield-0.35mm.png?rlkey=dnixrvy6w0snx6tw702up0xi1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+<br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7klqwopuq22229fym7i7h/Jumper-Position-On-Axis-Frequency-Response.png?rlkey=czxkhrce0h7ualwfqafad4sg9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+### Actual In-Room Response at Listening Position
+
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9g2ji36hj1jb1e7hl2n25/in-room.png?rlkey=uacno1yq3tai1k35a3hzqjiwi&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/d9e26vg1w5exp25q5bwio/Aperion-Audio-Novus-N5B-Harmonic-Distortion-86dB-1m.png?rlkey=fxlqxkrdrs31lecxog06nyc4m&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/b8c35e0r7s0pbbuvsx6ac/Sonus-Faber-Lumina-II-Harmonic-Distortion-86dB-1m.png?rlkey=loxgml24lp3j2p4qsd16ofnlc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0tsrhgwq2jt18i5n26kbx/Aperion-Audio-Novus-N5B-Harmonic-Distortion-96dB-1m.png?rlkey=miv5sqtycpg797i5nfr24bs9y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/17nlnm2etp5gqr3yzgqf3/Sonus-Faber-Lumina-II-Harmonic-Distortion-96dB-1m.png?rlkey=o17vrlamsrcfplk5d9mp23yri&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -222,7 +228,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vpt320im7tz5o1lculd8h/Aperion-Audio-Novus-N5B_Compression.png?rlkey=xkc16zgqgvigwjcobjhffng9k&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/78xk63hoshb3howic3g04/Sonus-Faber-Lumina-II_Compression.png?rlkey=3yypp87b1myy3alk268uaww29&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -247,13 +253,13 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/whtprb960d78mk1z45koa/MTON-full.png?rlkey=ykaf8lcf7u5yij4688mgqlddo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/punl7dx8g6c8opbnvl0lj/MTON-Full.png?rlkey=rprhz01jefh9zpxmosihhw2c1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/s6t84p7ix33n1rqj2amth/MTON-80.png?rlkey=jy2o1sxase70x24utu8dkt88y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/inpgx518op99r9zrd9mvm/MTON-80.png?rlkey=rpfnoda768ary1q41lzy715b6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -265,11 +271,21 @@ For information on how to read the below data, watch this video:
 
 ## Parting / Random Thoughts
 
+See video linked above for subjective and objective analysis. I have provided a brief transcript below.
+
 <br>
 
-Really poor linearity and directivity, unfortunately.  There is also an audible resonance from the cabinet; noticeably moreso when to the side or behind the speaker. Looking at the data there is evidence of a strong resonance at ~300Hz (both in the impedance and the frequency response).  I believe this is the resonance I heard. It appears to show up in the harmonic distortion and compression data as well.
+Very bright both on and off-axis.  Tonal balance was needed but once the treble was adjusted down about 4dB (via my preamp), things were good.  You can see this in my in-room measurements provided above.
 
-When listening to the speaker it sounded *extremely* sibilant.  If you look at the on-axis response and the estimated in-room response you can see there is a strong peak centered around 4kHz. Unfortunately, directivity in this area is rather poor which means you cannot simply "eq it out".  And when looking at the directivity it is easy to see that this is from diffraction (where the on-axis response is lower in amplitude at this frequency than the off-axis response).  This diffraction doesn't "settle down" until about 40° horizontally. Vertically the prime seating window is obviously at the tweeter but you can probably get away with going about 10° below and 20° above, based on the normalized vertical contour data.
+A couple resonances in the midrange.
+
+Good DI, though, in the crossover region. Takes well to EQ (other than some troublesome resonances between ~500-700Hz).
+
+Reasonably wide at ±60-70° horizontally; on-par with what I like.
+
+Good output capability but they won't get too low; probably about 50Hz for most rooms would be what I would expect for a bookshelf speaker of its size. If you want lower output capability than this you'll need a subwoofer.
+
+
 
 
 
