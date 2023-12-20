@@ -1,65 +1,53 @@
 ---
-title: "KEF LS60 Wireless Powered Speaker Review"
-date: 2023-12-16
+title: "MoFi SourcePoint 8 Speaker Review"
+date: 2023-12-19
 draft: false
-image: "https://images.crutchfieldonline.com/ImageHandler/trim/3000/1950/products/2022/19/991/g991LS60WTG-F.jpg"
-description : "KEF LS60 Wireless Powered Speaker Review"
-Tags: ["KEF LS60 Wireless Powered Speaker Review", "KEF LS60 Wireless Powered Speaker","dynaudio emit 20", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Sonus Faber Lumina II Bookshelf", "Q Acoustics In-Room Gold LCR review"]
+image: "https://images.crutchfieldonline.com/ImageHandler/trim/3000/1950/products/2023/20/700/g700SP8WL-o_other4.jpg"
+description : "MoFi SourcePoint 10"
+Tags: ["MoFi", "MoFi","B212XL", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "MoFi Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-Given I couldn't find anyone to loan a pair but had so many requests for reviewing the LS60, I purchased these myself to review.  If after reading this review you decide to buy a pair of these speakers then please consider using one of the affiliate links below.  This earns me a small commission at no additional cost to you.
-* [Crutchfield](https://howl.me/ckSCXDW8O5q)
-* [Amazon](https://amzn.to/48cZGEs)
-* [Audio Advice](https://www.audioadvice.com/?referral=erins-audio-corner )
+This pair of speakers was loaned to me by the manufacturer. I was not paid for the review nor did the manufacturer see the data/review before its public release.
+
+If after reading this review you decide to buy a pair of these speakers then please consider using one of the affiliate links below.  This earns me a small commission at no additional cost to you.
+* [Crutchfield](https://howl.me/cleSP9AdFom)
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1DA6ER58Gg?si=h2jj22OemHiPqwP9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h90tqdGsgP4?si=kUugd7HE_2vLor7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
-<br>
 
-[Manufacturer Specs](https://us.kef.com/products/ls60-wireless):
-* tri-amped design with separate woofer, midrange, and tweeter amplifiers for greater headroom and lower distortion
-* Uni-Q Driver Array technology makes your entire room sound like the "sweet spot"
-* 3/4" vented aluminum dome tweeter with Metamaterial Absorption Technology
-  * amplifier power: 100 watts (Class AB)
-* 4" aluminum cone midrange driver
-  * amplifier power: 100 watts (Class D)
-* four 5-1/4" Uni-Core force-cancelling Driver woofers
-  * amplifier power: 500 watts (Class D)
-* frequency response: 31-24,000 Hz (±3dB)
-* max. SPL: 111 dB
-* Bluetooth 4.2 high-quality audio streaming performance
-* built-in dual-band Wi-Fi® for audio streaming from your network
-* compatible streaming platforms include Apple AirPlay® 2, Google Chromecast, and Roon (with Fall 2022 firmware update)
-* uPnP for playing music files from your local network
-* KEF Connect app offers comprehensive remote control via your Apple® or Android™ device
-* supported streaming services: Spotify via Spotify Connect , TIDAL via TIDAL Connect, Amazon Music, Qobuz, Deezer, and more
-* Primary speaker connections:
-* HDMI eARC input (accepts signals up to 24-bit/192kHz)
-* Toslink optical digital input (up to 24-bit/96kHz)
-* coaxial digital (up to 24-bit/192kHz)
-* analog stereo RCA input
-* RJ-45 Ethernet port for a wired network connection
-* RCA subwoofer output
-* supported file formats for all digital inputs: MP3, M4A, AAC, FLAC, WAV, AIFF, ALAC, WMA, LPCM, and Ogg Vorbis
-* also supports DSD files up to 12.3 MHz and MQA files via network connection
-* 8-5/16"W x 42-15/16"H x 15-9/16"D (with plinth); 5-1/8"W x 41"H x 12-5/8"D (without plinth)
-* weight: 138 lbs. (both speakers)
-* warranty: 2 years
+## Information and Photos
 
+Some specs from the manufacturer can be found [here](https://howl.me/cleSP9AdFom).
+Features:
+* 8-inch concentric driver
+* 1.25-inch wide roll soft dome tweeter
+* 2-way vented box
+* Available Finishes: Satin Walnut real wood veneer, Satin Black Ash real wood veneer, or painted Satin White
+* 5-way binding posts
+* Magnetic grilles
+* Frequency Response: 47Hz-30kHz
+* Nominal Impedance: 8 Ohms, 6.4 Ohms minimum
+* Sensitivity: 87dB/2.83V/1m
+* Crossover Frequency: 1.6kHz
+* Minimum Recommended Power: 30W
+* Max Power Input: 150W
+* Dimensions (WxHxD): 11.4" x 18" x 13.2" with grille
+* Weight: 27.9 lb / 12.7kg each
+* Warranty: Five years parts & labor
+
+As of this writeup MSRP is approximately $2750/pair.
 
 <br>
-
-As of this writeup MSRP is approximately $7000/pair. They can also be found on sale for $5000/pair.
-
+<br>
 <br>
 <br>
 
@@ -75,7 +63,10 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 IMPORTANT SETUP INFO:
 
 This speaker was measured with the reference point at the tweeter for the majority of the data you will see here (designated as "0°") but I have also provided some data for the off-axis response at 15° which is typically the best aiming position of 10-20° for coincident midrange/tweeter designs such as this KEF.
+
 Speaker was broken in.
+
+No Grille for these measurements.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -101,16 +92,11 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/jn8188jwzyyearlm648nw/CEA2034-KEF-LS60-0.png?rlkey=5pnrueqhhgopxmjz1aw0uqn89&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2rxtc4ana5krupflkzm9p/CEA2034-MoFi-SourcePoint-8-0.png?rlkey=0oh2xvai2wcj1iwrtnuvkuwdu&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/pa5qadow8cd7qtkbv71wp/CEA2034-KEF-LS60-15.png?rlkey=dcj3nncdci9xg89a3yyb93txn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/m5hswgvjyg9zjqxlf84tx/CEA2034-MoFi-SourcePoint-8-15.png?rlkey=9ixstvixgt6ie735y8ujgogzx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
-
-<br>
-
-<br>
-
 
 <details>
 <summary>
@@ -128,7 +114,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9omp6d38burq7qhnb531d/Early-Reflections.png?rlkey=gee9rwpr05fnusc7vwh4olm6n&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/syqmr928zgwyi59ruuswl/Early-Reflections.png?rlkey=spv7fqt4yqheyvfohxh45loyd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -141,29 +127,28 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vpltzvuz5lrawlm6q6oy5/Estimated-In-Room-Response.png?rlkey=h81i1hmjt547epq2eiiidg4rl&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-  <br>
-
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bg7cdimrsatnirx5z9gfj/Estimated-In-Room-Response.png?rlkey=xcmziyxxmgs4hh3dndqa3qbat&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fjd97lhhx5zpw319b31fw/KEF-LS60-0-Horizontal-Contour-Plot-Normalized.png?rlkey=ypa319rdzov4mjm0b4t21sih1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/kvztswt0al3q585qasquo/MoFi-SourcePoint-8-Horizontal-Contour-Plot-Normalized.png?rlkey=bzigvunjt5lnqzri4l9gua3oj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6078n151k7eqbjekvm7dk/KEF-LS60-0-Vertical-Contour-Plot-Normalized.png?rlkey=54epot1djgwtq3bj5wqgx7iqa&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/jvz82sybcit1j2abnkwq8/MoFi-SourcePoint-8-Vertical-Contour-Plot-Normalized.png?rlkey=83j3v1zt2ybdsmgn98kpl9uyh&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sdtkpm8nj5p4y36ocj5hi/KEF-LS60-0-_360_Horizontal_Polar.png?rlkey=smr1h78jenjvik1zhyoku1q7a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fb20galz3demo7bmolwq2/MoFi-SourcePoint-8_360_Horizontal_Polar.png?rlkey=ypbr7wud8e5a823lxq7o205w6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6uls8fv6rgeg2buy7q3ot/KEF-LS60-0-_360_Vertical_Polar.png?rlkey=moekjrvd4gz2ezt32qzpt0voy&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sz0eluchx9hrk6q4kuvqi/MoFi-SourcePoint-8_360_Vertical_Polar.png?rlkey=fazomswy26by3uchdn7ma1xu7&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -174,59 +159,48 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 ## Additional Measurements
 
+### Impedance
+<br>
+
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/06qvsuklpl2i32z4yzuxd/MoFi-SourcePoint-8-Impedance.png?rlkey=vp0u5rdcfj6c2mnt0d3ou8rat&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+<br>
+
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/8dbx19x3oji10f3itypgv/KEF-LS60-0-FR_Linearity.png?rlkey=5tftykva8dm0jbv4cx99ksn3y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/r6ud23v98430otg1rk87r/MoFi-SourcePoint-8-FR_Linearity.png?rlkey=v3bmbtvgcnzjz3vy99bt9fs7l&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wn40s1oljbm7h86qymf7g/KEF-LS60-15-FR_Linearity.png?rlkey=l9x5cxp1duo8ra8aqzxjq6kpc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9ek8onlbt81jfngek1ikk/MoFi-SourcePoint-8-15-FR_Linearity.png?rlkey=oi9iignp09b95jx6i5c10yx3c&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
+
 <br>
 
 ### Step Response
-<br>
-With and without "Phase Correction" enabled.
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zga3axnxsgy9zbmtyyue8/KEF-LS60-Step-Response.png?rlkey=r0je67rmxtz6fspfoglr9geju&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6teqyd3yadwz1ub0ucbph/MoFi-SourcePoint-8-Step-Response.png?rlkey=fvx2sgh37zxz8qux515poyawf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-<br>
+
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ehusk3ihk3jodaskhqy2y/KEF-LS60-0-Group-Delay.png?rlkey=5ajcvffk9uxs3wm9zus89kbav&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-<br>
-
-<br>
-
-### Bass and Treble Adjustments (via app)
-
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hduap852jyoe9il6rjc70/KEF-LS60-Bass-and-treble-normalized.png?rlkey=pzvrbz9r281n2bsfeprvqy95q&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-<br>
-
-<br>
-
-### Wall Mode Adjustments (via app)
-
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/b2b8nx7zwttp06vu06jvi/wall-mode.png?rlkey=xbu1b1ey4bf5egrwx53y5qkbs&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-<br>
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9no9usx2j5y538plg5xik/MoFi-SourcePoint-8-Group-Delay.png?rlkey=7bemm0bong52dchxperabmve4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/o5k0ckvwokiu2xuw6bsc7/KEF-LS60-0-Harmonic-Distortion-86dB-1m.png?rlkey=48pwvd0jy110ejujyqq9tz3hp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1dneklh8i4tkav2vz28kp/MoFi-SourcePoint-8-Harmonic-Distortion-86dB-1m.png?rlkey=43all6d6v5yzk5whdih9nxhz2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/u42819svnona8pijjodhb/KEF-LS60-0-Harmonic-Distortion-96dB-1m.png?rlkey=okyq6tcm9u1ee0mj5gyfd223w&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/m3irp71x2k2lexyrw3rq4/MoFi-SourcePoint-8-Harmonic-Distortion-96dB-1m.png?rlkey=5kh97mxh5pm5tv1bxcpmawa5t&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -247,7 +221,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/gbtd3mhauus89ur9z01t3/KEF-LS60-0-_Compression.png?rlkey=mg8kxns730s0g2ra1etejnjrx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hynfqsa2oksl24kxbr2nd/MoFi-SourcePoint-8_Compression.png?rlkey=4beizgx4rat28fvu5cjjb3q0s&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -272,40 +246,29 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/j7lu7g71c7zy0ul2n8fzx/MTON-Full.png?rlkey=smbpotcdulorolp28k4ggs6vk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9d5awx6435sxmo3tf9q70/MTON-Full.png?rlkey=omxly2oatekib9c902inch21p&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ru7rega9wc934n8qx864y/MTON-80.png?rlkey=qrjtqbhfo20jjothu0wqtl9tw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vl1hues2564v5uy6kvdgm/MTON-80.png?rlkey=360xued4bkzkysh4nk1pits8i&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
-
-
+<br>
+<br>
 
 
 
 
 ## Parting / Random Thoughts
 
-See video linked above for subjective and objective analysis. I have provided a brief transcript below.
+See video linked above for subjective and objective analysis.
 
-<br>
+I find this speaker to be subjectively better than the MoFi SourcePoint 10 I reviewed previously.  The 8" version does not have the high frequency lift the 10" version possesses.  The 8" version is a more neutral speaker overall but with slightly less bass extension.
 
-A very slim design that doesn't call attention to itself. A subwoofer is not entirely necessary as the response of this speaker has an anechoic F3 of ~23Hz. Though, if one wants to add a subwoofer(s) then you can do so easily with the subwoofer outputs. Combined with providing a plethora of inputs from HDMI to wireless streaming, these factors make the LS60 a huge leap forward from typical "soundbar replacement" speakers.
-
-Neutral speaker at any position.  Though, aiming the speaker off-axis by 10-20° is recommended (as is the case with coincident/coaxial designs, in general).  This smooths the HF diffraction ~9kHz which otherwise can sound like some top-end "shimmer/sparkle" is missing from instruments such as cymbals and shakers, etc. You do not have to sit in the perfect spot to get great tonality; you can be off axis by as much as 50° and still enjoy the same overall tonality (but not stereo imaging thanks to time/level differences, a problem with stereo listening itself).
-
-The bass below 200Hz is slightly elevated which can result in a perceived bass bump in the listening position.  I found this to be a bit too much when I had the speakers placed near the wall behind them.  The KEF Connect app allowed me to resolve that by adjusting the "wall mode" to about -3dB and using the bass in "extended" mode which was a great compromise to get full 20Hz to 20kHz sound.
-
-Output seems limited to about 96dB/1m (anechoic) for a single speaker.  In my listening in my room at approximately 10 feet listening distance I found I was volume limited to 100-105dB (depending on source).  This should be adequate for most but if you have a very large room with further seating distance than this you may find yourself wanting additional output.  Or you may not.  Use an SPL meter to determine your volume needs if this is a concern for you.  You may find you don't listen as loud as you think.
-
-Overall the design allows for a truly full-range speaker that negates the need for a separate subwoofer (at sane output levels) and integrates into any living room without yelling "*I'm a speaker, look at me!*" the way many other options do.  The overall floorspace these consume is less than that of most bookshelf speakers with stands; the latter rarely achieve response below 50Hz.
-
-
-
+All in all I really like this speaker a lot.
 
 
 <br>
