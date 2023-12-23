@@ -1,30 +1,51 @@
 ---
-title: "Wharfedale 12.1 Speaker Review"
-date: 2022-08-14
+title: "Thomann Swissonic A305 2-Way Bookshelf Speaker Review"
+date: 2023-12-23
 draft: false
-image: "https://dl.dropboxusercontent.com/s/4c7848bun3oi2al/DSC03707.JPG?dl=0"
-description : "Wharfedale 12.1 Review"
-Tags: ["Wharfedale", "LX Mini", "12.1", "Klippel", "Review", "Speaker", "loudspeaker", "concentric", "uni-q", "Wharfedale center channel", "Wharfedale LX Mini 85th Anniversary review"]
+image: "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_48/488068/16966770_800.jpg"
+description : "Thomann Swissonic A306 2-Way Bookshelf Speaker Review"
+Tags: ["Thomann Swissonic A306 2-Way Bookshelf Speaker Review", "Thomann Swissonic A306 Speaker","dynaudio emit 20", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Thomann Swissonic A306 Bookshelf", "jbl 306p mkii review"]
 ---
 
 
+
 ## Foreword / YouTube Video Review
-I purchased these speakers myself to review with funds from Patreon/PayPal/Affiliate Link revenue. If you would like to help in this regard please see the "support" section at the bottom of this review.
+I was loaned these from [Thomann directly](https://www.thomann.de/de/index.html?offid=1&affid=2577). I was not paid nor did I receive any other form of compensation for this review.
 
-The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion.
+All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
-< coming soon >
+The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.
 
 <br>
 <br>
 <br>
+
+[Manufacturer Specs](https://www.thomannmusic.com/swissonic_a305.htm):
+* 2-Way System with 5.25" woofer and 1" Silk tweeter
+* 80 Watt Bi-amplified (50 + 30 Watt) with Class D amplifiers
+* Frequency range: 55 - 20.000 Hz
+* Crossover frequency at 3000 Hz
+* Maximum level: 96 dB (A-weighted)
+* Integrated DSP with FIR filtering
+* Various equalisation options for room adaptation
+* Low Frequency Trim: 20Hz - 300Hz ± 2 dB adjustable
+* High Frequency Trim: 4 kHz - 20 kHz ± 2 dB adjustable
+* Inputs: XLR balanced (+4dBu), 6.3 mm jack balanced (+4dBu) and RCA unbalanced (-10dBv)
+* Standby function
+* Dimensions (W x H x D): 185 x 298 x 231 mm
+* Weight: 4.4 kg
+
 <br>
 
-## Information and Photos
+As of this writeup MSRP is approximately $250/pair* (USD) or €280/pair.
 
-Manufacturer's information can be found [here](https://shop-links.co/chI62ryJM5Y).
+*Some things to keep in mind for US customers:
+* Shipping is about $60/each.
+* This comes with a 2-pin EU plug.  So, for the US you'll need to either:
+  * get an [IEC cable](https://amzn.to/3TfSpQ3)  *OR*
+  * use a [EU to US adapter](https://amzn.to/3R96Rqk)
 
-Approximate retail price for these is $449/pair USD.
+The IEC cable is easier, though.  In total you can expect to pay about $310/pair if you're a US customer.
 
 <br>
 <br>
@@ -38,7 +59,13 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 <br>
 
-The reference point is at the tweeter.  Grille off.
+IMPORTANT SETUP INFO:
+
+This speaker was measured with the reference point between the tweeter and midwoofer.  Most waveguided speakers tend to have more linear performance this way and I verified this speaker does via measurements.
+
+All DSP settings were default, as delivered.  No adjustments were made for testing unlike the A306 where I adjusted the treble for measurements.
+
+Speaker was broken in.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -64,9 +91,12 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/4mcwhsjsili6j03/CEA2034%20--%20Wharfedale%2012.1.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/jirx3dtwwrg1i74wdtabp/CEA2034-Thomann-Swissonic-A305.png?rlkey=lcave9xty0edyrldgvgjyjshx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
+<br>
+
+<br>
 
 
 <details>
@@ -85,7 +115,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/oik5n27v36t0asc/Early%20Reflections.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/a3s2ywpiwl7hj4ks4id8o/Early-Reflections.png?rlkey=rbqdka3xhft6u1jyxkt794bjl&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -98,36 +128,29 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/s/490iy8rshshuof7/Estimated%20In-Room%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/dyqr6q2450nqymewgspqj/Estimated-In-Room-Response.png?rlkey=69e3evrivpdq5e35pkm3emxhe&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <br>
 
-
-Horizontal Frequency Response (0° to ±90°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/qsy50zclxsc52zi/SPL%20Horizontal.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
-
-Vertical Frequency Response (0° to ±40°):
-<img align="left" src="https://dl.dropboxusercontent.com/s/l80a5sg1pxe5x4a/SPL%20Vertical.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/xzcmcjwj9bvoxiz/Wharfedale%2012.1%20Horizontal%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zblf08ns1hwgyqn3d23xy/Thomann-Swissonic-A305-Horizontal-Contour-Plot-Normalized.png?rlkey=n3wva79p4smhncgh5ko4d2xq5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
+
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/s/txg3jj7k9yn7bwr/Wharfedale%2012.1%20Vertical%20Contour%20Plot%20%28Normalized%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w9ry9f7j3t2hr9qyzgdk9/Thomann-Swissonic-A305-Vertical-Contour-Plot-Normalized.png?rlkey=knys7lpe89m6j5v8m9qyxbavn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/qhqms10frene2c0/Wharfedale%2012.1_360_Horizontal_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rjsfwx47e96ryceq00xkq/Thomann-Swissonic-A305_360_Horizontal_Polar.png?rlkey=0n9z64a5zdbqawqh9rv1bqyxu&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/s/3vf7wxjvjo1cmby/Wharfedale%2012.1_360_Vertical_Polar.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bb74w8c6abouaxtn5jc2t/Thomann-Swissonic-A305_360_Vertical_Polar.png?rlkey=kd7s0pwtfzouttzfayz9evddt&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -137,52 +160,45 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 
 ## Additional Measurements
-<br>
 
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/tj80i0kgv95urpr/Wharfedale%2012.1%20FR_Linearity.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-<br>
-
-### Impedance Magnitude and Phase
-
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/s/irr67rw0uaqvtg0/Wharfedale%2012.1%20Impedance.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/48rqra3vy0govizcewz67/Thomann-Swissonic-A305-FR_Linearity.png?rlkey=bjsdguivnz2e96k7eycxmd9fl&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
+
 
 ### Step Response
+<br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/zjzxz2ll8v2j7he/Wharfedale%2012.1%20Step%20Response.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rfo3ddfak9grnc5zkvl6f/Thomann-Swissonic-A305-Step-Response.png?rlkey=uc8bvm3ej6m1m45grk4sws5o3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
+<br>
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/4jq82ak6a78xk4r/Wharfedale%2012.1%20Group%20Delay.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ehv35thowez61mo0tfvcv/Thomann-Swissonic-A305-Group-Delay.png?rlkey=wzyse8l1s5pzcxwh98my9fy7i&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
+
 <br>
-<br>
+
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/qdlqzo2dnpsw9kt/Wharfedale%2012.1%20Harmonic%20Distortion%20%2886dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-<br><br>
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hwi2h1ae3z9uudyhg2e82/Thomann-Swissonic-A305-Harmonic-Distortion-86dB-1m.png?rlkey=2bf8b9hufgu0e6w5noe8exrg8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/s/o6bt43awre7ipjs/Wharfedale%2012.1%20Harmonic%20Distortion%20%2896dB%20%40%201m%29.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/n17khfeodfxfvulkyow53/Thomann-Swissonic-A305-Harmonic-Distortion-96dB-1m.png?rlkey=fho9ld2ujou4mgypfha3g0u8j&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
 
-<br>
 <br>
 
 
@@ -199,12 +215,11 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lfx8vti07g4dtdop9o9v7/Wharfedale-12.1_Compression.png?rlkey=9mv7h5vjrxiphlqkkrex089e0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/txmgm7kjll252pbszgpmb/Thomann-Swissonic-A305_Compression.png?rlkey=sqhfzsw9tb5hl23y9cy8cyxwu&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 <br><br>
-
 
 ### Multitone Distortion
 
@@ -225,31 +240,45 @@ For information on how to read the below data, watch this video:
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/fv4isc6xegivi2f/MTON%20Full.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/mm84mbo1h42m3ca54blnv/mton-full.png?rlkey=ie6u8psac065iy9b0nve495zj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/s/gxvg0dl030t8pde/MTON%2080.png?dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w5wqz17ro98x69luycqq8/mton-80.png?rlkey=pa7drbdj9p4ul2c8j7d04tyo1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
+
+
+
 
 
 
 ## Parting / Random Thoughts
 
-As stated in the Foreword, this written review is purposely a cliff's notes version.  For details about the performance (objectively and subjectively) please watch the YouTube video.  But a couple quick notes based on my listening and what I see in the data:
+See video linked above for subjective and objective analysis. I have provided a brief summary below.
 
-The on-axis response is quite linear up until a peak in response around 12kHz.  The horizontal and vertical radiation both show a directivity mismatch in the 1-2kHz region which results in a "mellow" sound.  The vertical directivity issue means you'll want to be pretty dead on with the tweeter when listening.  Above or below this by even as little as 5° can result in a steep drop in the 1-2kHz energy making the above concern more noticeable.
+<br>
 
-If you like a speaker that has a lot of pizazz/sparkle/edge then this speaker is not for you.  The Wharfedale 12.1 is a much more "mellow" sounding speaker that - while close to neutral - tends to lean a bit more toward the less aggressive side thanks to the dip in the crosover region.  This dip results in a sound that doesn't quite have "attack" and is more "laid back".  If you find you generally prefer that kind of characteristic then this speaker is for you.  I personally prefer something more in between but I'd take this sound signature over a "bright" speaker.
+Relatively neutral speaker but the larger brother (A306) is better.  The A305 has a mild midrange dip (or midbass boost, depending on how you view it).  Directivity looks quite good and makes for a very EQ'able speaker.  Mild compression in the midrange with larger compression/limiting in the lower frequencies below ~80Hz. Multitone distortion shows midrange issues above ~88dB @ 1m equivalent (which would be roughly 85dB for a pair in a typical room at about 4 meters listening distance).
 
-As for output capability, this speaker does OK but is not intended to get really loud/low.  This is a 5.25-inch midwoofer.  The compression data shows clear compression issues at the highest of output.  And the multitone distortion data shows some harshness in the midrnage that I heard when listening at higher output.  At more reasonable volume (80dB for a pair at 4 meters) I didn't have an issue.  But going into the 90dB region the distortion was evident.  Just consider this and how loud you'll need to listen.  If you sit closer then you may not have a problem.  A subwoofer will also help; I'd recommend crossing around at least 80Hz if not higher toward 100Hz.  Just my two cents.
+I want to reiterate some things to keep in mind for US customers:
+* Shipping is about $60/each.
+* This comes with a 2-pin EU plug.  So, for the US you'll need to either:
+  * get an [IEC cable](https://amzn.to/3TfSpQ3)  *OR*
+  * use a [EU to US adapter](https://amzn.to/3R96Rqk)
 
-The build quality is a nice step up from speakers in this price category thanks to the gloss front and other aspects.
+The IEC cable is easier, though.
+
+
+
+
+
+
+
+
 
 <br>
 <br>
@@ -290,7 +319,3 @@ If you are shopping at any of the following stores then please consider using my
 * [Arendal Sound](https://arendalsound.com/store/?refer=hardisj)
 
 Purchases through these links can earn me a small commission - at no additional cost to you - and help me continue to provide the community with free content and reviews.  Doesn't matter if it's a TV from Crutchfield, budget speakers from Audio Advice or a pair of socks from Amazon, just use the link above before you make your purchase.  Thank you!
-
-
-<br>
-<br>
