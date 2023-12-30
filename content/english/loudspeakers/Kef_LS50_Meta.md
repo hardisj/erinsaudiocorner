@@ -172,8 +172,15 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 <br>
 
-
 <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rw3c9t6ba5wtetd6zhjn3/KEF-LS50-Meta-15-FR_Linearity.png?rlkey=9tmzsvq12k5516wv9s0wv1jky&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+<br>
+
+### Pair Matching
+<br>
+
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/z6ovcuwgkfim1ted36jtm/Speaker-Samples-A-vs-B-On-Axis-Response-Difference.png?rlkey=f8120zpwr5srfu5if3udnh4oa&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>

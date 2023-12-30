@@ -255,17 +255,18 @@ The purpose of this test is to illustrate how much (if at all) the output change
 
 ### Multitone Distortion
 
-The following tests are conducted at (4) approximate equivalent output volumes: 70/79/87/96dB @ 1 meter.  The (4) voltages listed in the legend result in these SPL values.
+The following tests are conducted at (4) approximate equivalent output volumes: 70/79/87/96dB @ 1 meter.  The (4) voltages listed in the legend result in these SPL values.  This test signal is dense, similar to pink noise and excites the entire spectrums listed below at the same time.  The test signal lasts 30 seconds.  This is different than the sine wave test signal used to measure frequency response.  The purpose of *this* distortion and compression test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) over time.
+
+Given the test signal is similar to pink noise and exciting the entire spectrum at the same time I also include compression results, which is captured at the same time distortion is captured.  Sometimes these results differ from the compression results you see above (namely with powered designs incorporating DSP-based limiting).
+
+Note: The KLIPPEL software shows compression in the positive scale.
 
 The test was conducted in (3) manners:
 1) Full bandwidth (20Hz to 20kHz)
 2) 80Hz to 20kHz
 
-The reason for the two measurements is to simulate running the speaker full range vs using a high-pass filter at 80Hz. However, note: the 2nd test low frequency limit at 80Hz is a “brick wall” and doesn't quite emulate a standard filter of 12 or 24dB/octave. But… it’s close enough.
+The reason for the two measurements is to simulate running the speaker full range vs using a high-pass filter at 80Hz. However, note: the 2nd test low frequency limit at 80Hz is a “brick wall” and doesn't quite emulate a standard filter of 12 or 24dB/octave. But… it’s close enough to illustrate the point.
 
-For information on how to read the below data, watch this video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i1sa50hzEcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -276,11 +277,19 @@ For information on how to read the below data, watch this video:
 
 <br>
 
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/22eeonqzchkaoya5ooty8/mton-compression-full.png?rlkey=9ewekwl18j0kzhvbjdmwvptrk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
 2) 80Hz to 20kHz
 
 <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ru7rega9wc934n8qx864y/MTON-80.png?rlkey=qrjtqbhfo20jjothu0wqtl9tw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/gsfp3ecre1azs8z0xe8uo/MTON-Compression-of-Transfer-Function-H-f-80.png?rlkey=ec2d9ktnkuaavfrytvmqlu9ki&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
 <br>
 
 
