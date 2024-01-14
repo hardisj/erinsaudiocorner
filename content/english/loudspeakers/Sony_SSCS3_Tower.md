@@ -265,15 +265,17 @@ See video linked above for subjective and objective analysis. I have provided a 
 
 <br>
 
-The Sony SSCS3 tower speaker, priced at $400 to $500, has multiple resonances and poor mid-range performance. It is not recommended for those seeking accurate sound.
+The Sony SSCS3 tower speaker, priced at $400 to $500, has multiple resonances and poor mid-range performance. While the upper midrange and high frequency response is decent enough, the numerous midrange resonances are quite problematic and unfortunately are so prevalant and varied in Q and amplitude that standard auto-EQ software cannot remedy them.  A miniDSP with targeted EQ is better suited but would of couse increase the cost and complexity with the additional of required external amplification.  I'd recommend buying a decent pair of bookshelf speakers and using a subwoofer.
 
 * The Sony SSCS3 tower speaker retails for $400 to $500 per pair.
 * The speaker has multiple resonances and produces hollow and boomy sound.
 * Close placement to walls worsens the resonance issues.
 * The speaker cannot be adequately equalized with built-in AVR equalization.
 * The speaker lacks clarity and realistic accuracy.
-* Using bookshelf speakers with a subwoofer is recommended as an alternative.
 * The speaker’s higher frequencies respond better to equalization.
+* Distortion and compression look good, indicating this speaker has good output capability.
+* Using bookshelf speakers with a subwoofer is recommended as an alternative.
+
 
 
 
