@@ -27,7 +27,7 @@ However, for those who want more - a more detailed explanation of the objective 
 
 <br>
 
-The current price for this subwoofer is $999 USD direct from the manufacturer.
+The current price for this subwoofer is $1199 USD direct from the manufacturer.
 
 <br>
 <br>
