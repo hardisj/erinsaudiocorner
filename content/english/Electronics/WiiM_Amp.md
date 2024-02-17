@@ -161,7 +161,7 @@ As we can see from the above, at low power the test signal used doesn't change t
 
 ## Output Impedance:
 
-<img align="left" src="https://www.dropbox.com/scl/fi/yrxs4uu5ye6gbykjjx2og/WiiM-Amp-Output-Impedance.png?rlkey=mtoyqnb081swe3jro2gjykbne&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yrxs4uu5ye6gbykjjx2og/WiiM-Amp-Output-Impedance.png?rlkey=mtoyqnb081swe3jro2gjykbne&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
