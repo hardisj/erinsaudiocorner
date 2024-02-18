@@ -3,7 +3,7 @@ title: "WiiM Amp Streaming Amplifier Review"
 date: 2024-02-16
 draft: false
 image: "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2023/46/399/g399WIMAMPG-F.jpg"
-description : "McIntosh MX100 A/V Processor Review"
+description : "WiiM Amp Review"
 Tags: ["WiiM", "WiiM Amp","WiiM Amp Review", "Klippel", "Review", "A/V Processor", "loudspeaker", "BEST AMPLIFIER"]
 ---
 
@@ -103,15 +103,25 @@ Subwoofer Channel Crossover Options (30Hz and 250Hz, min/max, respectively)
 <br>
 <br>
 
-## THD vs Power
+## THD vs Power (1kHz)
 
-The below graphic shows the THD as output level increases from left to right on the X-axis.  I am showing only one channel here - which is the worst channel - for each load.
+The below graphic shows the THD as output level increases from left to right on the X-axis.  I am showing only one channel here - which is the worst channel - for each load. This test is conducted wtih a 1kHz tone (as is standard).
 
 
 <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/kuz7ti48xqy0bt0nm9hrc/THD-vs-Power.png?rlkey=y4ucnz12carktslppforxbm6k&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
+
+
+## THD vs Frequency
+
+The below graphic shows the THD as frequency increases from left to right on the X-axis.  I am showing only one channel here - which is the worst channel - for each load. The highest drive level in this test corresponds to the manufacturer's rated power.
+
+
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zxuog4ll7e13dbemp8fw9/THD-vs-Frequency-4-ohm.png?rlkey=xe1btl8l32y2d0ugnet1y7s0k&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+<br>
 
 ## Power and Subwoofer Voltage Output
 
@@ -142,20 +152,20 @@ Multitone, low power:
 <br>
 
 
-1kHz, high power:
+1kHz, rated power:
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6ttcu3540w69r80fmsqzj/1kHz-4-Ohm-Max-Power.png?rlkey=mainf955aimm0sdbj308qx5t3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7xzgcib6g9bq533e8x42g/1kHz-4-Ohm-Rated-Power.png?rlkey=7b6csc4ut9m59znc5px8fkrxf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
-Multitone, high power:
+Multitone, rated power:
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/roizqff69j71vhptjz1ir/MTON-4-ohm-Max-Power.png?rlkey=lt96i8tdiz31d5nzbtganup7e&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1wo4o9d3tekdmkbaqncgm/MTON-4-ohm-Rated-Power.png?rlkey=6z7muvbh1x0pugg4alb6fn3z2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
 
-As we can see from the above, at low power the test signal used doesn't change the output.  However, at high power there is approximately 28 watts of power loss with the multitone signal compared to the single 1kHz signal.
+As we can see from the above, at low power the test signal used doesn't change the output.  However, at high power there is approximately 33 watts of power loss with the multitone signal compared to the single 1kHz signal.
 
 
 <br>
