@@ -1,57 +1,50 @@
 ---
-title: "Definitive Technology BP-9020 Tower Speaker Review"
-date: 2024-02-12
+title: "Polk Audio R500 Tower Speaker Review"
+date: 2024-02-19
 draft: false
-image: "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61zPRG8VV-L._AC_SL1200_.jpg"
-description : "Definitive Technology BP-9020"
-Tags: ["Definitive Technology BP-9020", "Definitive Technology BP-9020 Review","KEF Speakers", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
+image: "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2021/6/107/g107RSV500-F.jpg"
+description : "Polk Audio R500"
+Tags: ["Polk Audio R500", "Polk Audio R500 Review","tower Speakers", "floorstanding speaker review", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-I was loaned these from a viewer. I was not paid nor did I receive any other form of compensation for this review. If you are interested in purchasing these speakers then please consider using my affiliate link below:
-* [Buy from Amazon](https://amzn.to/3wcnxGH)
+I was loaned these from the manufacturer. I was not paid nor did I receive any other form of compensation for this review. If you are interested in purchasing these speakers then please consider using my affiliate link below:
+* [Buy from Crutchfield](https://howl.me/clE8QHGtCgT)
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jdblojES8Lw?si=0CK6Ero_0w5_kfoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yYewhU3ydwE?si=4yogtIzghzLPfDBd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
 
-[Manufacturer Specs](https://www.definitivetechnology.com/en/product/legacy-products/bp9020):
-* Forward Focused Bipolar Array™ technology for lifelike imaging and greater speaker placement flexibility
-* built-in powered subwoofer with volume control
-* Intelligent Bass Control provides precise bass level adjustments while maintaining accurate midrange tonal balance
-* Dolby Atmos® and DTS:X™ ready with optional Definitive Technology A90 add-on speaker module (sold separately)
-  * built-in docking port with speaker connector plug for A90 module under removable aluminum top plate
-* Balanced Dual Surround System (BDSS) driver technology places rubber surrounds on both the outer and inner edges of each speaker cone for improved control and clarity
-* front speaker array: dual 3-1/2" BDSS midrange drivers and 1" annealed aluminum dome tweeter with silk surround for smooth, extended highs
-* rear speaker array: one 3-1/2" BDSS midrange
-* 8" subwoofer with built-in 150-watt Class D amplifier
-* bass-reflex (slot ported) cabinet design
-* frequency response: 28-40,000 Hz
-* recommended amplifier power: 50-200 watts
-* sensitivity: 92 dB
-* impedance: compatible with 8-ohm outputs
-* cloth grille-wrapped enclosure with anodized aluminum top plate
-* cast aluminum base plate with adjustable knurled carpet spikes and floor glides (for placement on hardwood and other hard surface floors)
-* two sets of 5-way binding posts (one set dedicated for optional A90 Dolby Atmos add-on module)
-* LFE line-level input (optional) for subwoofer
-  * speaker-level-only connections recommended for optimum performance
-* LED illuminated front "D" logo (with rear-panel defeat switch)
-* 11"W x 35-1/2"H x 13"D (with included base plate)
+[Manufacturer Specs](https://www.polkaudio.com/en-us/product/home-speakers/floor-standing/reserve-r500/300033.html):
+* 1" Pinnacle ring radiator tweeter with an integrated waveguide for clear, crisp highs
+* dual 5-1/4" Turbine Cone™ midrange/bass drivers
+* bass-reflex (ported) enclosure with rear-firing X-Port for distortion-free bass
+* frequency response: 49-36,000 Hz
+* nominal impedance: 8 ohms
+* sensitivity: 87 dB
+* high-current amplification from a quality power amp or integrated amp is recommended for best performance
+* recommended amplifier power: 25-200 watts
+* binding post speaker terminals
+* compatible with optional R900 height module
+* removable magnetic grille
+* outrigger feet for a sturdy foundation
+* 10-1/8"W x 41-3/16"H x 13-11/16"D (with outrigger feet)
+* weight: 39 lbs.
+* warranty: 5 years
 
 
 <br>
 
-As of this writeup MSRP is approximately $500/pair.
-Note: They originally cost $700-800 but have since been discontinued.
+As of this writeup MSRP is approximately $1300/pair.
 
 <br>
 <br>
@@ -69,6 +62,7 @@ IMPORTANT SETUP INFO:
 
 This speaker was measured with the reference point at the tweeter.
 Speaker was broken in.
+No grille was used.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -94,7 +88,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nd8twvyjch4o3uwwlzz43/CEA2034-Definitive-Technology-BP-9020.png?rlkey=jnxjnc52nboeadawsb2uh1c55&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wulf9z359qcqkjqrwpze2/CEA2034-Polk-R500.png?rlkey=uo0mwy586r9mpcqucdfc3umzw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -114,7 +108,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6dldsgxtvrv47bxyfmfac/Early-Reflections.png?rlkey=w0erczn4ku3dwmd5m5atd1rpw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/g5r76uah5y1fkinsu4mdd/Early-Reflections.png?rlkey=cic2vtxw4cqs8dh2u6p5xx61u&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -127,29 +121,29 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bzpdj4d5ws62et1luq991/Estimated-In-Room-Response.png?rlkey=x9oqdts7evjlo3i155hm662zs&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w0dh9cmnnchwwb1jrfg8j/Estimated-In-Room-Response.png?rlkey=zwmw6i3lc170dwpzlnxw06nz6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/joqbs1dti70n4rltm9f1v/Definitive-Technology-BP-9020-Horizontal-Contour-Plot-Normalized.png?rlkey=os76f7ylqsdmskoaw1wn39sao&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/425w2a4ijww2rnelyqt7d/Polk-R500-Horizontal-Contour-Plot-Normalized.png?rlkey=wjww2bp0z7ke4uenul0h1t4yx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1lbqavyeusiwl5bjfpiuo/Definitive-Technology-BP-9020-Vertical-Contour-Plot-Normalized.png?rlkey=0d3ojo3auycy77ajp1ztuavg4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/da5jl1rgha0xho6ro590l/Polk-R500-Vertical-Contour-Plot-Normalized.png?rlkey=co0gmqkwr6142qg2dtureuio3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/t3qugvbuk9spw8w6akle7/Definitive-Technology-BP-9020_360_Horizontal_Polar.png?rlkey=3ywvvwfxc5v7dslmikm1gzlz9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3401t5h3pq21ylug59jjv/Polk-R500_360_Horizontal_Polar.png?rlkey=ok7raug58w3glesjy697plq2s&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6c831d6ue8lk9vomaxgbj/Definitive-Technology-BP-9020_360_Vertical_Polar.png?rlkey=a1wizpc23zno2jnpi6p5ye4bk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/gk2v63i9ok9mhhs0p5pdk/Polk-R500_360_Vertical_Polar.png?rlkey=75r383mrk49c6ilal7bx5cgnx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -163,7 +157,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ojew4s9l90c8pbrjrjjy2/Definitive-Technology-BP-9020-Impedance.png?rlkey=wia6ipvyvdiabit6qvjidiwpa&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/354ot2cgxq5elnyszs3o1/Polk-R500-Impedance.png?rlkey=qyhm74cnohfx2q84i1htks8nv&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -171,32 +165,32 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5ylnzkwre5kuwui10jho0/Definitive-Technology-BP-9020-FR_Linearity.png?rlkey=nrzs4rz61cy2babfr16bpakce&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vzdz22yvk9vxo7u7mfn1m/Polk-R500-FR_Linearity.png?rlkey=ycha8mxnhu1g0f9kv77xxva2t&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/opnhfmmdjjze4zl252eqn/Definitive-Technology-BP-9020-Step-Response.png?rlkey=nl42fu9an74qpjetilja9ipi5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/oa2nhsvmkypp8cnryjm4w/Polk-R500-Step-Response.png?rlkey=iagvctfzw640c45a6ndm9h17h&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/i54snf1zthpkvf1qi0vdq/Definitive-Technology-BP-9020-Group-Delay.png?rlkey=qclfljh41xmpqx25tendsvmfo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0r5nu4pf30q4i8cbxqzmu/Polk-R500-Group-Delay.png?rlkey=k48spijhabv796k4962bght2a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/08w8deylxy7okrdrcponw/Definitive-Technology-BP-9020-Harmonic-Distortion-86dB-1m.png?rlkey=ohm1f53eh3y1o5v8eopzljgac&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bkhm2bdpmooa5izm2u7qe/Polk-R500-Harmonic-Distortion-86dB-1m.png?rlkey=dk2co0lms1dqcjwyvt25cwdvv&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fxsd6ppvtwscl0yjss5tc/Definitive-Technology-BP-9020-Harmonic-Distortion-96dB-1m.png?rlkey=owbeb4d5a7nai936ceu3gltdl&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sjxguenuguhnpswlpkkh6/Polk-R500-Harmonic-Distortion-96dB-1m.png?rlkey=ebxf3tsrnlvde5a2yi8eqselx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -217,7 +211,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fykr124sm2odiw90g3dps/Definitive-Technology-BP-9020_Compression.png?rlkey=r9hs2h69lgthjj1lkbqpwtmdd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/n4l2m145z5hqg2e0xwic1/Polk-R500_Compression.png?rlkey=c2byuzy1lf31cj5o8fjqiawbr&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -243,20 +237,20 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rio2n8a35l6itnv8im6k2/mton-full.png?rlkey=ivls67pr84e2onc7agz1ggihj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/eh243r5pd4jzeuhczq1b0/mton-full.png?rlkey=ofj3lniouqoezujnlacbag3i3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/y565h2s6nuezsur75og6v/Compression-of-Transfer-Function-H-f-full.png?rlkey=oq2zllv2jprzbp53hu2b2st42&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/cv5blsw0itey591mhdjfw/Compression-of-Transfer-Function-H-f-full.png?rlkey=j6y6ohz0g08dzma2229y13d9m&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/dk32b826e4dahanvsbnkg/mton-80.png?rlkey=hodi3k1spqzln592ocr1endhv&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nfqp8w6aye5inzm59bqg7/mton-80.png?rlkey=6dhs2plhp3v6qqbxvsy0smk9v&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zqhlrfd8gk9jt3ng3flax/Compression-of-Transfer-Function-H-f-80.png?rlkey=427w40bdrizj0qstg5h7spjlw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/z1kfpfcwqomv3w2i9bz2n/Compression-of-Transfer-Function-H-f-80.png?rlkey=hpynln39ohc6afxi2y6xz7dzw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -272,17 +266,15 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 See video linked above for subjective and objective analysis. A summarized transcript is provided below:
 
-The Definitive Technology BP 9020 tower speaker has a built-in powered subwoofer and a unique design with a mid-range speaker on the back. It is priced at $250 on Amazon.
+The Polk R500 Tower Speaker, priced at $1,300, is a good speaker with some minor issues. The mid-range is good, but the higher frequencies can sound shouty. The speaker works well with EQ and takes well to home theater use. The bass is adequate but lacks weight below 40-50 Hz.
 
 Highlights
-* The speaker has a powered 8in subwoofer with impressive bass performance.
-* It offers a wide soundstage and neutral sound when listened to directly on axis with the tweeter.
-* The speaker has a boosted treble range, resulting in harsh sibilance.
-* The mid-range speaker on the back of the speaker affects the focus and precision of the soundstage.
-* As the volume increases, the lower mid-bass and sub-bass regions are diminished due to the limiter.
-* The speaker’s response is omnidirectional in some frequency ranges, providing spaciousness but compromising imaging.
+* The overall neutrality of the speaker is good and remains within about ±2dB from 80Hz to 16kHz.
+* The higher frequencies can sound shouty due to the expanding energy around 4-6kHz and the narrowing tweeter radiation above this.
+* Works well with EQ for home theater use so the above treble 'shout' can be EQ'd easily.
+* Bass is adequate but lacks weight below 40-50 Hz.
+* Sounds best when aimed toward the listener; it is not advised to "toe out" (face the speaker away from the listener) due to the narrowing HF which results in a lack of "air" and "shimmer" in the upper treble.
 
-Overall, the Definitive Technology BP 9020 tower speaker offers impressive bass performance and a wide soundstage, but it has some flaws such as boosted treble and compromised imaging due to the mid-range speaker on the back.
 
 
 
