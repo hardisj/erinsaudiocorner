@@ -1,6 +1,6 @@
 ---
 title: "KEF Blade 2 Meta Speaker Review"
-date: 2024-03-28
+date: 2024-03-27
 draft: false
 image: "https://us.kef.com/cdn/shop/products/pdt-btm-stn-pks-02_80ea127f-e334-4d3f-b039-e57a55a7eb92_1024x1024.jpg?v=1657182642"
 description : "KEF Blade 2 Meta Speaker"
