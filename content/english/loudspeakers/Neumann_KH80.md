@@ -1,63 +1,57 @@
 ---
-title: "KEF Blade 2 Meta Speaker Review"
-date: 2024-03-27
+title: "Neumann KH 80 Studio Monitor Review"
+date: 2024-03-30
 draft: false
-image: "https://us.kef.com/cdn/shop/products/pdt-btm-stn-pks-02_80ea127f-e334-4d3f-b039-e57a55a7eb92_1024x1024.jpg?v=1657182642"
-description : "KEF Blade 2 Meta Speaker"
-Tags: ["KEF Blade 2 Meta Speaker", "KEF Blade 2 Meta Speaker Review","KEF Blade 2 Meta Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
+image: "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/neumann_506835_kh_80_dsp_1487004345_1311476.jpg"
+description : "Neumann KH 80 Studio Monitor Review"
+Tags: ["Kali Audio LP-UNF Desktop Speaker Review", "Neumann KH 80 Studio Monitor", "Wharfedale AURA 2 Speaker","dynaudio emit 20", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "JBL Studio 630 Bookshelf", "Q Acoustics In-Room Gold LCR review","budget tower speaker"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-I was loaned these from the manufacturer. I was not paid nor did I receive any other form of compensation for this review.
+I was loaned these from a Patron to review. I was not paid nor did I receive any other form of compensation for this review. If you are interested in purchasing these, please consider doing so through the below affiliate link:
+* [Amazon](https://amzn.to/49jQSNn)
+* [B&H Photo](https://bhpho.to/3xpZ2X5)
 
-All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
+All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can support.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lh8D7LhlVoQ?si=BuiZMOJiTPRFBqO_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CuvfSyX9y84?si=18FWUgUA1GBiAWuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
+[Manufacturer Specs](https://www.neumann.com/en-gb/products/monitors/kh-80-dsp-a-g/):
+* LF Driver Size:	4" long throw driver
+* HF Driver Size:	1" tweeter
+* LF Driver Power Amp:	120W peak
+* HF Driver Power Amp:	70W peak
+* Frequency Response:	57Hz-21kHz (±3 dB)
+* Crossover Frequency:	1.8 kHz, 48dB slope per octave
+* Maximum Peak SPL:	108.8 dB SPL
+* Input Types:	1 x XLR-1/4" combo
+* Other I/O:	Ethernet control network
+* Features:	DSP engine with network control, Elliptical Dispersion waveguide surface (MMD), 2 x M6 mounting points
+* Enclosure Type:	Front ported
+* Height:	9.1"
+* Width:	6.0"
+* Depth:	7.6"
+* Weight:	7 lbs. 8 oz.
 
-[Manufacturer Specs](https://us.kef.com/products/blade-two):
-* Design:
-  * Three-way bass reflex
-  * Single apparent source
-* Drive units Uni-Q driver array:
-  * Uni-Q driver array:
-    * HF: 25 mm (1 in.) aluminium dome with MAT
-    * MF: 125 mm (5 in.) aluminium cone
-  * Bass units:
-    * LF: 4 x 165 mm (6.5 in.) aluminium cone, force cancelling
-* Frequency range free field (-6dB): 30 Hz - 45k Hz
-* Frequency range typical in room bass response (-6dB): 25Hz
-* Frequency response (±3dB): 33 Hz - 35k Hz
-* Crossover frequencies 450 Hz, 2.2k Hz
-* Amplifier requirements 50 - 400W
-* Sensitivity (2.83V/1m) 86 dB
-* Maximum output (SPL) (peak sound pressure level at 1m with pink noise): 116dB
-* Impedance: 4 Ω (min. 3.2 Ω)
-* Weight 35.3kg (77.8 lbs.)
-* Dimensions - with plinth (H x W x D): 1461 x 338 x 475 mm (57.5 x 13.3 x 18.7 in.)
-* Standard finishes Piano Black/Copper, Piano Black/Grey, Frosted Blue/Blue, Frosted Blue/Bronze, Charcoal Grey/Red, Charcoal Grey/Bronze, Racing Red/Grey, Arctic White/Champagne
 
 <br>
 
-As of this writeup MSRP is approximately $28,000/pair.
+As of this writeup MSRP is approximately $549/each.
 
 <br>
-<br>
 
-<img align="left" src="https://us.kef.com/cdn/shop/products/pdt-btm-stn-pks-11_78ac67f5-cb97-4217-a51a-aad00deb063d_1024x1024.jpg?v=1657182642" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
+<img align="left" src="https://static.bhphoto.com/images/multiple_images/images500x500/1487004372_IMG_752267.jpg" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
-
-<img align="left" src="https://media.kef.com/collections/HK-Blade-Meta-Series/img-clp-bld-stn02-pdts03.png" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 ## CTA-2034 (SPINORAMA) and Accompanying Data
 
@@ -70,8 +64,11 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 
 IMPORTANT SETUP INFO:
 
-This speaker was measured with the reference point at the tweeeter.
+This speaker was measured with the reference point between the tweeter and midrange. Input voltage was 0.20 Vrms for SPINORAMA data with the speaker volume set to max.  Switches were set to "FREE STANDING" and "100" OUTPUT LEVEL.
 Speaker was broken in.
+
+Note: For high output testing please understand this speaker is intended to be used at 0.80 meter distance from the MLP so the testing provided here is certainly higher than the manufacturer ever intended these to be listened to.  But for the sake of consistency with other reviews I am still including this data.
+
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -97,9 +94,13 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2m753v3j4imrblvjvhaph/CEA2034-KEF-Blade-2-Meta.png?rlkey=wddev16vjgab63okamy5kxndt&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zw7kv5e85hcgsoq336y0m/CEA2034-Neumann-KH-80.png?rlkey=j5i5cuegkt8yim2nrh2n2e1n2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
+
 <br>
+
+<br>
+
 
 <details>
 <summary>
@@ -117,7 +118,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/57voev8mbcyp4s9cp4bz7/Early-Reflections.png?rlkey=1wiwwgr3hmbq782k2jurfynxq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yzlapne1h2d1tyo8av74v/Early-Reflections.png?rlkey=z9al0r3so47ismr4q093y5l7t&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -130,29 +131,29 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/clbv3ndmxf7u662ky7nti/Estimated-In-Room-Response.png?rlkey=pbfenfbcpdimhs1gmb10xehks&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3q0x927mo6e2ywtodf0zi/Estimated-In-Room-Response.png?rlkey=1huqz3lx6ovgisvju5o4z0t2s&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/4vugvltx1sa3pur20532p/KEF-Blade-2-Meta-Horizontal-Contour-Plot-Normalized.png?rlkey=mowh7id8gnpab8s34mpb9mpst&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/74o4w8ipoqathujbo1o7e/Neumann-KH-80-Horizontal-Contour-Plot-Normalized.png?rlkey=nns24rpg01aqz1mvlyfqqi4wa&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0rv92chef71i28c267il9/KEF-Blade-2-Meta-Vertical-Contour-Plot-Normalized.png?rlkey=lbw5yj2pht7ccrgts8tsfqizk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hu5uvbomdw70rukskroas/Neumann-KH-80-Vertical-Contour-Plot-Normalized.png?rlkey=hbvirn02kf9mmsi1w82dt1o0x&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nflud6gk97syvo311bttr/KEF-Blade-2-Meta_360_Horizontal_Polar.png?rlkey=najbkryqpenojulu6pg47suer&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/u7b84m5ozchn5vt0kydyh/Neumann-KH-80_360_Horizontal_Polar.png?rlkey=cya1o7mayd7zaw19vks8lg1kr&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/o9f44yhtq5364xufe7cjs/KEF-Blade-2-Meta_360_Vertical_Polar.png?rlkey=8inizksdffmlog172teng53kw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0mk2bksir0835lmyh6ifc/Neumann-KH-80_360_Vertical_Polar.png?rlkey=ugskdi89vq8fxk1b44h6goqnp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -163,41 +164,36 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 ## Additional Measurements
 
-### Impedance
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zdwb3b3upybfqnv4lqwso/KEF-Blade-2-Meta-Impedance.png?rlkey=x1q900owtutyfmcnaye3s1egp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
-
-<br>
-<br>
-
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3w6mdktrhm2vqj51jriny/KEF-Blade-2-Meta-FR_Linearity.png?rlkey=eko9zhz3mkxixaj1fcvix9t4z&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/m1a65z6jzscorrokn1h14/Neumann-KH-80-FR_Linearity.png?rlkey=c9x2uoq1zinyeere21xwhqvx3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
+<br>
 <br>
 
 ### Horizontal Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fat2r1fde59d9fa6iokqh/SPL-Horizontal.png?rlkey=rne0jninu89uq6a2izq08ghh9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fietyx4f5itd1h1754w6g/SPL-Horizontal.png?rlkey=eg8j1m3xavu3tk7j1gamex35k&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Vertical Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/srx4m6myg2h82oxgw9uxu/SPL-Vertical.png?rlkey=i7qt3gbpzdn5v5ehivgpc83kq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p5ph8ik5t6hcq8x8repb7/SPL-Vertical.png?rlkey=1mo00lsoudejawqyt097vmqqs&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-
 ### Step Response
+<br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rxyz8edvg7oq5urmz5ye2/KEF-Blade-2-Meta-Step-Response.png?rlkey=zgns79m1x9wy3atiqc1yw2b2b&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6kolmt9za9rqc1d0eavo0/Neumann-KH-80-Step-Response.png?rlkey=9pslarrr1vgfnv79020uul6hm&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
-
+<br>
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/eog2rvk0zl5mlo1fwgzq7/KEF-Blade-2-Meta-Group-Delay.png?rlkey=slv1p509j9rostiwvnic036xc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p8bp216dceg5qnuxwbzqv/Neumann-KH-80-Group-Delay.png?rlkey=cufinuc1cu2aut4jgl7x998j9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
 
 <br>
 
@@ -205,11 +201,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lgpi2oh9ncuncum47sfsa/KEF-Blade-2-Meta-Harmonic-Distortion-86dB-1m.png?rlkey=mdhulkql7qzl3hr66ed8jhl4x&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p9glaoy6ou26dus7xou6e/Neumann-KH-80-Harmonic-Distortion-86dB-1m.png?rlkey=rk926vvhep3r2i6f58d74y4ik&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/kt84ogk7oxngyoy8sqqbe/KEF-Blade-2-Meta-Harmonic-Distortion-96dB-1m.png?rlkey=g3arhdxnp5k4ly9ndyl54r666&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3go8jyz29tzt87zr2nzqi/Neumann-KH-80-Harmonic-Distortion-96dB-1m.png?rlkey=wldamio2xwmtzvbshaax39sc6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -230,7 +226,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fzk91uz6v2v2sok1grt1y/KEF-Blade-2-Meta_Compression.png?rlkey=navjdnt2wz6dre0ing64odh5t&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/coko7ncm583xnmuzi0gy3/Neumann-KH-80_Compression.png?rlkey=9zuubg8v3v03mo8sntll5swqy&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -256,48 +252,41 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/q7qam18l4jlcc0by7bgvb/mton-full.png?rlkey=5mt28e1kz4qo02h0v9laah9li&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/cwcggskvp3bgku603js7s/mton-full.png?rlkey=fx4scrzfq2xo9x4qhqgcbdarw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/trrlvgxch4tihm6h4higl/Compression-of-Transfer-Function-H-f-full.png?rlkey=nwuf7172rlqz8gl9zis9q1slo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0xxbw8fkzkbur9xiptigt/Compression-of-Transfer-Function-H-f-full.png?rlkey=saa2kviptkvnb3xckxwlykrxk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/by56qgkdlw67l0uuv7umz/mton-80.png?rlkey=3iexwgoac0j9yabeyos2bre73&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/m8tzq3xivk9pa3kiqe7ka/mton-80.png?rlkey=y81nq7yygf8uxp8a6hhfikifx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/69glh2swb2ctjgonc0lbi/Compression-of-Transfer-Function-H-f-80.png?rlkey=4g7p0jbe1lbt3hollk1joimlz&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ujkjjmtboy40ba4wwi2a9/Compression-of-Transfer-Function-H-f-80.png?rlkey=1v35c6oi7sqhwxu6i00d0pnfy&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 <br>
 
-<br>
-<br>
+
 
 
 
 
 ## Parting / Random Thoughts
 
-See video linked above for subjective and objective analysis. A summarized transcript is provided below:
+See video linked above for subjective and objective analysis. I have provided a brief summary below.
 
-This is the best speaker I've heard to date.  And it's not even close.  It's far beyond any sonic experience I've had.  The KEF Blade 2 Meta are not cheap but the performance is there, objectively speaking.
+<br>
 
-Highlights:
-* Exceptional sound quality and objective measurements
-* Incredible on-axis linearity and off-axis is top notch not just horizontally but vertically as well
-* Rounded baffle eliminates diffraction issues
-* Coaxial design and point source capabilities provide a very consistent radiation pattern both horizontally and vertically
-* Deep bass with an F3 = 31Hz and F10 = 26Hz
-* Lowest of the low distortion levels with negligible Instantaneous and long-term compression, rivaling the best of the best I've measured thus far
-* Sleek design and customizable colors
+The Neumann KH 80 Studio Monitor is a small-sized monitor with excellent performance. It offers very good linear response within ±1.50dB and good vertical dispersion at about ±40°, making it suitable for nearfield listening. At farfield distances (say, maybe a couple meters or more) there may be a slight elevation in the top end when listening.  This would be due to the increased sidewall reflections combined with the near-constant directivity of the treble; where the off-axis HF is nearly the same as the on-axis.
 
+F3 being about 57Hz with an F10 of 48Hz, you can expect sharp rolloff of the bass, just around typical kickdrum and bass guitar fundamentals.  So do consider using a subwoofer with this speaker if you need to get response lower than about 50Hz.
 
-
+Overall, the Neumann KH 80 is a neutral and high-performing studio monitor in a compact size and is definitely worthy of your consideration.
 
 
 
