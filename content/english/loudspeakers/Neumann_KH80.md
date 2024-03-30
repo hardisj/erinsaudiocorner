@@ -282,7 +282,7 @@ See video linked above for subjective and objective analysis. I have provided a 
 
 <br>
 
-The Neumann KH 80 Studio Monitor is a small-sized monitor with excellent performance. It offers very good linear response within ±1.50dB and good vertical dispersion at about ±40°, making it suitable for nearfield listening. At farfield distances (say, maybe a couple meters or more) there may be a slight elevation in the top end when listening.  This would be due to the increased sidewall reflections combined with the near-constant directivity of the treble; where the off-axis HF is nearly the same as the on-axis.
+The Neumann KH 80 Studio Monitor is a small-sized monitor with excellent performance. It offers very good linear response within ±1.50dB and good vertical dispersion at about ±40°, making it suitable for nearfield listening. At farfield distances (say, maybe a meter or more or an environment where there are many early reflections) there may be a slight elevation in the top end when listening.  This would be due to the increased sidewall reflections combined with the near-constant directivity of the treble; where the off-axis HF is nearly the same as the on-axis.
 
 F3 being about 57Hz with an F10 of 48Hz, you can expect sharp rolloff of the bass, just around typical kickdrum and bass guitar fundamentals.  So do consider using a subwoofer with this speaker if you need to get response lower than about 50Hz.
 
