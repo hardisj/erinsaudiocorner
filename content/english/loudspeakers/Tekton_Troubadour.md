@@ -1,6 +1,6 @@
 ---
 title: "Tekton Troubadour Speaker Review"
-date: 2024-04-02
+date: 2028-04-02
 draft: false
 image: "https://tektondesign.com/wp-content/uploads/2021/04/troubador_pair-1.jpg"
 description : "Tekton Troubadour Speaker"
