@@ -293,9 +293,7 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 ## Parting / Random Thoughts
 
-See video linked above for subjective and objective analysis. A summarized transcript is provided below:
-
-Good on-axis linearity within ±2.50 dB.  Bass extension is good, down to about 53Hz F3 and F10 = 40Hz.  Offset tweeter/midwoofer layout yields assymetrical horizontal dispersion that is more narrow to one side vs the other so be mindful of sidewall reflections as the speaker used will have a different amount of those sidewall reflections depending on which side the tweeter array is.  Vertical window is tight at about ±20°.  Distortion is below 3% THD at 96dB @ 1m down to about 40Hz. Though, multitone distortion is rather high at 96dB @ 1m, reaching 10% at 1kHz.
+See video linked above for subjective and objective analysis. 
 
 
 
