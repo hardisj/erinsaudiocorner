@@ -1,6 +1,6 @@
 ---
 title: "Tekton Troubadour Speaker Review"
-date: 2028-04-02
+date: 2024-04-13
 draft: false
 image: "https://tektondesign.com/wp-content/uploads/2021/04/troubador_pair-1.jpg"
 description : "Tekton Troubadour Speaker"
@@ -10,13 +10,13 @@ Tags: ["PSB Audio Imagine B50 Speaker", "KEF Blade 2 Meta Speaker Review","KEF B
 
 
 ## Foreword / YouTube Video Review
-I was loaned these from a viewer. I was not paid nor did I receive any other form of compensation for this review.
+I was loaned these from a viewer. I was not paid nor did I receive any other form of compensation for this review. Make sure you watch the video on this review.
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P4tUBjrj4lo?si=zH4vC9olTHFULLxu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ItAwcW-3Kv4?si=bjpnY5FKc2nkhOiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
@@ -32,7 +32,7 @@ The review on this website is a brief overview and summary of the objective perf
 As of this writeup MSRP is approximately $1000/pair.
 <br>
 <br>
-Note: Currently, the manufacturer's website has practically no information about this speaker other than the above.
+Note: Manufacturer has currently pulled the item from their website.  This information was captured before.
 
 <br>
 <br>
@@ -55,8 +55,9 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 
 IMPORTANT SETUP INFO:
 
-This speaker was measured with the reference point at the middle tweeeter, per the manufacturer's instructions.  These speakers are not vertically symmetrical (tweeters to side of midwoofers); the speaker data here was taken with the speaker that has tweeters on the left of the midwoofers.
+This speaker was measured with the reference point between the two midwoofers, per the manufacturer's instructions.  These speakers are not vertically symmetrical (tweeters to side of midwoofers); the speaker data here was taken with the speaker that has tweeters on the left of the midwoofers.
 Speaker was broken in.
+Feet were used on the speaker.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -270,7 +271,7 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 See video linked above for subjective and objective analysis. A summarized transcript is provided below:
 
-Good on-axis linearity within ±2.50 dB.  Bass extension is good, down to about 53Hz F3 and F10 = 40Hz.  Offset tweeter/midwoofer layout yields assymetrical horizontal dispersion that is more narrow to one side vs the other so be mindful of sidewall reflections as the speaker used will have a different amount of those sidewall reflections depending on which side the tweeter array is.  Vertical window is tight at about ±20°.  Distortion is below 3% THD at 96dB @ 1m down to about 40Hz. Though, multitone distortion is rather high at 96dB @ 1m, reaching 10% at 1kHz.
+Good on-axis linearity within ±2.50 dB.  Bass extension is good, down to about 51Hz F3 and F10 = 39Hz.  Offset tweeter/midwoofer layout yields assymetrical horizontal dispersion that is more narrow to one side vs the other so be mindful of sidewall reflections as the speaker used will have a different amount of those sidewall reflections depending on which side the tweeter array is.  Vertical window is tight at about ±20°.  Distortion is below 3% THD at 96dB @ 1m down to about 40Hz. Though, multitone distortion is rather high at 96dB @ 1m, reaching 10% at 1kHz. Subjectively the upper midrange is what I would consider a bit "forward" which I attribute to the increased off-axis energy between 2-8kHz (centered around 4kHz) horizontally with a high frequency that is shelved down a bit.  EQ can be used to resolve these if you find you share the same subjective experience, though.
 
 
 
