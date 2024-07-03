@@ -86,7 +86,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/86ocn5tbv8uhyewiepyl0/CEA2034-SVS-Ultra-Evolution-Pinnacle.png?rlkey=fejz7hzjequq1w3vw2d6jqsmk&st=kbt20edy&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/86ocn5tbv8uhyewiepyl0/CEA2034-SVS-Ultra-Evolution-Pinnacle.png?rlkey=fejz7hzjequq1w3vw2d6jqsmk&st=kbt20edy&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
@@ -108,7 +108,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://www.dropbox.com/scl/fi/1p54uvq0gt8hz2e3axzyh/Early-Reflections.png?rlkey=pepwiqn30ms8olbts0vind3kb&st=3hwybcj0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1p54uvq0gt8hz2e3axzyh/Early-Reflections.png?rlkey=pepwiqn30ms8olbts0vind3kb&st=3hwybcj0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -121,29 +121,29 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://www.dropbox.com/scl/fi/xfbl5i3il2od143qxs58x/Estimated-In-Room-Response.png?rlkey=sm0i9drrkwrpd6rxokclvb5n8&st=so5kkmu7&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xfbl5i3il2od143qxs58x/Estimated-In-Room-Response.png?rlkey=sm0i9drrkwrpd6rxokclvb5n8&st=so5kkmu7&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://www.dropbox.com/scl/fi/vqn42c8lf3h8r095f833d/SVS-Ultra-Evolution-Pinnacle-Horizontal-Contour-Plot-Normalized.png?rlkey=98fwz0c7fzljoikmdz8pis6tw&st=ujtvkjwj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vqn42c8lf3h8r095f833d/SVS-Ultra-Evolution-Pinnacle-Horizontal-Contour-Plot-Normalized.png?rlkey=98fwz0c7fzljoikmdz8pis6tw&st=ujtvkjwj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://www.dropbox.com/scl/fi/m838nhhugzqfqt65zgbbi/SVS-Ultra-Evolution-Pinnacle-Vertical-Contour-Plot-Normalized.png?rlkey=goo6y9v57fxkbxjtt10mwii29&st=q68mtfeq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/m838nhhugzqfqt65zgbbi/SVS-Ultra-Evolution-Pinnacle-Vertical-Contour-Plot-Normalized.png?rlkey=goo6y9v57fxkbxjtt10mwii29&st=q68mtfeq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 ### "Globe" Plots
 
 Horizontal Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://www.dropbox.com/scl/fi/af4fhloihbmndskmo78ek/SVS-Ultra-Evolution-Pinnacle_360_Horizontal_Polar.png?rlkey=6bbrdmq6440bosnd6mxkv49nq&st=idou87hs&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/af4fhloihbmndskmo78ek/SVS-Ultra-Evolution-Pinnacle_360_Horizontal_Polar.png?rlkey=6bbrdmq6440bosnd6mxkv49nq&st=idou87hs&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 Vertical Polar (Globe) Plot:<br>
 This represents the sound field at 2 meters - above 200Hz - per the legend in the upper left.
-<img align="left" src="https://www.dropbox.com/scl/fi/nyl0rvsmtrmtbyzybixem/SVS-Ultra-Evolution-Pinnacle_360_Vertical_Polar.png?rlkey=27rjfbp9l8qpd8osy1ek9y9ho&st=0v05w1cs&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nyl0rvsmtrmtbyzybixem/SVS-Ultra-Evolution-Pinnacle_360_Vertical_Polar.png?rlkey=27rjfbp9l8qpd8osy1ek9y9ho&st=0v05w1cs&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -157,7 +157,7 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Impedance
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/6xn7b04c2uui6vi116yv7/SVS-Ultra-Evolution-Pinnacle-Impedance.png?rlkey=852i0ao0ovy168ct73ksynrkd&st=y39sz9be&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6xn7b04c2uui6vi116yv7/SVS-Ultra-Evolution-Pinnacle-Impedance.png?rlkey=852i0ao0ovy168ct73ksynrkd&st=y39sz9be&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -165,30 +165,30 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Response Linearity
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/kbmw1z1sbwruxlqxce1iv/SVS-Ultra-Evolution-Pinnacle-FR_Linearity.png?rlkey=yp2lgzlt6lg4ttij147rs5gh6&st=5ti5u4jp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/kbmw1z1sbwruxlqxce1iv/SVS-Ultra-Evolution-Pinnacle-FR_Linearity.png?rlkey=yp2lgzlt6lg4ttij147rs5gh6&st=5ti5u4jp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Horizontal Frequency Response:
-<img align="left" src="https://www.dropbox.com/scl/fi/qefyvrdkfecazjnkxncml/SPL-Horizontal.png?rlkey=vk1zg2wfe1j05nxj80m47hw1q&st=tno8dbpq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/qefyvrdkfecazjnkxncml/SPL-Horizontal.png?rlkey=vk1zg2wfe1j05nxj80m47hw1q&st=tno8dbpq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Vertical Frequency Response:
-<img align="left" src="https://www.dropbox.com/scl/fi/dtm9vtdrzqbb3gl67gc3h/SPL-Vertical.png?rlkey=4m22vc4okbk8uweq38xj8gofj&st=457riyn8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/dtm9vtdrzqbb3gl67gc3h/SPL-Vertical.png?rlkey=4m22vc4okbk8uweq38xj8gofj&st=457riyn8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Step Response
 
-<img align="left" src="https://www.dropbox.com/scl/fi/dvx907jr4trq31y8l3q12/SVS-Ultra-Evolution-Pinnacle-Step-Response.png?rlkey=o196cwad3on13di9ammns73hl&st=vhnqou4a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/dvx907jr4trq31y8l3q12/SVS-Ultra-Evolution-Pinnacle-Step-Response.png?rlkey=o196cwad3on13di9ammns73hl&st=vhnqou4a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://www.dropbox.com/scl/fi/qj4a159p9wfas60guhh7q/SVS-Ultra-Evolution-Pinnacle-Group-Delay.png?rlkey=ah1we6ihj4am85g0lcwfayz6y&st=s42bch1v&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/qj4a159p9wfas60guhh7q/SVS-Ultra-Evolution-Pinnacle-Group-Delay.png?rlkey=ah1we6ihj4am85g0lcwfayz6y&st=s42bch1v&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -196,11 +196,11 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://www.dropbox.com/scl/fi/8cjvmya1qocpchz76vfx3/SVS-Ultra-Evolution-Pinnacle-Harmonic-Distortion-86dB-1m.png?rlkey=eoou935xysg7w29n47lqc44mm&st=s8dngwto&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/8cjvmya1qocpchz76vfx3/SVS-Ultra-Evolution-Pinnacle-Harmonic-Distortion-86dB-1m.png?rlkey=eoou935xysg7w29n47lqc44mm&st=s8dngwto&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://www.dropbox.com/scl/fi/kt2k0dsiw3dpm081r416s/SVS-Ultra-Evolution-Pinnacle-Harmonic-Distortion-96dB-1m.png?rlkey=zqx3ttu895wrpgo34hf7dh8j6&st=cehqvz08&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/kt2k0dsiw3dpm081r416s/SVS-Ultra-Evolution-Pinnacle-Harmonic-Distortion-96dB-1m.png?rlkey=zqx3ttu895wrpgo34hf7dh8j6&st=cehqvz08&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -221,7 +221,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://www.dropbox.com/scl/fi/txqff211z1s9ik0h7m10n/SVS-Ultra-Evolution-Pinnacle_Compression.png?rlkey=8hqcfdvrp3ohxg2mf7tgkbi09&st=kd7obwjg&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/txqff211z1s9ik0h7m10n/SVS-Ultra-Evolution-Pinnacle_Compression.png?rlkey=8hqcfdvrp3ohxg2mf7tgkbi09&st=kd7obwjg&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -247,20 +247,20 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://www.dropbox.com/scl/fi/4eeqr79gzzn872sd76dk0/mton-full.png?rlkey=g8mvwm9b35umn1mbad9bjvp0k&st=r9icnuv0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/4eeqr79gzzn872sd76dk0/mton-full.png?rlkey=g8mvwm9b35umn1mbad9bjvp0k&st=r9icnuv0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/qlxmn6olkg5oby4fi0492/Compression-of-Transfer-Function-H-f-full.png?rlkey=jo9c73mxalqixnbnxecqgngbl&st=u2aksbti&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/qlxmn6olkg5oby4fi0492/Compression-of-Transfer-Function-H-f-full.png?rlkey=jo9c73mxalqixnbnxecqgngbl&st=u2aksbti&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://www.dropbox.com/scl/fi/avxnwdq11809yvjzs51zr/mton-80.png?rlkey=y9gcoqn02tvris2u797zmm17s&st=4r8l9ns9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/avxnwdq11809yvjzs51zr/mton-80.png?rlkey=y9gcoqn02tvris2u797zmm17s&st=4r8l9ns9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://www.dropbox.com/scl/fi/3yykwdv3uiibkqsj2ru9o/Compression-of-Transfer-Function-H-f.png?rlkey=7slz1xejqyufgf76zfr8w6ch4&st=l57pku75&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3yykwdv3uiibkqsj2ru9o/Compression-of-Transfer-Function-H-f.png?rlkey=7slz1xejqyufgf76zfr8w6ch4&st=l57pku75&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
