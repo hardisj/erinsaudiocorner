@@ -2,7 +2,7 @@
 title: "TAD COMPACT REFERENCE ONE (TAD-CR1TX) Speaker Review"
 date: 2024-06-06
 draft: false
-image: "https://images.crutchfieldonline.com/ImageHandler/trim/3000/1950/products/2024/22/700/g700SP888WN-F.jpg"
+image: "https://www.technicalaudiodevices.com/assets/img/CR1TX-Gallery-4.jpg?format=1500w"
 description : "TAD COMPACT REFERENCE ONE (TAD-CR1TX)  Speaker"
 Tags: ["MoFi SourcePoint 888 Tower Speaker", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "TAD COMPACT REFERENCE ONE (TAD-CR1TX)  review"]
 ---
