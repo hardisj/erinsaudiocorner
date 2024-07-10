@@ -37,7 +37,7 @@ The review on this website is a brief overview and summary of the objective perf
 * Dimensions: 341 mm (13.4”) (W) × 628 mm (24.7”) (H) × 446 mm (17.6”) (D)
 
 <br>
-As of this writeup MSRP is approximately $5000/pair.
+As of this writeup MSRP is approximately $87,500/pair.
 <br>
 <br>
 
