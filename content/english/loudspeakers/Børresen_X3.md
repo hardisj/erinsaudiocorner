@@ -297,8 +297,8 @@ The BØRRESEN X3 speaker review highlights its premium design and sound performa
 Highlights
 * Linear highs and impressive imaging make for a captivating listening experience.
 * Size and Design: Stands 51 inches tall, available in gloss white or black, with a premium look.
-* Pricey Investment: Priced at $111,000 per pair, it’s a luxury choice for audiophiles.
-* Bass Performance: Punchy bass response centered around 80Hz, but lacks depth below 50Hz.
+* Pricey Investment: Priced at $11,000 per pair, it’s a luxury choice for audiophiles.
+* Bass Performance: Punchy bass response centered around 80Hz, but lacks depth below 50Hz.  However, this note is high-Q which means that it has a high ringing factor that takes time to diminish compared to other speakers.
 * Mid-Range Flaw: Notable hole in the mid-range frequencies affects overall tonal balance.
 * Listening Position Matters: While various positions were tried, optimal sound was achieved by pointing speakers toward same side shoulders - per mfg spec - and placing off the wall ~60 cm.
 * Measurement Consistency: Both speakers measured similarly, indicating consistent performance despite subjective tonal criticisms.
