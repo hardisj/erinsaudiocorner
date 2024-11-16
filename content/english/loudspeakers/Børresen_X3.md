@@ -39,7 +39,7 @@ The review on this website is a brief overview and summary of the objective perf
 
 
 <br>
-As of this writing MSRP is approximately $11,000/pair with stands.
+As of this writing MSRP is approximately $11,000/pair.
 <br>
 <br>
 
