@@ -1,6 +1,6 @@
 ---
 title: "ELAC DB63 Bookshelf Speaker Review"
-date: 2024-09-14
+date: 2024-10-14
 draft: false
 image: "https://www.elac.com/img/product/db63-bk/Debut-V3.1571.webp"
 description : "Kanto YU4 Speaker"
@@ -196,6 +196,17 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 <br>
 
+### Burst Decay
+<br>
+This data is full anechoic where most spectral decay type graphics are created using quasi-anechoic data.  For more information on the differences between Burst Decay and Cumulative Spectral Decay (CSD) graphics please see Section 6.5 of the ARTA User Manual linked below.  I would like to extend a professional "thank you" to Ivo Mateljan for this software.
+
+[ARTA User Manual](https://artalabs.hr/download/ARTA-user-manual.pdf)
+
+<br>
+
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/8ttlqgri0nw0c71af16gq/BD-1_3.png?rlkey=sepqt5njhmhq7oo36xpr7x849&st=5au04520&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
 
 ### Harmonic Distortion
 

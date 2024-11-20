@@ -188,10 +188,15 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 <br>
 
-### Cumulative Spectral Delay
+### Burst Decay
+<br>
+This data is full anechoic where most spectral decay type graphics are created using quasi-anechoic data.  For more information on the differences between Burst Decay and Cumulative Spectral Decay (CSD) graphics please see Section 6.5 of the ARTA User Manual linked below.  I would like to extend a professional "thank you" to Ivo Mateljan for this software.
+
+[ARTA User Manual](https://artalabs.hr/download/ARTA-user-manual.pdf)
+
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/iz5iwmzdlekg9j8ai0t8v/Borresen-X3-Cumulative-spectral-decay.png?rlkey=kpjhiq9gf6sttui8cgr5st5nv&st=junvlu40&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/mf5iql2s8jocxtsu5hx2e/Burst-Decay.png?rlkey=gpfq0uxp49qa1fiynrjcxjn7k&st=8aus4vto&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
