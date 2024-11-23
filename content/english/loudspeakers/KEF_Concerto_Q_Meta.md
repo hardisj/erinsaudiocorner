@@ -191,6 +191,18 @@ This represents the sound field at 2 meters - above 200Hz - per the legend in th
 
 <br>
 
+### Burst Decay
+<br>
+This data is full anechoic where most spectral decay type graphics are created using quasi-anechoic data.  For more information on the differences between Burst Decay and Cumulative Spectral Decay (CSD) graphics please see Section 6.5 of the ARTA User Manual linked below.  I would like to extend a professional "thank you" to Ivo Mateljan for this software.
+
+[ARTA User Manual](https://artalabs.hr/download/ARTA-user-manual.pdf)
+
+<br>
+
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/4tq0hpwpqky2loe3fkz99/Burst-Decay.png?rlkey=xtwmvmy1yf44i0r73y82idoik&st=fovnpiyi&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+
+<br>
+
 
 ### Harmonic Distortion
 
