@@ -1,10 +1,10 @@
 ---
-title: "KEF Q11 Meta Speaker Review"
-date: 2025-01-13
+title: "Audio Craftsmen Victoria Speaker Review"
+date: 2025-02-01
 draft: false
-image: "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/35/991/g991Q11MWA-o_other0.jpg"
-description: "KEF Q11 Meta Review"
-Tags: ["KEF Q11 Meta Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
+image: "https://static.wixstatic.com/media/a744c0_786f0904200141138782e56affd7a24b~mv2.png/v1/fill/w_1792,h_1330,al_c,q_95,usm_0.66_1.00_0.01,enc_avif,quality_auto/real%20pair%20with%20no%20background.png"
+description: "Audio Craftsmen Victoria Review"
+Tags: ["Audio Craftsmen Victoria Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
 ---
 
 
@@ -16,35 +16,26 @@ All my reviews are done on my own time with great care to give you all the best 
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPIWppFirmk?si=EP1PWo784KwpxMOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oujx5LziiZA?si=dMz-t3Bw4b4rH6Dh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
 
-[Manufacturer Specs](https://howl.link/xqkrbsh3av6px):
-* 3-way design
-* 3/4" vented aluminum dome tweeter with MAT absorber
-  *  MAT's maze-like construction absorbs up to 99% of unwanted sound behind the tweeter for clearer, more natural sound
-* 4" midrange driver
-  * tweeter and midrange use KEF's Uni-Q technology for greater dispersion and a wider "sweet spot"
-* three 6-1/2" hybrid aluminum bass drivers
-* frequency response: 44-20,000 Hz (±3dB)
-* sensitivity: 89 dB
-* impedance: 4 ohms
-* recommended amplifier power: 15-225 watts
-* bass-reflex cabinet with two flared rear-firing ports for deep, articulate bass
-* detachable microfiber grille
-* includes plinth and rubber feet
-  * optional PQ1 plinth spike kit available separately for added stability
-* 12-1/2"W x 43-13/16"H x 15"D (including plinth and terminals)
-* weight: 49.6 lbs.
-* warranty: 5 years (6 years with registration)
+[Manufacturer Specs](https://www.pahmeraudio.com/audio-craftsmen-speakers-victoria?pgid):
+* 2 way bass reflex with rear port
+* 180 mm mid/bass driver
+* 29 mm tweeter
+* Frequency range 42Hz - 25KHz +/- 2dB
+* X-over frequency is 2.2 KHz
+* 88 dB efficiency
+* Impedance 8 ohm
+* 25 to 125 W suggested amplifier wattage
 
 
 <br>
-As of this writing MSRP is approximately $2100/pair.
+As of this writing MSRP is approximately $3990/pair.
 <br>
 <br>
 
@@ -89,7 +80,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xase3ufqatfryg9o7xt90/CEA2034-KEF-Q11-Meta.png?rlkey=0i3jl6bkd0yvb5066k2xn6lbq&st=jx6hvv7a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hlz18uoevoa7ess8zxx8m/CEA2034-Audio-Craftsmen-Victoria.png?rlkey=anl34dlvzuupmlfnekqg0pxww&st=hava49wt&dl=00" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
@@ -110,7 +101,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yuqx0h8d8pdzc6per9oos/Early-Reflections.png?rlkey=6a3igase5772vvddll70kjed4&st=hp7t8e2d&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yc9de8rkqc382g0onj281/Early-Reflections.png?rlkey=4k35w98qpnesy63xifxzoz7jg&st=jo53bd67&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -123,17 +114,17 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/a5cnvle45m30yb5kv6knz/Estimated-In-Room-Response.png?rlkey=62jw5gst6nhx14b4l15ekzm4y&st=7brhg088&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/dx71e08qnpwyihfjq553w/Estimated-In-Room-Response.png?rlkey=8pqy4dtlgjqn2smm0agyfbx68&st=ex9blvw3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lxkztrh3wy2d3xn2hr1x7/KEF-Q11-Meta-Horizontal-Contour-Plot-Normalized.png?rlkey=twp4f52af7lxnfa5jrnjjthmb&st=if7en5rp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/a94t2ey4kp22d3m2njdkt/Audio-Craftsmen-Victoria-Horizontal-Contour-Plot-Normalized.png?rlkey=rth5ta191io0873jhp5iu7xaa&st=lf5itrnz&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vpeig4bq45z36w6z7n7bg/KEF-Q11-Meta-Vertical-Contour-Plot-Normalized.png?rlkey=o57h7ss0d8wrzb301owbd6ew0&st=4j1y8xyb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/qboglh10884usv2u2jho5/Audio-Craftsmen-Victoria-Vertical-Contour-Plot-Normalized.png?rlkey=2ozu2ug7vi6a4nxxj0a64ggo7&st=9hmmsj88&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -144,7 +135,7 @@ Vertical Contour Plot (normalized):
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p9tr7c1yse6qfuul3jat6/KEF-Q11-Meta-Impedance.png?rlkey=xe3swq062aihoij08x4u03ufq&st=yvo4xxwo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0b0wukqcy67w38qka0yoc/Audio-Craftsmen-Victoria-Impedance.png?rlkey=8hram0s05fbais7y8whr1m8p8&st=f5xqbc7u&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -152,30 +143,30 @@ Vertical Contour Plot (normalized):
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/za37m36bieaocn63abkwz/KEF-Q11-Meta-FR_Linearity.png?rlkey=s6pq1ehvvco7lice5l3w7tgew&st=qv5byle4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6leh9qfycjaj11ihkxxxe/Audio-Craftsmen-Victoria-FR_Linearity.png?rlkey=jrr34jxo11x5msinf3rej9vfn&st=xijl4q3y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Horizontal Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hw9kh4e2gna1lpr6u0qd0/SPL-Horizontal.png?rlkey=kz0648qpf2iqs73uxx772s1y0&st=bj72y6sa&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9sm5jw4igm90yzsytqndw/SPL-Horizontal.png?rlkey=ftmlqbwhrpq4cuusouut8dmjr&st=wkdo25a3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Vertical Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/leyg0xdjn3fdzfu5jsn53/SPL-Vertical.png?rlkey=9ajnv1uh7cx7xvs6rzvbnwwd4&st=1gnpgnlx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7rbs8kibaojdsld7pcjjb/SPL-Vertical.png?rlkey=qw89o005w705x1sa9gd0x541y&st=6t7axrzg&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/oxp4gk6wjalvg9tkuo6wk/KEF-Q11-Meta-Step-Response.png?rlkey=s3h8ps1o6lfjfr4s9euzdbjpq&st=caw86o4w&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yyuhvglqv7h3l85wxuvbe/Audio-Craftsmen-Victoria-Step-Response.png?rlkey=ibzdk4slo2awa8o4o3xpa3gkf&st=qyo0l9x1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/l1ea87ybdxjqiaumm1ljj/KEF-Q11-Meta-Group-Delay.png?rlkey=sx4quu6dt6p2jad25pnsbb8ip&st=p53ikqie&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rjbtex27awd8wjewcq6i3/Audio-Craftsmen-Victoria-Group-Delay.png?rlkey=jtqbstvtcvnbxwbbrogk6xwke&st=8flwdefg&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -187,18 +178,18 @@ This data is full anechoic where most spectral decay type graphics are created u
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/o0idy2yrq993jfx785uur/BD.png?rlkey=lak5z2kfam9dx5sqxf8xdlm1t&st=0r8zn5t8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/cvw94gwa9rfbsel6l40ji/BD.png?rlkey=zo6psidp86i5mimwk9ubmqt6g&st=djlh7ug9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5ko9n1nhquv0mm8yoy7f2/KEF-Q11-Meta-Harmonic-Distortion-86dB-1m.png?rlkey=nhcs3vn6imzsfm88gu77i8hns&st=qr4765gn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/e53arg2vqmlu6la20ml29/Audio-Craftsmen-Victoria-Harmonic-Distortion-86dB-1m.png?rlkey=yt42u4wl32vqwbfwdnjufct1b&st=natdx3r3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/65n0bbmb27bv6a4akvzkj/KEF-Q11-Meta-Harmonic-Distortion-96dB-1m.png?rlkey=vbgcrent97gmazymd6u1h10hl&st=mg2zp2y0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w0x0k7jxaopvoju2twt0m/Audio-Craftsmen-Victoria-Harmonic-Distortion-96dB-1m.png?rlkey=wg0s7kj8gjpjm5chuplzcevru&st=cg1wdux1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -219,7 +210,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/b4iloo6typx6a1pg3s00h/KEF-Q11-Meta_Compression.png?rlkey=rasqo4wc7bx68qp3waez2pui8&st=klbzli67&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vviuvujxpc8ilhfx6b7ox/Audio-Craftsmen-Victoria_Compression.png?rlkey=sqnn61lrihgwk2csjegglsdtn&st=euuplk97&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -245,20 +236,20 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fshubbfirgwa6lwmchibc/mton-full.png?rlkey=4prabbuqxx6xtwa09t9ofu9by&st=4axuymmw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/svknp3j0sbeg88pfij653/mton-full.png?rlkey=11fpzdh8v0jssvhr4migydc87&st=t0aj97pp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w1we2zg54kyhftls2fitz/Compression-of-Transfer-Function-H-f-full.png?rlkey=0oh7rv8128buq991eq1fqsjkj&st=q5leadv3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rogub5ym1t3qxvkuhppjw/Compression-of-Transfer-Function-H-f-full.png?rlkey=3tre6eyr0oh5452gk56cdqw77&st=x1p0p8zx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/al3x9zkl6kcgb3v5p0vcz/mton-80.png?rlkey=c97kubojskpjd98rhvdcomzqz&st=nzdm8bg5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xytxizf96mxx7asxc4be5/mton-80.png?rlkey=ymvwx5t9s3ozd9a0k5zlpxf8x&st=3oyg6ei0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hl3g7i2sbkfp04aiohxsy/Compression-of-Transfer-Function-H-f-8.png?rlkey=bninn40d198puziw6a9iyy68f&st=kigvi100&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wkyuv2ydsy5nx1t5myqow/Compression-of-Transfer-Function-H-f-80.png?rlkey=8ypz7yqkkqfka23b4saubzd8s&st=q2lrlvr8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -273,26 +264,95 @@ The reason for the two measurements is to simulate running the speaker full rang
 ## Parting / Random Thoughts
 
 See video linked above for full subjective and objective analysis. An AI-generated summarized transcript is provided below:
+* **Speaker Overview**
+  * Audio Craftsman Victoria speaker
+  * Loaned by manufacturer (no payment or sponsorship)
+  * Previously reviewed by Steve Huff and Ron (New Record Day)
 
+<br>
 
-The KEF Q11 speaker review highlights its exceptional sound performance, particularly in smaller to medium-sized rooms. The review discusses its design, setup recommendations, and sound characteristics, emphasizing its dark sound profile and the importance of room acoustics.
+* **Design & Specs**
+  * Distinct slit-pattern design
+  * 2-way bass reflex with rear port
+  * 180mm midbass driver, 29mm tweeter
+  * Crossover at 2.2 kHz
+  * 88 dB sensitivity, 8Ω impedance
+  * Recommended amp power: 25–125 watts
 
-Highlights
-* Outstanding Performance: The KEF Q11 speakers deliver impressive sound quality, especially in smaller rooms.
-* Setup Tips: Optimal bass performance is achieved when positioned close to a wall.
-* Design Features: Incorporates a unique three-way design with a coaxial tweeter and mid-range driver.
-* Sound Profile: Presents a darker sound profile; rises in mid-range frequencies make it feel warmer.
-* Room Compatibility: Works best in rooms with sidewall reflections to enhance audio neutrality.
-* Community Event: A shoutout to local shop aviq for hosting a community event on January 25th.
+<br>
 
+* **Subjective Listening Impressions**
+  * *Bass*:
+    * Weak low bass (30–40 Hz)
+    * Weak midbass punch (50–80 Hz)
+    * Subwoofer recommended
+  * *Midrange*:
+    * Thin, slightly hollow sound
+    * Noticeable when compared to a known reference speaker
+  * *Treble*:
+    * Rolled off unless pointed directly on-axis
+    * Off-axis listening sounds dull and lacks shimmer
+  * *Imaging*:
+    * Wide, enveloping stage through midrange and lower treble
+    * Very positioning-sensitive
 
+<br>
 
+* **Room Placement Effects**
+  * Recommended closer placement to wall (~6–12 inches)
+  * Greater distance off-wall increases midbass dip
+  * Placement directly affects tonal balance and clarity
 
+<br>
 
+* **Objective Measurements (Klippel NFS)**
+  * ~84 dB measured sensitivity
+  * Midrange dip (~200–800 Hz) causes recessed vocals
+  * F3 at 65 Hz, F10 at 45 Hz (limited bass extension)
+  * Horizontal radiation is wide; vertical is narrow
+  * High-frequency narrows above ~7 kHz (typical for dome tweeters)
 
+<br>
 
+* **Distortion & Dynamics**
+  * Low distortion at moderate volumes
+  * Distortion and compression increase below 100 Hz at high SPLs
+  * Dynamic compression limits “snap” at higher playback levels
+  * Linear excursion ~3mm (suspension-limited)
 
+<br>
 
+* **Multi-Tone Distortion Finding**
+  * Audible grain/sharpness traced to ~1 kHz
+  * Only noticeable at high volume (~99 dB at 10 ft)
+
+<br>
+
+* **Impedance & Amplifier Load**
+  * Nominal 8Ω, easy to drive
+  * Minimum EPDR ~4.4Ω
+  * Slightly below-average real-world sensitivity (~84 dB)
+
+<br>
+
+* **Final Thoughts**
+  * *Pros*:
+    * Attractive design
+    * Wide soundstage
+    * Low distortion at moderate volumes
+    * Easy amplifier load
+  * *Cons*:
+    * Lacks low-end and midrange body
+    * Treble degrades off-axis
+    * Limited dynamic headroom
+    * Position-sensitive
+
+<br>
+
+* **Recommendation**
+  * Ideal for nearfield or moderate-volume listening
+  * Best with subwoofer and careful placement
+  * Not ideal for large rooms or loud playback
 
 
 <br>

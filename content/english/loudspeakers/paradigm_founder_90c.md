@@ -1,50 +1,50 @@
 ---
-title: "KEF Q11 Meta Speaker Review"
-date: 2025-01-13
+title: "Paradigm Founder 90C Center Channel Speaker Review"
+date: 2025-03-20
 draft: false
-image: "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/35/991/g991Q11MWA-o_other0.jpg"
-description: "KEF Q11 Meta Review"
-Tags: ["KEF Q11 Meta Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
+image: "https://www.audioadvice.com/cdn/shop/files/90c_-_no_stand_-_walnut_-_front_3-4.jpg?v=1718139977&width=5000"
+description: "Paradigm Founder 90C Center Channel Review"
+Tags: ["Paradigm Founder 90C Center Channel Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-These speakers were loaned to me to review by the manufacturer. I was not paid nor did I receive any other form of compensation for this review.
+These speakers were loaned to me to review by a viewer. I was not paid nor did I receive any other form of compensation for this review.
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPIWppFirmk?si=EP1PWo784KwpxMOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_qkaCInpQlU?si=0kPEe__dH4ZdUaoW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
 
-[Manufacturer Specs](https://howl.link/xqkrbsh3av6px):
-* 3-way design
-* 3/4" vented aluminum dome tweeter with MAT absorber
-  *  MAT's maze-like construction absorbs up to 99% of unwanted sound behind the tweeter for clearer, more natural sound
-* 4" midrange driver
-  * tweeter and midrange use KEF's Uni-Q technology for greater dispersion and a wider "sweet spot"
-* three 6-1/2" hybrid aluminum bass drivers
-* frequency response: 44-20,000 Hz (±3dB)
-* sensitivity: 89 dB
-* impedance: 4 ohms
-* recommended amplifier power: 15-225 watts
-* bass-reflex cabinet with two flared rear-firing ports for deep, articulate bass
-* detachable microfiber grille
-* includes plinth and rubber feet
-  * optional PQ1 plinth spike kit available separately for added stability
-* 12-1/2"W x 43-13/16"H x 15"D (including plinth and terminals)
-* weight: 49.6 lbs.
-* warranty: 5 years (6 years with registration)
+[Manufacturer Specs](https://www.paradigm.com/en/center/founder-90c):
+* DESIGN: 4-driver, 2 passive radiator, 3 way center channel, sealed enclosure
+* CROSSOVER: 2nd order electro-acoustic at 2.5 kHz (tweeter), 2nd order @ 500 Hz (bass)
+* HIGH FREQUENCY DRIVER: Coaxial 1" (25mm) AL-MAC™ Ceramic Dome with Oblate Spheroid Waveguide (OSW™) and Perforated Phase-Aligning (PPA™) Tweeter Lens, ferro-fluid damped / cooled, Patent Pending Dual Gap Motor Structure
+* FREQUENCY RESPONSE ON-AXIS: ±2dB from 55 Hz - 23 kHz
+* FREQUENCY RESPONSE 30° OFF-AXIS: ±2dB from 55 Hz - 17 kHz
+* BASS FREQUENCY DRIVER : Two 7" (177mm) Ultra-HighExcursion CARBON-X™ Unibody Cone, Gen3 Active Ridge Technology (ART™) with Vertical Mounting System, Advanced SHOCK-MOUNT™ Isolation, and a 1.5” high-temp multi-layered voice coil with ventilated Apical™ former
+* MIDRANGE FREQUENCY DRIVER: Coaxial 6” (152mm) AL-MAG™ Cone with SHOCK-MOUNT™ Isolation Mounting System, a 2” high-temp multi-layered voice coil with Apical™ former, Patented Dual-Sync™ Continuous Flux Motor
+* SENSITIVITY ROOM / ANECHOIC: 94 dB / 91 dB
+* LOW FREQUENCY EXTENSION: 37 Hz (DIN)
+* SUITABLE AMPLIFIER POWER RANGE: 15 - 260 watts
+* MAXIMUM INPUT POWER: 200 watts
+* IMPEDANCE: Compatible with 8 ohms
+* PASSIVE RADIATORS: Two 7" (177mm) Ultra-High-Excursion CARBON-X™ Unibody Cone, Gen3 Active Ridge Technology (ART™) with Vertical Mounting System, Advanced SHOCKMOUNT™ Isolation, Passive
+* DIMENSIONS HXWXD: 8.9” x 35.7” x 12.9” (22.6cm x 90.8cm x 32.7cm)
+* WEIGHT: 48 lbs (21.8 kg) each
+* FINISHES: Piano Black, Black Walnut, Midnight Cherry, Walnut
+
 
 
 <br>
-As of this writing MSRP is approximately $2100/pair.
+As of this writing MSRP is approximately $2900.
 <br>
 <br>
 
@@ -63,7 +63,7 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 IMPORTANT SETUP INFO:
 This speaker was measured with the reference point at the tweeter.
 Speaker was broken in.
-No grille was used.
+No grille on coaxial.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -89,7 +89,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xase3ufqatfryg9o7xt90/CEA2034-KEF-Q11-Meta.png?rlkey=0i3jl6bkd0yvb5066k2xn6lbq&st=jx6hvv7a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/37o9uegliug33amzycrxf/CEA2034-Pardigm-Founder-90C.png?rlkey=05fb3x1xg1z03ey1i00w9p87e&st=9u6eylth&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
@@ -110,7 +110,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yuqx0h8d8pdzc6per9oos/Early-Reflections.png?rlkey=6a3igase5772vvddll70kjed4&st=hp7t8e2d&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1z0ah0fmqv7698wgivu6j/Early-Reflections.png?rlkey=xr4x65tvvz3ghy3e7gljrnpg8&st=6mgdp49e&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -123,17 +123,16 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/a5cnvle45m30yb5kv6knz/Estimated-In-Room-Response.png?rlkey=62jw5gst6nhx14b4l15ekzm4y&st=7brhg088&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/tb5g90hlc34dkovj87isz/Estimated-In-Room-Response.png?rlkey=xwr6ittjoo0mgukbq4fjh7di3&st=2afm8y1b&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
-
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lxkztrh3wy2d3xn2hr1x7/KEF-Q11-Meta-Horizontal-Contour-Plot-Normalized.png?rlkey=twp4f52af7lxnfa5jrnjjthmb&st=if7en5rp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nenk4vj2uvnzlihb0r6er/Pardigm-Founder-90C-Horizontal-Contour-Plot-Normalized.png?rlkey=1q7yja8rlcu4o5nkfaiati6xs&st=3bpdhxn2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vpeig4bq45z36w6z7n7bg/KEF-Q11-Meta-Vertical-Contour-Plot-Normalized.png?rlkey=o57h7ss0d8wrzb301owbd6ew0&st=4j1y8xyb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/oszg4d8q9mvll0wskkjzn/Pardigm-Founder-90C-Vertical-Contour-Plot-Normalized.png?rlkey=qn6se8qckf1z6h1xtc1siqd4r&st=064h2ink&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -144,7 +143,7 @@ Vertical Contour Plot (normalized):
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p9tr7c1yse6qfuul3jat6/KEF-Q11-Meta-Impedance.png?rlkey=xe3swq062aihoij08x4u03ufq&st=yvo4xxwo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9qqgoix2zar7ujp2xpxo9/Pardigm-Founder-90C-Impedance.png?rlkey=n58euf0opejrn7jrdk7p5niw4&st=evtbzcpz&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -152,30 +151,30 @@ Vertical Contour Plot (normalized):
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/za37m36bieaocn63abkwz/KEF-Q11-Meta-FR_Linearity.png?rlkey=s6pq1ehvvco7lice5l3w7tgew&st=qv5byle4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1esbv4isk9szrhrix03ec/Pardigm-Founder-90C-FR_Linearity.png?rlkey=rmjnttearvszlt5qw38de1lvh&st=nfxdwcgn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Horizontal Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hw9kh4e2gna1lpr6u0qd0/SPL-Horizontal.png?rlkey=kz0648qpf2iqs73uxx772s1y0&st=bj72y6sa&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/k97r1kl67ye9698xg5mpd/SPL-Horizontal.png?rlkey=e3xfpmi7fvry2nfjjggitvpoj&st=dyzh6q8v&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Vertical Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/leyg0xdjn3fdzfu5jsn53/SPL-Vertical.png?rlkey=9ajnv1uh7cx7xvs6rzvbnwwd4&st=1gnpgnlx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/l0cusexj7qa149nuy3aff/SPL-Vertical.png?rlkey=zkzvjg3ew9dm5qfhik0wllbch&st=g2lffgna&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/oxp4gk6wjalvg9tkuo6wk/KEF-Q11-Meta-Step-Response.png?rlkey=s3h8ps1o6lfjfr4s9euzdbjpq&st=caw86o4w&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7v7ewhw99er8hcn9r3air/Pardigm-Founder-90C-Step-Response.png?rlkey=iklwzhljmyedx3pmjv1aog0pt&st=p9jmxn74&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/l1ea87ybdxjqiaumm1ljj/KEF-Q11-Meta-Group-Delay.png?rlkey=sx4quu6dt6p2jad25pnsbb8ip&st=p53ikqie&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/u9d8idnba14ta5l66130t/Pardigm-Founder-90C-Group-Delay.png?rlkey=4uxrah7ahobn4m81elplyr51z&st=0t1y9q9q&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -187,18 +186,18 @@ This data is full anechoic where most spectral decay type graphics are created u
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/o0idy2yrq993jfx785uur/BD.png?rlkey=lak5z2kfam9dx5sqxf8xdlm1t&st=0r8zn5t8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3t4yogoz8rvqsao53w33f/BD.png?rlkey=7ghd1dkmqn8noxnw6cfkvgi11&st=bluowk8a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5ko9n1nhquv0mm8yoy7f2/KEF-Q11-Meta-Harmonic-Distortion-86dB-1m.png?rlkey=nhcs3vn6imzsfm88gu77i8hns&st=qr4765gn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wkanozcbuyll0gb0pi3yj/Pardigm-Founder-90C-Harmonic-Distortion-86dB-1m.png?rlkey=xwv5yomi1pqv4e9nxr37u6ka7&st=7it9u1no&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/65n0bbmb27bv6a4akvzkj/KEF-Q11-Meta-Harmonic-Distortion-96dB-1m.png?rlkey=vbgcrent97gmazymd6u1h10hl&st=mg2zp2y0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/01fm8l7aqxffk1idsppul/Pardigm-Founder-90C-Harmonic-Distortion-96dB-1m.png?rlkey=wtk9hj1wxct5jom87jvf2eze6&st=641u21im&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -219,7 +218,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/b4iloo6typx6a1pg3s00h/KEF-Q11-Meta_Compression.png?rlkey=rasqo4wc7bx68qp3waez2pui8&st=klbzli67&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/cs1p8syjc0e86x9ljyhf4/Pardigm-Founder-90C_Compression.png?rlkey=hxxp2cg04a689hmpw5djhxyot&st=vr03cjzc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -245,20 +244,20 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fshubbfirgwa6lwmchibc/mton-full.png?rlkey=4prabbuqxx6xtwa09t9ofu9by&st=4axuymmw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bi7ar7ukqqmhi5x9b1baz/mton-full.png?rlkey=7ijc6ksjkcerngsvzpk3kun9q&st=ejnyrrww&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w1we2zg54kyhftls2fitz/Compression-of-Transfer-Function-H-f-full.png?rlkey=0oh7rv8128buq991eq1fqsjkj&st=q5leadv3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wsad07nizqgh8dhw15kyq/Compression-of-Transfer-Function-H-f-full.png?rlkey=nau0fqr6rue1x98n9krz3jjow&st=k3a91hlg&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/al3x9zkl6kcgb3v5p0vcz/mton-80.png?rlkey=c97kubojskpjd98rhvdcomzqz&st=nzdm8bg5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2j2e6pdigxrdjri5n68tx/mton-80.png?rlkey=365p1zntei8hylxdpuwigd0z3&st=xfjtzjyb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hl3g7i2sbkfp04aiohxsy/Compression-of-Transfer-Function-H-f-8.png?rlkey=bninn40d198puziw6a9iyy68f&st=kigvi100&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hzaf13d2yfh17qmv6iw21/Compression-of-Transfer-Function-H-f-80.png?rlkey=k4dtb2oypw9l1icta9o0vtfvm&st=u85pzcfb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -273,20 +272,92 @@ The reason for the two measurements is to simulate running the speaker full rang
 ## Parting / Random Thoughts
 
 See video linked above for full subjective and objective analysis. An AI-generated summarized transcript is provided below:
+* The Paradigm 90C is a 3-way center channel speaker priced around $2,899
+  * Uses a coaxial midrange and tweeter, flanked by two 7" midbass drivers and two passive radiators
+  * Loaned by a viewer for review — big thanks to them
 
+<br>
 
-The KEF Q11 speaker review highlights its exceptional sound performance, particularly in smaller to medium-sized rooms. The review discusses its design, setup recommendations, and sound characteristics, emphasizing its dark sound profile and the importance of room acoustics.
+* Background on center channel issues
+  * Previous video explained how 2-way MTM designs suffer from off-axis comb filtering
+  * Causes intelligibility problems in multi-seat home theaters
+  * Modern mixes already have low vocal clarity — flawed center channels make it worse
 
-Highlights
-* Outstanding Performance: The KEF Q11 speakers deliver impressive sound quality, especially in smaller rooms.
-* Setup Tips: Optimal bass performance is achieved when positioned close to a wall.
-* Design Features: Incorporates a unique three-way design with a coaxial tweeter and mid-range driver.
-* Sound Profile: Presents a darker sound profile; rises in mid-range frequencies make it feel warmer.
-* Room Compatibility: Works best in rooms with sidewall reflections to enhance audio neutrality.
-* Community Event: A shoutout to local shop aviq for hosting a community event on January 25th.
+<br>
 
+* Expectations vs reality with the Paradigm 90C
+  * Expectations were high due to the 3-way coaxial design
+  * However, subjective listening revealed poor clarity and weak upper midrange
+  * Sound was lifeless and lacked attack, even on-axis
+  * Off-axis performance also disappointing — still dull and unclear
 
+<br>
 
+* Subjective impressions
+  * Good low-end extension — reaches about 50 Hz in-room
+  * Bass was strong and satisfying
+  * Major issue: lack of definition and clarity in upper mids and treble
+  * Dialogue sounded muffled; closed captioning still needed
+
+<br>
+
+* Measurement data from Klippel NFS
+  * On-axis frequency response:
+    * F3 at 54.4 Hz, F10 at 41 Hz
+    * Average sensitivity ~90 dB
+    * Response reasonably neutral below 2 kHz, but major degradation from 2–5 kHz
+  * Shows poor coaxial driver behavior — likely flawed design (note that Audioholics show similar issues in their review of the [70LCR](https://www.audioholics.com/tower-speaker-reviews/paradigm-founder-100f-70lcr))
+
+<br>
+
+* CTA-2034 spinorama and directivity
+  * Directivity is inconsistent, especially in mid-to-treble transition
+  * Reflections and direct sound differ — cannot fix with EQ
+  * Causes midrange suckout and tonal shift in side seats
+
+<br>
+
+* Estimated in-room response
+  * Good bass bump and extension
+  * Significant upper midrange dip leads to dull, veiled sound
+  * Poor slope control in higher frequencies
+
+<br>
+
+* Horizontal radiation
+  * 20° off-axis listeners experience tonal shifts and reduced clarity
+  * Reflections exacerbate the issue for side seating
+
+<br>
+
+* Vertical radiation
+  * Reasonably good — about ±40° window
+
+<br>
+
+* Distortion and compression
+  * High distortion levels, especially for a speaker of this size
+  * Midrange distortion well above expectations
+  * Suggests design flaws or poor crossover implementation
+  * Multi-tone tests and compression confirm similar issues
+  * Dynamic range compression especially bad in midrange
+
+<br>
+
+* Impedance and amplification
+  * Nominal impedance ~4 ohms
+  * EPDR dips to ~1.6 ohms — needs high-current amplifier
+  * Class AB users should ensure amp can handle 2 ohm loads
+  * Using high crossover (80–100 Hz) could mitigate strain
+
+<br>
+
+* Final thoughts
+  * Speaker has good bass, high sensitivity, decent vertical dispersion
+  * But major shortcomings in clarity and midrange performance
+  * Not acceptable for its $2,900 price point
+  * Objective and subjective data align — this speaker needs improvement
+  * Open to doing more reviews like this if viewers find value
 
 
 

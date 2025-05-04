@@ -1,10 +1,10 @@
 ---
-title: "KEF Q11 Meta Speaker Review"
-date: 2025-01-13
+title: "GR-Research NX-Bravo Speaker Review"
+date: 2025-04-03
 draft: false
-image: "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/35/991/g991Q11MWA-o_other0.jpg"
-description: "KEF Q11 Meta Review"
-Tags: ["KEF Q11 Meta Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
+image: "https://i0.wp.com/gr-research.com/wp-content/uploads/2024/09/Turnkey-Bravo-A.jpg?fit=1689%2C1840&ssl=1"
+description: "GR-Research NX-Bravo Review"
+Tags: ["GR-Research NX-Bravo Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
 ---
 
 
@@ -16,35 +16,22 @@ All my reviews are done on my own time with great care to give you all the best 
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPIWppFirmk?si=EP1PWo784KwpxMOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g9MsYUONNhg?si=4JBnUT37I5t1MZhT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
 
-[Manufacturer Specs](https://howl.link/xqkrbsh3av6px):
-* 3-way design
-* 3/4" vented aluminum dome tweeter with MAT absorber
-  *  MAT's maze-like construction absorbs up to 99% of unwanted sound behind the tweeter for clearer, more natural sound
-* 4" midrange driver
-  * tweeter and midrange use KEF's Uni-Q technology for greater dispersion and a wider "sweet spot"
-* three 6-1/2" hybrid aluminum bass drivers
-* frequency response: 44-20,000 Hz (±3dB)
-* sensitivity: 89 dB
-* impedance: 4 ohms
-* recommended amplifier power: 15-225 watts
-* bass-reflex cabinet with two flared rear-firing ports for deep, articulate bass
-* detachable microfiber grille
-* includes plinth and rubber feet
-  * optional PQ1 plinth spike kit available separately for added stability
-* 12-1/2"W x 43-13/16"H x 15"D (including plinth and terminals)
-* weight: 49.6 lbs.
-* warranty: 5 years (6 years with registration)
+[Manufacturer Specs](https://gr-research.com/product/nx-bravo/):
+* Efficiency: 87dB
+* Impedance: 4 Ohm (minimum 4.7)
+* Frequency: 55Hz-20KHz
+* Cabinet Size: 14″H  x  7.5″W  x  11.5″D
 
 
 <br>
-As of this writing MSRP is approximately $2100/pair.
+As of this writing MSRP is approximately $699 to $2500/pair depending on if you purchase a kit and build the speaker or if you purchase it complete with upgrades.
 <br>
 <br>
 
@@ -64,6 +51,8 @@ IMPORTANT SETUP INFO:
 This speaker was measured with the reference point at the tweeter.
 Speaker was broken in.
 No grille was used.
+
+These speakers are designed to be toed out approximately 10-20° per the manufacturer. I have provided mostly on-axis response results but have also included 15° horizontal response (noted in the titles where applicable).
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -89,10 +78,13 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xase3ufqatfryg9o7xt90/CEA2034-KEF-Q11-Meta.png?rlkey=0i3jl6bkd0yvb5066k2xn6lbq&st=jx6hvv7a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/34u4bfnlpnsx7uznz7x66/CEA2034-GR-Research-NX-Bravo-0.png?rlkey=iio4k705dql1i5ibhz05222su&st=boqh0367&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ez3n1ce6n7571tvad5a4y/CEA2034-GR-Research-NX-Bravo-15.png?rlkey=q61g8h5blrug0m538scu4obsn&st=oyac8nsj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+<br>
 
 <details>
 <summary>
@@ -110,7 +102,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yuqx0h8d8pdzc6per9oos/Early-Reflections.png?rlkey=6a3igase5772vvddll70kjed4&st=hp7t8e2d&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/mz3hcn9tw5ttrrhcgidbr/Early-Reflections.png?rlkey=o7i653m57nzlny5mknt16yft6&st=6294lzkf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -123,17 +115,17 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/a5cnvle45m30yb5kv6knz/Estimated-In-Room-Response.png?rlkey=62jw5gst6nhx14b4l15ekzm4y&st=7brhg088&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/20x5ya86aa8idtwewt9qc/Estimated-In-Room-Response.png?rlkey=n32euii583nrfhelnm3lw41l1&st=l94n41ma&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lxkztrh3wy2d3xn2hr1x7/KEF-Q11-Meta-Horizontal-Contour-Plot-Normalized.png?rlkey=twp4f52af7lxnfa5jrnjjthmb&st=if7en5rp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fl3byyv2r57wwxtqyuc85/GR-Research-NX-Bravo-Horizontal-Contour-Plot-Normalized.png?rlkey=yjq54zik1dyyszvx2vcjhwkt1&st=vqd9jd2t&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vpeig4bq45z36w6z7n7bg/KEF-Q11-Meta-Vertical-Contour-Plot-Normalized.png?rlkey=o57h7ss0d8wrzb301owbd6ew0&st=4j1y8xyb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lvyzok1lpjy9vlblr04g5/GR-Research-NX-Bravo-Vertical-Contour-Plot-Normalized.png?rlkey=oym68df1cddrpzckkiwjqzzo8&st=pftgc0b6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -144,7 +136,7 @@ Vertical Contour Plot (normalized):
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p9tr7c1yse6qfuul3jat6/KEF-Q11-Meta-Impedance.png?rlkey=xe3swq062aihoij08x4u03ufq&st=yvo4xxwo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/61u69uulzyx0rao4vgxhy/GR-Research-NX-Bravo-Impedance.png?rlkey=a9za64uojk6hd4ockh0p7gfyn&st=4zyjvn6l&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -152,30 +144,30 @@ Vertical Contour Plot (normalized):
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/za37m36bieaocn63abkwz/KEF-Q11-Meta-FR_Linearity.png?rlkey=s6pq1ehvvco7lice5l3w7tgew&st=qv5byle4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xcxnak63clqlvrj6v4wju/GR-Research-NX-Bravo-15-FR_Linearity.png?rlkey=fqn5yibkf408mz01dc7rrae4d&st=e6u0x76y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Horizontal Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hw9kh4e2gna1lpr6u0qd0/SPL-Horizontal.png?rlkey=kz0648qpf2iqs73uxx772s1y0&st=bj72y6sa&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/k05teykclrzkpwayi7em3/SPL-Horizontal.png?rlkey=fwy6g4uhc96c2488rmnchs9wh&st=jt7bt41t&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Vertical Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/leyg0xdjn3fdzfu5jsn53/SPL-Vertical.png?rlkey=9ajnv1uh7cx7xvs6rzvbnwwd4&st=1gnpgnlx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/u451a06lebe2x18fcqjxk/SPL-Vertical.png?rlkey=nttce2y0o5yldci9zhvkut3k9&st=de6yyllc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/oxp4gk6wjalvg9tkuo6wk/KEF-Q11-Meta-Step-Response.png?rlkey=s3h8ps1o6lfjfr4s9euzdbjpq&st=caw86o4w&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/onf4b9ueke9clp3n789ft/GR-Research-NX-Bravo-Step-Response.png?rlkey=czow5kvhvafmiuxqz34q26zhd&st=3cxi0gkc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/l1ea87ybdxjqiaumm1ljj/KEF-Q11-Meta-Group-Delay.png?rlkey=sx4quu6dt6p2jad25pnsbb8ip&st=p53ikqie&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7t48zqai8389bmbqms24i/GR-Research-NX-Bravo-Group-Delay.png?rlkey=3ewmhjpgg011r3uv7qbhflglf&st=15si9td9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -187,18 +179,18 @@ This data is full anechoic where most spectral decay type graphics are created u
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/o0idy2yrq993jfx785uur/BD.png?rlkey=lak5z2kfam9dx5sqxf8xdlm1t&st=0r8zn5t8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6uay47d3f5umta7084x3z/BD.png?rlkey=u3tp7abn8auni8cfkenye0ddq&st=j8yzx8rf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5ko9n1nhquv0mm8yoy7f2/KEF-Q11-Meta-Harmonic-Distortion-86dB-1m.png?rlkey=nhcs3vn6imzsfm88gu77i8hns&st=qr4765gn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bgcs9vk6oc199t2pxwdjc/GR-Research-NX-Bravo-Harmonic-Distortion-86dB-1m.png?rlkey=7wsyn5qtofr2v6ohc0nunb6v0&st=gc9bn8j9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/65n0bbmb27bv6a4akvzkj/KEF-Q11-Meta-Harmonic-Distortion-96dB-1m.png?rlkey=vbgcrent97gmazymd6u1h10hl&st=mg2zp2y0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/f9mydgjo7dxqpmeva39ul/GR-Research-NX-Bravo-Harmonic-Distortion-96dB-1m.png?rlkey=lucbsjw94fzz0cd9loojmndue&st=bqwbyhsj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -219,7 +211,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/b4iloo6typx6a1pg3s00h/KEF-Q11-Meta_Compression.png?rlkey=rasqo4wc7bx68qp3waez2pui8&st=klbzli67&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/pjsso2dc35pooqnrkz6js/GR-Research-NX-Bravo_Compression.png?rlkey=l4l6eb6x44raxpn9m0p4l8s0l&st=snaf4fvx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -245,20 +237,20 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fshubbfirgwa6lwmchibc/mton-full.png?rlkey=4prabbuqxx6xtwa09t9ofu9by&st=4axuymmw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/cwoq544523exq0dhlp9rs/mton-full.png?rlkey=9ix7jmxyvb8ebs9h7hprfol3l&st=gu2lbevs&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w1we2zg54kyhftls2fitz/Compression-of-Transfer-Function-H-f-full.png?rlkey=0oh7rv8128buq991eq1fqsjkj&st=q5leadv3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5mjdqvvaq6y3d4uidfd2a/Compression-of-Transfer-Function-H-f-full.png?rlkey=yvz4rr6as6nlg5z4g4bp1bio1&st=vqt6o91n&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/al3x9zkl6kcgb3v5p0vcz/mton-80.png?rlkey=c97kubojskpjd98rhvdcomzqz&st=nzdm8bg5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/8anbps3421ubzown9l8dx/mton-80.png?rlkey=6ubvvah3cf420jw2smlc9s65k&st=nsjxrni7&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hl3g7i2sbkfp04aiohxsy/Compression-of-Transfer-Function-H-f-8.png?rlkey=bninn40d198puziw6a9iyy68f&st=kigvi100&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/nxuk3757k5a4k4pomltmi/Compression-of-Transfer-Function-H-f-80.png?rlkey=iyxtf6drvwpcg1mrcqg70bszv&st=z3tecga6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -274,16 +266,92 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 See video linked above for full subjective and objective analysis. An AI-generated summarized transcript is provided below:
 
+* **Overview**
+  * GR Research NX Bravo is a two-way speaker kit priced between $700 (DIY kit) and ~$2,500 (assembled with upgrades).
+  * Designed and tuned by Danny Richie of GR Research.
+  * Reviewed in a real-world untreated room to reflect how most listeners experience audio.
+  * Intended to be listened to **toed out**, not directly on-axis.
 
-The KEF Q11 speaker review highlights its exceptional sound performance, particularly in smaller to medium-sized rooms. The review discusses its design, setup recommendations, and sound characteristics, emphasizing its dark sound profile and the importance of room acoustics.
+<br>
 
-Highlights
-* Outstanding Performance: The KEF Q11 speakers deliver impressive sound quality, especially in smaller rooms.
-* Setup Tips: Optimal bass performance is achieved when positioned close to a wall.
-* Design Features: Incorporates a unique three-way design with a coaxial tweeter and mid-range driver.
-* Sound Profile: Presents a darker sound profile; rises in mid-range frequencies make it feel warmer.
-* Room Compatibility: Works best in rooms with sidewall reflections to enhance audio neutrality.
-* Community Event: A shoutout to local shop aviq for hosting a community event on January 25th.
+* **Speaker Design & Setup**
+  * Reviewed pair included upgraded Sonicaps and extended port tubes.
+  * Optimal placement ~3 feet from front wall, towed out ~15°.
+  * Designed for wide horizontal dispersion and generous vertical dispersion.
+  * Rated sensitivity: ~85 dB @ 2.83V/1m.
+  * F3 at ~77 Hz; F10 around 45 Hz; extends to ~50–60 Hz in-room.
+  * Visual aesthetics enhanced by GR Research’s flush-mount “tube connectors” — stylish and easy to use.
+
+<br>
+
+* **Listening Impressions**
+  * Overall tonality is clean, neutral, and non-fatiguing.
+  * High-frequency boost (~5 dB) when aimed directly at listener — alleviated when towed out as recommended.
+  * Mild dip around 7 kHz — helps reduce sibilance; not ideal for “air” or “sparkle” lovers.
+  * Midrange (1–4 kHz) well-balanced — not shouty or forward, retains clarity and punch.
+  * Good attack and dynamics, no harshness or fatigue in treble (at moderate listening levels; see below)
+  * Bass: accurate and extended for size (~50–60 Hz in-room), but limited in output/slam.
+
+<br>
+
+* **Subjective Highlights**
+  * Not forward or bright; easy to listen to over long periods.
+  * Very wide **vertical dispersion** (~+50° / -20°), making listening height far less critical.
+  * Wide horizontal soundstage (±70°), even broader when towed out.
+  * Designed to avoid the need for excessive room treatment.
+
+<br>
+
+* **Data & Measurement Highlights**
+  * **Frequency Response:** ±3 dB tolerance, minor deviation in HF when on-axis
+  * **Spinorama (CTA-2034):**
+    * Smooth off-axis behavior; strong correlation between on- and off-axis sound
+    * Narrowing dispersion above 4 kHz — explains the intentional HF boost in design
+  * **Estimated In-Room Response:**
+    * Mild dip in upper mids (can sound warm), HF rolloff off-axis is well-balanced
+    * Compared responses for 0°, ±15°, and ±30° listening angles
+  * **Burst Decay:**
+    * Exceptionally clean — rapid decay and minimal ringing
+    * Compared favorably to much more expensive speakers (~$13k/pair)
+  * **Distortion & Compression:**
+    * SPL-limited — designed for moderate listening volumes
+    * High-frequency distortion climbs above 85 dB SPL
+    * Multi-tone distortion crosses audible threshold around 88–90 dB
+    * Bass and midrange distortion well-controlled
+    * Long-term max SPL ~95–96 dB at 1m
+    * Recommended listening level: ~80–85 dB for best performance
+  * **Impedance:**
+    * Nominal: ~5 ohm
+    * EPDR: ~2.5 ohm — most decent amps should have no trouble
+
+<br>
+
+* **Strengths**
+  * Well-designed tonality; smooth and engaging
+  * Excellent vertical and horizontal dispersion — rare for a 2-way
+  * High-end parts and build quality (esp. in upgraded versions)
+  * Aesthetics enhanced by GR’s flush tube connectors
+  * Great burst decay and midrange clarity
+
+<br>
+
+* **Limitations**
+  * SPL-limited — not suitable for high-output or large rooms without subwoofer support
+  * High-frequency distortion at louder volumes
+  * Mild dip in upper mids and treble may not suit all listeners
+  * Intentional design choices may spark debate (e.g., HF boost, tube connectors)
+
+<br>
+
+* **Recommendations**
+  * Recommended for moderate listening volumes and well-positioned setups
+  * Use a subwoofer to supplement lower octaves
+  * Avoid pointing speakers directly at listener unless you prefer a brighter sound
+
+<br>
+
+
+
 
 
 

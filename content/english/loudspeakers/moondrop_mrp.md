@@ -1,10 +1,10 @@
 ---
-title: "KEF Q11 Meta Speaker Review"
-date: 2025-01-13
+title: "Moondrop M4P Monitor Speaker Review"
+date: 2025-03-23
 draft: false
-image: "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/35/991/g991Q11MWA-o_other0.jpg"
-description: "KEF Q11 Meta Review"
-Tags: ["KEF Q11 Meta Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
+image: "https://shenzhenaudio.com/cdn/shop/files/0-1_f9d65324-e621-4791-9045-65b17a9bf086.png?v=1727419620"
+description: "Moondrop M4P Monitor Review"
+Tags: ["Moondrop M4P Monitor Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
 ---
 
 
@@ -16,35 +16,30 @@ All my reviews are done on my own time with great care to give you all the best 
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPIWppFirmk?si=EP1PWo784KwpxMOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W6-7H0sGKKA?si=quF-LGz4v3jpOQBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
 
-[Manufacturer Specs](https://howl.link/xqkrbsh3av6px):
-* 3-way design
-* 3/4" vented aluminum dome tweeter with MAT absorber
-  *  MAT's maze-like construction absorbs up to 99% of unwanted sound behind the tweeter for clearer, more natural sound
-* 4" midrange driver
-  * tweeter and midrange use KEF's Uni-Q technology for greater dispersion and a wider "sweet spot"
-* three 6-1/2" hybrid aluminum bass drivers
-* frequency response: 44-20,000 Hz (±3dB)
-* sensitivity: 89 dB
-* impedance: 4 ohms
-* recommended amplifier power: 15-225 watts
-* bass-reflex cabinet with two flared rear-firing ports for deep, articulate bass
-* detachable microfiber grille
-* includes plinth and rubber feet
-  * optional PQ1 plinth spike kit available separately for added stability
-* 12-1/2"W x 43-13/16"H x 15"D (including plinth and terminals)
-* weight: 49.6 lbs.
-* warranty: 5 years (6 years with registration)
+[Manufacturer Specs](https://shenzhenaudio.com/products/moondrop-m4p-mtm-passive-monitor-speaker):
+* Description: 2-Way 4inch MonitorSpeaker
+* Impedance: 4ohms
+* Weight: 6.2kg(13.66 lb)
+* Crossover Frequency: 1800Hz
+* Sensitivity: 85dB(2.83Vrms/1M)
+* Rated PowerInput: 75W
+* MaxPowerInput: 150W
+* FrequencyResponse: 60Hz-30000Hz(-3dB,IEC61094-4Type WS3)
+* Woofer: 2x4inch(87mm)Carbon Cone Woofer
+* Tweeter: 1xlinch(25mm)ALU Mag Dome Tweeter
+* Dimensions(HxDxW): 380mm*185mm*155mm(14.96 inch*7.28 inch*6.10 inch)
+* Color: Matte black, Matte white
 
 
 <br>
-As of this writing MSRP is approximately $2100/pair.
+As of this writing MSRP is approximately $900/pair.
 <br>
 <br>
 
@@ -89,7 +84,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xase3ufqatfryg9o7xt90/CEA2034-KEF-Q11-Meta.png?rlkey=0i3jl6bkd0yvb5066k2xn6lbq&st=jx6hvv7a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ys3fdmcmsvo0gvjwizfdm/CEA2034-Moondrop-M4P.png?rlkey=kd1tzrgha8fvnv52cozngv7ps&st=rvpvqfq4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
@@ -110,7 +105,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yuqx0h8d8pdzc6per9oos/Early-Reflections.png?rlkey=6a3igase5772vvddll70kjed4&st=hp7t8e2d&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lkmihyxauopyuof4r18s3/Early-Reflections.png?rlkey=p3rmveq8cdgw7u8nxa62dd4dk&st=dqznr2od&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -123,17 +118,17 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/a5cnvle45m30yb5kv6knz/Estimated-In-Room-Response.png?rlkey=62jw5gst6nhx14b4l15ekzm4y&st=7brhg088&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/k8evmzbss8tsaipybco4u/Estimated-In-Room-Response.png?rlkey=zkpu95mhbc6tr306obaqjyabw&st=5mcn5h7q&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lxkztrh3wy2d3xn2hr1x7/KEF-Q11-Meta-Horizontal-Contour-Plot-Normalized.png?rlkey=twp4f52af7lxnfa5jrnjjthmb&st=if7en5rp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/c8of6iww5xpgqa0653pfo/Moondrop-M4P-Horizontal-Contour-Plot-Normalized.png?rlkey=ph2oqrbgf55wt7a7f8ccqi47q&st=m7fk12dr&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vpeig4bq45z36w6z7n7bg/KEF-Q11-Meta-Vertical-Contour-Plot-Normalized.png?rlkey=o57h7ss0d8wrzb301owbd6ew0&st=4j1y8xyb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/f9kzfxuhf6eibt50b2cno/Moondrop-M4P-Vertical-Contour-Plot-Normalized.png?rlkey=b573slq54icc7wdqgirmjwvh0&st=rred4dpq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -144,7 +139,7 @@ Vertical Contour Plot (normalized):
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p9tr7c1yse6qfuul3jat6/KEF-Q11-Meta-Impedance.png?rlkey=xe3swq062aihoij08x4u03ufq&st=yvo4xxwo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/8w89jto0djlh2pkkflzz1/Moondrop-M4P-Impedance.png?rlkey=yzo0h1j85bcobiknf614tzuhr&st=vm7nwdoz&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -152,30 +147,30 @@ Vertical Contour Plot (normalized):
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/za37m36bieaocn63abkwz/KEF-Q11-Meta-FR_Linearity.png?rlkey=s6pq1ehvvco7lice5l3w7tgew&st=qv5byle4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/q3zhnhgvioy0c6y7f0m89/Moondrop-M4P-FR_Linearity.png?rlkey=8d11cqecwo7l2j92lc8p3jask&st=bccwenao&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Horizontal Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hw9kh4e2gna1lpr6u0qd0/SPL-Horizontal.png?rlkey=kz0648qpf2iqs73uxx772s1y0&st=bj72y6sa&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5p7nxtvgohmvlqdo96b54/SPL-Horizontal.png?rlkey=1m3xx0esu2lw9sg7cri5f187b&st=m6o4vt8m&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Vertical Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/leyg0xdjn3fdzfu5jsn53/SPL-Vertical.png?rlkey=9ajnv1uh7cx7xvs6rzvbnwwd4&st=1gnpgnlx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9wcw8mttwmoob46cccme0/SPL-Vertical.png?rlkey=yz3xj3m7ll3tebmumc2pye9y4&st=8lq097zi&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/oxp4gk6wjalvg9tkuo6wk/KEF-Q11-Meta-Step-Response.png?rlkey=s3h8ps1o6lfjfr4s9euzdbjpq&st=caw86o4w&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/uhhukpjgqk2c0es38cxyd/Moondrop-M4P-Step-Response.png?rlkey=dhu5vx3bdhb478lob3m0hljih&st=fv2vjtz9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/l1ea87ybdxjqiaumm1ljj/KEF-Q11-Meta-Group-Delay.png?rlkey=sx4quu6dt6p2jad25pnsbb8ip&st=p53ikqie&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ag5janvf6omne8u144mtk/Moondrop-M4P-Group-Delay.png?rlkey=lm87zg2bm3xiwne76btt4phcc&st=o7nbs4a6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -187,18 +182,18 @@ This data is full anechoic where most spectral decay type graphics are created u
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/o0idy2yrq993jfx785uur/BD.png?rlkey=lak5z2kfam9dx5sqxf8xdlm1t&st=0r8zn5t8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/qfpbx2xkjnk3jw6s5vtzg/BD.png?rlkey=5zhbc66hjp8x7m9g0nu5ny68i&st=mltgrkbv&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5ko9n1nhquv0mm8yoy7f2/KEF-Q11-Meta-Harmonic-Distortion-86dB-1m.png?rlkey=nhcs3vn6imzsfm88gu77i8hns&st=qr4765gn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zb17ey8n0z65ra5rtrc5q/Moondrop-M4P-Harmonic-Distortion-86dB-1m.png?rlkey=kx64s2cq4mi7facn9ro5uqsjo&st=gucqauwi&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/65n0bbmb27bv6a4akvzkj/KEF-Q11-Meta-Harmonic-Distortion-96dB-1m.png?rlkey=vbgcrent97gmazymd6u1h10hl&st=mg2zp2y0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/k34bkd8qyg5h95c4r6l4f/Moondrop-M4P-Harmonic-Distortion-96dB-1m.png?rlkey=82oj2c1m4j58zx73lt6k4dqc0&st=ukgcf5pq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -219,7 +214,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/b4iloo6typx6a1pg3s00h/KEF-Q11-Meta_Compression.png?rlkey=rasqo4wc7bx68qp3waez2pui8&st=klbzli67&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/csvsnrvego2ltqj79uqis/Moondrop-M4P_Compression.png?rlkey=awp1w5yv9hvqu7ghsqrka489f&st=dj1w2vgp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -245,20 +240,20 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fshubbfirgwa6lwmchibc/mton-full.png?rlkey=4prabbuqxx6xtwa09t9ofu9by&st=4axuymmw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/416xxexoa3z23jd1owkaz/mton-full.png?rlkey=2l4ao2cvv4iyp4pivoegqop52&st=ut8u7sf8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w1we2zg54kyhftls2fitz/Compression-of-Transfer-Function-H-f-full.png?rlkey=0oh7rv8128buq991eq1fqsjkj&st=q5leadv3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2ocopecnrjbenn7quspfe/Compression-of-Transfer-Function-H-f-full.png?rlkey=hg7tuilrnnn5lmwm7f1r4penw&st=jz3bv71d&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/al3x9zkl6kcgb3v5p0vcz/mton-80.png?rlkey=c97kubojskpjd98rhvdcomzqz&st=nzdm8bg5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/he1kabspnyroipveji13z/mton-80.png?rlkey=14vagxcwy8p9rb2utol01hrxx&st=wobfi4e1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hl3g7i2sbkfp04aiohxsy/Compression-of-Transfer-Function-H-f-8.png?rlkey=bninn40d198puziw6a9iyy68f&st=kigvi100&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/d2g1rx4xrn1cj9ermsfsc/Compression-of-Transfer-Function-H-f-80.png?rlkey=zrd1rfshwq3uflfmf5m752kdq&st=vp3e7yjt&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -275,15 +270,72 @@ The reason for the two measurements is to simulate running the speaker full rang
 See video linked above for full subjective and objective analysis. An AI-generated summarized transcript is provided below:
 
 
-The KEF Q11 speaker review highlights its exceptional sound performance, particularly in smaller to medium-sized rooms. The review discusses its design, setup recommendations, and sound characteristics, emphasizing its dark sound profile and the importance of room acoustics.
+* **Listening Impressions**
+  * Tonality was generally pleasing with a noticeable midbass thump around 100–160 Hz.
+  * Slight sibilance present, especially in higher-frequency content.
+  * Treble rolls off slightly compared to more “bright” or “detailed” speakers.
+  * Wide soundstage with immersive imaging; well-suited for nearfield listening.
+  * Bass extension reaches 50–60 Hz in-room, but SPL capability is limited.
+  * Vertical listening window is narrow (±20°), critical for nearfield setups.
+  * Horizontal radiation is wide (±60°), contributing to room ambiance.
 
-Highlights
-* Outstanding Performance: The KEF Q11 speakers deliver impressive sound quality, especially in smaller rooms.
-* Setup Tips: Optimal bass performance is achieved when positioned close to a wall.
-* Design Features: Incorporates a unique three-way design with a coaxial tweeter and mid-range driver.
-* Sound Profile: Presents a darker sound profile; rises in mid-range frequencies make it feel warmer.
-* Room Compatibility: Works best in rooms with sidewall reflections to enhance audio neutrality.
-* Community Event: A shoutout to local shop aviq for hosting a community event on January 25th.
+<br>
+
+* **Subjective vs Objective Correlation**
+  * Midbass bump contributed to fullness; 3–4 kHz peak adds brightness.
+  * Compared to KEF Reference 2 Meta, M4P has more midbass and slightly brighter treble.
+  * Farfield listening (10 ft / 3 m) reduces dynamic impact due to compression.
+  * SPL limitations become apparent at higher volumes, especially in dynamic passages.
+
+<br>
+
+* **Measurements & Data Highlights**
+  * On-axis response:
+    * Bump at 4–8 kHz (possible sibilance)
+    * Dip in lower midrange
+    * Smooth but rolled-off treble
+  * Sensitivity ~85 dB
+  * F3: 69 Hz, F10: 46 Hz
+  * CTA-2034:
+    * Minor non-linearity in 3–4 kHz region
+    * Vertical lobing causes midrange cancellation above/below tweeter axis
+    * Horizontal dispersion: ±60° through most of range
+  * Distortion:
+    * Acceptable at 86 dB SPL
+    * High second-order distortion at 96 dB
+    * Multi-tone distortion ~3% (borderline)
+  * Compression:
+    * Notable dynamic compression above ~85 dB SPL
+    * Short-term peak compression: ~1.1 dB
+    * Long-term: up to 3 dB loss in dynamic range at higher output
+  * Impedance:
+    * Nominal: 3.7 ohm
+    * EPDR: 1.7 ohm—requires good current delivery from amplifier
+
+<br>
+
+* **Final Thoughts**
+  * Strengths:
+    * Balanced tonality with pleasant midbass emphasis
+    * Wide horizontal radiation
+    * Great for nearfield listening
+  * Weaknesses:
+    * SPL and dynamic range limitations in farfield use
+    * Vertical directivity is narrow
+    * Compression and distortion increase with volume
+
+<br>
+
+* **Recommendation**
+  * A solid option for desktop or nearfield use where output demands are lower.
+  * Not ideal for farfield or high-volume listening environments.
+
+<br>
+
+* **Support Notes**
+  * If you appreciate these reviews, leave a comment or thumbs up.
+  * Support via Patreon, merch store, or affiliate links helps keep the channel going.
+
 
 
 

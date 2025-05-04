@@ -1,50 +1,50 @@
 ---
-title: "KEF Q11 Meta Speaker Review"
-date: 2025-01-13
+title: "Sonus faber Sonetto II G2 Speaker Review"
+date: 2025-01-20
 draft: false
-image: "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/35/991/g991Q11MWA-o_other0.jpg"
-description: "KEF Q11 Meta Review"
-Tags: ["KEF Q11 Meta Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
+image: "https://images.crutchfieldonline.com/ImageHandler/trim/3000/1950/products/2024/30/968/g968SN2G2WG-o_other3.jpg"
+description: "Sonus faber Sonetto II G2 Review"
+Tags: ["KEF Q11 Meta Review", "Sonus faber Sonetto II G2 Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-These speakers were loaned to me to review by the manufacturer. I was not paid nor did I receive any other form of compensation for this review.
+These speakers were loaned to me to review by a viewer. I was not paid nor did I receive any other form of compensation for this review.
+
+If you are interested in purchasing this speaker please consider using the link below:
+[Crutchfield]("https://howl.link/wc4r7jt85uydw")
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPIWppFirmk?si=EP1PWo784KwpxMOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EBQQtr9qIso?si=wlhKn_uhZNFdzZcO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
 
-[Manufacturer Specs](https://howl.link/xqkrbsh3av6px):
-* 3-way design
-* 3/4" vented aluminum dome tweeter with MAT absorber
-  *  MAT's maze-like construction absorbs up to 99% of unwanted sound behind the tweeter for clearer, more natural sound
-* 4" midrange driver
-  * tweeter and midrange use KEF's Uni-Q technology for greater dispersion and a wider "sweet spot"
-* three 6-1/2" hybrid aluminum bass drivers
-* frequency response: 44-20,000 Hz (±3dB)
-* sensitivity: 89 dB
+[Manufacturer Specs](https://howl.link/wc4r7jt85uydw):
+* 1-1/8" Damped Apex Dome (DAD) silk dome tweeter
+* 6-1/2" cone woofer with flower-shaped surround
+* concrete, aluminum, and steel base
+* integrated reflex duct reroutes airflow and increases placement flexibility
+* non-resonant, open pore wood cabinet in iconic lute-inspired shape
+* exterior leather flange around the tweeter and woofer
+* compatible with optional Sonetto G2 Stands
+* frequency response: 42-40,000 Hz
+* power handling: 30-200 watts
+* sensitivity: 87 dB
 * impedance: 4 ohms
-* recommended amplifier power: 15-225 watts
-* bass-reflex cabinet with two flared rear-firing ports for deep, articulate bass
-* detachable microfiber grille
-* includes plinth and rubber feet
-  * optional PQ1 plinth spike kit available separately for added stability
-* 12-1/2"W x 43-13/16"H x 15"D (including plinth and terminals)
-* weight: 49.6 lbs.
-* warranty: 5 years (6 years with registration)
+* made in Italy
+* Dimensions and warranty:8-15/16"W x 16-5/16"H x 14"D
+* weight: 22.93 lbs. each
 
 
 <br>
-As of this writing MSRP is approximately $2100/pair.
+As of this writing MSRP is approximately $2750/pair.
 <br>
 <br>
 
@@ -89,7 +89,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xase3ufqatfryg9o7xt90/CEA2034-KEF-Q11-Meta.png?rlkey=0i3jl6bkd0yvb5066k2xn6lbq&st=jx6hvv7a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yv4wvp0ftqrckhox164ds/CEA2034-Sonus-Faber-Sonetto-II-G2.png?rlkey=c5opoyuohbal5xck2zxhhlp50&st=z2ob0zvn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
@@ -110,7 +110,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yuqx0h8d8pdzc6per9oos/Early-Reflections.png?rlkey=6a3igase5772vvddll70kjed4&st=hp7t8e2d&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/8t2uyrh5y8u9ejss12qa6/Early-Reflections.png?rlkey=sgblrzb3pd79cya1y1aw3upgd&st=0175edbk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -123,17 +123,17 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/a5cnvle45m30yb5kv6knz/Estimated-In-Room-Response.png?rlkey=62jw5gst6nhx14b4l15ekzm4y&st=7brhg088&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p2ui55g609u8glmr45o8a/Estimated-In-Room-Response.png?rlkey=n3mxunk1ox4f7zqvjv7qzu6ot&st=mzqvymoj&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lxkztrh3wy2d3xn2hr1x7/KEF-Q11-Meta-Horizontal-Contour-Plot-Normalized.png?rlkey=twp4f52af7lxnfa5jrnjjthmb&st=if7en5rp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vwobe3u01iw4cvyh7otj0/Sonus-Faber-Sonetto-II-G2-Horizontal-Contour-Plot-Normalized.png?rlkey=4m7wug5v4ttjzkr74hfl7hfcq&st=i17bxjzy&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vpeig4bq45z36w6z7n7bg/KEF-Q11-Meta-Vertical-Contour-Plot-Normalized.png?rlkey=o57h7ss0d8wrzb301owbd6ew0&st=4j1y8xyb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wwe2hjz2dix29psoib6lo/Sonus-Faber-Sonetto-II-G2-Vertical-Contour-Plot-Normalized.png?rlkey=24e6t3von51fl17dggh7zs235&st=h0dojzde&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -144,7 +144,7 @@ Vertical Contour Plot (normalized):
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p9tr7c1yse6qfuul3jat6/KEF-Q11-Meta-Impedance.png?rlkey=xe3swq062aihoij08x4u03ufq&st=yvo4xxwo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1zyc2f2omph4bwm609v87/Sonus-faber-Sonetto-II-G2-Impedance.png?rlkey=0gz92hsbohfxkr6p66k0e8twy&st=mqiaprma&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -152,17 +152,17 @@ Vertical Contour Plot (normalized):
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/za37m36bieaocn63abkwz/KEF-Q11-Meta-FR_Linearity.png?rlkey=s6pq1ehvvco7lice5l3w7tgew&st=qv5byle4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/8oi8t2lf3xe4zdg0e06aw/Sonus-faber-Sonetto-II-G2-FR_Linearity.png?rlkey=mq3hh8u375lqp6vu0u6hz3cy0&st=3ub4at8g&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Horizontal Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hw9kh4e2gna1lpr6u0qd0/SPL-Horizontal.png?rlkey=kz0648qpf2iqs73uxx772s1y0&st=bj72y6sa&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/g4jymovf2a899yapj4yvp/SPL-Horizontal.png?rlkey=wtije6lthuh4d2l1oru5r5846&st=0oi4dco8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Vertical Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/leyg0xdjn3fdzfu5jsn53/SPL-Vertical.png?rlkey=9ajnv1uh7cx7xvs6rzvbnwwd4&st=1gnpgnlx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2odzutmqn5r60c2cst06i/SPL-Vertical.png?rlkey=awnr8cw2o0x807fkt1jrhnb4j&st=bbyer55g&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
@@ -175,7 +175,7 @@ Vertical Contour Plot (normalized):
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/l1ea87ybdxjqiaumm1ljj/KEF-Q11-Meta-Group-Delay.png?rlkey=sx4quu6dt6p2jad25pnsbb8ip&st=p53ikqie&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/4lbfovdgrjtblmi9267ov/Sonus-Faber-Sonetto-II-G2-Group-Delay.png?rlkey=v701wa056djqtshs7324qrclq&st=jiwlsmij&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -187,18 +187,18 @@ This data is full anechoic where most spectral decay type graphics are created u
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/o0idy2yrq993jfx785uur/BD.png?rlkey=lak5z2kfam9dx5sqxf8xdlm1t&st=0r8zn5t8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ssgooz1jiqrww5drpa3zd/BD.png?rlkey=ofzequtz2yr6sbxhugc50kgo8&st=jftps6rh&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5ko9n1nhquv0mm8yoy7f2/KEF-Q11-Meta-Harmonic-Distortion-86dB-1m.png?rlkey=nhcs3vn6imzsfm88gu77i8hns&st=qr4765gn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1nppnxspbt40oa7v2620n/Sonus-Faber-Sonetto-II-G2-Harmonic-Distortion-86dB-1m.png?rlkey=oh2ie45rmn5xlpovgs6dpykft&st=tzvvc4ap&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/65n0bbmb27bv6a4akvzkj/KEF-Q11-Meta-Harmonic-Distortion-96dB-1m.png?rlkey=vbgcrent97gmazymd6u1h10hl&st=mg2zp2y0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/f7mh3zj9chic98jhr1ri6/Sonus-Faber-Sonetto-II-G2-Harmonic-Distortion-96dB-1m.png?rlkey=q91rc8tdmm4pcsw0q75uoekj8&st=94f28l53&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -219,7 +219,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/b4iloo6typx6a1pg3s00h/KEF-Q11-Meta_Compression.png?rlkey=rasqo4wc7bx68qp3waez2pui8&st=klbzli67&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0wr8fjcpqm9owu03ysyzl/Sonus-faber-Sonetto-II-G2_Compression.png?rlkey=greb12nm78ictbdp3v1r5rkvh&st=k2lhikvq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -245,20 +245,20 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fshubbfirgwa6lwmchibc/mton-full.png?rlkey=4prabbuqxx6xtwa09t9ofu9by&st=4axuymmw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/jcfsscy1t3jwrbt92w05z/mton-full.png?rlkey=vo9ksdtkvty0bqerkr4e4cvxl&st=hf25k9ag&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w1we2zg54kyhftls2fitz/Compression-of-Transfer-Function-H-f-full.png?rlkey=0oh7rv8128buq991eq1fqsjkj&st=q5leadv3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/3dd5msllr6uddfdtxpfuu/Compression-of-Transfer-Function-H-f-full.png?rlkey=wqaeix5bftyr3dnw3puqudvqj&st=kjhqso9r&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/al3x9zkl6kcgb3v5p0vcz/mton-80.png?rlkey=c97kubojskpjd98rhvdcomzqz&st=nzdm8bg5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/cr38ejccl7bi6vyplc093/mton-80.png?rlkey=0corq6g6rgshhldylbaf7l97o&st=d1j8mo1a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hl3g7i2sbkfp04aiohxsy/Compression-of-Transfer-Function-H-f-8.png?rlkey=bninn40d198puziw6a9iyy68f&st=kigvi100&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/f5mzxnvf5glp9dcm2vglp/Compression-of-Transfer-Function-H-f-80.png?rlkey=6p5dpmn7j9bnt1ad1xt7zt4ua&st=61downrs&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -274,16 +274,17 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 See video linked above for full subjective and objective analysis. An AI-generated summarized transcript is provided below:
 
-
-The KEF Q11 speaker review highlights its exceptional sound performance, particularly in smaller to medium-sized rooms. The review discusses its design, setup recommendations, and sound characteristics, emphasizing its dark sound profile and the importance of room acoustics.
+Summary
+The comparison between Sonus Faber’s Sonetto II G2 and Lumina II highlights distinct tonal characteristics and usability, providing insights into their respective performance and placement needs in various environments.
 
 Highlights
-* Outstanding Performance: The KEF Q11 speakers deliver impressive sound quality, especially in smaller rooms.
-* Setup Tips: Optimal bass performance is achieved when positioned close to a wall.
-* Design Features: Incorporates a unique three-way design with a coaxial tweeter and mid-range driver.
-* Sound Profile: Presents a darker sound profile; rises in mid-range frequencies make it feel warmer.
-* Room Compatibility: Works best in rooms with sidewall reflections to enhance audio neutrality.
-* Community Event: A shoutout to local shop aviq for hosting a community event on January 25th.
+* Sound Profile: Sonetto II G2 features boosted treble but lacks warmth compared to Lumina II.
+* Placement Needs: Sonetto requires more spacing from the wall; recommended 1.5-2 feet for optimal sound.
+* Frequency Response: In-room response shows resonances and a tendency towards brightness, requiring careful aiming.
+* Directivity: Good horizontal directivity with some vertical mismatch; ideal listening position is ear-level with the tweeter.
+* Performance Data: Measurements reveal suitable dynamic range but some distortion present at higher volumes.
+* Room Treatment: Sidewall absorption not recommended; natural reflections maintain sound quality.
+
 
 
 

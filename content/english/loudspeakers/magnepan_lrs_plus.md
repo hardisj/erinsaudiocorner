@@ -1,50 +1,39 @@
 ---
-title: "KEF Q11 Meta Speaker Review"
-date: 2025-01-13
+title: "Magnepan LRS+ Speaker Review"
+date: 2025-02-27
 draft: false
-image: "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2024/35/991/g991Q11MWA-o_other0.jpg"
-description: "KEF Q11 Meta Review"
-Tags: ["KEF Q11 Meta Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
+image: "https://magnepan.com/cdn/shop/products/Speakers-3_1800x1800.jpg?v=1668298028"
+description: "Magnepan LRS+ Review"
+Tags: ["Magnepan LRS+ Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
 ---
 
 
 
 ## Foreword / YouTube Video Review
-These speakers were loaned to me to review by the manufacturer. I was not paid nor did I receive any other form of compensation for this review.
+These speakers were loaned to me to review by my local dealer: AVIQ in Huntsville, Alabama. I was not paid nor did I receive any other form of compensation for this review.
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dPIWppFirmk?si=EP1PWo784KwpxMOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PQemV-W48b8?si=V-vRLaQGmUbZRNsx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 <br>
 <br>
 
 
-[Manufacturer Specs](https://howl.link/xqkrbsh3av6px):
-* 3-way design
-* 3/4" vented aluminum dome tweeter with MAT absorber
-  *  MAT's maze-like construction absorbs up to 99% of unwanted sound behind the tweeter for clearer, more natural sound
-* 4" midrange driver
-  * tweeter and midrange use KEF's Uni-Q technology for greater dispersion and a wider "sweet spot"
-* three 6-1/2" hybrid aluminum bass drivers
-* frequency response: 44-20,000 Hz (±3dB)
-* sensitivity: 89 dB
-* impedance: 4 ohms
-* recommended amplifier power: 15-225 watts
-* bass-reflex cabinet with two flared rear-firing ports for deep, articulate bass
-* detachable microfiber grille
-* includes plinth and rubber feet
-  * optional PQ1 plinth spike kit available separately for added stability
-* 12-1/2"W x 43-13/16"H x 15"D (including plinth and terminals)
-* weight: 49.6 lbs.
-* warranty: 5 years (6 years with registration)
+[Manufacturer Specs](https://magnepan.com/products/magnepan-lrs-1):
+* Description	2-Way/Quasi Ribbon
+* Freq. Resp.	50 - 20 kHz
+* Rec Power	Read Frequently Asked Questions
+* Sensitivity	86dB / 500Hz / 2.83v
+* Impedance	4 Ohm
+* Dimensions	48" high x 13" wide x 1" deep
 
 
 <br>
-As of this writing MSRP is approximately $2100/pair.
+As of this writing MSRP is approximately $995/pair.
 <br>
 <br>
 
@@ -61,9 +50,9 @@ All data collected using [Klippel's Near-Field Scanner](http://www.klippel.de/pr
 <br>
 
 IMPORTANT SETUP INFO:
-This speaker was measured with the reference point at the tweeter.
+This speaker was measured with the reference point at the tweeter which is between the top two "buttons". This speaker is asymmetrical in design therefore they come in a matched pair. I measured the Left speaker.
+This speaker was also measured outdoors via the groundplane method to verify low frequency accuracy. This is discussed in the above video.
 Speaker was broken in.
-No grille was used.
 
 Measurements are provided in a format in accordance with the Standard Method of Measurement for In-Home Loudspeakers (ANSI/CTA-2034-A R-2020).  For more information, please see [this](https://shop.cta.tech/products/standard-method-of-measurement-for-in-home-loudspeakers) link.
 
@@ -89,7 +78,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xase3ufqatfryg9o7xt90/CEA2034-KEF-Q11-Meta.png?rlkey=0i3jl6bkd0yvb5066k2xn6lbq&st=jx6hvv7a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9p9jl7qa2bu5fdcn3x85a/CEA2034-Magnepan-LRS.png?rlkey=dvsa0ic80vsenqimxk4vx35xn&st=btm1nh3a&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
@@ -110,7 +99,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yuqx0h8d8pdzc6per9oos/Early-Reflections.png?rlkey=6a3igase5772vvddll70kjed4&st=hp7t8e2d&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w1bzem95lbbkjncsxf7u1/Early-Reflections.png?rlkey=a9cbgwcpv23nyfiy44ealgtya&st=eepba1r1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -123,17 +112,19 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/a5cnvle45m30yb5kv6knz/Estimated-In-Room-Response.png?rlkey=62jw5gst6nhx14b4l15ekzm4y&st=7brhg088&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/uzgt8a1ryddyk1og83w75/Estimated-In-Room-Response.png?rlkey=tk3te6rjcgazbz1rbdidtsojj&st=m5yuzvdv&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/43zxpt68z7bo8uzycwj3b/Estimated-In-Room-Response-2m-vs-4m.png?rlkey=tqeqq0yzbgkl2q1nxrui18qgw&st=9i4kzrgt&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <br>
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lxkztrh3wy2d3xn2hr1x7/KEF-Q11-Meta-Horizontal-Contour-Plot-Normalized.png?rlkey=twp4f52af7lxnfa5jrnjjthmb&st=if7en5rp&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vacc8xx1fc1aw7lj9kcf0/Magnepan-LRS-Horizontal-Contour-Plot-Normalized.png?rlkey=7apbvova76kz3atg97qdlh5bk&st=gmysgymn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vpeig4bq45z36w6z7n7bg/KEF-Q11-Meta-Vertical-Contour-Plot-Normalized.png?rlkey=o57h7ss0d8wrzb301owbd6ew0&st=4j1y8xyb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/uoz8s0ake4ijmkvppbj78/Magnepan-LRS-Vertical-Contour-Plot-Normalized.png?rlkey=6gig12sdu6lyblr3xu20zgnzh&st=e6y9ct0b&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -144,7 +135,7 @@ Vertical Contour Plot (normalized):
 ### Impedance
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p9tr7c1yse6qfuul3jat6/KEF-Q11-Meta-Impedance.png?rlkey=xe3swq062aihoij08x4u03ufq&st=yvo4xxwo&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/y2s14ginaqezolvm5oz8n/Magnepan-LRS-Impedance.png?rlkey=r9xuim3mcn8grkyn8b2b56ar6&st=mungsc1m&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -152,30 +143,30 @@ Vertical Contour Plot (normalized):
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/za37m36bieaocn63abkwz/KEF-Q11-Meta-FR_Linearity.png?rlkey=s6pq1ehvvco7lice5l3w7tgew&st=qv5byle4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/jg0zk6n21dadc2nwu3yvl/Magnepan-LRS-FR_Linearity.png?rlkey=2wt6ei59ghb3dcoe82a9t6lqv&st=7z0odesf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Horizontal Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hw9kh4e2gna1lpr6u0qd0/SPL-Horizontal.png?rlkey=kz0648qpf2iqs73uxx772s1y0&st=bj72y6sa&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1vkil4lr00bawbgmzpomf/SPL-Horizontal.png?rlkey=3wk201lo324t5yramzr84w659&st=wdhlgjpz&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Vertical Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/leyg0xdjn3fdzfu5jsn53/SPL-Vertical.png?rlkey=9ajnv1uh7cx7xvs6rzvbnwwd4&st=1gnpgnlx&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/q5vduk1u7cn21gvl9d0rv/SPL-Vertical.png?rlkey=ko5rg0xb6sqnx9rxji5zizt7e&st=v586p1bh&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/oxp4gk6wjalvg9tkuo6wk/KEF-Q11-Meta-Step-Response.png?rlkey=s3h8ps1o6lfjfr4s9euzdbjpq&st=caw86o4w&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5mbexgu7e3w5h2871oez6/Magnepan-LRS-Step-Response.png?rlkey=a92g0kgnz1bp2ka4rqx5f7kg8&st=gwgtjwl7&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/l1ea87ybdxjqiaumm1ljj/KEF-Q11-Meta-Group-Delay.png?rlkey=sx4quu6dt6p2jad25pnsbb8ip&st=p53ikqie&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6a2wigq0cmg8ir2ukam0v/Magnepan-LRS-Group-Delay.png?rlkey=o68big0l1tl31me8bts99r9iu&st=mboskivh&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -187,18 +178,18 @@ This data is full anechoic where most spectral decay type graphics are created u
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/o0idy2yrq993jfx785uur/BD.png?rlkey=lak5z2kfam9dx5sqxf8xdlm1t&st=0r8zn5t8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5vwmgqb8p0bxqdb2m848b/BD.png?rlkey=a6arxax0i7xyqev6wubl2i9ca&st=9b2m8xfe&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/5ko9n1nhquv0mm8yoy7f2/KEF-Q11-Meta-Harmonic-Distortion-86dB-1m.png?rlkey=nhcs3vn6imzsfm88gu77i8hns&st=qr4765gn&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/jjintyrgcb64pzfyxzclj/Magnepan-LRS-Harmonic-Distortion-86dB-1m.png?rlkey=0pp2b6hkjvs9u33k4jd86ufel&st=0gcpjlat&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/65n0bbmb27bv6a4akvzkj/KEF-Q11-Meta-Harmonic-Distortion-96dB-1m.png?rlkey=vbgcrent97gmazymd6u1h10hl&st=mg2zp2y0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/uwvfy6o5344uzwgngbn0m/Magnepan-LRS-Harmonic-Distortion-96dB-1m.png?rlkey=a1m1ycvediwx3v0p7ylfhe2re&st=6cljzscc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -219,7 +210,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/b4iloo6typx6a1pg3s00h/KEF-Q11-Meta_Compression.png?rlkey=rasqo4wc7bx68qp3waez2pui8&st=klbzli67&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bw4axmhz1fa53z6x0ycw6/Magnepan-LRS-_Compression.png?rlkey=m648t847jio04hz4z3uzbt5nx&st=gn3ccrfl&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -245,20 +236,20 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fshubbfirgwa6lwmchibc/mton-full.png?rlkey=4prabbuqxx6xtwa09t9ofu9by&st=4axuymmw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/muoaqgyf9bcarm41t2ay0/mton-full.png?rlkey=y12v51kya3rg2sk8fvhfhqpfs&st=nakkdlju&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w1we2zg54kyhftls2fitz/Compression-of-Transfer-Function-H-f-full.png?rlkey=0oh7rv8128buq991eq1fqsjkj&st=q5leadv3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w6ruqjwqh6dtdzh32k6pg/Compression-of-Transfer-Function-H-f-full.png?rlkey=qw1ii73n5dhxez5lkil255w18&st=n31prdev&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/al3x9zkl6kcgb3v5p0vcz/mton-80.png?rlkey=c97kubojskpjd98rhvdcomzqz&st=nzdm8bg5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0s3r9c5dx2f6la0jzo2p9/mton-80.png?rlkey=iic6mmu9qmpnihtmdl2lo5c9o&st=s2hecob2&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/hl3g7i2sbkfp04aiohxsy/Compression-of-Transfer-Function-H-f-8.png?rlkey=bninn40d198puziw6a9iyy68f&st=kigvi100&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ozuk7bzint2t7c9x2nro3/Compression-of-Transfer-Function-H-f-80.png?rlkey=96fgnbidlr42xnbzffpw7fz3y&st=6wrx31rq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -274,16 +265,76 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 See video linked above for full subjective and objective analysis. An AI-generated summarized transcript is provided below:
 
+* **Listening Setup**
+  * Used with Macintosh C55 preamp and MC611 monoblocks (600W each)
+  * Also tested with MC275 tube amp
 
-The KEF Q11 speaker review highlights its exceptional sound performance, particularly in smaller to medium-sized rooms. The review discusses its design, setup recommendations, and sound characteristics, emphasizing its dark sound profile and the importance of room acoustics.
+<br>
 
-Highlights
-* Outstanding Performance: The KEF Q11 speakers deliver impressive sound quality, especially in smaller rooms.
-* Setup Tips: Optimal bass performance is achieved when positioned close to a wall.
-* Design Features: Incorporates a unique three-way design with a coaxial tweeter and mid-range driver.
-* Sound Profile: Presents a darker sound profile; rises in mid-range frequencies make it feel warmer.
-* Room Compatibility: Works best in rooms with sidewall reflections to enhance audio neutrality.
-* Community Event: A shoutout to local shop aviq for hosting a community event on January 25th.
+* **Subjective Listening – Cons**
+  * Midbass recessed (100–300 Hz); vocals and fundamentals lack body
+  * Subtle boxy coloration due to ~400 Hz bump
+    * EQ’ing this area by ~2 dB helps
+  * No low bass – requires a subwoofer
+  * Position-sensitive both vertically and horizontally
+    * Moving head even slightly disrupts imaging and tonal balance
+  * Tiny sweet spot – poor off-axis performance
+  * Power-hungry – even high-end monoblocks pushed hard at 90 dB
+  * Setup is very finicky – “not a set-it-and-forget-it” speaker
+  * Struggles with high dynamic peaks; fails 26 dB test
+  * High distortion below 100 Hz and at louder levels
+
+<br>
+
+* **Subjective Listening – Pros**
+  * Once properly positioned and EQ’d, the speaker is engaging and fun
+  * Imaging is laser-focused, especially in the center
+  * Soundstage is vast, holographic, and reacts strongly to recording quality
+    * Not limited to classical; works well with many genres
+  * Imaging and spatial presentation are unique and addictively different
+  * Reviewer listened for pleasure more than most other recent speakers
+
+<br>
+
+* **Objective Measurements Summary**
+  * On-axis response shows ~3 dB dip in midbass
+  * Peak around 400 Hz matches subjective boxiness
+  * F3 = 74 Hz, F10 = 67 Hz — very fast bass roll-off
+  * Burst decay shows notable ringing – not all planar speakers have fast decay
+  * Horizontal directivity: strong front/back projection, deep side nulls
+  * Vertical directivity: very narrow band of acceptable listening height
+    * Sweet spot located between tweeter’s two bottom buttons
+  * Multi-tone distortion:
+    * Moderate distortion at ~88 dB
+    * Rises significantly by 96 dB
+    * Uniquely consistent across full range
+  * Dynamic compression:
+    * Acceptable at moderate volumes (~88 dB)
+    * Loses composure at higher levels and during fast transients
+
+<br>
+
+* **Setup Tips**
+  * Toe-in is essential — aim directly at ears
+  * Place at least 2–2.5 feet from front wall
+  * Sit with ears aligned to acoustic midpoint between tweeter’s bottom buttons
+  * Avoid angling them outward — treble disappears
+
+<br>
+
+* **Final Verdict**
+  * Objectively flawed but subjectively delightful when set up correctly
+  * Not suitable for all listeners or rooms
+  * Wouldn’t replace high-end traditional designs, but great for a secondary system
+  * Unique imaging and spatial traits make them a compelling experience
+  * Reviewer is eager to try higher-end Magnepan models
+
+<br>
+
+* **Closing Notes**
+  * Thanks to AVIQ for the speaker loan
+  * Support via Patreon or affiliate links is appreciated
+  * Like, subscribe, and comment to help the channel grow
 
 
 
