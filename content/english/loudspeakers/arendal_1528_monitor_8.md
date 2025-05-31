@@ -93,7 +93,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/rm90a2u89br757ykmjyop/CEA2034-Arendal-1528-Monitor-8.png?rlkey=fgpqgt7obiwhd2cc14ompkoip&st=cdz3lj0y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rm90a2u89br757ykmjyop/CEA2034-Arendal-1528-Monitor-8.png?rlkey=fgpqgt7obiwhd2cc14ompkoip&st=cdz3lj0y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 <br>
 
@@ -114,7 +114,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://www.dropbox.com/scl/fi/us8d78g0ki8jtouu5ic8c/Early-Reflections.png?rlkey=b37z25pocf2ti6aumgkr39j6c&st=743mhjxl&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/us8d78g0ki8jtouu5ic8c/Early-Reflections.png?rlkey=b37z25pocf2ti6aumgkr39j6c&st=743mhjxl&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -127,17 +127,17 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://www.dropbox.com/scl/fi/kbb0jlzv3uo7ofn5li6ab/Estimated-In-Room-Response.png?rlkey=5n6z8429a5h0rtmqfikl7cu9t&st=yzh2bqym&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/kbb0jlzv3uo7ofn5li6ab/Estimated-In-Room-Response.png?rlkey=5n6z8429a5h0rtmqfikl7cu9t&st=yzh2bqym&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://www.dropbox.com/scl/fi/1vntvv2wnjvbbplugc7oq/Arendal-1528-Monitor-8-Horizontal-Contour-Plot-Normalized.png?rlkey=xkg6npzssl2f1pyu7pnqimxol&st=ejzj860b&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1vntvv2wnjvbbplugc7oq/Arendal-1528-Monitor-8-Horizontal-Contour-Plot-Normalized.png?rlkey=xkg6npzssl2f1pyu7pnqimxol&st=ejzj860b&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://www.dropbox.com/scl/fi/0vgoe91om0xv08hb3pa72/Arendal-1528-Monitor-8-Vertical-Contour-Plot-Normalized.png?rlkey=27t1j2boq13awnnvbr7qxhsuc&st=w1kjt6n1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/0vgoe91om0xv08hb3pa72/Arendal-1528-Monitor-8-Vertical-Contour-Plot-Normalized.png?rlkey=27t1j2boq13awnnvbr7qxhsuc&st=w1kjt6n1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -148,7 +148,7 @@ Vertical Contour Plot (normalized):
 ### Impedance
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/y3bcj28usryvlmhvodhp4/Arendal-1528-Monitor-8-Impedance.png?rlkey=11mykjvnwttfz2o06cb9p47r6&st=36ptuol4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/y3bcj28usryvlmhvodhp4/Arendal-1528-Monitor-8-Impedance.png?rlkey=11mykjvnwttfz2o06cb9p47r6&st=36ptuol4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -156,30 +156,30 @@ Vertical Contour Plot (normalized):
 ### Response Linearity
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/buiwtus1hrxrzu12vlw23/Arendal-1528-Monitor-8-FR_Linearity.png?rlkey=b4jjp7ccg9yiyt8lcm8etop77&st=ghfamb9y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/buiwtus1hrxrzu12vlw23/Arendal-1528-Monitor-8-FR_Linearity.png?rlkey=b4jjp7ccg9yiyt8lcm8etop77&st=ghfamb9y&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Horizontal Frequency Response:
-<img align="left" src="https://www.dropbox.com/scl/fi/u2h50t44tkb4sqbsw6pth/SPL-Horizontal.png?rlkey=s79309299yldiwqffx0x2rb2e&st=f538gni9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/u2h50t44tkb4sqbsw6pth/SPL-Horizontal.png?rlkey=s79309299yldiwqffx0x2rb2e&st=f538gni9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Vertical Frequency Response:
-<img align="left" src="https://www.dropbox.com/scl/fi/evig2653ukeymj5zav47g/SPL-Vertical.png?rlkey=gvmuvqyxk38e2w07rwjt1l3x0&st=jwuxl781&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/evig2653ukeymj5zav47g/SPL-Vertical.png?rlkey=gvmuvqyxk38e2w07rwjt1l3x0&st=jwuxl781&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Step Response
 
-<img align="left" src="https://www.dropbox.com/scl/fi/xxaqbdccyklp309cjduvg/Arendal-1528-Monitor-8-Step-Response.png?rlkey=eej2vv9p7aegornjnexv5l44l&st=k6ez6amm&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xxaqbdccyklp309cjduvg/Arendal-1528-Monitor-8-Step-Response.png?rlkey=eej2vv9p7aegornjnexv5l44l&st=k6ez6amm&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://www.dropbox.com/scl/fi/iy5t1v2un7jghzwmc86hq/Arendal-1528-Monitor-8-Group-Delay.png?rlkey=lfu5yxa1b2c7pavtni6lreahi&st=6v95fpax&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/iy5t1v2un7jghzwmc86hq/Arendal-1528-Monitor-8-Group-Delay.png?rlkey=lfu5yxa1b2c7pavtni6lreahi&st=6v95fpax&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -191,18 +191,18 @@ This data is full anechoic where most spectral decay type graphics are created u
 
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/g75hku7xuiwbf38go45bd/BD.png?rlkey=lsvyj3o8803pc7go9sx9fey49&st=nmggh6oi&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/g75hku7xuiwbf38go45bd/BD.png?rlkey=lsvyj3o8803pc7go9sx9fey49&st=nmggh6oi&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://www.dropbox.com/scl/fi/c3nrogpspyvoc6icxktjx/Arendal-1528-Monitor-8-Harmonic-Distortion-86dB-1m.png?rlkey=cbley68samtuhjk7b0gkylgsf&st=oilu1dv5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/c3nrogpspyvoc6icxktjx/Arendal-1528-Monitor-8-Harmonic-Distortion-86dB-1m.png?rlkey=cbley68samtuhjk7b0gkylgsf&st=oilu1dv5&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://www.dropbox.com/scl/fi/damovjgy1zqgz3qxvr394/Arendal-1528-Monitor-8-Harmonic-Distortion-96dB-1m.png?rlkey=b8cf2jvvm36wrlylmvurh9gmp&st=yzktskb0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/damovjgy1zqgz3qxvr394/Arendal-1528-Monitor-8-Harmonic-Distortion-96dB-1m.png?rlkey=b8cf2jvvm36wrlylmvurh9gmp&st=yzktskb0&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -223,7 +223,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://www.dropbox.com/scl/fi/x4bk2w8dfgw1fxnemc0th/Arendal-1528-Monitor-8_Compression.png?rlkey=ojnvouvpc9p7t6g4sel3867x2&st=bo8ozghq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/x4bk2w8dfgw1fxnemc0th/Arendal-1528-Monitor-8_Compression.png?rlkey=ojnvouvpc9p7t6g4sel3867x2&st=bo8ozghq&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -249,20 +249,20 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://www.dropbox.com/scl/fi/9q6lmuovpccu09vr7oem5/mton-full.png?rlkey=krpqmhn6xw56zlrrc2mgo0znm&st=9ngomyi4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9q6lmuovpccu09vr7oem5/mton-full.png?rlkey=krpqmhn6xw56zlrrc2mgo0znm&st=9ngomyi4&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://www.dropbox.com/scl/fi/7vf0rb3hmwrbk9aduuqox/Compression-of-Transfer-Function-H-f-full.png?rlkey=qfs10kdj6ewyf4ao62ecabil5&st=f5qojlq3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/7vf0rb3hmwrbk9aduuqox/Compression-of-Transfer-Function-H-f-full.png?rlkey=qfs10kdj6ewyf4ao62ecabil5&st=f5qojlq3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://www.dropbox.com/scl/fi/a1egavkbqrofy7rpc56ki/mton-80.png?rlkey=uovfgag4t0z9m5ys5t51n0hs1&st=icxtwkr1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/a1egavkbqrofy7rpc56ki/mton-80.png?rlkey=uovfgag4t0z9m5ys5t51n0hs1&st=icxtwkr1&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://www.dropbox.com/scl/fi/b8it38816njptlebiysx6/Compression-of-Transfer-Function-H-f-80.png?rlkey=cl533d254i41zgfzn8i8ey64x&st=oldpqp4n&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/b8it38816njptlebiysx6/Compression-of-Transfer-Function-H-f-80.png?rlkey=cl533d254i41zgfzn8i8ey64x&st=oldpqp4n&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
