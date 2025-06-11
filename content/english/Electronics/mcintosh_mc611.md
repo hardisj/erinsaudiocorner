@@ -55,11 +55,6 @@ As of this writeup, the MSRP is approximately $9,500 USD each (increased from $8
 
 <u>Overview</u>
 
-The McIntosh MC611 is a class A/B monoblock amplifier, rated at 600w at any load - 2, 4 or 8 ohms - thanks to McIntosh's autoformer. Price is approximately $8000/each or $16,000 pair. They are due for a price hike on June 1st, so if you're looking at any Mc gear you should talk to your local dealer asap.
-
-
-More info: [McIntosh MC611 Product Page](https://www.mcintoshlabs.com/products/amplifiers/MC611)
-
 I purchased a pair of these late last year. I have been wanting a set of McIntosh monoblocks for as long as I can remember. Toward the end of last year I got an offer on a pair of the MC611's I couldn't refuse and said "screw it". You only live once and can't take it with you, so I closed my eyes and hit the figurative buy button.
 
 I had no plans to test and review this amplifier because I don't like reviewing things I can't provide data for, and at nearly 100 pounds, and the fact that my measurement PC is upstairs, I figured I'd never be able to test this. Well, yesterday I made it happen. I set one up on a sled and pushed it upstairs and then a "gravity assist" back down the stairs to put it back in its natural environment. So here we are.
@@ -162,9 +157,13 @@ It's worth noting that this amp implements McIntosh's "Power Guard", which is us
 <u>Bench Mode Results</u>
 
 The following sections provide screenshots of the bench testing which uses single test tones, IMD, and Multitone test signals. The screenshots can be viewed in the following manner:
-Remember, this is a single-channel amplifier so ignore Channel 2 results. For IMD and Multitone testing note the input voltage which is intended to match the single-tone input voltage to meet a desired power output. For example, to achieve ~5 watts with a single 1kHz tone I used 410.0 mVrms which gives a reading of 5.029 watts. This same voltage was used for IMD testing but the panel shows 3.405 watts and for multitone results in 1.073 watts.
 
 <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/stnxo8p1kkm3f1k2fh8by/panel.png?rlkey=nih7td37jfsl9mhue2eypvcm2&st=gcegzc80&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+<br>
+
+Remember, this is a single-channel amplifier so ignore Channel 2 results. For IMD and Multitone testing note the input voltage which is intended to match the single-tone input voltage to meet a desired power output. For example, to achieve ~5 watts with a single 1kHz tone I used 410.0 mVrms which gives a reading of 5.029 watts. This same voltage was used for IMD testing but the panel shows 3.405 watts and for multitone results in 1.073 watts.
+
 <br>
 <br>
 
