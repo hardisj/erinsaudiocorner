@@ -158,6 +158,12 @@ During the majority of my test, I focused on the 4-Ohm setup. So what I talk abo
 <br>
 <br>
 
+<u>Crosstalk</u>
+
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/81nwpzzvdeznybr0gqglh/WiiM-Amp-Ultra_-Crosstalk.png?rlkey=zvcsd6briu2qclqski6cdrjo3&st=js0zaasd&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
+<br>
+
 <u>Bench Mode Results</u>
 
 The following sections provide screenshots of the bench testing which uses single test tones, IMD, and Multitone test signals. The screenshots can be viewed in the following manner:
