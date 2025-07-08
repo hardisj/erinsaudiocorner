@@ -1,103 +1,136 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<html lang="en"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant="" defer=""></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Select a Speaker Category</title>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;display=swap" rel="stylesheet">
   <style>
     body {
       font-family: 'Open Sans', sans-serif;
+      background: #fff;
+      color: #111;
       margin: 0;
       padding: 0;
-      background-color: #fff;
-      color: #111;
     }
-    .header {
-      background-color: #111;
+
+    header {
+      background-color: #1d2024;
       color: white;
-      padding: 1rem;
-      font-weight: bold;
-    }
-    .return-link {
-      font-size: 0.9rem;
-      color: #ccc;
-      text-decoration: none;
-    }
-    h1 {
+      padding: 1rem 2rem -0.5rem;
       text-align: center;
-      margin: 2rem 0 1rem;
     }
-    .grid {
+
+    .return-link {
+      text-align: left;
+      font-size: 0.8rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .return-link a {
+      color: white;
+      text-decoration: none;
+      font-weight: 300;
+    }
+
+    header h1 {
+      font-size: 1.75rem;
+      font-weight: 800;
+      margin: 0.5rem 0 1.5rem;
+    }
+
+    .card-container {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      grid-template-columns: repeat(2, 1fr);
       gap: 2rem;
-      max-width: 1000px;
-      margin: 0 auto 3rem;
+      max-width: 900px;
+      margin: 2rem auto 3rem;
       padding: 0 1rem;
     }
-    .card {
-      background-color: #f9f9f9;
-      border-radius: 1rem;
-      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-      overflow: hidden;
-      transition: transform 0.2s ease;
-      text-align: center;
-    }
-    .card:hover {
-      transform: scale(1.02);
-    }
-    .card img {
-      width: 100%;
-      height: 200px;
-      object-fit: cover;
-      display: block;
-    }
-    .card-title {
-      padding: 1rem;
-      font-weight: 700;
-      font-size: 1.1rem;
-      color: #0073e6;
+
+    .card-link {
       text-decoration: none;
-      display: block;
+      color: inherit;
     }
-    .card-title:hover {
-      text-decoration: underline;
+
+    .category-card {
+      background: #f9f9f9;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      text-align: center;
+      padding: 1rem;
+      transition: transform 0.2s ease;
+    }
+
+    .category-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+    }
+
+    .category-card img {
+      width: 100%;
+      height: 180px;
+      object-fit: contain;
+      border-radius: 6px;
+      margin-bottom: 1rem;
+      background-color: white;
+    }
+
+
+    .category-card h2 {
+      font-size: 1.2rem;
+      margin: 0.5rem 0;
+      color: #006bb3;
+    }
+
+    @media (max-width: 768px) {
+      .card-container {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+      }
+
+      header {
+        text-align: center;
+      }
+
+      .return-link {
+        text-align: center;
+        margin-bottom: 0.5rem;
+      }
     }
   </style>
 </head>
-<body>
-  <div class="header">
-    <a class="return-link" href="/">← Return to Main Page</a>
-  </div>
+<body data-new-gr-c-s-check-loaded="14.1243.0" data-gr-ext-installed="" style="">
+  <header>
+    <div class="return-link">
+      <a href="/">← Return to Main Page</a>
+    </div>
+    <h1>Select a Speaker Category</h1>
+  </header>
 
-  <h1>Select a Speaker Category</h1>
-
-  <div class="grid">
-    <div class="card">
-      <a href="/speakers/bookshelf/">
+  <div class="card-container">
+    <a class="card-link" href="/leaderboard/bookshelf/">
+      <div class="category-card">
         <img src="https://cdn.ecoustics.com/db0/wblob/17BA35E873D594/2ACA/42CC8/lGN_HDwh0tfSSQWvrGqwg9pFjHRDHRsdRYWVb8gLYTU/kef-reference-black-copper-with-stands.jpg" alt="Bookshelf Speakers">
-        <span class="card-title">Bookshelf Speakers</span>
-      </a>
-    </div>
-    <div class="card">
-      <a href="/speakers/tower/">
+        <h2>Bookshelf Speakers</h2>
+      </div>
+    </a>
+    <a class="card-link" href="/leaderboard/tower/">
+      <div class="category-card">
         <img src="https://www.accessories4less.com/mas_assets/cache/image/5/a/2/d/23085.Jpg" alt="Tower Speakers">
-        <span class="card-title">Tower Speakers</span>
-      </a>
-    </div>
-    <div class="card">
-      <a href="/speakers/centerchannel/">
-        <img src="https://linqcdn.avbportal.com/images/08e79620-bd1c-4f3f-9feb-69be9e03a561.jpg" alt="Center Channel Speakers">
-        <span class="card-title">Center Channel</span>
-      </a>
-    </div>
-    <div class="card">
-      <a href="/speakers/desktop/">
-        <img src="https://edifier-online.com/cdn/shop/files/1_09ae5a43-4279-426b-b6d6-e4b73bbcb53d.png?v=1729541153&width=1780" alt="Desktop Speakers">
-        <span class="card-title">Desktop Speakers</span>
-      </a>
-    </div>
+        <h2>Tower Speakers</h2>
+      </div>
+    </a>
+    <a class="card-link" href="/leaderboard/centerchannel/">
+      <div class="category-card">
+        <img src="https://linqcdn.avbportal.com/images/08e79620-bd1c-4f3f-9feb-69be9e03a561.jpg" alt="Center Channel">
+        <h2>Center Channel</h2>
+      </div>
+    </a>
+    <a class="card-link" href="/leaderboard/desktop/">
+      <div class="category-card">
+        <img src="https://edifier-online.com/cdn/shop/files/1_09ae5a43-4279-426b-b6d6-e4b73bbcb53d.png?v=1729541153&amp;width=1780" alt="Desktop Speakers">
+        <h2>Desktop Speakers</h2>
+      </div>
+    </a>
   </div>
-</body>
 </html>
