@@ -1,54 +1,104 @@
-uglyURLs = false
-################################# Default configuration ###################
+# Site Metadata
 baseURL = "https://erinsaudiocorner.com/"
 languageCode = "en-us"
 title = "Erin's Audio Corner"
 theme = "meghna-hugo"
-# post pagination
-pagination = { pagerSize = 10 }
-# post excerpt
+uglyURLs = false
 summaryLength = "15"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = []
-[markup.goldmark.renderer]
-unsafe= true
 
-############################# Plugins ##########################
-# css plugins
+[pagination]
+pageSize = 10
+
+
+# Language Settings
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages.en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+
+# Markup
+[markup.goldmark.renderer]
+unsafe = true
+
+# Params
+[params]
+logo = "https://dl.dropboxusercontent.com/s/7l7gj78pzfv5ufv/watermark%20-%20for%20site.png?dl=0"
+description = "The Sound of Science"
+author = "E"
+google_analitycs_id = "UA-156925516-1"
+post_share = true
+
+[params.preloader]
+enable = false
+preloader = "images/logos/speaker_trans_tshirt.png"
+
+# Map (optional)
+[params.map]
+enable = false
+gmap_api = "YOUR_GOOGLE_MAP_API_KEY"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+# Social Links
+[[params.social]]
+icon = "ti-facebook"
+link = "https://www.facebook.com/groups/607627396679113/?ref=group_header"
+
+[[params.social]]
+icon = "ti-youtube"
+link = "https://www.youtube.com/user/hardisj/featured"
+
+# CSS Plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
+
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+
 [[params.plugins.css]]
 link = "plugins/animate-css/animate.css"
+
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
+
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
+
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
 
-# js plugins
+# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
+
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
+
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
+
 [[params.plugins.js]]
 link = "plugins/shuffle/shuffle.min.js"
+
 [[params.plugins.js]]
 link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+
 [[params.plugins.js]]
 link = "plugins/wow/wow.min.js"
+
 [[params.plugins.js]]
 link = "plugins/lazy-load/lozad.min.js"
+
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 
-############################# Navigation ##################################
+# Navigation Menu
 [[menu.main]]
 name = "Drive Units"
 URL = "driveunits"
@@ -74,66 +124,7 @@ name = "Leaderboard"
 URL = "leaderboard"
 weight = 5
 
-#[[menu.main]]
-#name = "About Me"
-#URL = "about"
-#weight = 6
-
-#[[menu.main]]
-#name = "Contact"
-#URL = "contact"
-#weight = 6
-
-#[[menu.main]]
-#name = "Time Delay"
-#URL = "timedelaycalc"
-#weight =
-
-
 [[menu.main]]
 name = "Contribute"
 URL = "contribute"
 weight = 6
-
-############################# Default Parameters ##########################
-[params]
-logo = "https://dl.dropboxusercontent.com/s/7l7gj78pzfv5ufv/watermark%20-%20for%20site.png?dl=0"  # banner logo (at top/bottom)
-# Meta data
-description = "The Sound of Science"
-author = "E"
-# Google Analitycs
-google_analitycs_id = "UA-156925516-1" # Your ID
-# post share
-post_share = true
-# themecss
-## customCSS = [ "custom.css" ]
-
-# preloader
-[params.preloader]
-enable = false
-preloader = "images/logos/speaker_trans_tshirt.png" # pre-loader logo
-
-# google map
-[params.map]
-enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
-map_marker = "images/marker.png"
-
-############################# social icons ##########################
-[[params.social]]
-icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.facebook.com/groups/607627396679113/?ref=group_header"
-
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "https://www.youtube.com/user/hardisj/featured"
-
-################################ English Language ########################
-[languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-home = "Home"
