@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IKEA SYMFONISK on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/ikea-symfonisk/</link>
+    <link>http://localhost:1313/tags/ikea-symfonisk/</link>
     <description>Recent content in IKEA SYMFONISK on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/ikea-symfonisk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/ikea-symfonisk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IKEA SYMFONISK Lamp Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/ikea_symfonisk_lamp/</link>
+      <link>http://localhost:1313/loudspeakers/ikea_symfonisk_lamp/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/ikea_symfonisk_lamp/</guid>
-      <description>Foreword / YouTube Video Review I purchased this speaker myself out of pure curiosity.
-The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/ikea_symfonisk_lamp/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;I purchased this speaker myself out of pure curiosity.&lt;/p&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

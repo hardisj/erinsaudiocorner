@@ -2,7 +2,7 @@
 title: "ELAC DB63 Bookshelf Speaker Review"
 date: 2024-10-14
 draft: false
-image: "https://www.elac.com/img/product/db63-bk/Debut-V3.1571.webp"
+image: "https://images.crutchfieldonline.com/ImageHandler/trim/750/457/products/2025/2/970/g970DB63WN-o_other3.jpg"
 description : "Kanto YU4 Speaker"
 Tags: ["Kanto YU4 Speaker", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---

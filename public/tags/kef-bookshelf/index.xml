@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kef Bookshelf on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/kef-bookshelf/</link>
+    <link>http://localhost:1313/tags/kef-bookshelf/</link>
     <description>Recent content in Kef Bookshelf on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/kef-bookshelf/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/kef-bookshelf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kef Q150 Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/kef_q150/</link>
+      <link>http://localhost:1313/loudspeakers/kef_q150/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/kef_q150/</guid>
-      <description>Foreword / YouTube Video Review I purchased this speaker myself with help from Patreon funds.</description>
+      <guid>http://localhost:1313/loudspeakers/kef_q150/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;I purchased this speaker myself with help from Patreon funds.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

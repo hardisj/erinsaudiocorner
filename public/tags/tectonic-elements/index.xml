@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tectonic Elements on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/tectonic-elements/</link>
+    <link>http://localhost:1313/tags/tectonic-elements/</link>
     <description>Recent content in Tectonic Elements on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jun 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/tectonic-elements/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/tectonic-elements/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tectonic Elements TEBM35C10-4 Miniature BMR® Driver Review</title>
-      <link>https://erinsaudiocorner.com/driveunits/tectonic-elements-tebm35c10-4-miniature-bmr-driver/</link>
+      <link>http://localhost:1313/driveunits/tectonic-elements-tebm35c10-4-miniature-bmr-driver/</link>
       <pubDate>Thu, 30 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/driveunits/tectonic-elements-tebm35c10-4-miniature-bmr-driver/</guid>
-      <description>A few years back&amp;hellip;
-I was browsing the Parts-Express website and came upon some products from Tectonic Elements that I thought were interesting: the BMR series speakers.</description>
+      <guid>http://localhost:1313/driveunits/tectonic-elements-tebm35c10-4-miniature-bmr-driver/</guid>
+      <description>&lt;iframe src=&#34;//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;p=48&amp;l=ur1&amp;category=amazonhomepage&amp;f=ifr&amp;linkID=45d00811e11005f66cf1dcae88dc3060&amp;t=medlemusin-20&amp;tracking_id=medlemusin-20&#34; width=&#34;728&#34; height=&#34;90&#34; scrolling=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; style=&#34;border:none;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;br clear=&#34;all&#34; /&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Reviews/Drivers/Tectonics/TEBM35C10-4/IMG_3960.jpg&#34; alt=&#34;TEBM35C10&#34;&gt;&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Reviews/Drivers/Tectonics/TEBM35C10-4/IMG_3962.jpg&#34; alt=&#34;TEBM35C10&#34;&gt;&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;A few years back&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;I was browsing the Parts-Express website and came upon some products from Tectonic Elements that I thought were interesting: the BMR series speakers.  BMR stands for Balanced Mode Radiator.  Some words from their website:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

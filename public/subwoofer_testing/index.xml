@@ -2,50 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Subwoofer_testings on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/subwoofer_testing/</link>
+    <link>http://localhost:1313/subwoofer_testing/</link>
     <description>Recent content in Subwoofer_testings on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/subwoofer_testing/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/subwoofer_testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arendal 1961 1S Powered Subwoofer</title>
+      <link>http://localhost:1313/subwoofer_testing/arendal_1961_1s/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/subwoofer_testing/arendal_1961_1s/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This speaker was loaned to me for review by the manufacturer.  The manufacturer did not see the review before public release.  If you are interested in purchasing these, please consider doing so through the below affiliate link:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arendal 1961 1V Powered Subwoofer</title>
+      <link>http://localhost:1313/subwoofer_testing/arendal_1961_1v/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/subwoofer_testing/arendal_1961_1v/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This speaker was loaned to me for review by the manufacturer.  The manufacturer did not see the review before public release.  If you are interested in purchasing these, please consider doing so through the below affiliate link:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RSL Speedwoofer 12S Powered Subwoofer</title>
+      <link>http://localhost:1313/subwoofer_testing/rsl_speedwoofer_12s/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/subwoofer_testing/rsl_speedwoofer_12s/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  More so, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Monoprice Monolith 13in THX Certified Ultra 2000-Watt Powered Subwoofer</title>
-      <link>https://erinsaudiocorner.com/subwoofer_testing/monolith_13_thx_ultra/</link>
+      <link>http://localhost:1313/subwoofer_testing/monolith_13_thx_ultra/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/subwoofer_testing/monolith_13_thx_ultra/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/subwoofer_testing/monolith_13_thx_ultra/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  More so, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SVS SB-2000 Pro vs SB-3000 Subwoofer Shootout</title>
-      <link>https://erinsaudiocorner.com/subwoofer_testing/svs_sb3000_vs_sb2000pro/</link>
+      <link>http://localhost:1313/subwoofer_testing/svs_sb3000_vs_sb2000pro/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/subwoofer_testing/svs_sb3000_vs_sb2000pro/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/subwoofer_testing/svs_sb3000_vs_sb2000pro/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  More so, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CEA-2010 Subwoofer Testing</title>
-      <link>https://erinsaudiocorner.com/subwoofer_testing/cea-2010_subwoofer_testing/</link>
+      <link>http://localhost:1313/subwoofer_testing/cea-2010_subwoofer_testing/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/subwoofer_testing/cea-2010_subwoofer_testing/</guid>
-      <description>Foreword This page serves as a Master Link to my subwoofer testing which can be found here:</description>
+      <guid>http://localhost:1313/subwoofer_testing/cea-2010_subwoofer_testing/</guid>
+      <description>&lt;iframe src=&#34;//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;p=48&amp;l=ur1&amp;category=amazonhomepage&amp;f=ifr&amp;linkID=45d00811e11005f66cf1dcae88dc3060&amp;t=medlemusin-20&amp;tracking_id=medlemusin-20&#34; width=&#34;728&#34; height=&#34;90&#34; scrolling=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; style=&#34;border:none;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;br clear=&#34;all&#34; /&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h1 id=&#34;foreword&#34;&gt;Foreword&lt;/h1&gt;&#xA;&lt;p&gt;This page serves as a Master Link to my subwoofer testing which can be found here:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rythmik Audio F12G Direct Servo Subwoofer In-Depth Review</title>
-      <link>https://erinsaudiocorner.com/subwoofer_testing/rythmik-f12g-direct-servo-subwoofer/</link>
+      <link>http://localhost:1313/subwoofer_testing/rythmik-f12g-direct-servo-subwoofer/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/subwoofer_testing/rythmik-f12g-direct-servo-subwoofer/</guid>
-      <description>Foreword: Rather than discuss only the performance of the enclosed subwoofer, I want to present some more, detailed information that not even some manufacturers are able to obtain.</description>
+      <guid>http://localhost:1313/subwoofer_testing/rythmik-f12g-direct-servo-subwoofer/</guid>
+      <description>&lt;h2 id=&#34;foreword&#34;&gt;Foreword:&lt;/h2&gt;&#xA;&lt;p&gt;Rather than discuss only the performance of the enclosed subwoofer, I want to present some more, detailed information that not even some manufacturers are able to obtain. I will be using my own Klippel Distortion Analyzer and software modules to extract raw subwoofer driver data so we can assess the raw driver performance. This is telling because, simply put, if you start with garbage you will never achieve anything better than garbage. It&amp;rsquo;s always nice to know what is at the base of a system and this can help determine potential pitfalls in design and use.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

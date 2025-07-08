@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Floorstanding on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/floorstanding/</link>
+    <link>http://localhost:1313/tags/floorstanding/</link>
     <description>Recent content in Floorstanding on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/floorstanding/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/floorstanding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Revel PerformaBe F226Be Floorstanding Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/revel_f226be/</link>
+      <link>http://localhost:1313/loudspeakers/revel_f226be/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/revel_f226be/</guid>
-      <description>YouTube Video Review version: Intro The Revel Performa F226Be is a “compact” floorstanding 3-way loudspeaker from Revel’s PerformaBe lineup featuring (2) 6.</description>
+      <guid>http://localhost:1313/loudspeakers/revel_f226be/</guid>
+      <description>&lt;iframe src=&#34;//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;p=48&amp;l=ur1&amp;category=amazonhomepage&amp;f=ifr&amp;linkID=45d00811e11005f66cf1dcae88dc3060&amp;t=medlemusin-20&amp;tracking_id=medlemusin-20&#34; width=&#34;728&#34; height=&#34;90&#34; scrolling=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; style=&#34;border:none;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;br clear=&#34;all&#34; /&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;youtube-video-review-version&#34;&gt;YouTube Video Review version:&lt;/h2&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/r1JjCVVgIdc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;a href=&#34;https://www.revelspeakers.com/products/types/floorstanding/F226BE-.html?dwvar_F226BE-_color=Black%20Gloss-GLOBAL-Current&amp;amp;cgid=floorstanding&#34;&gt;Revel Performa F226Be&lt;/a&gt; is a “compact” floorstanding 3-way loudspeaker from Revel’s PerformaBe lineup featuring (2) 6.5-inch midwoofers, a single 5.25-inch midrange and a 1-inch Beryllium dome tweeter on a waveguide.  This speaker retails for $3500 USD/each ($7k USD/pair).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

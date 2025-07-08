@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wharfedale LX Mini 85th Anniversary review on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/wharfedale-lx-mini-85th-anniversary-review/</link>
-    <description>Recent content in Wharfedale LX Mini 85th Anniversary review on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Wharfedale LX Mini 85th Anniversary Review on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/wharfedale-lx-mini-85th-anniversary-review/</link>
+    <description>Recent content in Wharfedale LX Mini 85th Anniversary Review on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/wharfedale-lx-mini-85th-anniversary-review/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/wharfedale-lx-mini-85th-anniversary-review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wharfedale 12.1 Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/wharfedale_12_1/</link>
+      <link>http://localhost:1313/loudspeakers/wharfedale_12_1/</link>
       <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/wharfedale_12_1/</guid>
-      <description>Foreword / YouTube Video Review I purchased these speakers myself to review with funds from Patreon/PayPal/Affiliate Link revenue.</description>
+      <guid>http://localhost:1313/loudspeakers/wharfedale_12_1/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;I purchased these speakers myself to review with funds from Patreon/PayPal/Affiliate Link revenue. If you would like to help in this regard please see the &amp;ldquo;support&amp;rdquo; section at the bottom of this review.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

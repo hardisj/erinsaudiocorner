@@ -2,41 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bose on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/bose/</link>
+    <link>http://localhost:1313/tags/bose/</link>
     <description>Recent content in Bose on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Jun 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/bose/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/bose/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bose SoundLink Revolve vs Revolve&#43; Bluetooth Speaker</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/bose_soundlink_comparison/</link>
+      <link>http://localhost:1313/loudspeakers/bose_soundlink_comparison/</link>
       <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/bose_soundlink_comparison/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/bose_soundlink_comparison/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bose TV Speaker Soundbar Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/bose_tv_speaker_soundbar/</link>
+      <link>http://localhost:1313/loudspeakers/bose_tv_speaker_soundbar/</link>
       <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/bose_tv_speaker_soundbar/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/bose_tv_speaker_soundbar/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bose 901 Series V Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/bose_901_series_v/</link>
+      <link>http://localhost:1313/loudspeakers/bose_901_series_v/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/bose_901_series_v/</guid>
-      <description>YouTube Video Review version: Intro A few things that need to be stated up front before people skip this and go to the pictures:</description>
+      <guid>http://localhost:1313/loudspeakers/bose_901_series_v/</guid>
+      <description>&lt;iframe src=&#34;//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;p=48&amp;l=ur1&amp;category=amazonhomepage&amp;f=ifr&amp;linkID=45d00811e11005f66cf1dcae88dc3060&amp;t=medlemusin-20&amp;tracking_id=medlemusin-20&#34; width=&#34;728&#34; height=&#34;90&#34; scrolling=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; style=&#34;border:none;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;br clear=&#34;all&#34; /&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;youtube-video-review-version&#34;&gt;YouTube Video Review version:&lt;/h2&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/SRmJo3y5JQI&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;br clear=&#34;all&#34; /&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;&#xA;&lt;p&gt;A few things that need to be stated up front before people skip this and go to the pictures:&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

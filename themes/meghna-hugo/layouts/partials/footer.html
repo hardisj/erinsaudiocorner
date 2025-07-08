@@ -13,14 +13,25 @@
 					</ul>
 				</div>
 
-				{{"<!-- copyright -->" | safeHTML}}
+
+
 				<div class="copyright text-center">
-					<a href="{{ .Site.BaseURL | absLangURL }}">
-						<img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
-					</a>
-					<br>
-					<p>{{ i18n "copyright" | markdownify }}</p>
-				</div>
+  <a href="{{ .Site.BaseURL | absLangURL }}">
+    <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
+  </a>
+  <br>
+  <p>{{ i18n "copyright" | markdownify }}</p>
+</div>
+
+<!-- Affiliate and legal notice -->
+<div class="affiliate-disclaimer text-center" style="font-size: 0.8rem; color: #ffffff; margin-top: 1rem;">
+  <p>
+    This page contains affiliate links. If you purchase something through one of these links, I may earn a small commission at no additional cost to you. Thanks for supporting the work I do!
+    <br>
+    &copy; 2025 Erin's Audio Corner. All rights reserved. All trademarks and product names are the property of their respective owners. Reviews and opinions expressed here are solely my own.
+  </p>
+</div>
+
 			</div>
 		</div>
 	</div>

@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>12mu on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/12mu/</link>
+    <link>http://localhost:1313/tags/12mu/</link>
     <description>Recent content in 12mu on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Oct 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/12mu/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/12mu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ScanSpeak Illuminator 12MU/4731T-00</title>
-      <link>https://erinsaudiocorner.com/driveunits/scanspeak-illuminator-12mu_4731t-00/</link>
+      <link>http://localhost:1313/driveunits/scanspeak-illuminator-12mu_4731t-00/</link>
       <pubDate>Mon, 22 Oct 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/driveunits/scanspeak-illuminator-12mu_4731t-00/</guid>
-      <description>Up for test is the Scanspeak Illuminator 12MU/4731T-00 4.5&amp;rdquo; Midrange - 4 ohm.
-Note: For a while I didn&amp;rsquo;t have the means to measure frequency response accurately.</description>
+      <guid>http://localhost:1313/driveunits/scanspeak-illuminator-12mu_4731t-00/</guid>
+      <description>&lt;iframe src=&#34;//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;p=48&amp;l=ur1&amp;category=amazonhomepage&amp;f=ifr&amp;linkID=45d00811e11005f66cf1dcae88dc3060&amp;t=medlemusin-20&amp;tracking_id=medlemusin-20&#34; width=&#34;728&#34; height=&#34;90&#34; scrolling=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; style=&#34;border:none;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;br clear=&#34;all&#34; /&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;Up for test is the &lt;a href=&#34;https://www.madisoundspeakerstore.com/approx-4-midrange/scanspeak-illuminator-12mu/4731t-00-4.5-midrange-4-ohm/&#34;&gt;Scanspeak Illuminator 12MU/4731T-00 4.5&amp;quot; Midrange - 4 ohm&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Note: For a while I didn&amp;rsquo;t have the means to measure frequency response accurately.  Rather than do it halfway I decided it best to not attempt it.  So this is one of the reviews I completed at that time and thus there is no FR/HD data.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

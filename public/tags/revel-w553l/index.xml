@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Revel W553L on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/revel-w553l/</link>
+    <link>http://localhost:1313/tags/revel-w553l/</link>
     <description>Recent content in Revel W553L on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/revel-w553l/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/revel-w553l/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Revel W553L In-Wall Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/revel_w553l/</link>
+      <link>http://localhost:1313/loudspeakers/revel_w553l/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/revel_w553l/</guid>
-      <description>Foreword / YouTube Video Review This speaker was loaned to me by John Schuermann, owner of [(https://www.</description>
+      <guid>http://localhost:1313/loudspeakers/revel_w553l/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This speaker was loaned to me by John Schuermann, owner of [(https://www.thescreeningroomav.com/)] Colorado Springs / Las Vegas, for review and were received brand new in box.  The speaker received countless hours&amp;rsquo; worth of playtime using broadband stimulus to alleviate any concerns of &amp;ldquo;break in&amp;rdquo;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

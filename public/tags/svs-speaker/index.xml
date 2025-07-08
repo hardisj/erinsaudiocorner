@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SVS speaker on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/svs-speaker/</link>
-    <description>Recent content in SVS speaker on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>SVS Speaker on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/svs-speaker/</link>
+    <description>Recent content in SVS Speaker on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Dec 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/svs-speaker/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/svs-speaker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SVS Ultra Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/svs_ultra_bookshelf/</link>
+      <link>http://localhost:1313/loudspeakers/svs_ultra_bookshelf/</link>
       <pubDate>Sun, 04 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/svs_ultra_bookshelf/</guid>
-      <description>Foreword / YouTube Video Review These speakers were loaned to me by SVS directly. I was not paid for this review and SVS has not seen the review prior to public release.</description>
+      <guid>http://localhost:1313/loudspeakers/svs_ultra_bookshelf/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were loaned to me by SVS directly.  I was not paid for this review and SVS has not seen the review prior to public release.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>SVS Prime Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/svs_prime_bookshelf/</link>
+      <link>http://localhost:1313/loudspeakers/svs_prime_bookshelf/</link>
       <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/svs_prime_bookshelf/</guid>
-      <description>Foreword / YouTube Video Review These speakers were loaned to me by SVS directly. I was not paid for this review and SVS has not seen the review prior to public release.</description>
+      <guid>http://localhost:1313/loudspeakers/svs_prime_bookshelf/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were loaned to me by SVS directly.  I was not paid for this review and SVS has not seen the review prior to public release.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

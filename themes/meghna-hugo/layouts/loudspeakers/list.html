@@ -1,31 +1,39 @@
 {{ define "main" }}
-
-{{ partial "navigation.html" . }}
-
-{{"<!-- Start Blog Section -->" | safeHTML}}
-<section id="blog" class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        {{"<!-- section title -->" | safeHTML}}
-        <div class="title text-center wow fadeInDown">
-          <h2>Loudspeakers</h2>
-          <div class="border-meghna"></div>
+  {{ partial "navigation.html" . }}
+  <section id="blog" class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title">Loudspeakers</h2>
+        </div>
+        <div class="col-12">
+          <!-- Search input (only one shown) -->
+          <input type="text" id="searchInput" placeholder="Search by brand or speaker..."
+                 onkeyup="filterReviews()"
+                 style="padding: 0.5rem; width: 100%; max-width: 500px; margin-bottom: 1rem; font-size: 1rem;" />
+        </div>
+        <div class="col-12">
+          {{ range .Pages.ByDate.Reverse }}
+            <div class="review-entry mb-2">
+              <strong class="review-title">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </strong>
+              <span class="review-date"> — {{ .Date.Format "Jan 2, 2006" }}</span>
+            </div>
+          {{ end }}
         </div>
       </div>
-      {{"<!-- /section title -->" | safeHTML}}
-      {{ $paginator := .Paginate .Data.Pages }}
-      {{ range $paginator.Pages }}
-      <div class="">
-        <div class="">
-          <strong><a style="font-size: 1.3em" href="{{ .Permalink }}">{{ .Title }}</a></strong>
-          <p>{{ .Summary }}</p>
-        </div>
-      </div>
-      {{ end }}
     </div>
-  </div>
-</section>
-{{"<!-- /blog -->" | safeHTML}}
-
+  </section>
+  <script>
+    function filterReviews() {
+      var input = document.getElementById("searchInput");
+      var filter = input.value.toLowerCase();
+      var entries = document.getElementsByClassName("review-entry");
+      for (var i = 0; i < entries.length; i++) {
+        var title = entries[i].innerText.toLowerCase();
+        entries[i].style.display = title.includes(filter) ? "" : "none";
+      }
+    }
+  </script>
 {{ end }}

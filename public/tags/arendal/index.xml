@@ -2,41 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arendal on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/arendal/</link>
+    <link>http://localhost:1313/tags/arendal/</link>
     <description>Recent content in Arendal on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/arendal/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/arendal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arendal 1723 BOOKSHELF S Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/arendal_1723_thx_s/</link>
+      <link>http://localhost:1313/loudspeakers/arendal_1723_thx_s/</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/arendal_1723_thx_s/</guid>
-      <description>Foreword / YouTube Video Review These speakers were loaned to me for review by Arendal. I was not paid for the review and I sent them back.</description>
+      <guid>http://localhost:1313/loudspeakers/arendal_1723_thx_s/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were loaned to me for review by Arendal.  I was not paid for the review and I sent them back.  Arendal did not see the review before publication.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Arendal 1961 Tower Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/arendal_1961_tower/</link>
+      <link>http://localhost:1313/loudspeakers/arendal_1961_tower/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/arendal_1961_tower/</guid>
-      <description>Foreword / YouTube Video Review Arendal loaned me this pair of speakers to review. They have not seen the review prior to publication.</description>
+      <guid>http://localhost:1313/loudspeakers/arendal_1961_tower/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;Arendal loaned me this pair of speakers to review.  They have not seen the review prior to publication.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Arendal 1961 Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/arendal_1961_bookshelf/</link>
+      <link>http://localhost:1313/loudspeakers/arendal_1961_bookshelf/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/arendal_1961_bookshelf/</guid>
-      <description>Foreword / YouTube Video Review Arendal loaned me this pair of speakers to review. They have not seen the review prior to publication.</description>
+      <guid>http://localhost:1313/loudspeakers/arendal_1961_bookshelf/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;Arendal loaned me this pair of speakers to review.  They have not seen the review prior to publication.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

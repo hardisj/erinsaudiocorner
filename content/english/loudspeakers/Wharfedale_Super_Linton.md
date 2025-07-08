@@ -277,7 +277,7 @@ The reason for the two measurements is to simulate running the speaker full rang
 <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/lkghcgl3y1tyjuko8e9y8/mton-80.png?rlkey=hze1v97aj3eljdmfms04o9yyk&st=3fwdynm9&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https:/https://dl.dropboxusercontent.com/scl/fi/rlnzx0ixr42bqvxm7kovg/Compression-of-Transfer-Function-H-f-80.png?rlkey=cl7sri6podaaat0oram0rml03&st=8rw26ltw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/rlnzx0ixr42bqvxm7kovg/Compression-of-Transfer-Function-H-f-80.png?rlkey=cl7sri6podaaat0oram0rml03&st=8rw26ltw&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 

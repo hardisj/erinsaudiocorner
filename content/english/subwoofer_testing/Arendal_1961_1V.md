@@ -7,6 +7,9 @@ description : "Arendal 1961 1V"
 Tags: ["arendal 1961 subwoofer", "SVS", "svs subwoofer", "svs sb-2000 pro", "svs sb-3000", "monolith", "monolith subwoofer", "Arendal 1961 1S", "monoprice subwoofer", "monoprice"]
 ---
 
+
+
+
 ## Foreword / YouTube Video Review
 This speaker was loaned to me for review by the manufacturer.  The manufacturer did not see the review before public release.  If you are interested in purchasing these, please consider doing so through the below affiliate link:
 * [Buy from Arendal](https://arendalsound.com/store/product/1961-subwoofer-1v/?refer=hardisj)

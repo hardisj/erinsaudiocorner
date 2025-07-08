@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S400 on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/s400/</link>
+    <link>http://localhost:1313/tags/s400/</link>
     <description>Recent content in S400 on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jun 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/s400/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/s400/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buchardt Audio S400 Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/buchardt_audio_s400_bookshelf/</link>
+      <link>http://localhost:1313/loudspeakers/buchardt_audio_s400_bookshelf/</link>
       <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/buchardt_audio_s400_bookshelf/</guid>
-      <description>YouTube Video Review version: Intro: A few months ago, I came across a forum post that touched on Buchardt Audio&amp;rsquo;s S400 bookshelf speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/buchardt_audio_s400_bookshelf/</guid>
+      <description>&lt;iframe src=&#34;//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;p=48&amp;l=ur1&amp;category=amazonhomepage&amp;f=ifr&amp;linkID=45d00811e11005f66cf1dcae88dc3060&amp;t=medlemusin-20&amp;tracking_id=medlemusin-20&#34; width=&#34;728&#34; height=&#34;90&#34; scrolling=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; style=&#34;border:none;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;br clear=&#34;all&#34; /&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;youtube-video-review-version&#34;&gt;YouTube Video Review version:&lt;/h2&gt;&#xA;&lt;iframe style=&#34;display: block; margin: auto;&#34; width=&#34;630&#34; height=&#34;472.5&#34;&#xD;&#xA;src=&#34;https://www.youtube.com/embed/SD37No6qgPE&#34;  &gt;&#xD;&#xA;&lt;/iframe&gt;&#xD;&#xA;&lt;br clear=&#34;all&#34; /&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;intro&#34;&gt;Intro:&lt;/h2&gt;&#xA;&lt;p&gt;A few months ago, I came across a forum post that touched on &lt;a href=&#34;https://www.buchardtaudio.com/shop/s400-white&#34;&gt;Buchardt Audio&amp;rsquo;s S400 bookshelf speaker&lt;/a&gt;.  I took a visit to their website to read about it and was (pleasantly) surprised to find the manufacturer provides a set of objective data as well as thorough explanation regarding the design choices.  For example: the discussion regarding the tweeter/waveguide assembly and the benefit of controlled directivity (which is, essentially, maintaining the same response profile as the listener moves off-axis from the intended listening axis; the output decreases but the shape varies little when compared to conventional tweeter designs).  I don&amp;rsquo;t have the funds to make costly purchases for review, so I reached out to Mads at Buchardt and inquired about getting a demo pair to try out.  Yes, I know to some that is bothersome as it could imply bias but that&amp;rsquo;s how it is when you&amp;rsquo;re on a budget and no owner is willing to offer their own samples for test.  Mads appreciated that my review goal was objective-data oriented and arranged for me to receive a demo set.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

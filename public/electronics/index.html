@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="utf-8">
 	<title>Electronics</title>
 
@@ -10,38 +10,40 @@
 		content="The Sound of Science">
 	
 	<meta name="author" content="E">
-	<meta name="generator" content="Hugo 0.63.2" />
+	<meta name="generator" content="Hugo 0.147.9">
 
 	<!-- plugins -->
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/bootstrap/bootstrap.min.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/bootstrap/bootstrap.min.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/themify-icons/themify-icons.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/themify-icons/themify-icons.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/animate-css/animate.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/animate-css/animate.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/magnific-popup/magnific-popup.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/magnific-popup/magnific-popup.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/slick/slick.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/slick/slick.css ">
 	
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Anaheim%7cQuattrocento&#43;Sans:400,700&amp;display=swap ">
 	
 
 	<!-- Main Stylesheet -->
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/css/style.min.css" media="screen">
+	<link rel="stylesheet" href="http://localhost:1313/css/style.min.css" media="screen">
 
 	<!--Favicon-->
-	<link rel="shortcut icon" href="https://erinsaudiocorner.com/images/favicon.png " type="image/x-icon">
-	<link rel="icon" href="https://erinsaudiocorner.com/images/favicon.png " type="image/x-icon">
+	<link rel="shortcut icon" href="http://localhost:1313/images/favicon.png " type="image/x-icon">
+	<link rel="icon" href="http://localhost:1313/images/favicon.png " type="image/x-icon">
+
+	<link rel="stylesheet" href="/custom.css">
 
 </head>
+
 
 <body id="body" data-spy="scroll" data-target=".navbar" data-offset="55">
   <div id="content">
     
-
-<!-- Fixed Navigation -->
+  <!-- Fixed Navigation -->
 <nav id="navigation" class="navbar navbar-expand-lg navigation sticky-top">
 	<div class="container">
 
@@ -65,7 +67,7 @@
 		
 		<div class="collapse navbar-collapse" id="navigation">
 			<ul class="navbar-nav ml-auto navigation-menu">
-				<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+				<li class="nav-item"><a class="nav-link" href="/"></a></li>
 				
 				<li class="nav-item"><a class="nav-link" href="/driveunits">Drive Units</a></li>
 				
@@ -75,11 +77,7 @@
 				
 				<li class="nav-item"><a class="nav-link" href="/electronics">Electronics</a></li>
 				
-				<li class="nav-item"><a class="nav-link" href="/testmethods">Test Methods</a></li>
-				
-				<li class="nav-item"><a class="nav-link" href="/about">About Me</a></li>
-				
-				<li class="nav-item"><a class="nav-link" href="/timedelaycalc">Time Delay</a></li>
+				<li class="nav-item"><a class="nav-link" href="/leaderboard">Leaderboard</a></li>
 				
 				<li class="nav-item"><a class="nav-link" href="/contribute">Contribute</a></li>
 				
@@ -88,80 +86,98 @@
 		
 		<!-- /main nav -->
 
-		
+
     
+		
 	</div>
 </nav>
 <!-- End Fixed Navigation -->
 
-
-<!-- Start Blog Section -->
-<section id="blog" class="section">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <!-- section title -->
-        <div class="title text-center wow fadeInDown">
-          <h2> Latest <span class="color">
-                </span></h2>
-          <div class="border-meghna"></div>
+  <section id="blog" class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h2 class="section-title">Electronics</h2>
+        </div>
+        <div class="col-12">
+          
+          <input type="text" id="searchInput" placeholder="Search by brand or speaker..."
+                 onkeyup="filterReviews()"
+                 style="padding: 0.5rem; width: 100%; max-width: 500px; margin-bottom: 1rem; font-size: 1rem;" />
+        </div>
+        <div class="col-12">
+          
+            <div class="review-entry mb-2">
+              <strong class="review-title">
+                <a href="http://localhost:1313/electronics/wiim_amp_ultra/">WiiM Amp Ultra Streaming Amplifier Review</a>
+              </strong>
+              <span class="review-date"> — Jun 30, 2025</span>
+            </div>
+          
+            <div class="review-entry mb-2">
+              <strong class="review-title">
+                <a href="http://localhost:1313/electronics/mcintosh_mc611/">McIntosh MC611 Mono Amplifier Review</a>
+              </strong>
+              <span class="review-date"> — Jun 11, 2025</span>
+            </div>
+          
+            <div class="review-entry mb-2">
+              <strong class="review-title">
+                <a href="http://localhost:1313/electronics/fosi_za3/">Fosi Audio ZA3 Balanced Stereo Amplifier Review</a>
+              </strong>
+              <span class="review-date"> — Mar 16, 2024</span>
+            </div>
+          
+            <div class="review-entry mb-2">
+              <strong class="review-title">
+                <a href="http://localhost:1313/electronics/nad_c_3050/">NAD C 3050 BluOS-D Inetgrated Amplifier Review</a>
+              </strong>
+              <span class="review-date"> — Feb 29, 2024</span>
+            </div>
+          
+            <div class="review-entry mb-2">
+              <strong class="review-title">
+                <a href="http://localhost:1313/electronics/wiim_amp/">WiiM Amp Streaming Amplifier Review</a>
+              </strong>
+              <span class="review-date"> — Feb 16, 2024</span>
+            </div>
+          
+            <div class="review-entry mb-2">
+              <strong class="review-title">
+                <a href="http://localhost:1313/electronics/mcintosh_mc462/">McIntosh MC462 Stereo Amplifier Review</a>
+              </strong>
+              <span class="review-date"> — Apr 12, 2023</span>
+            </div>
+          
+            <div class="review-entry mb-2">
+              <strong class="review-title">
+                <a href="http://localhost:1313/electronics/mcintosh_mx100/">McIntosh MX100 A/V Processor Review</a>
+              </strong>
+              <span class="review-date"> — Mar 24, 2023</span>
+            </div>
+          
+            <div class="review-entry mb-2">
+              <strong class="review-title">
+                <a href="http://localhost:1313/electronics/minidsp_cdsp_8x12_with_diraclive/">MiniDSP C-DSP 8x12 with Dirac Live Review</a>
+              </strong>
+              <span class="review-date"> — Aug 14, 2019</span>
+            </div>
+          
         </div>
       </div>
-      <!-- /section title -->
-      
-      
-      <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
-  <div class="post-block">
-    <div class="media-wrapper">
-      <img class="img-fluid lozad" data-src="https://erinsaudiocorner.com/" onerror="this.onerror=null;this.src='https:\/\/dl.dropboxusercontent.com\/s\/zvli91mexxgc3od\/InkedDSC03825.jpg?dl=0'">
     </div>
-
-    <div class="content">
-      <h3><a href="https://erinsaudiocorner.com/electronics/mcintosh_mc462/">McIntosh MC462 Stereo Amplifier Review</a></h3>
-      <p>Foreword / YouTube Video Review This item was loaned to me by McIntosh. I was not paid nor given anything in return for this review.</p>
-      <a class="btn btn-transparent" href="https://erinsaudiocorner.com/electronics/mcintosh_mc462/">Read more</a>
-    </div>
-  </div>
-</article>
-      
-      <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
-  <div class="post-block">
-    <div class="media-wrapper">
-      <img class="img-fluid lozad" data-src="https://erinsaudiocorner.com/" onerror="this.onerror=null;this.src='https:\/\/dl.dropboxusercontent.com\/s\/6szgsxa0ya36y6l\/DSC03814.JPG?dl=0'">
-    </div>
-
-    <div class="content">
-      <h3><a href="https://erinsaudiocorner.com/electronics/mcintosh_mx100/">McIntosh MX100 A/V Processor Review</a></h3>
-      <p>Foreword / YouTube Video Review This A/V Processor was loaned to me by McIntosh. I was not paid nor given anything in return for this review.</p>
-      <a class="btn btn-transparent" href="https://erinsaudiocorner.com/electronics/mcintosh_mx100/">Read more</a>
-    </div>
-  </div>
-</article>
-      
-      <article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp mb-4" data-wow-duration="500ms">
-  <div class="post-block">
-    <div class="media-wrapper">
-      <img class="img-fluid lozad" data-src="https://erinsaudiocorner.com/" onerror="this.onerror=null;this.src='https:\/\/erinsaudiocorner.com\/images\/Reviews\/Electronics\/minidsp_cdsp_8x12DL\/minidsp_cdsp8x12.jpg'">
-    </div>
-
-    <div class="content">
-      <h3><a href="https://erinsaudiocorner.com/electronics/minidsp_cdsp_8x12_with_diraclive/">MiniDSP C-DSP 8x12 with Dirac Live Review</a></h3>
-      <p>Foreword: Up for review is the MiniDSP C-DSP 8x12 with Dirac Live. This can be purchased directly from miniDSP.</p>
-      <a class="btn btn-transparent" href="https://erinsaudiocorner.com/electronics/minidsp_cdsp_8x12_with_diraclive/">Read more</a>
-    </div>
-  </div>
-</article>
-      
-      <div class="col-12">
-        
-
-
-      </div>
-    </div>
-  </div>
-</section>
-<!-- /blog -->
-
+  </section>
+  <script>
+    function filterReviews() {
+      var input = document.getElementById("searchInput");
+      var filter = input.value.toLowerCase();
+      var entries = document.getElementsByClassName("review-entry");
+      for (var i = 0; i < entries.length; i++) {
+        var title = entries[i].innerText.toLowerCase();
+        entries[i].style.display = title.includes(filter) ? "" : "none";
+      }
+    }
+  </script>
 
   </div><!-- end Contact Area -->
 <footer id="footer" class="section-bg">
@@ -180,14 +196,25 @@
 					</ul>
 				</div>
 
-				<!-- copyright -->
+
+
 				<div class="copyright text-center">
-					<a href="https://erinsaudiocorner.com/">
-						<img src="https://dl.dropboxusercontent.com/s/7l7gj78pzfv5ufv/watermark%20-%20for%20site.png?dl=0" alt="Erin&#39;s Audio Corner" />
-					</a>
-					<br>
-					<p>copyright © 2019 <a href="https://gethugothemes.com">gethugothemes</a> all right reserved</p>
-				</div>
+  <a href="http://localhost:1313/">
+    <img src="https://dl.dropboxusercontent.com/s/7l7gj78pzfv5ufv/watermark%20-%20for%20site.png?dl=0" alt="Erin&#39;s Audio Corner" />
+  </a>
+  <br>
+  <p>copyright © 2019 <a href="https://gethugothemes.com">gethugothemes</a> all right reserved</p>
+</div>
+
+
+<div class="affiliate-disclaimer text-center" style="font-size: 0.8rem; color: #ffffff; margin-top: 1rem;">
+  <p>
+    This page contains affiliate links. If you purchase something through one of these links, I may earn a small commission at no additional cost to you. Thanks for supporting the work I do!
+    <br>
+    &copy; 2025 Erin's Audio Corner. All rights reserved. All trademarks and product names are the property of their respective owners. Reviews and opinions expressed here are solely my own.
+  </p>
+</div>
+
 			</div>
 		</div>
 	</div>
@@ -199,26 +226,26 @@
 
 <!-- JS Plugins -->
 
-<script src="https://erinsaudiocorner.com/plugins/jquery/jquery.min.js"></script>
+<script src="http://localhost:1313/plugins/jquery/jquery.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="http://localhost:1313/plugins/bootstrap/bootstrap.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/slick/slick.min.js"></script>
+<script src="http://localhost:1313/plugins/slick/slick.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/shuffle/shuffle.min.js"></script>
+<script src="http://localhost:1313/plugins/shuffle/shuffle.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="http://localhost:1313/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/wow/wow.min.js"></script>
+<script src="http://localhost:1313/plugins/wow/wow.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/lazy-load/lozad.min.js"></script>
+<script src="http://localhost:1313/plugins/lazy-load/lozad.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/google-map/map.js"></script>
+<script src="http://localhost:1313/plugins/google-map/map.js"></script>
 
 
 <!-- Main Script -->
 
-<script src="https://erinsaudiocorner.com/js/script.min.js"></script>
+<script src="http://localhost:1313/js/script.min.js"></script>
 
 <!-- google analitycs -->
 
@@ -237,6 +264,7 @@
   ga('create', 'UA-156925516-1', 'auto');
   ga('send', 'pageview');
 </script>
+
 </body>
 
 </html>

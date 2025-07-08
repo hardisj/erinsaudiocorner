@@ -71,6 +71,7 @@ The particular unit I tested is running App Version: 2.8.6.24020217, PCB_version
 Testing was conducted using the [Quant Asylum QA402](https://quantasylum.com/products/qa403-audio-analyzer).
 * Warmup: Unit was provided pink noise with an output of 1 watt into a 4-ohm load for 10 minutes.
 * Test Bandwidth: 22.4kHz (48 kHz Sample Rate) (unless otherwise stated)
+* FFT Size: 64k (unless otherwise stated).
 * Input to DUT: Phono (RCA).
 * Output from DUT: Phono (RCA).
 * Volume/Gain: Max.

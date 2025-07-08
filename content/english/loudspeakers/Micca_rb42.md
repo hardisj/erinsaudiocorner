@@ -1,6 +1,6 @@
 ---
 title: "Micca RB42 Bookshelf Speaker Review"
-date: 2024-09-13
+date: 2024-09-14
 draft: false
 image: "https://m.media-amazon.com/images/I/81Wr6spBWAL._AC_SL1500_.jpg"
 description : "Micca RB42  Speaker"

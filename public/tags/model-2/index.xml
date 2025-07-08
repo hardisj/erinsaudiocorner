@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Model 2 on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/model-2/</link>
+    <link>http://localhost:1313/tags/model-2/</link>
     <description>Recent content in Model 2 on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/model-2/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/model-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vandersteen Model 2c Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/vandersteen_model_2/</link>
+      <link>http://localhost:1313/loudspeakers/vandersteen_model_2/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/vandersteen_model_2/</guid>
-      <description>Foreword / YouTube Video Review These speakers were loaned to me by their owner. This specific model - the Model 2c - was produced from 1980-1989 according to the manufacturer.</description>
+      <guid>http://localhost:1313/loudspeakers/vandersteen_model_2/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were loaned to me by their owner.  This specific model - the Model 2c - was produced from 1980-1989 &lt;a href=&#34;https://www.vandersteen.com/what-vintage&#34;&gt;according to the manufacturer&lt;/a&gt;. They are certainly used but appear to be in good working condition and the data I am providing here does follow design characteristics of data published for other Vandersteen &amp;ldquo;2&amp;rdquo; Models.  There are no signs of abuse.  Through the grille cloth I can see the drivers and there are no signs of surround rot or exposure to the elements.  Rather, what I see is just expected wear from a speaker that is over 30 years old at this point.  Therefore, I feel confident that the speaker is a properly functioning sample.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

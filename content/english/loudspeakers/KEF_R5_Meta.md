@@ -14,7 +14,7 @@ I purchased these speakers to review.  If you are interested in purchasing these
 * [Audio Advice](https://www.audioadvice.com/kef-r5-meta-tower-speaker-each?referral=erins-audio-corner)
 * [Crutchfield](https://howl.me/clq3SGUeClf)
 
-All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
+All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can support.  It is greatly appreciated.
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
@@ -285,7 +285,7 @@ KEF R5 Meta is a floorstanding speaker that offers neutral sound and good disper
 * Neutral sound reproduction
 * Good dispersion patterns
 * Mild recess in the mid-range
-* Limited low-end extension
+* Limited low-end extension for a tower speaker; a subwoofer will help
 * Works well in smaller rooms
 * Suitable for placement near a wall
 * Smooth in-room frequency response

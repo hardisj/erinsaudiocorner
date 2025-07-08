@@ -12,6 +12,10 @@ The review on this website is a brief overview and summary of the objective perf
 
 However, for those who want more - a more detailed explanation of the objective performance, and my subjective evaluation (what I heard, what I liked, etc) - please watch the below video where I go more in-depth.  Additionally, my CEA-2010 test results can be viewed directly via my Google Sheet [here](https://docs.google.com/spreadsheets/d/18bz7z-xIlRJsC-bw6k4mHkuwv_uiGAMyEhgrTkjwdXc/edit?usp=sharing).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4lTBDOH0tzc?si=qElUY2hFdOKJVwGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+This subwoofer was also reviewed by James Larson at Audioholics ([link](https://www.audioholics.com/subwoofer-reviews/rsl-speedwoofer-12s-1)) who provided a much more thorough written analysis of his subjective thoughts than I do in this writeup.
 
 <br>
 <br>
@@ -22,12 +26,8 @@ However, for those who want more - a more detailed explanation of the objective 
 
 <br>
 
-This subwoofer was loaned to me by RSL for testing and reviewing.  I was not paid for this review nor did I receive anything in exchange.  All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can support.  It is greatly appreciated.
 
-This subwoofer was also reviewed by James Larson at Audioholics ([link](https://www.audioholics.com/subwoofer-reviews/rsl-speedwoofer-12s-1)) who provided a much more thorough written analysis of his subjective thoughts than I do in this writeup.
-
-The current price for this subwoofer is $799 USD direct from the manufacturer:
-* [Buy from RSL](https://rslspeakers.com/products/the-speedwoofer-12s/)
+The current price for this subwoofer is $799 USD direct from the manufacturer.
 
 <br>
 <br>

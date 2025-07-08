@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monoprice THX-365C on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/monoprice-thx-365c/</link>
+    <link>http://localhost:1313/tags/monoprice-thx-365c/</link>
     <description>Recent content in Monoprice THX-365C on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Mar 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/monoprice-thx-365c/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/monoprice-thx-365c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monoprice THX-365C Center Channel Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/monoprice_thx_center/</link>
+      <link>http://localhost:1313/loudspeakers/monoprice_thx_center/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/monoprice_thx_center/</guid>
-      <description>Foreword / YouTube Video Review This speaker was loaned to me by a viewer.
-The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/monoprice_thx_center/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This speaker was loaned to me by a viewer.&lt;/p&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,23 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BEST AMPLIFIER on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/best-amplifier/</link>
+    <link>http://localhost:1313/tags/best-amplifier/</link>
     <description>Recent content in BEST AMPLIFIER on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/best-amplifier/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/best-amplifier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WiiM Amp Ultra Streaming Amplifier Review</title>
+      <link>http://localhost:1313/electronics/wiim_amp_ultra/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/wiim_amp_ultra/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This item is my own. I purhased it to review. I was not paid nor given anything in return for this review.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>McIntosh MC611 Mono Amplifier Review</title>
+      <link>http://localhost:1313/electronics/mcintosh_mc611/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/mcintosh_mc611/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This item is my own. I purhased it approxiately six months ago.  I was not paid nor given anything in return for this review.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fosi Audio ZA3 Balanced Stereo Amplifier Review</title>
+      <link>http://localhost:1313/electronics/fosi_za3/</link>
+      <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/fosi_za3/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This item was purchased myself through Amazon.  I was not paid nor given anything in return for this review.  If, after reading this review, you find your are interested in purchasing this item then please consider using the below affiliate link.  This link earns me a small commission at no additional cost to you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NAD C 3050 BluOS-D Inetgrated Amplifier Review</title>
+      <link>http://localhost:1313/electronics/nad_c_3050/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/nad_c_3050/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This item was loaned to me by NAD.  I was not paid nor given anything in return for this review.  If, after reading this review, you find your are interested in purchasing this item then please consider using the below affiliate link.  This link earns me a small commission at no additional cost to you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>WiiM Amp Streaming Amplifier Review</title>
+      <link>http://localhost:1313/electronics/wiim_amp/</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/electronics/wiim_amp/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This item was loaned to me by WiiM.  I was not paid nor given anything in return for this review.  If, after reading this review, you find your are interested in purchasing this item then please consider using the below affiliate link.  This link earns me a small commission at no additional cost to you.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>McIntosh MC462 Stereo Amplifier Review</title>
-      <link>https://erinsaudiocorner.com/electronics/mcintosh_mc462/</link>
+      <link>http://localhost:1313/electronics/mcintosh_mc462/</link>
       <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/electronics/mcintosh_mc462/</guid>
-      <description>Foreword / YouTube Video Review This item was loaned to me by McIntosh. I was not paid nor given anything in return for this review.</description>
+      <guid>http://localhost:1313/electronics/mcintosh_mc462/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This item was loaned to me by McIntosh.  I was not paid nor given anything in return for this review.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

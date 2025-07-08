@@ -3,7 +3,7 @@ title: "Dali Rubikore 6 Speaker Review"
 date: 2024-12-16
 draft: false
 image: "https://res.cloudinary.com/dalispeakers/image/upload/q_80,f_webp,dpr_1,w_600,c_scale/v1716987792/Storyblok/Images/Products/Loudspeakers/RUBIKORE/RUBIKORE%206/RUBIKORE-6_maroon.png"
-description : "Dali Rubikore 6 Review"
+description: "Dali Rubikore 6 Review"
 Tags: ["Dali Rubikore 6 Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 

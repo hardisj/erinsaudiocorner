@@ -2,7 +2,7 @@
 title: "Yamaha NS-800A Speaker Review"
 date: 2024-12-09
 draft: false
-image: "https://www.yamaha.com/yamahavgn/PIM/Images/NS800Afr_1_607b28e789fe5e7742dc8a0dd4afbe10.jpg?_gl=1*1c0o1k0*_gcl_au*NDQ4NDM4MTY2LjE3MzI2NzE1MTM.*_ga*MzM3OTIxMDEyLjE3MzI2NzE1MDk.*_ga_ZKHXXV4DWC*MTczNTkzMTk2Ny41LjEuMTczNTkzMjA4NC42MC4wLjA.*_ga_49ZFMJS63Z*MTczNTkzMTk2Ny41LjEuMTczNTkzMjA4OS41NS4wLjA.&_ga=2.217826262.1785332884.1735931967-337921012.1732671509"
+image: "https://www.yamaha.com/yamahavgn/PIM/Images/NS800Afr_1_607b28e789fe5e7742dc8a0dd4afbe10.jpg"
 description : "Yamaha NS-800A Review"
 Tags: ["Yamaha NS-800A Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---

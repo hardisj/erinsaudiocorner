@@ -2,41 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monoprice Encore on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/monoprice-encore/</link>
+    <link>http://localhost:1313/tags/monoprice-encore/</link>
     <description>Recent content in Monoprice Encore on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 May 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/monoprice-encore/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/monoprice-encore/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monoprice Encore B6 Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/monoprice_encore_b6/</link>
+      <link>http://localhost:1313/loudspeakers/monoprice_encore_b6/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/monoprice_encore_b6/</guid>
-      <description>Foreword / YouTube Video Review These speakers were loaned to me for review by Monoprice directly.</description>
+      <guid>http://localhost:1313/loudspeakers/monoprice_encore_b6/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were loaned to me for review by Monoprice directly.  I was not paid or given anything for this review and Monoprice has not seen this review yet and has had no say in what I publish.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Monoprice Encore C6 Center Channel Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/monoprice_encore_c6/</link>
+      <link>http://localhost:1313/loudspeakers/monoprice_encore_c6/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/monoprice_encore_c6/</guid>
-      <description>Foreword / YouTube Video Review These speakers were loaned to me for review by Monoprice directly.</description>
+      <guid>http://localhost:1313/loudspeakers/monoprice_encore_c6/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were loaned to me for review by Monoprice directly.  I was not paid or given anything for this review and Monoprice has not seen this review yet and has had no say in what I publish.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Monoprice Encore T6 Tower Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/monoprice_encore_t6/</link>
+      <link>http://localhost:1313/loudspeakers/monoprice_encore_t6/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/monoprice_encore_t6/</guid>
-      <description>Foreword / YouTube Video Review These speakers were loaned to me for review by Monoprice directly.</description>
+      <guid>http://localhost:1313/loudspeakers/monoprice_encore_t6/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were loaned to me for review by Monoprice directly.  I was not paid or given anything for this review and Monoprice has not seen this review yet and has had no say in what I publish.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

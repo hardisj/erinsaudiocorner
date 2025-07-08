@@ -1,60 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kef center channel on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/kef-center-channel/</link>
-    <description>Recent content in Kef center channel on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Kef Center Channel on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/kef-center-channel/</link>
+    <description>Recent content in Kef Center Channel on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/kef-center-channel/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/kef-center-channel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kef Ci3160RL-THX In-Wall Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/kef_ci3160rl-thx/</link>
+      <link>http://localhost:1313/loudspeakers/kef_ci3160rl-thx/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/kef_ci3160rl-thx/</guid>
-      <description>Foreword / YouTube Video Review This speaker was sent to me by the owner directly from the retailer as a store demo.</description>
+      <guid>http://localhost:1313/loudspeakers/kef_ci3160rl-thx/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This speaker was sent to me by the owner directly from the retailer as a store demo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kef Reference 1 Meta Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/kef_reference_1_meta/</link>
+      <link>http://localhost:1313/loudspeakers/kef_reference_1_meta/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/kef_reference_1_meta/</guid>
-      <description>Foreword / YouTube Video Review These speakers were loaned to me by Kef for review. I was not paid for my review and Kef has not seen the data or review prior to release.</description>
+      <guid>http://localhost:1313/loudspeakers/kef_reference_1_meta/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were loaned to me by Kef for review.  I was not paid for my review and Kef has not seen the data or review prior to release.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kef Q250c Center Channel Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/kef_q250c_center/</link>
+      <link>http://localhost:1313/loudspeakers/kef_q250c_center/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/kef_q250c_center/</guid>
-      <description>Foreword / YouTube Video Review Kef loaned me this speaker to review. They have not seen the review prior to publication.</description>
+      <guid>http://localhost:1313/loudspeakers/kef_q250c_center/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;Kef loaned me this speaker to review.  They have not seen the review prior to publication.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kef Q650c Center Channel Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/kef_q650c_center/</link>
+      <link>http://localhost:1313/loudspeakers/kef_q650c_center/</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/kef_q650c_center/</guid>
-      <description>Foreword / YouTube Video Review Kef loaned me this speaker to review. They have not seen the review prior to publication.</description>
+      <guid>http://localhost:1313/loudspeakers/kef_q650c_center/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;Kef loaned me this speaker to review.  They have not seen the review prior to publication.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kef R2c Center Channel Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/kef_r2c/</link>
+      <link>http://localhost:1313/loudspeakers/kef_r2c/</link>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/kef_r2c/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/kef_r2c/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.  The video below has more discussion.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

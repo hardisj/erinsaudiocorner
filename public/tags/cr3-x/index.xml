@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CR3-X on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/cr3-x/</link>
+    <link>http://localhost:1313/tags/cr3-x/</link>
     <description>Recent content in CR3-X on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/cr3-x/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/cr3-x/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mackie CR3-X Powered Monitor Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/mackie_cr3x/</link>
+      <link>http://localhost:1313/loudspeakers/mackie_cr3x/</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/mackie_cr3x/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/mackie_cr3x/</guid>
+      <description>&lt;center&gt;&#xD;&#xA;&lt;iframe width=&#34;180&#34; scrolling=&#34;no&#34; height=&#34;150&#34; frameborder=&#34;0&#34; style=&#34;border:none;&#34; border=&#34;0&#34; src=&#34;https://mer54715.datafeedfile.com/widget/aff_widget_prdt_generate-2.0.php?aff_num=28138&amp;aff_net=1&amp;size=180x150&amp;mode=s&amp;bucket_num=10438&amp;link_target=y&amp;sid=ErinsAudioCorner&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RP-600M on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/rp-600m/</link>
+    <link>http://localhost:1313/tags/rp-600m/</link>
     <description>Recent content in RP-600M on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/rp-600m/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/rp-600m/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Klipsch RP-600M Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_i/</link>
+      <link>http://localhost:1313/loudspeakers/klipsch_rp_600m_i/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/klipsch_rp_600m_i/</guid>
-      <description>Foreword / YouTube Video Review I purchased these speakers with my own money using funds from Patreon and otherwise donated by viewers such as yourself.</description>
+      <guid>http://localhost:1313/loudspeakers/klipsch_rp_600m_i/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;I purchased these speakers with my own money using funds from Patreon and otherwise donated by viewers such as yourself.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

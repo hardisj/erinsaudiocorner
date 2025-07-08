@@ -2,24 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ring Radiator on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/ring-radiator/</link>
+    <link>http://localhost:1313/tags/ring-radiator/</link>
     <description>Recent content in Ring Radiator on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Mar 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/ring-radiator/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/ring-radiator/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hyrbrid Audio Technologies L1-Pro-R2 Ring Radiator Driver Review</title>
-      <link>https://erinsaudiocorner.com/driveunits/hybrid-audio-l1-pro-r2-ring-radiator-tweeters/</link>
+      <link>http://localhost:1313/driveunits/hybrid-audio-l1-pro-r2-ring-radiator-tweeters/</link>
       <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/driveunits/hybrid-audio-l1-pro-r2-ring-radiator-tweeters/</guid>
-      <description>Up for test is the Hybrid Audio L1 Pro R2 Ring Radiator Tweeter.
-Information from the manufacturer can be found here: http://store.</description>
+      <guid>http://localhost:1313/driveunits/hybrid-audio-l1-pro-r2-ring-radiator-tweeters/</guid>
+      <description>&lt;iframe src=&#34;//rcm-na.amazon-adsystem.com/e/cm?o=1&amp;p=48&amp;l=ur1&amp;category=amazonhomepage&amp;f=ifr&amp;linkID=45d00811e11005f66cf1dcae88dc3060&amp;t=medlemusin-20&amp;tracking_id=medlemusin-20&#34; width=&#34;728&#34; height=&#34;90&#34; scrolling=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; style=&#34;border:none;&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;br clear=&#34;all&#34; /&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;p&gt;Up for test is the Hybrid Audio L1 Pro R2 Ring Radiator Tweeter.&lt;/p&gt;&#xA;&lt;p&gt;Information from the manufacturer can be found here:&#xA;&lt;a href=&#34;http://store.12velectronics.com/legatia-l1-pro-r2-tweeters-black/&#34;&gt;http://store.12velectronics.com/legatia-l1-pro-r2-tweeters-black/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

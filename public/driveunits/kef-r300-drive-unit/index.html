@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="utf-8">
 	<title>Kef R300 Speaker Drive Unit Testing</title>
 
@@ -10,32 +10,35 @@
 		content="Kef R300">
 	
 	<meta name="author" content="E">
-	<meta name="generator" content="Hugo 0.63.2" />
+	<meta name="generator" content="Hugo 0.147.9">
 
 	<!-- plugins -->
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/bootstrap/bootstrap.min.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/bootstrap/bootstrap.min.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/themify-icons/themify-icons.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/themify-icons/themify-icons.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/animate-css/animate.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/animate-css/animate.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/magnific-popup/magnific-popup.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/magnific-popup/magnific-popup.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/slick/slick.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/slick/slick.css ">
 	
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Anaheim%7cQuattrocento&#43;Sans:400,700&amp;display=swap ">
 	
 
 	<!-- Main Stylesheet -->
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/css/style.min.css" media="screen">
+	<link rel="stylesheet" href="http://localhost:1313/css/style.min.css" media="screen">
 
 	<!--Favicon-->
-	<link rel="shortcut icon" href="https://erinsaudiocorner.com/images/favicon.png " type="image/x-icon">
-	<link rel="icon" href="https://erinsaudiocorner.com/images/favicon.png " type="image/x-icon">
+	<link rel="shortcut icon" href="http://localhost:1313/images/favicon.png " type="image/x-icon">
+	<link rel="icon" href="http://localhost:1313/images/favicon.png " type="image/x-icon">
+
+	<link rel="stylesheet" href="/custom.css">
 
 </head>
+
 
 <body id="body" data-spy="scroll" data-target=".navbar" data-offset="55">
   <div id="content">
@@ -65,7 +68,7 @@
 		
 		<div class="collapse navbar-collapse" id="navigation">
 			<ul class="navbar-nav ml-auto navigation-menu">
-				<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+				<li class="nav-item"><a class="nav-link" href="/"></a></li>
 				
 				<li class="nav-item"><a class="nav-link" href="/driveunits">Drive Units</a></li>
 				
@@ -75,11 +78,7 @@
 				
 				<li class="nav-item"><a class="nav-link" href="/electronics">Electronics</a></li>
 				
-				<li class="nav-item"><a class="nav-link" href="/testmethods">Test Methods</a></li>
-				
-				<li class="nav-item"><a class="nav-link" href="/about">About Me</a></li>
-				
-				<li class="nav-item"><a class="nav-link" href="/timedelaycalc">Time Delay</a></li>
+				<li class="nav-item"><a class="nav-link" href="/leaderboard">Leaderboard</a></li>
 				
 				<li class="nav-item"><a class="nav-link" href="/contribute">Contribute</a></li>
 				
@@ -88,8 +87,9 @@
 		
 		<!-- /main nav -->
 
-		
+
     
+		
 	</div>
 </nav>
 <!-- End Fixed Navigation -->
@@ -107,7 +107,7 @@
         </ul>
         
         
-        <img class="img-fluid mb-50" src="https://erinsaudiocorner.com/images/Reviews/Drivers/Kef/R300_Driver/IMG_5482.jpg" alt="blog-image">
+        <img class="img-fluid mb-50" src="http://localhost:1313/images/Reviews/Drivers/Kef/R300_Driver/IMG_5482.jpg" alt="blog-image">
         
       </div>
       <div class="col-lg-8 offset-lg-2">
@@ -132,94 +132,94 @@
 <h4 id="part-i-tweeter-testing">Part I: Tweeter Testing</h4>
 <h5 id="tweeter-thiele-small-parameters-and-impedance">Tweeter Thiele-Small Parameters and Impedance</h5>
 <table>
-<thead>
-<tr>
-<th>Electrical Parameters</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Re</td>
-<td>2.92</td>
-<td>Ohm</td>
-<td>electrical voice coil resistance at DC</td>
-</tr>
-<tr>
-<td>Le</td>
-<td>0.012</td>
-<td>mH</td>
-<td>frequency independent part of voice coil inductance</td>
-</tr>
-<tr>
-<td>L2</td>
-<td>0.011</td>
-<td>mH</td>
-<td>para-inductance of voice coil</td>
-</tr>
-<tr>
-<td>R2</td>
-<td>0.34</td>
-<td>Ohm</td>
-<td>electrical resistance due to eddy current losses</td>
-</tr>
-<tr>
-<td>Cmes</td>
-<td>120</td>
-<td>µF</td>
-<td>electrical capacitance representing moving mass</td>
-</tr>
-<tr>
-<td>Lces</td>
-<td>0.26</td>
-<td>mH</td>
-<td>electrical inductance representing driver compliance</td>
-</tr>
-<tr>
-<td>Res</td>
-<td>0.94</td>
-<td>Ohm</td>
-<td>resistance due to mechanical losses</td>
-</tr>
-<tr>
-<td>fs</td>
-<td>907.9</td>
-<td>Hz</td>
-<td>driver resonance frequency</td>
-</tr>
-<tr>
-<td>Loss factors</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Qtp</td>
-<td>0.488</td>
-<td></td>
-<td>total Q-factor considering all losses</td>
-</tr>
-<tr>
-<td>Qms</td>
-<td>0.644</td>
-<td></td>
-<td>mechanical Q-factor of driver in free air considering Rms only</td>
-</tr>
-<tr>
-<td>Qes</td>
-<td>2.005</td>
-<td></td>
-<td>electrical Q-factor of driver in free air considering Re only</td>
-</tr>
-<tr>
-<td>Qts</td>
-<td>0.487</td>
-<td></td>
-<td>total Q-factor considering Re and Rms only</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Electrical Parameters</th>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Re</td>
+          <td>2.92</td>
+          <td>Ohm</td>
+          <td>electrical voice coil resistance at DC</td>
+      </tr>
+      <tr>
+          <td>Le</td>
+          <td>0.012</td>
+          <td>mH</td>
+          <td>frequency independent part of voice coil inductance</td>
+      </tr>
+      <tr>
+          <td>L2</td>
+          <td>0.011</td>
+          <td>mH</td>
+          <td>para-inductance of voice coil</td>
+      </tr>
+      <tr>
+          <td>R2</td>
+          <td>0.34</td>
+          <td>Ohm</td>
+          <td>electrical resistance due to eddy current losses</td>
+      </tr>
+      <tr>
+          <td>Cmes</td>
+          <td>120</td>
+          <td>µF</td>
+          <td>electrical capacitance representing moving mass</td>
+      </tr>
+      <tr>
+          <td>Lces</td>
+          <td>0.26</td>
+          <td>mH</td>
+          <td>electrical inductance representing driver compliance</td>
+      </tr>
+      <tr>
+          <td>Res</td>
+          <td>0.94</td>
+          <td>Ohm</td>
+          <td>resistance due to mechanical losses</td>
+      </tr>
+      <tr>
+          <td>fs</td>
+          <td>907.9</td>
+          <td>Hz</td>
+          <td>driver resonance frequency</td>
+      </tr>
+      <tr>
+          <td>Loss factors</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Qtp</td>
+          <td>0.488</td>
+          <td></td>
+          <td>total Q-factor considering all losses</td>
+      </tr>
+      <tr>
+          <td>Qms</td>
+          <td>0.644</td>
+          <td></td>
+          <td>mechanical Q-factor of driver in free air considering Rms only</td>
+      </tr>
+      <tr>
+          <td>Qes</td>
+          <td>2.005</td>
+          <td></td>
+          <td>electrical Q-factor of driver in free air considering Re only</td>
+      </tr>
+      <tr>
+          <td>Qts</td>
+          <td>0.487</td>
+          <td></td>
+          <td>total Q-factor considering Re and Rms only</td>
+      </tr>
+  </tbody>
 </table>
 <br>
 <p><img src="/images/Reviews/Drivers/Kef/R300_Driver/tweeter-imp.png" alt="kefR300 tweeterimp"></p>
@@ -240,218 +240,218 @@
 <h5 id="midrange-thiele-small-parameters-and-impedance">Midrange Thiele-Small Parameters and Impedance</h5>
 <p>Note:  When determining the full suite of T/S parameters, the effective diameter of the driver is needed to calculate Vas, Bl, etc.  Most of the time this can simply be measured by measuring the diameter of the driver from half-surround to half-surround since the motor must control the entire cone area.  However, in this case, the entire cone does not move.  Therefore, the effective diameter (and resulting Sd) is not the entire diameter of the driver.  The effective diameter here is determined by subtracting the static tweeter assembly from the overall effective diameter of the woofer.  See physical measurements section above for all values.</p>
 <table>
-<thead>
-<tr>
-<th>Electrical Parameters</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Re</td>
-<td>3.08</td>
-<td>Ohm</td>
-<td>electrical voice coil resistance at DC</td>
-</tr>
-<tr>
-<td>Le</td>
-<td>0.155</td>
-<td>mH</td>
-<td>frequency independent part of voice coil inductance</td>
-</tr>
-<tr>
-<td>L2</td>
-<td>0.234</td>
-<td>mH</td>
-<td>para-inductance of voice coil</td>
-</tr>
-<tr>
-<td>R2</td>
-<td>1.77</td>
-<td>Ohm</td>
-<td>electrical resistance due to eddy current losses</td>
-</tr>
-<tr>
-<td>Cmes</td>
-<td>242</td>
-<td>µF</td>
-<td>electrical capacitance representing moving mass</td>
-</tr>
-<tr>
-<td>Lces</td>
-<td>3.63</td>
-<td>mH</td>
-<td>electrical inductance representing driver compliance</td>
-</tr>
-<tr>
-<td>Res</td>
-<td>9.29</td>
-<td>Ohm</td>
-<td>resistance due to mechanical losses</td>
-</tr>
-<tr>
-<td>fs</td>
-<td>169.5</td>
-<td>Hz</td>
-<td>driver resonance frequency</td>
-</tr>
-<tr>
-<td>Mechanical Parameters</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>(using add. mass)</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Mms</td>
-<td>7.416</td>
-<td>g</td>
-<td>mechanical mass of driver diaphragm assembly including air load and voice coil</td>
-</tr>
-<tr>
-<td>Mmd (Sd)</td>
-<td>6.9</td>
-<td>g</td>
-<td>mechanical mass of voice coil and diaphragm without air load</td>
-</tr>
-<tr>
-<td>Rms</td>
-<td>3.293</td>
-<td>kg/s</td>
-<td>mechanical resistance of  total-driver losses</td>
-</tr>
-<tr>
-<td>Cms</td>
-<td>0.119</td>
-<td>mm/N</td>
-<td>mechanical compliance of driver suspension</td>
-</tr>
-<tr>
-<td>Kms</td>
-<td>8.41</td>
-<td>N/mm</td>
-<td>mechanical stiffness of driver suspension</td>
-</tr>
-<tr>
-<td>Bl</td>
-<td>5.531</td>
-<td>N/A</td>
-<td>force factor (Bl product)</td>
-</tr>
-<tr>
-<td>Loss factors</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Qtp</td>
-<td>0.603</td>
-<td></td>
-<td>total Q-factor considering all losses</td>
-</tr>
-<tr>
-<td>Qms</td>
-<td>2.399</td>
-<td></td>
-<td>mechanical Q-factor of driver in free air considering Rms only</td>
-</tr>
-<tr>
-<td>Qes</td>
-<td>0.796</td>
-<td></td>
-<td>electrical Q-factor of driver in free air considering Re only</td>
-</tr>
-<tr>
-<td>Qts</td>
-<td>0.598</td>
-<td></td>
-<td>total Q-factor considering Re and Rms only</td>
-</tr>
-<tr>
-<td>Other Parameters</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Vas</td>
-<td>0.5905</td>
-<td>l</td>
-<td>equivalent air volume of suspension</td>
-</tr>
-<tr>
-<td>n0</td>
-<td>0.348</td>
-<td>%</td>
-<td>reference efficiency (2 pi-radiation using Re)</td>
-</tr>
-<tr>
-<td>Lm</td>
-<td>87.61</td>
-<td>dB</td>
-<td>characteristic sound pressure level (SPL at 1m for 1W @ Re)</td>
-</tr>
-<tr>
-<td>Lnom</td>
-<td>88.74</td>
-<td>dB</td>
-<td>nominal sensitivity (SPL at 1m for 1W @ Zn)</td>
-</tr>
-<tr>
-<td>Sd</td>
-<td>59.26</td>
-<td>cm²</td>
-<td>diaphragm area</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Electrical Parameters</th>
+          <th></th>
+          <th></th>
+          <th></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Re</td>
+          <td>3.08</td>
+          <td>Ohm</td>
+          <td>electrical voice coil resistance at DC</td>
+      </tr>
+      <tr>
+          <td>Le</td>
+          <td>0.155</td>
+          <td>mH</td>
+          <td>frequency independent part of voice coil inductance</td>
+      </tr>
+      <tr>
+          <td>L2</td>
+          <td>0.234</td>
+          <td>mH</td>
+          <td>para-inductance of voice coil</td>
+      </tr>
+      <tr>
+          <td>R2</td>
+          <td>1.77</td>
+          <td>Ohm</td>
+          <td>electrical resistance due to eddy current losses</td>
+      </tr>
+      <tr>
+          <td>Cmes</td>
+          <td>242</td>
+          <td>µF</td>
+          <td>electrical capacitance representing moving mass</td>
+      </tr>
+      <tr>
+          <td>Lces</td>
+          <td>3.63</td>
+          <td>mH</td>
+          <td>electrical inductance representing driver compliance</td>
+      </tr>
+      <tr>
+          <td>Res</td>
+          <td>9.29</td>
+          <td>Ohm</td>
+          <td>resistance due to mechanical losses</td>
+      </tr>
+      <tr>
+          <td>fs</td>
+          <td>169.5</td>
+          <td>Hz</td>
+          <td>driver resonance frequency</td>
+      </tr>
+      <tr>
+          <td>Mechanical Parameters</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>(using add. mass)</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Mms</td>
+          <td>7.416</td>
+          <td>g</td>
+          <td>mechanical mass of driver diaphragm assembly including air load and voice coil</td>
+      </tr>
+      <tr>
+          <td>Mmd (Sd)</td>
+          <td>6.9</td>
+          <td>g</td>
+          <td>mechanical mass of voice coil and diaphragm without air load</td>
+      </tr>
+      <tr>
+          <td>Rms</td>
+          <td>3.293</td>
+          <td>kg/s</td>
+          <td>mechanical resistance of  total-driver losses</td>
+      </tr>
+      <tr>
+          <td>Cms</td>
+          <td>0.119</td>
+          <td>mm/N</td>
+          <td>mechanical compliance of driver suspension</td>
+      </tr>
+      <tr>
+          <td>Kms</td>
+          <td>8.41</td>
+          <td>N/mm</td>
+          <td>mechanical stiffness of driver suspension</td>
+      </tr>
+      <tr>
+          <td>Bl</td>
+          <td>5.531</td>
+          <td>N/A</td>
+          <td>force factor (Bl product)</td>
+      </tr>
+      <tr>
+          <td>Loss factors</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Qtp</td>
+          <td>0.603</td>
+          <td></td>
+          <td>total Q-factor considering all losses</td>
+      </tr>
+      <tr>
+          <td>Qms</td>
+          <td>2.399</td>
+          <td></td>
+          <td>mechanical Q-factor of driver in free air considering Rms only</td>
+      </tr>
+      <tr>
+          <td>Qes</td>
+          <td>0.796</td>
+          <td></td>
+          <td>electrical Q-factor of driver in free air considering Re only</td>
+      </tr>
+      <tr>
+          <td>Qts</td>
+          <td>0.598</td>
+          <td></td>
+          <td>total Q-factor considering Re and Rms only</td>
+      </tr>
+      <tr>
+          <td>Other Parameters</td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>Vas</td>
+          <td>0.5905</td>
+          <td>l</td>
+          <td>equivalent air volume of suspension</td>
+      </tr>
+      <tr>
+          <td>n0</td>
+          <td>0.348</td>
+          <td>%</td>
+          <td>reference efficiency (2 pi-radiation using Re)</td>
+      </tr>
+      <tr>
+          <td>Lm</td>
+          <td>87.61</td>
+          <td>dB</td>
+          <td>characteristic sound pressure level (SPL at 1m for 1W @ Re)</td>
+      </tr>
+      <tr>
+          <td>Lnom</td>
+          <td>88.74</td>
+          <td>dB</td>
+          <td>nominal sensitivity (SPL at 1m for 1W @ Zn)</td>
+      </tr>
+      <tr>
+          <td>Sd</td>
+          <td>59.26</td>
+          <td>cm²</td>
+          <td>diaphragm area</td>
+      </tr>
+  </tbody>
 </table>
 <br>
 <p><img src="/images/Reviews/Drivers/Kef/R300_Driver/woofer-imp.png" alt="kefR300 imp"></p>
 <br>
 <p>It may be pretty obvious that I wasn’t able to resolve all the values below. The limiting suspension resolves first at 1.5mm linear xmax, and to resolve Bl and L(x) would mean pushing on the driver harder than I am comfortable with. Suffice it to say, a high pass filter will help lessen the suspension related distortion, but <em>most importantly</em> this driver isn’t intended to cover bass frequencies, nor should it as ideally the &lsquo;midrange as a waveguide&rsquo; should restrict movement as to not cause aberrations in the frequency response.  If memory serves, it’s crossed above 500hz in the R-series towers where it is accompanied by a midwoofer.  So, the excursion related data below is really only for the sake of it.</p>
 <table>
-<thead>
-<tr>
-<th>Displacement Limits</th>
-<th></th>
-<th></th>
-<th>thresholds can be changed in Processing property page</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>X Bl @ Bl min=82%</td>
-<td>&gt;2.5</td>
-<td>mm</td>
-<td>Displacement limit due to force factor variation</td>
-</tr>
-<tr>
-<td>X C @ C min=75%</td>
-<td>1.5</td>
-<td>mm</td>
-<td>Displacement limit due to compliance variation</td>
-</tr>
-<tr>
-<td>X L @ Z max=10 %</td>
-<td>&gt;2.5</td>
-<td>mm</td>
-<td>Displacement limit due to inductance variation</td>
-</tr>
-<tr>
-<td>X d @ d2=10%</td>
-<td>7</td>
-<td>mm</td>
-<td>Displacement limit due to IM distortion (Doppler)</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Displacement Limits</th>
+          <th></th>
+          <th></th>
+          <th>thresholds can be changed in Processing property page</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>X Bl @ Bl min=82%</td>
+          <td>&gt;2.5</td>
+          <td>mm</td>
+          <td>Displacement limit due to force factor variation</td>
+      </tr>
+      <tr>
+          <td>X C @ C min=75%</td>
+          <td>1.5</td>
+          <td>mm</td>
+          <td>Displacement limit due to compliance variation</td>
+      </tr>
+      <tr>
+          <td>X L @ Z max=10 %</td>
+          <td>&gt;2.5</td>
+          <td>mm</td>
+          <td>Displacement limit due to inductance variation</td>
+      </tr>
+      <tr>
+          <td>X d @ d2=10%</td>
+          <td>7</td>
+          <td>mm</td>
+          <td>Displacement limit due to IM distortion (Doppler)</td>
+      </tr>
+  </tbody>
 </table>
 <p><br></br>
 <img src="/images/Reviews/Drivers/Kef/R300_Driver/Force-factor-Bl-X.png" alt="kefR300 bl">
@@ -527,7 +527,7 @@ Another bit of testing I did was to see how the midrange out-of-band peak betwee
 <div class="social-share pt-4">
 	<h4>Share:</h4>
 	
-	<a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2ferinsaudiocorner.com%2fdriveunits%2fkef-r300-drive-unit%2f" target="_blank"
+	<a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fdriveunits%2fkef-r300-drive-unit%2f" target="_blank"
 		rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -539,7 +539,7 @@ Another bit of testing I did was to see how the midrange out-of-band peak betwee
 	</a>
 
 	
-	<a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=Kef%20R300%20Speaker%20Drive%20Unit%20Testing&amp;url=https%3a%2f%2ferinsaudiocorner.com%2fdriveunits%2fkef-r300-drive-unit%2f"
+	<a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=Kef%20R300%20Speaker%20Drive%20Unit%20Testing&amp;url=http%3a%2f%2flocalhost%3a1313%2fdriveunits%2fkef-r300-drive-unit%2f"
 		target="_blank" rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -552,7 +552,7 @@ Another bit of testing I did was to see how the midrange out-of-band peak betwee
 	</a>
 
 	
-	<a class="resp-sharing-button__link" href="https://plus.google.com/share?url=https%3a%2f%2ferinsaudiocorner.com%2fdriveunits%2fkef-r300-drive-unit%2f" target="_blank"
+	<a class="resp-sharing-button__link" href="https://plus.google.com/share?url=http%3a%2f%2flocalhost%3a1313%2fdriveunits%2fkef-r300-drive-unit%2f" target="_blank"
 		rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--google resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -565,7 +565,7 @@ Another bit of testing I did was to see how the midrange out-of-band peak betwee
 	</a>
 
 	
-	<a class="resp-sharing-button__link" href="mailto:?subject=Kef%20R300%20Speaker%20Drive%20Unit%20Testing&amp;body=https%3a%2f%2ferinsaudiocorner.com%2fdriveunits%2fkef-r300-drive-unit%2f" target="_self"
+	<a class="resp-sharing-button__link" href="mailto:?subject=Kef%20R300%20Speaker%20Drive%20Unit%20Testing&amp;body=http%3a%2f%2flocalhost%3a1313%2fdriveunits%2fkef-r300-drive-unit%2f" target="_self"
 		rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -579,7 +579,7 @@ Another bit of testing I did was to see how the midrange out-of-band peak betwee
 
 	
 	<a class="resp-sharing-button__link"
-		href="https://reddit.com/submit/?url=https%3a%2f%2ferinsaudiocorner.com%2fdriveunits%2fkef-r300-drive-unit%2f&amp;resubmit=true&amp;title=Kef%20R300%20Speaker%20Drive%20Unit%20Testing" target="_blank"
+		href="https://reddit.com/submit/?url=http%3a%2f%2flocalhost%3a1313%2fdriveunits%2fkef-r300-drive-unit%2f&amp;resubmit=true&amp;title=Kef%20R300%20Speaker%20Drive%20Unit%20Testing" target="_blank"
 		rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--reddit resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -592,7 +592,7 @@ Another bit of testing I did was to see how the midrange out-of-band peak betwee
 	</a>
 
 	
-	<a class="resp-sharing-button__link" href="whatsapp://send?text=Kef%20R300%20Speaker%20Drive%20Unit%20Testing%20https%3a%2f%2ferinsaudiocorner.com%2fdriveunits%2fkef-r300-drive-unit%2f" target="_blank"
+	<a class="resp-sharing-button__link" href="whatsapp://send?text=Kef%20R300%20Speaker%20Drive%20Unit%20Testing%20http%3a%2f%2flocalhost%3a1313%2fdriveunits%2fkef-r300-drive-unit%2f" target="_blank"
 		rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--whatsapp resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -605,7 +605,7 @@ Another bit of testing I did was to see how the midrange out-of-band peak betwee
 	</a>
 
 	
-	<a class="resp-sharing-button__link" href="https://telegram.me/share/url?text=Kef%20R300%20Speaker%20Drive%20Unit%20Testing&amp;url=https%3a%2f%2ferinsaudiocorner.com%2fdriveunits%2fkef-r300-drive-unit%2f"
+	<a class="resp-sharing-button__link" href="https://telegram.me/share/url?text=Kef%20R300%20Speaker%20Drive%20Unit%20Testing&amp;url=http%3a%2f%2flocalhost%3a1313%2fdriveunits%2fkef-r300-drive-unit%2f"
 		target="_blank" rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--telegram resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -646,14 +646,25 @@ Another bit of testing I did was to see how the midrange out-of-band peak betwee
 					</ul>
 				</div>
 
-				<!-- copyright -->
+
+
 				<div class="copyright text-center">
-					<a href="https://erinsaudiocorner.com/">
-						<img src="https://dl.dropboxusercontent.com/s/7l7gj78pzfv5ufv/watermark%20-%20for%20site.png?dl=0" alt="Erin&#39;s Audio Corner" />
-					</a>
-					<br>
-					<p>copyright © 2019 <a href="https://gethugothemes.com">gethugothemes</a> all right reserved</p>
-				</div>
+  <a href="http://localhost:1313/">
+    <img src="https://dl.dropboxusercontent.com/s/7l7gj78pzfv5ufv/watermark%20-%20for%20site.png?dl=0" alt="Erin&#39;s Audio Corner" />
+  </a>
+  <br>
+  <p>copyright © 2019 <a href="https://gethugothemes.com">gethugothemes</a> all right reserved</p>
+</div>
+
+
+<div class="affiliate-disclaimer text-center" style="font-size: 0.8rem; color: #ffffff; margin-top: 1rem;">
+  <p>
+    This page contains affiliate links. If you purchase something through one of these links, I may earn a small commission at no additional cost to you. Thanks for supporting the work I do!
+    <br>
+    &copy; 2025 Erin's Audio Corner. All rights reserved. All trademarks and product names are the property of their respective owners. Reviews and opinions expressed here are solely my own.
+  </p>
+</div>
+
 			</div>
 		</div>
 	</div>
@@ -665,26 +676,26 @@ Another bit of testing I did was to see how the midrange out-of-band peak betwee
 
 <!-- JS Plugins -->
 
-<script src="https://erinsaudiocorner.com/plugins/jquery/jquery.min.js"></script>
+<script src="http://localhost:1313/plugins/jquery/jquery.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="http://localhost:1313/plugins/bootstrap/bootstrap.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/slick/slick.min.js"></script>
+<script src="http://localhost:1313/plugins/slick/slick.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/shuffle/shuffle.min.js"></script>
+<script src="http://localhost:1313/plugins/shuffle/shuffle.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="http://localhost:1313/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/wow/wow.min.js"></script>
+<script src="http://localhost:1313/plugins/wow/wow.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/lazy-load/lozad.min.js"></script>
+<script src="http://localhost:1313/plugins/lazy-load/lozad.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/google-map/map.js"></script>
+<script src="http://localhost:1313/plugins/google-map/map.js"></script>
 
 
 <!-- Main Script -->
 
-<script src="https://erinsaudiocorner.com/js/script.min.js"></script>
+<script src="http://localhost:1313/js/script.min.js"></script>
 
 <!-- google analitycs -->
 
@@ -703,6 +714,7 @@ Another bit of testing I did was to see how the midrange out-of-band peak betwee
   ga('create', 'UA-156925516-1', 'auto');
   ga('send', 'pageview');
 </script>
+
 </body>
 
 </html>

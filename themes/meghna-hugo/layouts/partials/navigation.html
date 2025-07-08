@@ -42,9 +42,9 @@
 		{{ end }}
 		{{"<!-- /main nav -->" | safeHTML}}
 
-		
+
     <!-- Language List -->
-    {{- if .Site.IsMultiLingual }}
+		{{ if gt (len .Site.Languages) 1 }}
     <select id="select-language" onchange="location = this.value;">
       {{ $siteLanguages := .Site.Languages}}
       {{ $pageLang := .Page.Lang}}

@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>McIntosh MX100 review on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/mcintosh-mx100-review/</link>
-    <description>Recent content in McIntosh MX100 review on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>McIntosh MX100 Review on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/mcintosh-mx100-review/</link>
+    <description>Recent content in McIntosh MX100 Review on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/mcintosh-mx100-review/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/mcintosh-mx100-review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>McIntosh MX100 A/V Processor Review</title>
-      <link>https://erinsaudiocorner.com/electronics/mcintosh_mx100/</link>
+      <link>http://localhost:1313/electronics/mcintosh_mx100/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/electronics/mcintosh_mx100/</guid>
-      <description>Foreword / YouTube Video Review This A/V Processor was loaned to me by McIntosh. I was not paid nor given anything in return for this review.</description>
+      <guid>http://localhost:1313/electronics/mcintosh_mx100/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This A/V Processor was loaned to me by McIntosh.  I was not paid nor given anything in return for this review.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

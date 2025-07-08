@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overnight Sensations MT on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/overnight-sensations-mt/</link>
+    <link>http://localhost:1313/tags/overnight-sensations-mt/</link>
     <description>Recent content in Overnight Sensations MT on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/overnight-sensations-mt/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/overnight-sensations-mt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LCM Nearfield Monitor 3-D Printed DIY Speaker Kit Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/lcm_nearfield_monitor/</link>
+      <link>http://localhost:1313/loudspeakers/lcm_nearfield_monitor/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/lcm_nearfield_monitor/</guid>
-      <description>Foreword / YouTube Video Review These speakers were loaned to me by their designer for review.</description>
+      <guid>http://localhost:1313/loudspeakers/lcm_nearfield_monitor/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were loaned to me by their designer for review.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Parts Express Overnight Sensations MT Bookshelf Speaker Kit with Knock-Down Cabinet Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/parts_express_overnight_sensation_mt/</link>
+      <link>http://localhost:1313/loudspeakers/parts_express_overnight_sensation_mt/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/parts_express_overnight_sensation_mt/</guid>
-      <description>Foreword / YouTube Video Review These speakers were sent to me by Parts Express. I was not paid for this review; however, I believe Parts Express is unlikely to ask for this stuff back since it&amp;rsquo;s a DIY build.</description>
+      <guid>http://localhost:1313/loudspeakers/parts_express_overnight_sensation_mt/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were sent to me by Parts Express.  I was not paid for this review; however, I believe Parts Express is unlikely to ask for this stuff back since it&amp;rsquo;s a DIY build.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BS5P on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/bs5p/</link>
+    <link>http://localhost:1313/tags/bs5p/</link>
     <description>Recent content in BS5P on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 May 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/bs5p/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/bs5p/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Revisited: Neumi BS5P Powered Bookshelf Speaker</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/neumi_bs5p_take2/</link>
+      <link>http://localhost:1313/loudspeakers/neumi_bs5p_take2/</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/neumi_bs5p_take2/</guid>
-      <description>Foreword / YouTube Video Review I reviewed the Neumi BS5P in April 2021 and was very disappointed with the results.</description>
+      <guid>http://localhost:1313/loudspeakers/neumi_bs5p_take2/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;I reviewed the &lt;a href=&#34;https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5p/&#34;&gt;Neumi BS5P in April 2021&lt;/a&gt; and was very disappointed with the results.  The manufacturer contacted me about the results and also expressed their dismay because it was nothing like what they had predicted.  This review is an update based on some firmware changes and findings through working with Neumi to understand why my production unit was so far off from their intent.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Neumi BS5P Powered Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/neumi_bs5p/</link>
+      <link>http://localhost:1313/loudspeakers/neumi_bs5p/</link>
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/neumi_bs5p/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/neumi_bs5p/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

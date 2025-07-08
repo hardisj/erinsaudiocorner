@@ -9,6 +9,24 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+.section-title {
+  color: black;
+}
+
+.review-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: white; /* or another color if needed */
+  display: inline-block;
+  margin-bottom: 0.2rem;
+}
+
+.review-date {
+  font-size: 1rem;
+  color: #000;
+  margin-left: 0.5rem;
+}
+
 
 </style>
 </head>

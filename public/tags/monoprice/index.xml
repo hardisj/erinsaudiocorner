@@ -2,60 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monoprice on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/monoprice/</link>
+    <link>http://localhost:1313/tags/monoprice/</link>
     <description>Recent content in Monoprice on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/monoprice/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 21 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/monoprice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arendal 1961 1S Powered Subwoofer</title>
+      <link>http://localhost:1313/subwoofer_testing/arendal_1961_1s/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/subwoofer_testing/arendal_1961_1s/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This speaker was loaned to me for review by the manufacturer.  The manufacturer did not see the review before public release.  If you are interested in purchasing these, please consider doing so through the below affiliate link:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Arendal 1961 1V Powered Subwoofer</title>
+      <link>http://localhost:1313/subwoofer_testing/arendal_1961_1v/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/subwoofer_testing/arendal_1961_1v/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This speaker was loaned to me for review by the manufacturer.  The manufacturer did not see the review before public release.  If you are interested in purchasing these, please consider doing so through the below affiliate link:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>RSL Speedwoofer 12S Powered Subwoofer</title>
+      <link>http://localhost:1313/subwoofer_testing/rsl_speedwoofer_12s/</link>
+      <pubDate>Sun, 21 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/subwoofer_testing/rsl_speedwoofer_12s/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  More so, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Monoprice Monolith 13in THX Certified Ultra 2000-Watt Powered Subwoofer</title>
-      <link>https://erinsaudiocorner.com/subwoofer_testing/monolith_13_thx_ultra/</link>
+      <link>http://localhost:1313/subwoofer_testing/monolith_13_thx_ultra/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/subwoofer_testing/monolith_13_thx_ultra/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/subwoofer_testing/monolith_13_thx_ultra/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  More so, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Monoprice Monolith THX-365T Bookshelf Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/monoprice_monolith_thx_365t/</link>
+      <link>http://localhost:1313/loudspeakers/monoprice_monolith_thx_365t/</link>
       <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/monoprice_monolith_thx_365t/</guid>
-      <description>Foreword / YouTube Video Review These speakers were loaned to me by Monoprice. They did not see the review before publication.</description>
+      <guid>http://localhost:1313/loudspeakers/monoprice_monolith_thx_365t/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;These speakers were loaned to me by Monoprice.  They did not see the review before publication.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Monoprice THX-365C Center Channel Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/monoprice_thx_center/</link>
+      <link>http://localhost:1313/loudspeakers/monoprice_thx_center/</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/monoprice_thx_center/</guid>
-      <description>Foreword / YouTube Video Review This speaker was loaned to me by a viewer.
-The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/monoprice_thx_center/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This speaker was loaned to me by a viewer.&lt;/p&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.  The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Monoprice DT-3 Powered Monitor Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/monoprice_dt3/</link>
+      <link>http://localhost:1313/loudspeakers/monoprice_dt3/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/monoprice_dt3/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/monoprice_dt3/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  Due to time constraints and lack of personal interest, this review is a shortened version of what I typically provide.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Monoprice MM-3 Powered Monitor Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/monoprice_mm3/</link>
+      <link>http://localhost:1313/loudspeakers/monoprice_mm3/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/monoprice_mm3/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/monoprice_mm3/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  Due to time constraints and lack of personal interest, this review is a shortened version of what I typically provide.  However, note that I initially tested this speaker with the port open.  I then decided to test with the port sealed and - given the vast improvement in performance - decided to provide the rest of the data/review with the speaker&amp;rsquo;s ports blocked.  I used foam to stuff the ports.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

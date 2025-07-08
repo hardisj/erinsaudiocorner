@@ -1,10 +1,11 @@
+uglyURLs = false
 ################################# Default configuration ###################
 baseURL = "https://erinsaudiocorner.com/"
 languageCode = "en-us"
 title = "Erin's Audio Corner"
 theme = "meghna-hugo"
 # post pagination
-paginate = "1000"
+pagination = { pagerSize = 10 }
 # post excerpt
 summaryLength = "15"
 # disqus short name
@@ -69,30 +70,30 @@ URL = "electronics"
 weight = 4
 
 [[menu.main]]
-name = "Test Methods"
-URL = "testmethods"
+name = "Leaderboard"
+URL = "leaderboard"
 weight = 5
 
-[[menu.main]]
-name = "About Me"
-URL = "about"
-weight = 6
+#[[menu.main]]
+#name = "About Me"
+#URL = "about"
+#weight = 6
 
 #[[menu.main]]
 #name = "Contact"
 #URL = "contact"
 #weight = 6
 
-[[menu.main]]
-name = "Time Delay"
-URL = "timedelaycalc"
-weight = 7
+#[[menu.main]]
+#name = "Time Delay"
+#URL = "timedelaycalc"
+#weight =
 
 
 [[menu.main]]
 name = "Contribute"
 URL = "contribute"
-weight = 8
+weight = 6
 
 ############################# Default Parameters ##########################
 [params]
@@ -130,7 +131,7 @@ icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/user/hardisj/featured"
 
 ################################ English Language ########################
-[Languages.en]
+[languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"

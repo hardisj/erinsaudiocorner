@@ -55,7 +55,7 @@ As of this writeup, the MSRP is approximately $529 USD.
 <u>Overview</u>
 
 The WiiM Amp Ultra is the latest offering from WiiM. I imagine the next iteration will be "mega" or "super duper". At any rate, let's go through the data.
-If you're looking for a reference amplifier to compare these results against, then I recommend my review of the McIntosh MC611 monoblock found [here]("https://www.erinsaudiocorner.com/electronics/mcintosh_mc611/").
+If you're looking for a reference amplifier to compare these results against, then I recommend my review of the McIntosh MC611 monoblock found [here](https://www.erinsaudiocorner.com/electronics/mcintosh_mc611/).
 
 <br>
 <br>
@@ -75,7 +75,7 @@ If you're looking for a reference amplifier to compare these results against, th
 <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/oguhinqk33kvh0bqywlcl/Reactive-Loads-DAT.png?rlkey=yrx60pk0s8tm4s77kfbdmbnu8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
-**Note: Due to server space costs, results published here focus on the 4-ohm testing (unless otherwise noted). However, all the 2/4/8-Ohm data are provided on my Patreon page ([Patreon link]("https://www.patreon.com/posts/wiim-amp-ultra-132183153?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link")).**
+**Note: Due to server space costs, results published here focus on the 4-ohm testing (unless otherwise noted). However, all the 2/4/8-Ohm data are provided on my Patreon page ([Patreon link](https://www.patreon.com/posts/wiim-amp-ultra-132183153?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)).**
 
 <br>
 <br>

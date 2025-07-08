@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Airmotiv C1&#43; on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/airmotiv-c1&#43;/</link>
+    <link>http://localhost:1313/tags/airmotiv-c1&#43;/</link>
     <description>Recent content in Airmotiv C1&#43; on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/airmotiv-c1+/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/airmotiv-c1+/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emotiva Airmotiv C1&#43; Center Channel Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_c1plus/</link>
+      <link>http://localhost:1313/loudspeakers/emotiva_airmotiv_c1plus/</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/emotiva_airmotiv_c1plus/</guid>
-      <description>Foreword / YouTube Video Review This speaker was loaned to me by their owner in LNIB condition.</description>
+      <guid>http://localhost:1313/loudspeakers/emotiva_airmotiv_c1plus/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This speaker was loaned to me by their owner in LNIB condition.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

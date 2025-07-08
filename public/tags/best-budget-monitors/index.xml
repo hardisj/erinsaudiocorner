@@ -1,42 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>best budget monitors on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/best-budget-monitors/</link>
-    <description>Recent content in best budget monitors on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Best Budget Monitors on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/best-budget-monitors/</link>
+    <description>Recent content in Best Budget Monitors on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/best-budget-monitors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/best-budget-monitors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kii Audio THREE Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/kii_three/</link>
+      <link>http://localhost:1313/loudspeakers/kii_three/</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/kii_three/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/kii_three/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kali Audio LP-8v2 (Second Wave) 2-Way Studio Monitor Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/kali_lp-8v2/</link>
+      <link>http://localhost:1313/loudspeakers/kali_lp-8v2/</link>
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/kali_lp-8v2/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/kali_lp-8v2/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kali Audio LP-6v2 (Second Wave) 2-Way Studio Monitor Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/kali_lp-6v2/</link>
+      <link>http://localhost:1313/loudspeakers/kali_lp-6v2/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/kali_lp-6v2/</guid>
-      <description>Foreword / YouTube Video Review The review on this website is a brief overview and summary of the objective performance of this speaker.</description>
+      <guid>http://localhost:1313/loudspeakers/kali_lp-6v2/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

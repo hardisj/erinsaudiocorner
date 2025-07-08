@@ -3,7 +3,7 @@ title: "Yamaha NS-10M Studio Speaker Review"
 date: 2024-12-21
 draft: false
 image: "https://hub.yamaha.com/wp-content/uploads/2023/02/Studio-Reference-Monitors-banner_feature-image.jpg"
-description : "Yamaha NS-10M Studio Review"
+description: "Yamaha NS-10M Studio Review"
 Tags: ["Yamaha NS-10M Studio Review", "KEF Blade 2 Meta Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Aperion Audio Bookshelf", "Q Acoustics In-Room Gold LCR review"]
 ---
 
@@ -282,8 +282,8 @@ Summary:
 <br>
 
 Additional Reading:
-* [The Yamaha NS10M: Twenty Years A Reference Monitor. Why?]("https://dt7v1i9vyp3mf.cloudfront.net/assetlibrary/n/ns10m.pdf")
-* [Examining the Yamaha NS-10M “Tissue Paper Phenomenon” - Bob Hodas]("https://www.bobhodas.com/examining-the-yamaha-ns-10m.php")
+* [The Yamaha NS10M: Twenty Years A Reference Monitor. Why?](https://dt7v1i9vyp3mf.cloudfront.net/assetlibrary/n/ns10m.pdf)
+* [Examining the Yamaha NS-10M “Tissue Paper Phenomenon” - Bob Hodas](https://www.bobhodas.com/examining-the-yamaha-ns-10m.php)
 
 
 

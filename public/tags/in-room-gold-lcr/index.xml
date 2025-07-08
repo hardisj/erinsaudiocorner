@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>In-Room Gold LCR on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/in-room-gold-lcr/</link>
+    <link>http://localhost:1313/tags/in-room-gold-lcr/</link>
     <description>Recent content in In-Room Gold LCR on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/in-room-gold-lcr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/in-room-gold-lcr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Q Acoustics 5020 Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/q_acoustics_5020/</link>
+      <link>http://localhost:1313/loudspeakers/q_acoustics_5020/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/q_acoustics_5020/</guid>
-      <description>Foreword / YouTube Video Review This pair of speakers was loaned to me by the manufacturer.</description>
+      <guid>http://localhost:1313/loudspeakers/q_acoustics_5020/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This pair of speakers was loaned to me by the manufacturer.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Triad In-Room Gold LCR Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/triad_inroom_gold_lcr/</link>
+      <link>http://localhost:1313/loudspeakers/triad_inroom_gold_lcr/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/triad_inroom_gold_lcr/</guid>
-      <description>Foreword / YouTube Video Review This pair of speakers was loaned to me by a viewer for review.</description>
+      <guid>http://localhost:1313/loudspeakers/triad_inroom_gold_lcr/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This pair of speakers was loaned to me by a viewer for review.  Triad has been tight-lipped with their data and when reading various posts on the &lt;a href=&#34;https://www.avsforum.com/threads/triad-owners-thread.921427/&#34;&gt;Triad Owner&amp;rsquo;s Thread on AVSforum&lt;/a&gt; you&amp;rsquo;ll find many instances where users have asked for measurements from Triad and coming up empty-handed.  As far as I&amp;rsquo;m aware these measurements are the first comprehensive set of anechoic data available for Triad products. I hope this review offers you insight into the performance of this particular speaker model and will guide you in your purchase (or use if you currently own this model).&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

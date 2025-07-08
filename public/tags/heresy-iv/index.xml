@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heresy IV on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/heresy-iv/</link>
+    <link>http://localhost:1313/tags/heresy-iv/</link>
     <description>Recent content in Heresy IV on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Sep 2021 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/heresy-iv/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/heresy-iv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Klipsch Heresy IV Review (Redux!)</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/klipsch_heresy_iv/</link>
+      <link>http://localhost:1313/loudspeakers/klipsch_heresy_iv/</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/klipsch_heresy_iv/</guid>
-      <description>Foreword / YouTube Video Review Note 1: I reviewed this speaker approximately a year ago using quasi-anechoic methods.</description>
+      <guid>http://localhost:1313/loudspeakers/klipsch_heresy_iv/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;Note 1:  I reviewed this speaker approximately a year ago using quasi-anechoic methods.  I am re-reviewing the speaker with Klippel&amp;rsquo;s Near Field Scanner and have removed my old review as to not cause any confusion between the new and &amp;ldquo;old&amp;rdquo; dataset.  However, the old data was within acceptable error and would be suitable to use if not for the new data&amp;rsquo;s higher resolution and accuracy.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

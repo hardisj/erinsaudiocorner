@@ -2,23 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Q Acoustics 5020 on Erin&#39;s Audio Corner</title>
-    <link>https://erinsaudiocorner.com/tags/q-acoustics-5020/</link>
+    <link>http://localhost:1313/tags/q-acoustics-5020/</link>
     <description>Recent content in Q Acoustics 5020 on Erin&#39;s Audio Corner</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 21 May 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://erinsaudiocorner.com/tags/q-acoustics-5020/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="http://localhost:1313/tags/q-acoustics-5020/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Q Acoustics 5020 Speaker Review</title>
-      <link>https://erinsaudiocorner.com/loudspeakers/q_acoustics_5020/</link>
+      <link>http://localhost:1313/loudspeakers/q_acoustics_5020/</link>
       <pubDate>Sun, 21 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://erinsaudiocorner.com/loudspeakers/q_acoustics_5020/</guid>
-      <description>Foreword / YouTube Video Review This pair of speakers was loaned to me by the manufacturer.</description>
+      <guid>http://localhost:1313/loudspeakers/q_acoustics_5020/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This pair of speakers was loaned to me by the manufacturer.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

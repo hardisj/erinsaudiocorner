@@ -13,7 +13,7 @@ Tags: ["KEF Q11 Meta Review", "Sonus faber Sonetto II G2 Review","Wharfedale Lin
 These speakers were loaned to me to review by a viewer. I was not paid nor did I receive any other form of compensation for this review.
 
 If you are interested in purchasing this speaker please consider using the link below:
-[Crutchfield]("https://howl.link/wc4r7jt85uydw")
+[Crutchfield](https://howl.link/wc4r7jt85uydw)
 
 All my reviews are done on my own time with great care to give you all the best set of data and information I can provide in order to help you make a well-informed purchase decision.  I offer this for free to all who are interested.  In return, if you want to support this site please see the bottom of this review for ways you can help.  It is greatly appreciated.
 

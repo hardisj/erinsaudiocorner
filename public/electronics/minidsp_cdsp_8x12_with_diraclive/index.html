@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="utf-8">
 	<title>MiniDSP C-DSP 8x12 with Dirac Live Review</title>
 
@@ -10,32 +10,35 @@
 		content="MiniDSP C-DSP 8x12 with Dirac Live">
 	
 	<meta name="author" content="E">
-	<meta name="generator" content="Hugo 0.63.2" />
+	<meta name="generator" content="Hugo 0.147.9">
 
 	<!-- plugins -->
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/bootstrap/bootstrap.min.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/bootstrap/bootstrap.min.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/themify-icons/themify-icons.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/themify-icons/themify-icons.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/animate-css/animate.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/animate-css/animate.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/magnific-popup/magnific-popup.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/magnific-popup/magnific-popup.css ">
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/plugins/slick/slick.css ">
+	<link rel="stylesheet" href="http://localhost:1313/plugins/slick/slick.css ">
 	
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Anaheim%7cQuattrocento&#43;Sans:400,700&amp;display=swap ">
 	
 
 	<!-- Main Stylesheet -->
 	
-	<link rel="stylesheet" href="https://erinsaudiocorner.com/css/style.min.css" media="screen">
+	<link rel="stylesheet" href="http://localhost:1313/css/style.min.css" media="screen">
 
 	<!--Favicon-->
-	<link rel="shortcut icon" href="https://erinsaudiocorner.com/images/favicon.png " type="image/x-icon">
-	<link rel="icon" href="https://erinsaudiocorner.com/images/favicon.png " type="image/x-icon">
+	<link rel="shortcut icon" href="http://localhost:1313/images/favicon.png " type="image/x-icon">
+	<link rel="icon" href="http://localhost:1313/images/favicon.png " type="image/x-icon">
+
+	<link rel="stylesheet" href="/custom.css">
 
 </head>
+
 
 <body id="body" data-spy="scroll" data-target=".navbar" data-offset="55">
   <div id="content">
@@ -65,7 +68,7 @@
 		
 		<div class="collapse navbar-collapse" id="navigation">
 			<ul class="navbar-nav ml-auto navigation-menu">
-				<li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+				<li class="nav-item"><a class="nav-link" href="/"></a></li>
 				
 				<li class="nav-item"><a class="nav-link" href="/driveunits">Drive Units</a></li>
 				
@@ -75,11 +78,7 @@
 				
 				<li class="nav-item"><a class="nav-link" href="/electronics">Electronics</a></li>
 				
-				<li class="nav-item"><a class="nav-link" href="/testmethods">Test Methods</a></li>
-				
-				<li class="nav-item"><a class="nav-link" href="/about">About Me</a></li>
-				
-				<li class="nav-item"><a class="nav-link" href="/timedelaycalc">Time Delay</a></li>
+				<li class="nav-item"><a class="nav-link" href="/leaderboard">Leaderboard</a></li>
 				
 				<li class="nav-item"><a class="nav-link" href="/contribute">Contribute</a></li>
 				
@@ -88,8 +87,9 @@
 		
 		<!-- /main nav -->
 
-		
+
     
+		
 	</div>
 </nav>
 <!-- End Fixed Navigation -->
@@ -107,7 +107,7 @@
         </ul>
         
         
-        <img class="img-fluid mb-50" src="https://erinsaudiocorner.com/images/Reviews/Electronics/minidsp_cdsp_8x12DL/minidsp_cdsp8x12.jpg" alt="blog-image">
+        <img class="img-fluid mb-50" src="http://localhost:1313/images/Reviews/Electronics/minidsp_cdsp_8x12DL/minidsp_cdsp8x12.jpg" alt="blog-image">
         
       </div>
       <div class="col-lg-8 offset-lg-2">
@@ -171,7 +171,7 @@ The frequency fs is also called the Schroeder frequency and denotes approximatel
 What this means is that, essentially, above the Schroeder frequency the sound waves are shorter than the dimension of the room and are bounced around (reflected). Below the Schroeder frequency the sound is unable to move and is basically static because the wavelength is so long it can&rsquo;t move, thus creating &ldquo;modes&rdquo;. In a home the rooms are larger and the Schroeder frequency is usually in the 100-200hz region. A car is smaller and therefore the Schroeder frequency is higher; usually 300-400hz. Okay, so back to the notion of not applying correction to speakers above the Schroeder frequency&hellip; The premise behind this school of thought is simply that you should already be using speakers with good response (nice linear on-axis with a desired directivity and no aberrations off-axis) and have them placed optimally in a well-damped room. In this ideal case, the room&rsquo;s only serious detrimental impact would be below the Schroeder frequency and therefore this area would benefit from correction and any correction above this would be wasteful/potentially harmful to the sound. Well, unfortunately a car isn&rsquo;t a home. And in a car, everything around you contributes to the response and effectively becomes a baffle - that flat (or sometimes not flat) panel which your speaker driver is mounted to in a home speaker. You can take the world&rsquo;s best speaker drive unit, pluck it from a home speaker cabinet and plop it on your dash, a-pillar, or anywhere else in the car and you&rsquo;ll have a vastly different response. Why? Not just because of reflections or modes; but also because of what is near the speaker. In a well-designed home speaker the baffle is part of the design. The baffle actually has some engineering thought placed in to it. It helps to reinforce the sound up to some frequency and therefore drives the resulting response. In a car, the pillar, the dash, wherever you place the speaker, acts in the same manner: it alters the response of the drive unit. You may have heard the term &ldquo;corner loading&rdquo; when talking about subs. It&rsquo;s the concept of placing a subwoofer in a corner so the sound is reinforced by the corner walls. This is the same for car audio. In fact, the two effects in home audio (baffle and corner loading) are essentially the same in the car; especially the lower the frequency played by the driver. This is why car audio benefits from using auto equalization higher in frequency than most home audio enthusiasts suggest. Because you never have the &ldquo;perfect&rdquo; speaker response to start with: the room dominates the response nearly throughout the entire audible range and has to be considered part of the &ldquo;speaker&rdquo;. With all of this in mind, you can understand why MiniDSP encourages us to pre-correct the response of the &ldquo;speaker&rdquo; before we run DL, especially when used in the car environment.</p>
 <p>Step #4: Set up my crossovers for each speaker driver. With the varied amount of options out there in both install and driver, there is no one-size-fits-all solution to crossover assignment. However, the important thing is to set the crossover point and slope to protect your speaker for your desired volume level. A portion of Step #4 includes setting time delay. The application note linked above suggests doing so by using a tape measure. This is where I deviated from the application note. Instead of measuring each speaker driver’s physical distance from my listening position, I ran DL and let it tell me what the calculated time delay values were. I then used those and plugged them in to the corresponding output channels’ time delay. I figure doing this might offer me a slightly more accurate time delay value vs measuring. A couple inches’ offset in time isn’t a problem for bass but for tweeters and midrange blending, it does matter. I can’t say with 100% certainty the results were better than vs using a tape measure to calculate distance/delay but it’s easier. To do this, you’ll need to configure the input tabs for DL to be assigned to each individual speaker. Once you do this, you’ll need to re-assign the DL channels so they are correcting for the combined active channels’ response (i.e., left and right ‘speakers’ as I discussed earlier).</p>
 <p>So, now that the basics are set, it’s time to run DL. Below is a link to the User Manual for setting up DL:
-<a href="https://static1.squarespace.com/static/55c8a274e4b09cb562cd3ea0/t/565c6062e4b01110e1e11c4f/1448894562342/dirac+live+room+correction+suite+-+user+manual+v1.1.pdf">https://static1.squarespace.com/static/55c8a274e4b09cb562cd3ea0/t/565c6062e4b01110e1e11c4f/1448894562342/dirac+live+room+correction+suite+-+user+manual+v1.1.pdf</a></p>
+<a href="https://static1.squarespace.com/static/55c8a274e4b09cb562cd3ea0/t/565c6062e4b01110e1e11c4f/1448894562342/dirac&#43;live&#43;room&#43;correction&#43;suite&#43;-&#43;user&#43;manual&#43;v1.1.pdf">https://static1.squarespace.com/static/55c8a274e4b09cb562cd3ea0/t/565c6062e4b01110e1e11c4f/1448894562342/dirac+live+room+correction+suite+-+user+manual+v1.1.pdf</a></p>
 <p>Additionally, MiniDSP provides an Application Note on using DL:
 <a href="https://www.minidsp.com/applications/digital-room-correction/ddrc-24-for-2-1-system">https://www.minidsp.com/applications/digital-room-correction/ddrc-24-for-2-1-system</a></p>
 <p>While the manual should be sufficient for most users, I’ll add in some anecdotes about my experience:
@@ -236,7 +236,7 @@ I expected I would. But I purposely left out a comparison in my review simply be
 <div class="social-share pt-4">
 	<h4>Share:</h4>
 	
-	<a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2ferinsaudiocorner.com%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f" target="_blank"
+	<a class="resp-sharing-button__link" href="https://facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f" target="_blank"
 		rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--facebook resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -248,7 +248,7 @@ I expected I would. But I purposely left out a comparison in my review simply be
 	</a>
 
 	
-	<a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=MiniDSP%20C-DSP%208x12%20with%20Dirac%20Live%20Review&amp;url=https%3a%2f%2ferinsaudiocorner.com%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f"
+	<a class="resp-sharing-button__link" href="https://twitter.com/intent/tweet/?text=MiniDSP%20C-DSP%208x12%20with%20Dirac%20Live%20Review&amp;url=http%3a%2f%2flocalhost%3a1313%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f"
 		target="_blank" rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--twitter resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -261,7 +261,7 @@ I expected I would. But I purposely left out a comparison in my review simply be
 	</a>
 
 	
-	<a class="resp-sharing-button__link" href="https://plus.google.com/share?url=https%3a%2f%2ferinsaudiocorner.com%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f" target="_blank"
+	<a class="resp-sharing-button__link" href="https://plus.google.com/share?url=http%3a%2f%2flocalhost%3a1313%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f" target="_blank"
 		rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--google resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -274,7 +274,7 @@ I expected I would. But I purposely left out a comparison in my review simply be
 	</a>
 
 	
-	<a class="resp-sharing-button__link" href="mailto:?subject=MiniDSP%20C-DSP%208x12%20with%20Dirac%20Live%20Review&amp;body=https%3a%2f%2ferinsaudiocorner.com%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f" target="_self"
+	<a class="resp-sharing-button__link" href="mailto:?subject=MiniDSP%20C-DSP%208x12%20with%20Dirac%20Live%20Review&amp;body=http%3a%2f%2flocalhost%3a1313%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f" target="_self"
 		rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--email resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -288,7 +288,7 @@ I expected I would. But I purposely left out a comparison in my review simply be
 
 	
 	<a class="resp-sharing-button__link"
-		href="https://reddit.com/submit/?url=https%3a%2f%2ferinsaudiocorner.com%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f&amp;resubmit=true&amp;title=MiniDSP%20C-DSP%208x12%20with%20Dirac%20Live%20Review" target="_blank"
+		href="https://reddit.com/submit/?url=http%3a%2f%2flocalhost%3a1313%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f&amp;resubmit=true&amp;title=MiniDSP%20C-DSP%208x12%20with%20Dirac%20Live%20Review" target="_blank"
 		rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--reddit resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -301,7 +301,7 @@ I expected I would. But I purposely left out a comparison in my review simply be
 	</a>
 
 	
-	<a class="resp-sharing-button__link" href="whatsapp://send?text=MiniDSP%20C-DSP%208x12%20with%20Dirac%20Live%20Review%20https%3a%2f%2ferinsaudiocorner.com%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f" target="_blank"
+	<a class="resp-sharing-button__link" href="whatsapp://send?text=MiniDSP%20C-DSP%208x12%20with%20Dirac%20Live%20Review%20http%3a%2f%2flocalhost%3a1313%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f" target="_blank"
 		rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--whatsapp resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -314,7 +314,7 @@ I expected I would. But I purposely left out a comparison in my review simply be
 	</a>
 
 	
-	<a class="resp-sharing-button__link" href="https://telegram.me/share/url?text=MiniDSP%20C-DSP%208x12%20with%20Dirac%20Live%20Review&amp;url=https%3a%2f%2ferinsaudiocorner.com%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f"
+	<a class="resp-sharing-button__link" href="https://telegram.me/share/url?text=MiniDSP%20C-DSP%208x12%20with%20Dirac%20Live%20Review&amp;url=http%3a%2f%2flocalhost%3a1313%2felectronics%2fminidsp_cdsp_8x12_with_diraclive%2f"
 		target="_blank" rel="noopener" aria-label="">
 		<div class="resp-sharing-button resp-sharing-button--telegram resp-sharing-button--small">
 			<div aria-hidden="true" class="resp-sharing-button__icon resp-sharing-button__icon--solid">
@@ -355,14 +355,25 @@ I expected I would. But I purposely left out a comparison in my review simply be
 					</ul>
 				</div>
 
-				<!-- copyright -->
+
+
 				<div class="copyright text-center">
-					<a href="https://erinsaudiocorner.com/">
-						<img src="https://dl.dropboxusercontent.com/s/7l7gj78pzfv5ufv/watermark%20-%20for%20site.png?dl=0" alt="Erin&#39;s Audio Corner" />
-					</a>
-					<br>
-					<p>copyright © 2019 <a href="https://gethugothemes.com">gethugothemes</a> all right reserved</p>
-				</div>
+  <a href="http://localhost:1313/">
+    <img src="https://dl.dropboxusercontent.com/s/7l7gj78pzfv5ufv/watermark%20-%20for%20site.png?dl=0" alt="Erin&#39;s Audio Corner" />
+  </a>
+  <br>
+  <p>copyright © 2019 <a href="https://gethugothemes.com">gethugothemes</a> all right reserved</p>
+</div>
+
+
+<div class="affiliate-disclaimer text-center" style="font-size: 0.8rem; color: #ffffff; margin-top: 1rem;">
+  <p>
+    This page contains affiliate links. If you purchase something through one of these links, I may earn a small commission at no additional cost to you. Thanks for supporting the work I do!
+    <br>
+    &copy; 2025 Erin's Audio Corner. All rights reserved. All trademarks and product names are the property of their respective owners. Reviews and opinions expressed here are solely my own.
+  </p>
+</div>
+
 			</div>
 		</div>
 	</div>
@@ -374,26 +385,26 @@ I expected I would. But I purposely left out a comparison in my review simply be
 
 <!-- JS Plugins -->
 
-<script src="https://erinsaudiocorner.com/plugins/jquery/jquery.min.js"></script>
+<script src="http://localhost:1313/plugins/jquery/jquery.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/bootstrap/bootstrap.min.js"></script>
+<script src="http://localhost:1313/plugins/bootstrap/bootstrap.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/slick/slick.min.js"></script>
+<script src="http://localhost:1313/plugins/slick/slick.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/shuffle/shuffle.min.js"></script>
+<script src="http://localhost:1313/plugins/shuffle/shuffle.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+<script src="http://localhost:1313/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/wow/wow.min.js"></script>
+<script src="http://localhost:1313/plugins/wow/wow.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/lazy-load/lozad.min.js"></script>
+<script src="http://localhost:1313/plugins/lazy-load/lozad.min.js"></script>
 
-<script src="https://erinsaudiocorner.com/plugins/google-map/map.js"></script>
+<script src="http://localhost:1313/plugins/google-map/map.js"></script>
 
 
 <!-- Main Script -->
 
-<script src="https://erinsaudiocorner.com/js/script.min.js"></script>
+<script src="http://localhost:1313/js/script.min.js"></script>
 
 <!-- google analitycs -->
 
@@ -412,6 +423,7 @@ I expected I would. But I purposely left out a comparison in my review simply be
   ga('create', 'UA-156925516-1', 'auto');
   ga('send', 'pageview');
 </script>
+
 </body>
 
 </html>

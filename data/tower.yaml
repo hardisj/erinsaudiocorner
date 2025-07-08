@@ -1,0 +1,147 @@
+# ---------- UNDER1500 ----------
+- name: Klipsch RP-6000F II
+  score: 9.0
+  price: 1499
+  category: under1500
+  youtube: https://www.youtube.com/watch?v=vmGTy5o5Xgc
+  video_id: vmGTy5o5Xgc
+  affiliate: https://howl.link/v3pxgschfkej2
+  blurb: "Great directivity but the treble needs EQ and turn the speaker away 30°. High sensitivity. Keep them about 0.50m from wall."
+
+- name: Polk Audio Reserve R500
+  score: 9.0
+  price: 1299
+  category: under1500
+  youtube: https://www.youtube.com/watch?v=yYewhU3ydwE
+  video_id: yYewhU3ydwE
+  affiliate: https://howl.link/z84q0pwculghn
+  blurb: "Good bass extension and overall good linearity but a bit sibilant without EQ or sidewall absorption."
+
+
+# ---------- under2500 ----------
+- name: Klipsch RP-8000F II
+  score: 9.0
+  price: 1499
+  category: under2500
+  youtube: https://www.youtube.com/watch?v=vmGTy5o5Xgc
+  video_id: vmGTy5o5Xgc
+  affiliate: https://howl.link/hd6ihcmbezx3d
+  blurb: "Like the smaller RP-6000F II I recommend tailoring the HF down and pointing 30° out. High sensitivity. Keep them about 0.50m from wall."
+
+
+
+- name: Arendal Sound 1961 Tower
+  score: 8.8
+  price: 1900
+  category: under2500
+  youtube: https://www.youtube.com/watch?v=Ba7aFNyNYZo
+  video_id: Ba7aFNyNYZo
+  affiliate: https://tinyurl.com/erinarendal
+  blurb: "Slim design. Really good linearity, low distortion but needs a subwoofer. Somewhat narrow soundstage. Ideal for smaller home theater."
+
+- name: Polk Audio Reserve R700
+  score: 9.6
+  price: 2199
+  category: under2500
+  youtube: https://www.youtube.com/watch?v=E6APuGxTtJw
+  video_id: E6APuGxTtJw
+  affiliate: https://howl.link/vxl171cvc32qm
+  blurb: "Big tower speaker Sounds best pointed at the listener thanks to the ring-radiator tweeter. Bass to about 30-40Hz in-room."
+
+- name: KEF Q11 Meta
+  score: 9.6
+  price: 2499
+  category: under2500
+  youtube: https://www.youtube.com/watch?v=dPIWppFirmk
+  video_id: dPIWppFirmk
+  affiliate: https://howl.link/exx36ein4gy2n
+  blurb: "Ideal for a smaller room. In a larger room it will likely sound 'dark' as it uses sidewalls for high frequency reinforcement."
+
+- name: Morel Avyra 633
+  score: 9.6
+  price: 1999
+  category: under2500
+  youtube: https://www.youtube.com/watch?v=jALCwzEzHNM
+  video_id: jALCwzEzHNM
+  affiliate: https://www.morelhifi.com/en/products/hifi/avyra-50/avyra-633-491
+  blurb: "Great look, smooth midrange with slight uptick in the lower treble. Nice midbass thump thanks to mild 80Hz peak."
+
+
+# ---------- under5000 ----------
+- name: KEF R5 Meta
+  score: 9.6
+  price: 4999
+  category: under5000
+  youtube: https://www.youtube.com/watch?v=THBJXdZl2qM
+  video_id: THBJXdZl2qM
+  affiliate: https://howl.link/4duwfwoyejrke
+  blurb: "Designed for smaller rooms with near-wall placement bass design. Smooth directivity and takes well to EQ. Needs a subwoofer."
+
+
+
+# ---------- under10000 ----------
+- name: JBL HDI-3800
+  score: 9.4
+  price: 6000
+  category: under10000
+  youtube: https://www.youtube.com/watch?v=BkArFWGF8GQ
+  video_id: BkArFWGF8GQ
+  affiliate: https://howl.link/lpybb26lu1ejw
+  blurb: "High sensitivity, wide dispersion and plenty of output. Work best aimed slightly off axis to tame upper high frequency bump."
+
+- name: Revel PerformaBe F226Be
+  score: 9.4
+  price: 7700
+  category: under10000
+  youtube: https://www.youtube.com/watch?v=r1JjCVVgIdc
+  video_id: r1JjCVVgIdc
+  affiliate: https://howl.link/tb5a87nqmo2vq
+  blurb: "Wide soundstage, great detail in high frequency without fatigue. Needs a subwoofer where some others here do not due to rolloff around 50Hz."
+
+
+- name: MoFi SourcePoint 888
+  score: 9.4
+  price: 5495
+  category: under10000
+  youtube: https://www.youtube.com/watch?v=9bv5Mt5X__k
+  video_id: 9bv5Mt5X__k
+  affiliate: https://howl.link/am5wk8fdr6lmn
+  blurb: "Low bass extension. Linearity. Wide horizontal AND vertical radiation. Low Distortion and Compression."
+
+- name: KEF LS60 Wireless
+  score: 9.4
+  price: 5999
+  category: under10000
+  youtube: https://www.youtube.com/watch?v=E1DA6ER58Gg
+  video_id: E1DA6ER58Gg
+  affiliate: https://howl.link/vk9tyti0ct1yb
+  blurb: "Active speaker that offers a lot of the Blade features in a slim package: neutrality, bass extension and precision imaging."
+
+
+# ---------- over10000 ----------
+- name: JBL M2
+  score: 9.4
+  price: 30000
+  category: over10000
+  youtube: https://www.youtube.com/watch?v=C5iEgnAfwJQ
+  video_id: C5iEgnAfwJQ
+  affiliate: https://www.sweetwater.com/store/detail/M2System--jbl-m2-reference-monitor-system
+  blurb: "Active design with full bass extension, incredible directivity and crazy output."
+
+- name: JBL 4367
+  score: 9.4
+  price: 16500
+  category: over10000
+  youtube: https://www.youtube.com/watch?v=eJnOrG3BHaw
+  video_id: eJnOrG3BHaw
+  affiliate: https://www.jbl.com/floorstanding/Studio+Monitor+4367.html
+  blurb: "More compact version of the JBL M2 (but still has its own sound thanks in part to it's more narrow directivity in the treble)."
+
+- name: KEF Blade 2 META
+  score: 9.4
+  price: 28000
+  category: over10000
+  youtube: https://www.youtube.com/watch?v=lh8D7LhlVoQ
+  video_id: lh8D7LhlVoQ
+  affiliate: https://us.kef.com/products/reference-1-bookshelf-speaker?srsltid=AfmBOooqN3B7QW6HIuLbuRJArKVA_WEWwS-c9sfVkJ_9hf3KWISdvcXl
+  blurb: "Best passive speaker I've reviewed. The pointsource imaging of this speaker is uncanny with deep bass extension and incredible neutrality."
