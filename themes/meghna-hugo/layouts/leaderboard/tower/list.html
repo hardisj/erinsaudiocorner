@@ -203,18 +203,10 @@
     If a speaker isn’t listed here, that doesn’t mean it’s not good. There are plenty of excellent models I’ve reviewed. These are simply the ones I personally recommend right now. The list will continue to evolve as I review more products. You can find all 250+ of my reviews via the main page. - Erin
   </div>
 
-  {{- $tiers := slice "under1500" "under2500" "under5000" "under10000" "over10000" -}}
-  {{- $tierNames := dict
-    "under1500" "Under $1500"
-    "under2500" "Under $2500"
-    "under5000" "Under $5000"
-    "under10000" "Under $10000"
-    "over10000" "Over $10000"
-    "tower" "Tower"
-    "desktop" "Desktop"
-    "centerchannel" "Center Channel" -}}
+{{ $tiers := slice "under1500" "under2500" "under5000" "under10000" "over10000" -}}
+  {{ $tierNames := dict "under1500" "Under $1500" "under2500" "Under $2500" "under5000" "Under $5000" "under10000" "Under $10000" "over10000" "Over $10000" "tower" "Tower" "desktop" "Desktop" "centerchannel" "Center Channel" }}
 
-  {{- range $tier := $tiers }}
+  {{ range $tier := $tiers }}
     <section id="{{ $tier }}" class="card-section">
       <h2 class="section-title">{{ index $tierNames $tier }}</h2>
       <div class="card-grid">
@@ -236,7 +228,7 @@
         {{- end }}
       </div>
     </section>
-  {{- end }}
+  {{ end }}
 
 </body>
 
