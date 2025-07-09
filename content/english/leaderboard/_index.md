@@ -1,4 +1,6 @@
 ---
 title: "Speaker Leaderboard"
-layout: "landing"
+layout: "list"
+type: "leaderboard"
+url: "/leaderboard/"
 ---
