@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -13,17 +14,20 @@
       --background-light: #ffffff;
       --text-light: #222;
     }
+
     body {
       background: var(--background-light);
       color: var(--text-light);
       font-family: 'Open Sans', sans-serif;
       margin: 0;
     }
+
     .sticky-wrapper {
       position: sticky;
       top: 0;
       z-index: 1000;
     }
+
     header {
       background-color: #000;
       padding: .3rem 2rem 0 2rem;
@@ -33,17 +37,20 @@
         "title";
       justify-items: center;
     }
+
     .return-link {
       grid-area: link;
       justify-self: start;
       font-size: 0.8rem;
       margin-bottom: 0.1rem;
     }
+
     header a {
       color: white;
       text-decoration: none;
       font-weight: 600;
     }
+
     header h1 {
       grid-area: title;
       color: white;
@@ -52,21 +59,25 @@
       margin: 0;
       text-align: center;
     }
+
     .logo {
       display: none;
     }
+
     .nav-links {
       background: #f9f9f9;
       padding: 1rem 1rem;
       text-align: center;
       border-bottom: 1px solid #212121;
     }
+
     .nav-links a {
       margin: 0 1rem;
       text-decoration: none;
       color: #006bb3;
       font-weight: 600;
     }
+
     .intro-paragraph {
       max-width: 1100px;
       margin: 2rem auto;
@@ -77,10 +88,12 @@
       font-weight: 100;
       color: #212121;
     }
+
     .card-section {
       margin-bottom: 4rem;
       scroll-margin-top: 120px;
     }
+
     .card-grid {
       display: flex;
       flex-wrap: wrap;
@@ -88,11 +101,12 @@
       justify-content: center;
       padding: 1rem 1rem 2rem;
     }
+
     .card {
       background: white;
       border-radius: 10px;
       border: 1px solid #ccc;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
       padding: 1rem;
       width: 260px;
       display: flex;
@@ -101,10 +115,12 @@
       transition: transform 0.2s ease, box-shadow 0.2s ease;
       position: relative;
     }
+
     .card:hover {
       transform: translateY(-4px);
-      box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
     }
+
     .trophy {
       position: absolute;
       top: 8px;
@@ -112,6 +128,7 @@
       color: var(--accent-color);
       font-size: 1.1rem;
     }
+
     .thumbnail {
       width: 100%;
       height: 140px;
@@ -119,32 +136,38 @@
       border-radius: 6px;
       margin-bottom: 0.75rem;
     }
+
     .card h3 {
       margin: 0.5rem 0 0.25rem;
       font-size: 1rem;
       text-align: center;
       font-weight: 1000;
     }
+
     .stars {
       color: #ffcc00;
       font-size: 0.85rem;
       margin: 0.2rem 0;
     }
+
     .stars i {
       margin: 0 1px;
     }
+
     .price {
       font-size: 0.85rem;
       margin: 0.2rem 0;
       color: #000;
       font-weight: 600;
     }
+
     .blurb {
       font-size: 0.85rem;
       color: #444;
       text-align: center;
       margin-top: 0.4rem;
     }
+
     .btn {
       background: var(--primary-color);
       color: white;
@@ -155,9 +178,11 @@
       font-size: 0.8rem;
       transition: background 0.2s ease;
     }
+
     .btn:hover {
       background: #004f8a;
     }
+
     .btn-secondary.youtube-btn {
       display: inline-flex;
       align-items: center;
@@ -167,9 +192,11 @@
       font-weight: 600;
       text-decoration: none;
     }
+
     .btn-secondary.youtube-btn:hover {
       text-decoration: underline;
     }
+
     .btn-container {
       display: flex;
       gap: 0.5rem;
@@ -177,6 +204,7 @@
       flex-wrap: wrap;
       margin-top: 0.5rem;
     }
+
     h2.section-title {
       font-size: 1.5rem;
       color: var(--primary-color);
@@ -185,6 +213,7 @@
       border-bottom: 2px solid #ddd;
       padding-bottom: 0.5rem;
     }
+
     .faq-section {
       max-width: 700px;
       margin: 3rem auto;
@@ -195,12 +224,14 @@
       border-radius: 8px;
       line-height: 1.5;
     }
+
     .faq-section h3 {
       margin-bottom: 0.5rem;
       color: var(--primary-color);
     }
   </style>
 </head>
+
 <body>
   <div class="sticky-wrapper">
     <header>
@@ -221,48 +252,60 @@
   </div>
 
   <div class="intro-paragraph">
-Note: These are my personal speaker recommendations, based on a combination of objective measurements, subjective listening impressions, and viewer feedback. I've organized them by price and type to help you quickly find options that fit your budget and preferences. I've also given a little blurb with some highlights about what I liked but watch the video for all the details.
+    Note: These are my personal speaker recommendations, based on a combination of objective measurements, subjective
+    listening impressions, and viewer feedback. I've organized them by price and type to help you quickly find options
+    that fit your budget and preferences. I've also given a little blurb with some highlights about what I liked but
+    watch the video for all the details.
 
-If a speaker isn’t listed here, that doesn’t mean it’s not good. There are plenty of excellent models I’ve reviewed. These are simply the ones I personally recommend right now. The list will continue to evolve as I review more products. You can find all 250+ of my reviews via the main page. - Erin
+    If a speaker isn’t listed here, that doesn’t mean it’s not good. There are plenty of excellent models I’ve reviewed.
+    These are simply the ones I personally recommend right now. The list will continue to evolve as I review more
+    products. You can find all 250+ of my reviews via the main page. - Erin
   </div>
 
-{{ $tiers := slice "under500" "500to1000" "1000to1500" "1500to3000" "3000to5000" "over5000" }}
-  {{ $tierNames := dict "under500" "Under $500" "500to1000" "Under $1000" "1000to1500" "Under $1500" "1500to3000" "Under $3000" "3000to5000" "Under $5000" "over5000" "Over $5000" "tower" "Tower" "desktop" "Desktop" "centerchannel" "Center Channel" }}
+  {{ $tiers := slice "under500" "500to1000" "1000to1500" "1500to3000" "3000to5000" "over5000" }}
+  {{ $tierNames := dict "under500" "Under $500" "500to1000" "Under $1000" "1000to1500" "Under $1500" "1500to3000" "Under
+  $3000" "3000to5000" "Under $5000" "over5000" "Over $5000" "tower" "Tower" "desktop" "Desktop" "centerchannel" "Center
+  Channel" }}
 
   {{ range $tier := $tiers }}
-    <section id="{{ $tier }}" class="card-section">
-      <h2 class="section-title">{{ index $tierNames $tier }}</h2>
-      <div class="card-grid">
-        {{ $speakers := first 5 (sort (sort (where site.Data.bookshelf "category" $tier) "score" "asc") "price" "asc") }}
-        {{ range $i, $s := $speakers }}
-          <div class="card">
-            {{ if $s.favorite }}<div class="trophy"><i class="fa-solid fa-star fa-2xl"></i></div>{{ end }}
-            <img class="thumbnail" src="https://img.youtube.com/vi/{{ $s.video_id }}/hqdefault.jpg" alt="{{ $s.name }} thumbnail">
-            <h3>{{ $s.name }}</h3>
+  <section id="{{ $tier }}" class="card-section">
+    <h2 class="section-title">{{ index $tierNames $tier }}</h2>
+    <div class="card-grid">
+      {{ $speakers := first 5 (sort (sort (where site.Data.bookshelf "category" $tier) "score" "asc") "price" "asc") }}
+      {{ range $i, $s := $speakers }}
+      <div class="card">
+        {{ if $s.favorite }}<div class="trophy"><i class="fa-solid fa-star fa-2xl"></i></div>{{ end }}
+        <img class="thumbnail" src="https://img.youtube.com/vi/{{ $s.video_id }}/hqdefault.jpg"
+          alt="{{ $s.name }} thumbnail">
+        <h3>{{ $s.name }}</h3>
 
-            <div class="price">💲 {{ $s.price }}</div>
-            <p class="blurb">{{ $s.blurb }}</p>
-            <div class="btn-container">
-              <a class="btn-secondary youtube-btn" href="{{ $s.youtube }}" target="_blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" style="height: 16px;"> Watch Review
-              </a>
-              <a class="btn" href="{{ $s.affiliate }}" target="_blank"><i class="fas fa-shopping-cart"></i> Buy Now</a>
-            </div>
-          </div>
-        {{ end }}
+        <div class="price">💲 {{ $s.price }}</div>
+        <p class="blurb">{{ $s.blurb }}</p>
+        <div class="btn-container">
+          <a class="btn-secondary youtube-btn" href="{{ $s.youtube }}" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png"
+              alt="YouTube" style="height: 16px;"> Watch Review
+          </a>
+          <a class="btn" href="{{ $s.affiliate }}" target="_blank"><i class="fas fa-shopping-cart"></i> Buy Now</a>
+        </div>
       </div>
-    </section>
+      {{ end }}
+    </div>
+  </section>
   {{ end }}
 </body>
 
 <footer style="text-align: center; font-size: 1rem; color: #111; padding: 2rem 1rem;">
   <p>
-    This page contains affiliate links. If you purchase something through one of these links, I may earn a small commission at no additional cost to you. Thanks for supporting the work I do!
+    This page contains affiliate links. If you purchase something through one of these links, I may earn a small
+    commission at no additional cost to you. Thanks for supporting the work I do!
     <br><br>
     Note: Prices are last updated on 07/07/2025 and are subject to change at any time.
     <br><br>
-    &copy; {{ now.Format "2006" }} Erin's Audio Corner. All rights reserved. All trademarks and product names are the property of their respective owners. Reviews and opinions expressed here are solely my own.
+    &copy; {{ now.Format "2006" }} Erin's Audio Corner. All rights reserved. All trademarks and product names are the
+    property of their respective owners. Reviews and opinions expressed here are solely my own.
   </p>
 </footer>
+<!-- Hi Erin! -->
 
 </html>
