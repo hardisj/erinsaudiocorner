@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MoFi Bookshelf on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/mofi-bookshelf/</link>
+    <description>Recent content in MoFi Bookshelf on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mofi-bookshelf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MoFi SourcePoint 8 Speaker Review</title>
+      <link>http://localhost:1313/loudspeakers/mofi_8/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/loudspeakers/mofi_8/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This pair of speakers was loaned to me by the manufacturer. I was not paid for the review nor did the manufacturer see the data/review before its public release.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MoFi SourcePoint 10 Speaker Review</title>
+      <link>http://localhost:1313/loudspeakers/mofi_10/</link>
+      <pubDate>Sun, 28 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/loudspeakers/mofi_10/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This pair of speakers was loaned to me by the manufacturer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

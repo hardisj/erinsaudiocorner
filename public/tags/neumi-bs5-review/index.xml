@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neumi BS5 Review on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/neumi-bs5-review/</link>
+    <description>Recent content in Neumi BS5 Review on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/neumi-bs5-review/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neumi BS5 Bookshelf Speaker Review</title>
+      <link>http://localhost:1313/loudspeakers/neumi_bs5_nfs/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/loudspeakers/neumi_bs5_nfs/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;I tested this speaker over a year ago when I did not have the Klippel Near Field Scanner.  I wanted to test it again with the Near Field Scanner so I could have comparable data with my more recent reviews.  Neumi was kind enough to send me a pair out to review again.  The results do differ from my previous review (&lt;a href=&#34;https://www.erinsaudiocorner.com/loudspeakers/neumi_bs5/&#34;&gt;link&lt;/a&gt;) namely in the midrange where my old results were more linear by about 1.5dB (or so) but I&amp;rsquo;m not too bothered by this.  I verified with Neumi that the speaker hasn&amp;rsquo;t changed so most likely the lower resolution of my old method lead to less than perfect matching between my ground plane method and farfield gated response.  That combined with the higher resolution of the NFS yields a more representative result today.  For what it&amp;rsquo;s worth, I tested the passive speaker from the powered set on the NFS and got practically the same result as this speaker.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

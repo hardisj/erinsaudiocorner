@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Master Reference Monitor on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/master-reference-monitor/</link>
+    <description>Recent content in Master Reference Monitor on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/master-reference-monitor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JBL M2 Master Reference Monitor</title>
+      <link>http://localhost:1313/loudspeakers/jbl_m2/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/loudspeakers/jbl_m2/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer &amp;ldquo;just the facts&amp;rdquo; and prefer to have the data without the filler.  Discussion about the data and my subjective thoughts can be found in my video below.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

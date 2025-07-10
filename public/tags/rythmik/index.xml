@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rythmik on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/rythmik/</link>
+    <description>Recent content in Rythmik on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2013 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rythmik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rythmik Audio F12G Direct Servo Subwoofer In-Depth Review</title>
+      <link>http://localhost:1313/subwoofer_testing/rythmik-f12g-direct-servo-subwoofer/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/subwoofer_testing/rythmik-f12g-direct-servo-subwoofer/</guid>
+      <description>&lt;h2 id=&#34;foreword&#34;&gt;Foreword:&lt;/h2&gt;&#xA;&lt;p&gt;Rather than discuss only the performance of the enclosed subwoofer, I want to present some more, detailed information that not even some manufacturers are able to obtain. I will be using my own Klippel Distortion Analyzer and software modules to extract raw subwoofer driver data so we can assess the raw driver performance. This is telling because, simply put, if you start with garbage you will never achieve anything better than garbage. It&amp;rsquo;s always nice to know what is at the base of a system and this can help determine potential pitfalls in design and use.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

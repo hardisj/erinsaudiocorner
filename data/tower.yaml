@@ -6,7 +6,7 @@
   youtube: https://www.youtube.com/watch?v=vmGTy5o5Xgc
   video_id: vmGTy5o5Xgc
   affiliate: https://howl.link/v3pxgschfkej2
-  blurb: "Great directivity but the treble needs EQ and turn the speaker away 30°. High sensitivity. Keep them about 0.50m from wall."
+  blurb: "Great directivity. High sensitivity. Toe-out about 30° to lessen treble brightness. Keep them about 0.50m from wall."
 
 - name: Polk Audio Reserve R500
   score: 9.0
@@ -18,6 +18,15 @@
   blurb: "Good bass extension and overall good linearity but a bit sibilant without EQ or sidewall absorption."
 
 
+- name: Magnepan LRS+
+  score: 8.7
+  price: 999
+  category: under1500
+  youtube: https://www.youtube.com/watch?v=PQemV-W48b8
+  video_id: PQemV-W48b8
+  affiliate: https://tmraudio.com/speakers/floorstanding-speakers/magnepan-lrs-planar-magnetic-floorstanding-speakers/?sku=2248newMGPN-BL&gad_source=1&gad_campaignid=18142396955&gbraid=0AAAAABw_KJqIZvFpcscR9hSr7i-SH4j2x&gclid=CjwKCAjwprjDBhBTEiwA1m1d0tN7q9ZkfKiCwcu-zkVFBS5WgfeXMq_9eKG8K1jIL9jnj46GP4l9OxoCikMQAvD_BwE
+  blurb: "Wild speaker with really neat soundstage attributes. Good tonal balance if your head is at the exact right spot."
+
 # ---------- under2500 ----------
 - name: Klipsch RP-8000F II
   score: 9.0
@@ -26,9 +35,7 @@
   youtube: https://www.youtube.com/watch?v=vmGTy5o5Xgc
   video_id: vmGTy5o5Xgc
   affiliate: https://howl.link/hd6ihcmbezx3d
-  blurb: "Like the smaller RP-6000F II I recommend tailoring the HF down and pointing 30° out. High sensitivity. Keep them about 0.50m from wall."
-
-
+  blurb: "Like the RP-6000F II, I recommend tailoring the HF down and pointing 30° out. High sensitivity. Keep them about 0.50m from wall."
 
 - name: Arendal Sound 1961 Tower
   score: 8.8
@@ -46,7 +53,7 @@
   youtube: https://www.youtube.com/watch?v=E6APuGxTtJw
   video_id: E6APuGxTtJw
   affiliate: https://howl.link/vxl171cvc32qm
-  blurb: "Big tower speaker Sounds best pointed at the listener thanks to the ring-radiator tweeter. Bass to about 30-40Hz in-room."
+  blurb: "Big tower speaker that commands attention. Sounds best pointed at the listener thanks to the ring-radiator tweeter. Bass to about 30-40Hz in-room."
 
 - name: KEF Q11 Meta
   score: 9.6
@@ -64,7 +71,7 @@
   youtube: https://www.youtube.com/watch?v=jALCwzEzHNM
   video_id: jALCwzEzHNM
   affiliate: https://www.morelhifi.com/en/products/hifi/avyra-50/avyra-633-491
-  blurb: "Great look, smooth midrange with slight uptick in the lower treble. Nice midbass thump thanks to mild 80Hz peak."
+  blurb: "Great looking speaker with smooth midrange, though there is a slight uptick in the lower treble. Nice midbass thump thanks to mild 80Hz peak."
 
 
 # ---------- under5000 ----------
@@ -106,7 +113,7 @@
   youtube: https://www.youtube.com/watch?v=9bv5Mt5X__k
   video_id: 9bv5Mt5X__k
   affiliate: https://howl.link/am5wk8fdr6lmn
-  blurb: "Low bass extension. Linearity. Wide horizontal AND vertical radiation. Low Distortion and Compression."
+  blurb: "Low bass extension while maintaining smooth linearity. Wide horizontal AND vertical radiation. Low Distortion and Compression."
 
 - name: KEF LS60 Wireless
   score: 9.4
@@ -126,7 +133,7 @@
   youtube: https://www.youtube.com/watch?v=C5iEgnAfwJQ
   video_id: C5iEgnAfwJQ
   affiliate: https://www.sweetwater.com/store/detail/M2System--jbl-m2-reference-monitor-system
-  blurb: "Active design with full bass extension, incredible directivity and crazy output."
+  blurb: "Active design with full bass extension, incredible directivity and crazy output. A go-to choice for music lovers and home theater fans alike."
 
 - name: JBL 4367
   score: 9.4
@@ -135,7 +142,7 @@
   youtube: https://www.youtube.com/watch?v=eJnOrG3BHaw
   video_id: eJnOrG3BHaw
   affiliate: https://www.jbl.com/floorstanding/Studio+Monitor+4367.html
-  blurb: "More compact version of the JBL M2 (but still has its own sound thanks in part to it's more narrow directivity in the treble)."
+  blurb: "Incredible dynamic range while maintaining great overall neutrality. Has a more narrow high frequency radiation than cone/dome drivers."
 
 - name: KEF Blade 2 META
   score: 9.4

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R100 on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/r100/</link>
+    <description>Recent content in R100 on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/r100/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polk R100 Bookshelf Speaker Review</title>
+      <link>http://localhost:1313/loudspeakers/polk_r100/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/loudspeakers/polk_r100/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;This speaker was loaned to me by the owner.  I was only loaned a single and was therefore only able to conduct listening tests in mono.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

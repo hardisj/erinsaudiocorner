@@ -37,7 +37,7 @@
   affiliate: https://howl.link/yqx86q74wivy7
   blurb: "Good linearity. Standout feature is its excellent vertical dispersion. Limited in SPL compared to a couple others."
 
-- name: Klipsch Reference Premiere RP-500M II
+- name: Klipsch RP-500M II
   score: 9.0
   price: 499
   category: under500
@@ -57,14 +57,14 @@
   affiliate: https://tinyurl.com/erinarendal
   blurb: "Slim design. Really good linearity, low distortion but needs a subwoofer. Somewhat narrow soundstage. Ideal for smaller home theater."
 
-- name: Klipsch Reference Premiere RP-600M II
+- name: Klipsch RP-600M II
   score: 9.2
   price: 649
   category: 500to1000
   youtube: https://www.youtube.com/watch?v=SrAmNbOJsa0
   video_id: SrAmNbOJsa0
   affiliate: https://howl.link/r8x1ixvwd44kk
-  blurb: "Impressive dynamics but limited in soundstage width. Needs to be toed-out about 30 degrees."
+  blurb: "Impressive dynamics but limited in soundstage width due to the horn design. Toed-out about 30 degrees gives a more neutral balance."
 
 - name: Ascend Acoustics Sierra-1 v2
   score: 9.1
@@ -82,16 +82,16 @@
   youtube: https://www.youtube.com/watch?v=VCY_CDu5Xas
   video_id: VCY_CDu5Xas
   affiliate: https://howl.link/yhpxfd4crwa18
-  blurb: "A bit more detailed than neutral thanks to its slightly lifted treble. Good mibass thump."
+  blurb: "A bit more detailed than neutral thanks to its slightly lifted treble. Mild midbass bump gives more 'punch' which I tend to enjoy."
 
-- name: Magnepan LRS+
+- name: KALI Audio IN-8V2
   score: 8.7
   price: 999
   category: 500to1000
-  youtube: https://www.youtube.com/watch?v=PQemV-W48b8
-  video_id: PQemV-W48b8
-  affiliate: https://www.elac.com/product/uni-fi-2-0-ub52/
-  blurb: "Wild speaker with really neat soundstage attributes. Good tonal balance if your head is at the exact right spot."
+  youtube: https://www.youtube.com/watch?v=DNpkizYXbVM
+  video_id: DNpkizYXbVM
+  affiliate: https://amzn.to/406A2zR
+  blurb: "Powered speaker with studio monitor accuracy. Sounds great used as a pair of mains but be mindful the internal DSP limits bass at high SPL."
 
 # ---------- 1000TO1500 ----------
 - name: Audio First Fidelia (Kit Speaker)
@@ -206,14 +206,14 @@
   affiliate: https://buchardtaudio.com/collections/active-speakers/products/anniversary-10
   blurb: "Powered speaker. Many tuning profiles. Small and lightweight. Limited in SPL/bass due to DSP extending bass."
 
-- name: MoFi SourcePoint 10 Master Edition
+- name: MoFi SourcePoint 10 Master Ed.
   score: 9.4
   price: 3994
   category: 3000to5000
   youtube: https://www.youtube.com/watch?v=DcYVu0TQtDs
   video_id: DcYVu0TQtDs
   affiliate: https://howl.link/y9i363cb070hb
-  blurb: "Video coming. Reviewed previous version and felt treble was too hot. The new version has solved this and it's awesome."
+  blurb: "This Master Edidtion version has a treble switch which offers preference-based tweeter level adjustments."
 
 - name: Radiant Acoustics CLARITY 6.2
   score: 9.4
@@ -222,7 +222,7 @@
   youtube: https://www.youtube.com/watch?v=wV52ek8lUWc
   video_id: wV52ek8lUWc
   affiliate: https://radiantacoustics.com/products/clarity-6-2
-  blurb: "Incredibly low distortion for a bookshelf speaker its size (or period, really). Wide dispersion. Aim about 15-20° away from listener."
+  blurb: "Incredibly low distortion for a speaker its size (or period, really). Wide dispersion. Aim about 15-20° away from listener."
 
 - name: MARCH Audio Sointuva AWG
   score: 9.4
@@ -231,7 +231,7 @@
   youtube: https://www.youtube.com/watch?v=CBIjLicpAck
   video_id: CBIjLicpAck
   affiliate: https://marchaudio.com/product/sointuva-awg-stand-mount-speaker/
-  blurb: "Super low distortion and low bass extension at the cost of sensitivity. More narrow than others here but fantastic timbre."
+  blurb: "Super low distortion bass extension at the cost of sensitivity. More narrow than others here but fantastic timbre."
 
 
 

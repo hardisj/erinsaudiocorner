@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MM-3 on Erin&#39;s Audio Corner</title>
+    <link>http://localhost:1313/tags/mm-3/</link>
+    <description>Recent content in MM-3 on Erin&#39;s Audio Corner</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mm-3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monoprice MM-3 Powered Monitor Review</title>
+      <link>http://localhost:1313/loudspeakers/monoprice_mm3/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/loudspeakers/monoprice_mm3/</guid>
+      <description>&lt;h2 id=&#34;foreword--youtube-video-review&#34;&gt;Foreword / YouTube Video Review&lt;/h2&gt;&#xA;&lt;p&gt;The review on this website is a brief overview and summary of the objective performance of this speaker.  Due to time constraints and lack of personal interest, this review is a shortened version of what I typically provide.  However, note that I initially tested this speaker with the port open.  I then decided to test with the port sealed and - given the vast improvement in performance - decided to provide the rest of the data/review with the speaker&amp;rsquo;s ports blocked.  I used foam to stuff the ports.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
