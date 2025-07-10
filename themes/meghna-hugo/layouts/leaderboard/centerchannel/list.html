@@ -221,9 +221,8 @@
   </div>
 
   <div class="intro-paragraph">
-Note: These are my personal speaker recommendations, based on a combination of objective measurements, subjective listening impressions, and viewer feedback. I've organized them by price and type to help you quickly find options that fit your budget and preferences. I've also given a little blurb with some highlights about what I liked but watch the video for all the details.
-
-If a speaker isn’t listed here, that doesn’t mean it’s not good. There are plenty of excellent models I’ve reviewed. These are simply the ones I personally recommend right now. The list will continue to evolve as I review more products. You can find all 250+ of my reviews via the main page. - Erin
+    Note: These are my personal speaker recommendations, based on a combination of objective measurements, subjective
+    listening impressions, and viewer feedback. Just because a speaker isn’t listed here doesn’t mean it isn’t excellent. I’ve reviewed plenty of great models, but this page is meant to highlight a short list of standout recommendations. Some very good speakers didn’t make the cut simply to keep things manageable. You can find all 250+ of my reviews via <a href="https://www.erinsaudiocorner.com/loudspeakers/">the main page</a>. – Erin
   </div>
 
 {{ $tiers := slice "under500" "500to1000" "1000to1500" "1500to3000" "3000to5000" "over5000" }}
@@ -239,7 +238,7 @@ If a speaker isn’t listed here, that doesn’t mean it’s not good. There are
             {{ if $s.favorite }}<div class="trophy"><i class="fa-solid fa-star fa-2xl"></i></div>{{ end }}
             <img class="thumbnail" src="https://img.youtube.com/vi/{{ $s.video_id }}/hqdefault.jpg" alt="{{ $s.name }} thumbnail">
             <h3>{{ $s.name }}</h3>
-            
+
             <div class="price">💲 {{ $s.price }}</div>
             <p class="blurb">{{ $s.blurb }}</p>
             <div class="btn-container">
