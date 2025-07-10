@@ -27,6 +27,16 @@
   affiliate: https://tmraudio.com/speakers/floorstanding-speakers/magnepan-lrs-planar-magnetic-floorstanding-speakers/?sku=2248newMGPN-BL&gad_source=1&gad_campaignid=18142396955&gbraid=0AAAAABw_KJqIZvFpcscR9hSr7i-SH4j2x&gclid=CjwKCAjwprjDBhBTEiwA1m1d0tN7q9ZkfKiCwcu-zkVFBS5WgfeXMq_9eKG8K1jIL9jnj46GP4l9OxoCikMQAvD_BwE
   blurb: "Wild speaker with really neat soundstage attributes. Good tonal balance if your head is at the exact right spot."
 
+- name: ELAC Debut 3.0 DF63
+  score: 9.0
+  price: 1298
+  category: under1500
+  youtube: https://www.youtube.com/watch?v=NI8En4OhvMM
+  video_id: NI8En4OhvMM
+  affiliate: https://howl.link/i7zvsy6rizyjq
+  blurb: "Low distortion and compression with pretty good response linearity. Might sound 'warm' without EQ but overall good."
+
+
 # ---------- under2500 ----------
 - name: Klipsch RP-8000F II
   score: 9.0
