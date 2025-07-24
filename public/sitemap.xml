@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/aperion-audio-verus-iii/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/arendal-1528-monitor-8-bookshelf/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ascilab-c6b/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/audio-first-fidelia-review/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/erins-audio-corner/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/loudspeakers/fosi_sp601/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kef-blade-2-meta-speaker-review/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/klippel/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/loudspeaker/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/loudspeakers/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/q-acoustics-in-room-gold-lcr-review/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/review/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/speaker/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/uni-q/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/wharfedale-linton-85-speaker/</loc>
+    <lastmod>2025-07-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/loudspeakers/rockville_rocktower_68b/</loc>
+    <lastmod>2025-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/a/v-processor/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,15 +63,6 @@
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/electronics/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/klippel/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/loudspeaker/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mc462/</loc>
@@ -32,12 +77,6 @@
     <loc>http://localhost:1313/tags/mcintosh-mc611-mono-amplifier/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/review/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/wiim/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,28 +89,7 @@
     <loc>http://localhost:1313/electronics/mcintosh_mc611/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aperion-audio-verus-iii/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/arendal-1528-monitor-8-bookshelf/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ascilab-c6b/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/loudspeakers/ascilab_c6b/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/audio-first-fidelia-review/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/erins-audio-corner/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/kef-blade-2-meta-speaker-review/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/loudspeakers/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/loudspeakers/onkyo_gx_30arc/</loc>
@@ -89,22 +107,10 @@
     <loc>http://localhost:1313/loudspeakers/pylon_jasper_18/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/q-acoustics-in-room-gold-lcr-review/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/revel-concerta2-f35/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/loudspeakers/revel_f35/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/speaker/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/uni-q/</loc>
-    <lastmod>2025-06-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/wharfedale-linton-85-speaker/</loc>
     <lastmod>2025-06-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/loudspeakers/arendal_1528_monitor_8/</loc>

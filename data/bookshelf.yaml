@@ -48,14 +48,14 @@
 
 
 # ---------- 500TO1000 ----------
-- name: Arendal Sound 1961 Bookshelf
+- name: Emotiva XB2
   score: 8.8
-  price: 850
+  price: 449
   category: 500to1000
-  youtube: https://www.youtube.com/watch?v=WZ6Fyob1Phg
-  video_id: WZ6Fyob1Phg
-  affiliate: https://tinyurl.com/erinarendal
-  blurb: "Slim design. Really good linearity, low distortion but needs a subwoofer. Somewhat narrow soundstage. Ideal for smaller home theater."
+  youtube: https://www.youtube.com/watch?v=HohLJHia1z0
+  video_id: HohLJHia1z0
+  affiliate: https://emotiva.com/products/airmotiv-xb2-bookshelf-loudspeakers?aff=14
+  blurb: "Really good linearity. Recommend toe-out by about 20°. Good bass extension but benefits from subwoofer."
 
 - name: Klipsch RP-600M II
   score: 9.2
@@ -210,8 +210,8 @@
   score: 9.4
   price: 3994
   category: 3000to5000
-  youtube: https://www.youtube.com/watch?v=DcYVu0TQtDs
-  video_id: DcYVu0TQtDs
+  youtube: https://www.youtube.com/watch?v=3YqGBDutoB8
+  video_id: 3YqGBDutoB8
   affiliate: https://howl.link/y9i363cb070hb
   blurb: "This Master Edidtion version has a treble switch which offers preference-based tweeter level adjustments."
 
