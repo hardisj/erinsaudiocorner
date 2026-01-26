@@ -1,9 +1,9 @@
 ---
-title: "Edifier MR5 Desktop Speaker Review"
+title: "Edifier M60 Desktop Speaker Review"
 date: 2026-01-26
 draft: false
-image: "https://edifier-online.com/cdn/shop/files/Black-2_7469b03e-8b13-49d0-95e4-bfb0f7e6f220.png?v=1751430262&width=1780"
-description: "Edifier MR5 Review"
+image: "https://edifier-online.com/cdn/shop/files/1_09ae5a43-4279-426b-b6d6-e4b73bbcb53d.png?v=1729541153&width=1780"
+description: "Edifier M60 Review"
 Tags: ["Onkyo Creator Series GX-30ARC Review", "Edifier MR5", "Kanto ORA4 Speaker Review","Wharfedale Linton 85 Speaker", "PS Audio aspen FR30", "Klippel", "Review", "Speaker", "loudspeaker", "Aperion Audio Verus III", "uni-q", "Arendal 1528 Monitor 8 Bookshelf", "Q Acoustics In-Room Gold LCR review", "erin's audio corner"]
 ---
 
@@ -16,33 +16,34 @@ All my reviews are done on my own time with great care to give you all the best 
 
 If, after reading this review, you decide you'd like to buy this speaker then please consider using my affiliate link below. I earn a small commission from it at no additional cost to you:
 <br>
-[Amazon Purchase Link](https://amzn.to/45sE4VV)
+[Amazon Purchase Link](https://amzn.to/3M7OdAP)
 
 The review on this website is a brief overview and summary of the objective performance of this speaker.  It is not intended to be a deep dive.  Moreso, this is information for those who prefer "just the facts" and prefer to have the data without the filler. The video below has more discussion with respect to the technical merits and subjective notes I had during my listening sessions.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Y0pkLOaOcQ?si=4CYqeAYHuh_Z8e7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/27vZ-7l8ng8?si=SO5IbC918slLLaIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br>
 <br>
 <br>
 
-[Manufacturer Specs](https://amzn.to/45sE4VV):
-* Studio-Grade Sound: 3-way active crossover system with 5" long-throw woofer, 3.75" mid driver, and 1" silk dome tweeter for accurate, detailed audio reproduction (46Hz–40kHz frequency response).
-* Hi-Res Audio: Supports 24-bit/96kHz wired and wireless (LDAC) audio for crystal-clear, high-resolution sound.
-* Room Acoustic Tuning: Tailor the sound to your space using physical rear knobs for High/Low Frequeney adjustments or the EDIFIER ConneX App for advanced room compensation (Low Cut-Off, Desktop Control, and Acoustic Space presets).
-* Bluetooth 6.0 & Multi-Connectivity: Stable wireless streaming with multi-point connection, plus XLR, TRS, RCA, AUX inputs, and front-panel 3.5mm headphone output—seamlessly connect studio gear, instruments, or headphones for versatile use.
-* Powerful & Compact: 110W RMS Class D amplifier delivers 101dB peak SPL, ideal for near-field studio use or filling mid-sized rooms.
-* Pro-Grade Build: MDF cabinets reduce distortion and resonance; dimpled tweeter waveguide ensures consistent sound quality across a wider listening area.
-* Easy Setup & Control: Front-panel volume knob, headphone output, and app-based EQ customization for personalized sound.
+[Manufacturer Specs](https://amzn.to/3M7OdAP):
+* [Compact and Delicate Design] Measuring 100mm (W) x 168mm (H) x 147 mm (D) per speaker, with the similar width and height of an often-seen mobile, the M60 is suitable for any desktop setup style
+* [Powerful Output] The M60 has a total output power of 66W RMS, consisting of 18W+18W (mid-low) and15W+15W (treble), equipped with 1" silk dome tweeters and 3" long-throw aluminum diaphragm mid-low drivers, and features a high-efficiency closed-loop Class-D audio amplifier
+* [High-Quality Audio Processing] Experience high-resolution audio with M series speakers, featuring full digital processing, Class-D amplification, and Hi-Res Audio certification for both wired and wireless transmission, along with precise two-way active crossover and dynamic range control provided by a built-in DSP
+* [Multiple Inputs] The M60 offers versatile connectivity with Bluetooth V5.3 for wireless streaming, and both USB-C and AUX inputs for wired connections
+* [Bluetooth 5.3 Connectivitity] The Bluetooth V5.3 audio receiver supports the LDAC codec, offering a maximum transmission bitrate of up to 990 kbps, enabling the streaming of high-resolution audio up to 24-bit/96kHz from Android devices running version 8.0 or later
+* [User-Friendly Control] Enjoy intuitive control with a cap-sensitive touch panel, featuring an automatic backlight that activates as your hand approaches and turns off automatically. Download the EDIFIER ConneX mobile app for extended functions
+* [Aluminum Speaker Stands Bundled] The M60 comes with a pair of aluminum speaker stands, designed at a 15-degree angle, which reduce sound distortion by directing audio directly to ear level when placed on a desktop
 
 
 <br>
-As of this writing MSRP is $349/pair.
+As of this writing MSRP is $169/pair.
 <br>
 <br>
-
-<img align="left" src="https://edifier-online.com/cdn/shop/files/Black-3_ac11c345-8868-4cd1-8e3a-a5f1b0597ba6.png?v=1750910717&width=1500" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 <br>
@@ -86,7 +87,7 @@ Early Reflections Directivity Index (EPDI): is defined as the difference between
 </p>
   </details>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/8b5wj3fwiqlui3j5kvppa/CEA2034-Edifier-MR5.png?rlkey=ju8funq8zhky775p70u1tgn14&st=8vhtvaq6&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vtbgsxnh9hj5i51qn6rll/CEA2034-Edifier-M60.png?rlkey=w4q4hfidpn4b8ib5eo8yna7in&st=udfhan36&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -108,7 +109,7 @@ Side wall bounces: average of ± 40º, ± 50º, ± 60º, ± 70º, ± 80º horizo
 Rear wall bounces: average of 180º, ± 90º horizontal
 </p>
   </details>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/cz8f4k0yrp4giqi5kony2/Early-Reflections.png?rlkey=jfmd758c2yihzirewvvru6t9v&st=rj2j7kca&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/k8c4gmuuyt5gh4dox4vf8/Early-Reflections.png?rlkey=aukzltoewp1s5b0z4xbf7ztcu&st=baroc5pr&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <details>
@@ -121,17 +122,17 @@ In theory, with complete 360-degree anechoic data on a loudspeaker and sufficien
 For these limited circumstances it has been found that a usefully accurate Predicted In-Room (PIR) amplitude response, also known as a “room curve” is obtained by a weighted average consisting of 12 % listening window, 44 % early reflections and 44 % sound power. At very high frequencies errors can creep in because of excessive absorption, microphone directivity, and room geometry. These discrepancies are not considered to be of great importance.
 </p>
   </details>
-  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/wqx892k8rzb5jytgjyizp/Estimated-In-Room-Response.png?rlkey=bw7e4u95dpc100bd0a4qm7th3&st=7gwzb7ww&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+  <img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w9j1qmflonfnmsgfhhm0m/Estimated-In-Room-Response.png?rlkey=8849ujq6sd1bzz7v4z5nada9y&st=ph6sl67u&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
   <br>
 
 
 Horizontal Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sojucnqy5e96jk8l8xkfs/Edifier-MR5-Horizontal-Contour-Plot-Normalized.png?rlkey=u3u6lauiu26izg4la805rylhd&st=p2mwlzro&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ximabb5dj5hr6oik8gbkh/Edifier-M60-Horizontal-Contour-Plot-Normalized.png?rlkey=7j8lg181n4mckf3phjnpumcx8&st=lx3l049o&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 Vertical Contour Plot (normalized):
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/xy3hrs2k1m0nwin8nugb9/Edifier-MR5-Vertical-Contour-Plot-Normalized.png?rlkey=6nqz5bnwgbym42g90d8z3nofv&st=jqiqn18c&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/neriyolngbpuw6exmzojb/Edifier-M60-Vertical-Contour-Plot-Normalized.png?rlkey=ercdg0ppj03tdwch6piklmefx&st=n8fvkv2t&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 <br>
@@ -142,53 +143,48 @@ Vertical Contour Plot (normalized):
 ### Response Linearity
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/yevonbabkpggggxr5c4rr/Edifier-MR5-FR_Linearity.png?rlkey=rstr6i9bfaadt8toitjx5vsob&st=6bzcv5e3&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/e0vpy7bppgodxdzyn06jr/Edifier-M60-FR_Linearity.png?rlkey=r9vif1mlmmk2ojkk3meltkkjh&st=hjd4919n&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Horizontal Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bqftnbrq7mitxgcjoaxup/SPL-Horizontal.png?rlkey=b70dtxta5oww9q6ba61ss3me6&st=4zywx4xc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/w493uj7pb0p44m1f3pasj/SPL-Horizontal.png?rlkey=aogvhua38r0aahmsi48e5pnol&st=ad7089xf&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Vertical Frequency Response:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/jrquts1uw2y4e07mbe5gl/SPL-Vertical.png?rlkey=bbx3qtb9wvkpq097v3s8uqvwf&st=5un8ov84&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/1h15ynyc0fwds9mf6twvk/SPL-Vertical.png?rlkey=8ntrqega5opvj2farkld6g8re&st=hm6bvkqm&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 
 ### Step Response
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/whbl5ya1w7pnhuif05m9n/Edifier-MR5-Step-Response.png?rlkey=rjhkf4wadbaozinrdjc2fffsr&st=ftiwvo3o&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/v148sqc4wjn1xdvtj8m6m/Edifier-M60-Step-Response.png?rlkey=dalpzywe5wn7t2vmldqorf22h&st=c1ft1f47&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
 
 ### Group Delay
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/6gobthizx5rzm78djhtie/Edifier-MR5-Group-Delay.png?rlkey=skh6mcl3srt2ciihh72nyb53q&st=5ibfmbqu&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/dlwrcg530807393k8j9i7/Edifier-M60-Group-Delay.png?rlkey=9xk900tdb1fobufcohe3fgb3m&st=3kah71kc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 ### Burst Decay
 <br>
-This data is full anechoic where most spectral decay type graphics are created using quasi-anechoic data.  For more information on the differences between Burst Decay and Cumulative Spectral Decay (CSD) graphics please see Section 6.5 of the ARTA User Manual linked below.  I would like to extend a professional "thank you" to Ivo Mateljan for this software.
 
-[ARTA User Manual](https://artalabs.hr/download/ARTA-user-manual.pdf)
-
-<br>
-
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/52hx71m050tksxxop98zc/BD.png?rlkey=wxissl28x0cb8cisi5v7li2gr&st=mhy66juz&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+I was not conducting this test at the time I reviewed this speaker.
 
 <br>
 
 ### Harmonic Distortion
 
 Harmonic Distortion at 86dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/2vgst7zhig6rsxmv6gt38/Edifier-MR5-Harmonic-Distortion-86dB-1m.png?rlkey=ksfgka20q5ah8m9emd7uv679m&st=zumyupqc&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/sg6hpbwy6sldhgfbsrk4y/Edifier-M60-Harmonic-Distortion-86dB-1m.png?rlkey=8q7qz5c4u7yfnbx6t9u8hpx23&st=r9nj1ig8&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vrl6iiuxgea3kkynqokt0/Edifier-MR5-Harmonic-Distortion-96dB-1m.png?rlkey=7127gos9a3gzqiyf23v4i2mnr&st=f19whn16&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/p5aist1kfyk06bjjl7xof/Edifier-M60-Harmonic-Distortion-96dB-1m.png?rlkey=rfgc53emhk72tf9sy18kl8hja&st=7sgmp0ye&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 <br><br>
 
 
@@ -209,7 +205,7 @@ The tests are conducted in this fashion:
 The purpose of this test is to illustrate how much (if at all) the output changes as a speaker's components temperature increases (i.e., voice coils, crossover components) instantaneously.
 
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/zt5wkuu60khf41l6d2sji/Edifier-MR5_Compression.png?rlkey=7injhelz1zrwesaf6gpl8yu02&st=h16xv5lz&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/fo195e91cbwhjoeyn128t/Edifier-M60_Compression.png?rlkey=eq499r3i6g3gg7py4o6bh36ty&st=r8irtfzm&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 
 <br>
@@ -236,20 +232,20 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 1) Full bandwidth (20Hz to 20kHz)
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/q143pdi3oomepdjcpo9gs/mton-full.png?rlkey=6tjlhvcjbui4thcuxbbapmsos&st=0jj0d53d&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/9bxkuhpsrtyp0ab7b0rq7/mton-full.png?rlkey=kkkbphl6bojki0r1v5546j9sf&st=9mmowvux&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/bvu8ccunwo34y72zskoyw/Compression-of-Transfer-Function-H-f-full.png?rlkey=icb4kn6iaitmqtnkd91t9tdz3&st=fyfwlpdm&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/m4udmthrizxyfbbz0gwm6/Compression-of-Transfer-Function-H-f-full.png?rlkey=bre81ycp6geav5ste08402otu&st=g9nbgt4w&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
 2) 80Hz to 20kHz
 
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/m8h2y6kbyzggjfahzgjco/mton-80.png?rlkey=7nyodasf84fos35dfgw13obpe&st=ocizlmms&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/ppqev9eaozmxs9xee2snn/mton-80.png?rlkey=f7cbn21tn3yd4u49ity9b1li1&st=jswwahjk&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
-<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/vhjuzzgkp0930hzgn8smk/Compression-of-Transfer-Function-H-f-80.png?rlkey=hovu5ke868uo02ycd9l5ibzx4&st=fx8l0s3q&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/m7itjeiot1yq0yfzb8frx/Compression-of-Transfer-Function-H-f-80.png?rlkey=op8qxn9z8ifomgkw2ip2q51d8&st=b67xmhkb&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
 
 <br>
 
@@ -263,81 +259,81 @@ The reason for the two measurements is to simulate running the speaker full rang
 
 ## Parting / Random Thoughts
 
-<u>Edifier MR5 — Measurement-Based Review Summary</u>
+<u>Edifier M60 — Measurement-Based Review Summary</u>
 
-* I found the on-axis and listening window responses to be reasonably smooth through the midrange, but with more visible variability than some similarly sized competitors.
-* There is a noticeable amount of upper-midrange and treble structure, which can translate subjectively to a more forward or slightly uneven presentation depending on placement.
-* Off-axis response diverges more quickly than ideal, particularly above ~2–3 kHz, which impacts room interaction consistency.
+* I found the on-axis and listening window responses to be quite well controlled through the midrange, especially considering the compact enclosure and $169 price point.
+* Tonal balance from roughly 100 Hz through the treble is generally smooth, with only mild midrange and upper-frequency contouring.
+* Compared to larger budget monitors, this speaker shows fewer large broadband deviations in its intended nearfield use case.
 
 <br>
 
 <u>Bass Performance</u>
 
-* Low-frequency extension is respectable for the cabinet size, with usable output beginning around ~70–80 Hz.
-* I measured an F3 of approximately 51 Hz, though output below ~70 Hz is level-limited.
-* Bass performance is adequate for nearfield use, but benefits from a subwoofer if higher output or deeper extension is required.
+* Low-frequency extension is limited by the very small cabinet volume, with usable output beginning around ~80–90 Hz.
+* I measured an F3 of approximately 67 Hz, which is reasonable for a speaker of this size and category.
+* Bass output is clean but headroom-limited; pairing with a subwoofer is strongly recommended for full-range playback.
 
 <br>
 
 <u>Directivity & Radiation Behavior</u>
 
-* Horizontal dispersion narrows more noticeably through the upper midrange and treble compared to speakers with smoother waveguide transitions.
-* This narrowing contributes to stronger on-axis energy relative to early reflections.
-* Vertical directivity is also fairly tight, making listening height and tilt more critical for tonal consistency.
+* Horizontal dispersion is relatively smooth through the midrange, supporting stable imaging in close listening distances.
+* High-frequency directivity narrows above ~5–6 kHz, which reduces room interaction and helps maintain clarity in desktop environments.
+* Vertical dispersion is more constrained, so listener height and speaker tilt matter more than with larger designs.
 
 <br>
 
 <u>Estimated In-Room Response</u>
 
-* The estimated in-room response shows more midrange and treble contouring than ideal, with several peaks and dips across the band.
-* The 30° in-room estimate deviates more from on-axis than I would prefer, suggesting greater sensitivity to placement and room reflections.
-* Careful positioning and mild EQ can improve perceived balance.
+* The estimated in-room response shows a gentle downward tilt, aligning well with common preference targets for nearfield listening.
+* The 30° in-room estimate tracks on-axis fairly closely, suggesting predictable tonal balance within a typical desktop listening window.
+* This behavior reinforces the speaker’s suitability for nearfield rather than far-field use.
 
 <br>
 
 <u>Distortion Performance</u>
 
-* At 86 dB, harmonic distortion is generally controlled through the midrange, with expected increases in the bass.
-* Distortion rises more quickly than average as frequency decreases, indicating excursion limits at higher playback levels.
-* Upper-midrange and treble distortion remain moderate, but are not class-leading.
+* At 86 dB, harmonic distortion is well controlled through the midrange and treble.
+* Bass distortion rises quickly at lower frequencies, which is expected given the driver size and enclosure volume.
+* For moderate desktop listening levels, distortion performance is competitive within its price class.
 
 <br>
 
 <u>Compression & Output Limits</u>
 
-* Response linearity shows increasing compression as playback level rises, particularly through the midbass and midrange.
-* At higher drive levels, compression becomes clearly measurable and audible.
-* This speaker is best operated at moderate SPLs in nearfield applications.
+* Response linearity remains solid at moderate playback levels.
+* Compression increases noticeably as output approaches the speaker’s limits, particularly in the bass.
+* This speaker is clearly optimized for low-to-moderate SPL nearfield listening rather than high-output applications.
 
 <br>
 
 <u>Group Delay & Time-Domain Behavior</u>
 
-* Group delay is elevated at low frequencies, extending higher in frequency than ideal.
-* While not a dealbreaker for music playback, this behavior reinforces the speaker’s nearfield, moderate-level intent.
+* Group delay is elevated at low frequencies, extending into the upper bass.
+* This behavior is typical for small, ported desktop speakers and is unlikely to be problematic in music-focused nearfield use.
 
 <br>
 
 <u>Best Use Case</u>
 
-* Budget-conscious nearfield or desktop listening
-* Moderate SPL playback in small rooms
-* Users who prioritize output over strict neutrality
+* Desktop and nearfield listening at short distances
+* Budget-conscious users seeking balanced tonality in a compact form factor
+* Small rooms or workspaces where size and simplicity matter
 
 <br>
 
 <u>Key Tradeoffs</u>
 
-* Less consistent directivity compared to more refined designs
-* Higher compression at elevated playback levels
-* Greater sensitivity to placement and listening position
+* Limited bass extension and headroom
+* Vertical directivity requires careful placement
+* Not intended for loud playback or far-field listening without a subwoofer
 
 
 <br>
 
 If, after reading this review, you decide you'd like to buy this speaker then please consider using my affiliate link below. I earn a small commission from it at no additional cost to you:
 <br>
-[Amazon Purchase Link](https://amzn.to/45sE4VV)
+[Amazon Purchase Link](https://amzn.to/3M7OdAP)
 
 <br>
 <br>
