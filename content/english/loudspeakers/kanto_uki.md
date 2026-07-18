@@ -288,7 +288,7 @@ The UKI has an oddly tilted downward on-axis response. I suppose for some this c
 
 Based on the multitone distortion compression results, I'd ballpark the maxiumum SPL at about 87dB @ 1m for the single unit which is around 90-93dB for the pair (frequency dependent).
 
-Overall, this is a "no go" for me as far as recommendations go. It doesn't make me happy to be the bearer of bad news because I *always* hope the best for a product. If for no other reason than it gives the consumer more product options. My hope is Kanto may be able to offer some sort of firmware update to give users a more linear, accurate response profile. If you want to stay in the Kanto product line then I advise looking at the ORA4.
+Whilte it's not "awful", the frequency response's downward tilt make this a "no go" from me. While I have seen worse, the fact that other Kanto speakers display much better linearity - and the fact that this will likely be sat on a desk below the listener's ears and therefore sound more "dull" or "laid back" - make me think this could be a better product. It doesn't make me happy to be the bearer of bad news because I *always* hope the best for a product. If for no other reason than it gives the consumer more product options. My hope is Kanto may be able to offer some sort of firmware update to give users a more linear, accurate response profile. If you want to stay in the Kanto product line then I advise looking at the ORA4.
 
 Stepping outside of the Kanto family, I've had good luck with the following [Edifier M60 desktop speakers](https://www.erinsaudiocorner.com/loudspeakers/edifier_m60/) which are now about $199/pair.
 
