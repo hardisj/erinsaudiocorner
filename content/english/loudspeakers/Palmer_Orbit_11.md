@@ -288,9 +288,9 @@ Good SPL capability, maxing out around 95dB at 1 meter.
 
 The high frequency >16kHz shows a pretty big peak that is odd. My Klippel NFS microphone matches my Earthworks M23 microphone within 0.50dB which verified a couple weeks ago when another question came up. You can see this in the very last photo where the black line is my Earthworks M23 and the blue line is the Klippel NFS mic. IOW, I trust my data. It could be a unit variation but I didn't measure both so I can't say.
 
-The cardioid design does lend use in regards to the front wall reflections being lessened above about 250Hz. You can get an idea of this by looking at the simulated vs real SBIR response data that overalys the anechoic on-axis response vs front wall reflections of typical omnidirectional speaker and this particular speaker's directivity.
+The cardioid design does lend use in regards to the front wall reflections being lessened above about 250Hz.
 
-I saw discussion about noise. I didn't listen for it but I'll do that before I make the video. I can't say I noticed any, though, but I wasn't purposely listening for that.
+I saw discussion about noise. I didn't listen for it but I can't say I noticed any in my listening sessions. But again, I didn't listen specifically for that.
 
 Short term dynamic compression cuts the bass and treble but that's pretty typical with this stimulus (quick sine sweep). However, with typical musical content - shown via the multitone compression - the compression is limited to about 1dB above 30Hz, but much higher below 30Hz.
 
