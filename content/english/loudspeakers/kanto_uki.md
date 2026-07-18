@@ -286,7 +286,9 @@ I was impressed by the Kanto ORA4 which I reviewed earlier this year [(link)](ht
 
 The UKI has an oddly tilted downward on-axis response. I suppose for some this could be described as "laid back" or "mellow" or "soft" (which was how their owner described them). But I just prefer to call it "not linear". I spoke with Kanto about this at AXPONA 2026 and relayed my surprise of the clear tonal shift (pun intended) in this design vs their other designs. Notably the ORA4. It was confirmed that the response of the UKI is indeed as I heard it. In other words, no issues with the pair I was sent by their owner.
 
-Quite honestly, this alone is enough for me to stop the review in its tracks. It's a "no go" for me as far as recommendations go. It doesn't make me  happy to be the bearer of bad news because I *always* hope the best for a product. If for no other reason than it gives the consumer more product options. Unfortunately, until Kanto is able to revise this design and correct for the very odd on-axis response I simply advise you to keep looking. If you can fit the Kanto ORA4 on your desktop and afford the extra $180* then get that.
+Based on the multitone distortion compression results, I'd ballpark the maxiumum SPL at about 87dB @ 1m for the single unit which is around 90-93dB for the pair (frequency dependent).
+
+Overall, this is a "no go" for me as far as recommendations go. It doesn't make me happy to be the bearer of bad news because I *always* hope the best for a product. If for no other reason than it gives the consumer more product options. My hope is Kanto may be able to offer some sort of firmware update to give users a more linear, accurate response profile. If you want to stay in the Kanto product line then I advise looking at the ORA4.
 
 Stepping outside of the Kanto family, I've had good luck with the following [Edifier M60 desktop speakers](https://www.erinsaudiocorner.com/loudspeakers/edifier_m60/) which are now about $199/pair.
 
