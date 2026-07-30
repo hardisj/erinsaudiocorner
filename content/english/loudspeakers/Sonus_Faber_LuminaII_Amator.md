@@ -1,6 +1,6 @@
 ---
 title: "Sonus Faber Lumina II Amator Speaker Review"
-date: 2026-07-30
+date: 2026-07-29
 draft: false
 image: "https://images.crutchfieldonline.com/ImageHandler/trim/3000/1950/products/2025/31/968/g968L2AMRED-F.jpg"
 description: "Sonus Faber Lumina II Amator Speaker Review"
