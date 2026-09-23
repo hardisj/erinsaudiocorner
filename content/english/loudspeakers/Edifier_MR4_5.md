@@ -190,9 +190,8 @@ Harmonic Distortion at 86dB @ 1m:
 <br>
 
 Harmonic Distortion at 96dB @ 1m:
-
-Not available. I used the same voltage for the 86dB by pure accident and have already shipped the speakers out. Apologies.
-
+<img align="left" src="https://dl.dropboxusercontent.com/scl/fi/d62tykksjtuvrrxy6pyh2/Edifier-MR4.5-Harmonic-Distortion-96dB-1m.png?rlkey=7ibcdwerlxhlhjohng41z9hqo&st=qmg7b6og&dl=0" alt="specs" width="100%" style="vertical-align:middle;margin:20px 0px"/><br clear="all" />
+<br>
 
 
 <br>
