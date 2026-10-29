@@ -15,22 +15,59 @@
 
 
 
-				<div class="copyright text-center">
+
+<!-- Copyright and logo -->
+<div class="copyright text-center">
   <a href="{{ .Site.BaseURL | absLangURL }}">
-    <img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
+    <img src="{{ .Site.Params.logo | absURL }}"
+         alt="{{ .Site.Title }}" />
   </a>
   <br>
-  <p>{{ i18n "copyright" | markdownify }}</p>
+
+  <p>
+    &copy; {{ now.Year }} Erin's Audio Corner.
+    All rights reserved.
+  </p>
+</div>
+
+<!-- Measurement data protection -->
+<div class="text-center"
+     style="font-size: 0.8rem; color: #ffffff; margin-top: 1rem;">
+
+  <p>
+    Original reviews, measurement graphics, and other
+    protected content may not be reproduced or commercially
+    redistributed without permission, except as permitted by law.
+  </p>
+
+  <p>
+    <a href="{{ "measurement-data-policy/" | relURL }}"
+       style="color: #aebcff; text-decoration: underline;">
+      Measurement Data Usage Policy
+    </a>
+  </p>
+
 </div>
 
 <!-- Affiliate and legal notice -->
-<div class="affiliate-disclaimer text-center" style="font-size: 0.8rem; color: #ffffff; margin-top: 1rem;">
+<div class="affiliate-disclaimer text-center"
+     style="font-size: 0.8rem; color: #ffffff; margin-top: 1rem;">
+
   <p>
-    This page contains affiliate links. If you purchase something through one of these links, I may earn a small commission at no additional cost to you. Thanks for supporting the work I do!
-    <br>
-    &copy; 2025 Erin's Audio Corner. All rights reserved. All trademarks and product names are the property of their respective owners. Reviews and opinions expressed here are solely my own.
+    This page contains affiliate links. If you purchase
+    something through one of these links, I may earn
+    a small commission at no additional cost to you.
+    Thanks for supporting the work I do!
   </p>
+
+  <p>
+    All trademarks and product names are the property
+    of their respective owners. Reviews and opinions
+    expressed here are solely my own.
+  </p>
+
 </div>
+
 
 			</div>
 		</div>

@@ -133,3 +133,8 @@ weight = 6
 name = "Contact"
 URL = "contact"
 weight = 7
+
+[[menu.main]]
+name = "Data Policy"
+URL = "/measurement-data-policy/"
+weight = 8
